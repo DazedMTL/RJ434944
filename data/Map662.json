@@ -1,0 +1,2587 @@
+{
+    "autoplayBgm": false,
+    "autoplayBgs": false,
+    "battleback1Name": "FaceTile",
+    "battleback2Name": "Room2",
+    "bgm": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 100
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 80
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 13,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "",
+    "parallaxShow": false,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": true,
+    "tilesetId": 9,
+    "width": 14,
+    "data": [
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        7459,
+        7457,
+        7457,
+        7457,
+        7457,
+        7457,
+        7447,
+        7457,
+        7457,
+        7457,
+        7457,
+        7461,
+        1536,
+        1536,
+        7456,
+        7810,
+        7810,
+        7810,
+        7810,
+        7810,
+        7456,
+        7810,
+        7810,
+        7810,
+        7814,
+        7456,
+        1536,
+        1536,
+        7456,
+        7816,
+        7816,
+        7816,
+        7816,
+        7816,
+        7456,
+        7816,
+        7816,
+        7816,
+        7816,
+        7456,
+        1536,
+        1536,
+        7456,
+        1587,
+        1587,
+        1587,
+        1587,
+        1587,
+        7456,
+        1574,
+        1574,
+        1574,
+        1574,
+        7456,
+        1536,
+        1536,
+        7456,
+        2946,
+        2932,
+        2932,
+        2948,
+        1587,
+        7468,
+        1574,
+        1574,
+        1574,
+        1574,
+        7456,
+        1536,
+        1536,
+        7456,
+        2928,
+        2912,
+        2912,
+        2936,
+        1587,
+        7815,
+        1574,
+        1574,
+        1574,
+        1574,
+        7456,
+        1536,
+        1536,
+        7456,
+        2928,
+        2912,
+        2912,
+        2936,
+        1587,
+        7821,
+        1574,
+        1574,
+        1574,
+        1574,
+        7456,
+        1536,
+        1536,
+        7456,
+        2952,
+        2940,
+        2940,
+        2950,
+        1587,
+        1574,
+        1574,
+        1574,
+        1574,
+        1574,
+        7456,
+        1536,
+        1536,
+        7456,
+        1587,
+        1587,
+        1587,
+        1587,
+        7459,
+        7457,
+        7457,
+        7457,
+        7457,
+        7457,
+        7463,
+        1536,
+        1536,
+        7456,
+        1587,
+        1587,
+        1587,
+        1587,
+        7456,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        7465,
+        7457,
+        7469,
+        1587,
+        7467,
+        7463,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        1536,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3186,
+        3188,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3192,
+        3190,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        17,
+        128,
+        129,
+        130,
+        0,
+        0,
+        0,
+        16,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        25,
+        136,
+        137,
+        138,
+        69,
+        0,
+        392,
+        24,
+        0,
+        52,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        77,
+        0,
+        112,
+        115,
+        113,
+        60,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        200,
+        0,
+        0,
+        0,
+        0,
+        104,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        242,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        232,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        240,
+        233,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        209,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        370,
+        0,
+        0,
+        104,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        104,
+        0,
+        0,
+        104,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        201,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "events": [
+        null,
+        {
+            "id": 1,
+            "name": "EV001",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": true,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!Flame",
+                        "direction": 8,
+                        "pattern": 2,
+                        "characterIndex": 3
+                    },
+                    "list": [
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                16
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 4,
+            "y": 3
+        },
+        {
+            "id": 2,
+            "name": "EV002",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "MV_Actor_2",
+                        "direction": 8,
+                        "pattern": 0,
+                        "characterIndex": 3
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "子持ちのおかあさん"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "だんだん子供の言うことが分からなくなってきたわ…。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "これが、子離れってやつなのね…。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\!…それとも、うちの子が天才なのかしら。"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 9,
+            "y": 5
+        },
+        {
+            "id": 3,
+            "name": "EV003",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "People_kizz3",
+                        "direction": 6,
+                        "pattern": 2,
+                        "characterIndex": 5
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "やる気な女の子"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "『魔法使い』を目指すのはやめたの！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\!代わりに『流通業』を立ち上げて資源を豊かにして"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "『コーダイン』をもっと立派な国にするの！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\!ねっ！えらいでしょ！！"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 2,
+            "y": 7
+        },
+        {
+            "id": 4,
+            "name": "EV004",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!Flame",
+                        "direction": 8,
+                        "pattern": 0,
+                        "characterIndex": 0
+                    },
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "indent": null,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": false,
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ]
+                }
+            ],
+            "x": 7,
+            "y": 6
+        },
+        {
+            "id": 5,
+            "name": "EV005",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!Flame",
+                        "direction": 8,
+                        "pattern": 0,
+                        "characterIndex": 0
+                    },
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "indent": null,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": false,
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ]
+                }
+            ],
+            "x": 10,
+            "y": 2
+        },
+        {
+            "id": 6,
+            "name": "EV006",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!Flame",
+                        "direction": 8,
+                        "pattern": 0,
+                        "characterIndex": 0
+                    },
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "indent": null,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": false,
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ]
+                }
+            ],
+            "x": 6,
+            "y": 2
+        },
+        {
+            "id": 7,
+            "name": "EV007",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "MV_Actor_1",
+                        "direction": 4,
+                        "pattern": 2,
+                        "characterIndex": 4
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "子持ちのお父さん"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ふむ…ユリシーン姫の支持率80％越え…。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "やっぱ、カリスマ性あるもんなぁ…。"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 5,
+            "y": 6
+        },
+        {
+            "id": 8,
+            "name": "EV008",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "Move1",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                597,
+                                20,
+                                13,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": true
+                }
+            ],
+            "x": 4,
+            "y": 11
+        },
+        {
+            "id": 9,
+            "name": "EV009",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 326,
+                        "characterName": "",
+                        "characterIndex": 0,
+                        "direction": 2,
+                        "pattern": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 4,
+            "y": 6
+        },
+        {
+            "id": 10,
+            "name": "◆すこしキラキラ",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 2
+                    },
+                    "list": [
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                248
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 4,
+                    "walkAnime": true
+                }
+            ],
+            "x": 1,
+            "y": 10
+        },
+        {
+            "id": 11,
+            "name": "■採取ポイント",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": true,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!Flame_mv",
+                        "direction": 2,
+                        "pattern": 0,
+                        "characterIndex": 7
+                    },
+                    "list": [
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "Coin",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 126,
+                            "indent": 0,
+                            "parameters": [
+                                32,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[395]プリズムハーブを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": [
+                                "A",
+                                0
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[384]キュアライフαを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[384]キュアライフβを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[384]キュアライフγを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[384]キュアライフΩを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[385]マジカルケアαを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[385]マジカルケアβを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[385]マジカルケアγを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[385]マジカルケアΩを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[386]ユリチャージαを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[386]ユリチャージβを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[386]ユリチャージγを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[386]ユリチャージΩを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[388]ケアキュアαを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[388]ケアキュアβを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[389]キュアミストαを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[389]キュアミストβを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[409]輪廻の砂時計を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[410]ホーリークロスΩを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[393]どくけし草を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[395]プリズムハーブを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[445]すっごい裁縫セットを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "回復アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[414]天使のつのぶえを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "換金アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[476]レアアースの欠片を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "換金アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[475]レアアースの大欠片を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "換金アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[479]レアアースの塊を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "換金アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[477]レアアースの原盤を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "成長アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[396]攻撃力の薬草を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "成長アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[397]魔法力の薬草を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "成長アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[398]耐久力の薬草を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "成長アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[399]精神力の薬草を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "換金アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[498]スライムの粘液を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "換金アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[531]割れたつぼを手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "換金アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[543]そまつな棍棒を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "換金アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[497]あぶない劇毒を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "換金アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[513]世界の真実を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "換金アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[564]なぞの端末を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "換金アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[566]金の使われたペン？を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "換金アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[515]あの子の合鍵を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "換金アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[]を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "換金アイテム"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 0,
+                            "parameters": [
+                                "\\i[]を手に入れた！\\$"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": true,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 10,
+            "y": 8
+        }
+    ]
+}
