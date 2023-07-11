@@ -46,7 +46,7 @@
         "maxLevel": 99,
         "name": "Laura",
         "nickname": "",
-        "note": "<stand_picture:laura_menu2><特徴1:高水準な攻撃力、素早さが特徴。><特徴2:戦況に応じて柔軟な立ち回りが可能。\n>\n<攻撃封印スイッチ:322>   # ID[322]のスイッチがONのとき攻撃を封印\n<スキルタイプ2封印スイッチ:323> # スイッチ[323]がONならスキルタイプ[2](剣技)を封印\n<スキルタイプ6封印スイッチ:324> # スイッチ[324]がONならスキルタイプ[6](奥義)を封印\n<防御封印スイッチ:325>   # ID[325]のスイッチがONのとき防御を封印\n<道具封印スイッチ:326>   # ID[326]のスイッチがONのときアイテムを封印\n\n<BFC_座標:790,360>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:laura_menu2><特徴1:Characterized by high attack power and speed.><特徴2:It's possible to adapt flexibly depending on the situation in battle.\n>\n<攻撃封印スイッチ:322>   # ID[322]のスイッチがONのとき攻撃を封印\n<スキルタイプ2封印スイッチ:323> # スイッチ[323]がONならスキルタイプ[2](剣技)を封印\n<スキルタイプ6封印スイッチ:324> # スイッチ[324]がONならスキルタイプ[6](奥義)を封印\n<防御封印スイッチ:325>   # ID[325]のスイッチがONのとき防御を封印\n<道具封印スイッチ:326>   # ID[326]のスイッチがONのときアイテムを封印\n\n<BFC_座標:790,360>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "A cheerful and lively girl from Hatayaki Village. She is a sensitive and\ninnocent maiden who is deeply in love with Lunaroa."
     },
     {
@@ -135,7 +135,7 @@
         "maxLevel": 99,
         "name": "Lunaroa",
         "nickname": "",
-        "note": "<stand_picture:lunaroa_menu><特徴1:膨大な魔力が特徴。><特徴2:大体のことはなんでもできる。\n>\n<攻撃封印スイッチ:327>   # ID[327]のスイッチがONのとき攻撃を封印\n<スキルタイプ1封印スイッチ:328> # スイッチ[323]がONならスキルタイプ[1](魔法)を封印\n<スキルタイプ6封印スイッチ:329> # スイッチ[324]がONならスキルタイプ[6](奥義)を封印\n<防御封印スイッチ:325>   # ID[330]のスイッチがONのとき防御を封印\n<道具封印スイッチ:326>   # ID[331]のスイッチがONのときアイテムを封印\n\n<BFC_座標:920,410>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:lunaroa_menu><特徴1:Characterized by immense magical power.><特徴2:I can do most things.\n>\n<攻撃封印スイッチ:327>   # ID[327]のスイッチがONのとき攻撃を封印\n<スキルタイプ1封印スイッチ:328> # スイッチ[323]がONならスキルタイプ[1](魔法)を封印\n<スキルタイプ6封印スイッチ:329> # スイッチ[324]がONならスキルタイプ[6](奥義)を封印\n<防御封印スイッチ:325>   # ID[330]のスイッチがONのとき防御を封印\n<道具封印スイッチ:326>   # ID[331]のスイッチがONのときアイテムを封印\n\n<BFC_座標:920,410>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "Hailing from Hatayaki Village. Entered the Magic Academy as a \"scholarship\nstudent\". Tends to go out of control when it comes to Laura."
     },
     {
@@ -214,7 +214,7 @@
         "maxLevel": 99,
         "name": "Vita",
         "nickname": "",
-        "note": "<stand_picture:vita_menu><特徴1:武器やスキルにより『通常攻撃』を強化可能。火力、耐久面に優れる。><特徴2:素早さが低いため、補助を受けやすく後攻サポートも可能。\n>\n\n<BFC_座標:700,450>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:vita_menu><特徴1:It is possible to enhance \"normal attacks\" with weapons and skills. Superior in\nterms of firepower and durability.><特徴2:Due to low agility, it's easy to receive support and possible to provide support\nlater in the turn.\n>\n\n<BFC_座標:700,450>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "A futanari girl from a small village. She has a strong sexual desire.\nSurprisingly, she has a quick wit and is good at mathematics."
     },
     {
@@ -313,7 +313,7 @@
         "maxLevel": 99,
         "name": "Vega",
         "nickname": "",
-        "note": "<stand_picture:vega_menu><特徴1:高い素早さからの銃撃、魔法、補助を得意とする。><特徴2:攻守ともに優れる万能サポーター。\n>\n<equipSlotEx:1 10 3 4 5>\n\n<BFC_座標:890,510>   # 隊列座標をX座標を[890]に、Y座標を[510]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:vega_menu><特徴1:Specializes in gun attacks, magic, and support from high agility.><特徴2:A versatile supporter who excels in both offense and defense.\n>\n<equipSlotEx:1 10 3 4 5>\n\n<BFC_座標:890,510>   # 隊列座標をX座標を[890]に、Y座標を[510]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "The daughter of the prestigious Rira family. She has a strong ambition for\nsuccess and hates losing. On the other hand, she has high leadership and\nobservational skills and is caring."
     },
     {
@@ -462,7 +462,7 @@
         "maxLevel": 99,
         "name": "Part 2 Laura",
         "nickname": "",
-        "note": "<stand_picture:laura2_menu><特徴1:高い素早さと『二刀流』による高火力が特徴。><特徴2:『剣技』でＳＰを回収し、『奥義』を連発する立ち回りが強力。\n>\n\n<BFC_座標:790,360>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:laura2_menu><特徴1:Characterized by high speed and high firepower due to \"dual wielding\".><特徴2:『The strategy of recovering SP with \"Sword Skills\" and repeatedly using \"Secret\nTechniques\" is powerful.\n>\n\n<BFC_座標:790,360>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "A dual-wielding swordswoman who wields the swords Tsukihana and Reika. A\nsensitive and pure-hearted maiden who yearns for Lunaroa."
     },
     {
@@ -665,7 +665,7 @@
         "maxLevel": 99,
         "name": "Ryan",
         "nickname": "",
-        "note": "<stand_picture:ryan_menu><特徴1:最強剣士を目指して絶賛修行中。><特徴2:彼の勇気が世界を救うと信じて…！\n>\n\n<BFC_座標:700,450>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:ryan_menu><特徴1:Currently training hard to become the strongest swordsman.><特徴2:Believe that their courage will save the world...!\n>\n\n<BFC_座標:700,450>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "『Hatayaki Village』A surviving boy. He has a complicated relationship with his\nchildhood friend, Rebecca."
     },
     {
@@ -769,7 +769,7 @@
         "maxLevel": 99,
         "name": "Rebecca",
         "nickname": "",
-        "note": "<stand_picture:rebecca_menu><特徴1:最強魔法使いに憧れる『おませガール』><特徴2:いつか私にひれ伏す事になるんだからね…！\n>\n\n<BFC_座標:890,510>   # 隊列座標をX座標を[890]に、Y座標を[510]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:rebecca_menu><特徴1:\"A precocious girl who admires the strongest magician\"><特徴2:Someday you'll end up bowing down to me...!\n>\n\n<BFC_座標:890,510>   # 隊列座標をX座標を[890]に、Y座標を[510]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "Surviving girl from the village of Hatayaki. She has feelings for her childhood\nfriend, Ryan."
     },
     {
@@ -883,8 +883,8 @@
         "maxLevel": 99,
         "name": "Melissa",
         "nickname": "",
-        "note": "<stand_picture:melissa_menu><特徴1:生まれ持った格闘センスを持っている。><特徴2:槍術による物理攻撃が得意。\n>\n\n<BFC_座標:730,480>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
-        "profile": "Surviving girl from the village of Hatayaki. She is able to communicate with\nthe only girl, Lunaroa, who has aphasia."
+        "note": "<stand_picture:melissa_menu><特徴1:They possess a natural sense for hand-to-hand combat.><特徴2:Skilled in physical attacks using spear techniques.\n>\n\n<BFC_座標:730,480>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "profile": "Surviving girl from the village of Hatayaki. She is able to communicate with the\nonly girl, Lunaroa, who has aphasia."
     },
     {
         "id": 10,
@@ -987,7 +987,7 @@
         "maxLevel": 99,
         "name": "Ronoa",
         "nickname": "",
-        "note": "<stand_picture:ronoa_menu><特徴1:なんとなく魔法が使えちゃった女の子。><特徴2:初歩的な水魔法による回復と攻撃が出来ちゃう。\n>\n\n<BFC_座標:920,430>   # 隊列座標をX座標を[890]に、Y座標を[510]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:ronoa_menu><特徴1:A girl who somehow ended up being able to use magic.><特徴2:I can heal and attack with basic water magic.\n>\n\n<BFC_座標:920,430>   # 隊列座標をX座標を[890]に、Y座標を[510]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "Surviving girl from the village of Hatayaki. She can't speak, but according to\nMelissa, she's quite sharp-tongued."
     },
     {
@@ -1101,7 +1101,7 @@
         "maxLevel": 99,
         "name": "Aisha",
         "nickname": "",
-        "note": "<stand_picture:aisha_menu><特徴1:攻撃と回復サポートを両立したバランスアタッカー。><特徴2:使いやすい技が多く、臨機応変に立ちまわることが出来る。\n>\n\n<BFC_座標:790,510>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:aisha_menu><特徴1:A balanced attacker who combines both attack and healing support.><特徴2:There are many easy-to-use techniques, allowing for flexible maneuvering.\n>\n\n<BFC_座標:790,510>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "Hometown is Hajikko Village. Vita's childhood friend. Has a slightly unique\nsense of naming."
     },
     {
@@ -1195,7 +1195,7 @@
         "maxLevel": 99,
         "name": "Cat",
         "nickname": "",
-        "note": "<stand_picture:cat_menu><特徴1:ワタクシに期待なんてしないでください！><特徴2:特製アイテムにより、パーティの補助が出来る。\n>\n\n<BFC_座標:920,410>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:cat_menu><特徴1:Please don't expect anything from me!><特徴2:With the special item, you can support the party.\n>\n\n<BFC_座標:920,410>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "A mysterious and excessively cheerful woman. She has a wide network of\ninformation, but prefers a lifestyle like that of a wanderer."
     },
     {
@@ -1294,7 +1294,7 @@
         "maxLevel": 99,
         "name": "Hidari",
         "nickname": "",
-        "note": "<stand_picture:hidaly_menu><特徴1:高い耐久性により、パーティの盾になれる。><特徴2:みんなの安全を守る頼れる門番さん。\n>\n\n<BFC_座標:730,550>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上\n",
+        "note": "<stand_picture:hidaly_menu><特徴1:Can become the shield of the party due to high durability.><特徴2:A reliable gatekeeper who protects everyone's safety.\n>\n\n<BFC_座標:730,550>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上\n",
         "profile": "The gatekeeper who guards the \"left\" at the \"Yuriseen Castle Gate\". They have\nfewer words than \"Migii\", but they have keen observation skills."
     },
     {
@@ -1393,7 +1393,7 @@
         "maxLevel": 99,
         "name": "Migii",
         "nickname": "",
-        "note": "<stand_picture:mighy_menu><特徴1:堅実な物理攻撃、回復魔法が得意。><特徴2:みんなの安全を守る頼れる門番さん。\n>\n\n<BFC_座標:920,480>   # 隊列座標をX座標を[890]に、Y座標を[510]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:mighy_menu><特徴1:Skilled in solid physical attacks and healing magic.><特徴2:A reliable gatekeeper who protects everyone's safety.\n>\n\n<BFC_座標:920,480>   # 隊列座標をX座標を[890]に、Y座標を[510]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "The gatekeeper who guards the \"Right\" at the \"Yuriseen Castle Gate\". She may be\nmore laid-back than \"Hidarii\", but she has a playful side."
     },
     {
@@ -1507,7 +1507,7 @@
         "maxLevel": 99,
         "name": "Lunaroa Academy",
         "nickname": "",
-        "note": "<stand_picture:lunaroa_menu><特徴1:膨大な魔力が特徴。><特徴2:大体のことはなんでもできる。\n>\n\n<BFC_座標:790,360>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:lunaroa_menu><特徴1:Characterized by immense magical power.><特徴2:I can do most things.\n>\n\n<BFC_座標:790,360>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "Hailing from Hatayaki Village. Entered the Magic Academy as a scholarship\nstudent. Tends to go out of control when it comes to Laura."
     },
     {
@@ -1671,7 +1671,7 @@
         "maxLevel": 99,
         "name": "School Vega",
         "nickname": "",
-        "note": "<stand_picture:vega_menu><特徴1:高い素早さからの魔法、補助を得意とする。><特徴2:攻守ともに優れる万能サポーター。\n>\n\n<BFC_座標:920,410>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:vega_menu><特徴1:Specializes in magic and support from high agility.><特徴2:A versatile supporter who excels in both offense and defense.\n>\n\n<BFC_座標:920,410>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "The daughter of the prestigious Rira family. She has a strong ambition for\nsuccess and dislikes losing. On the other hand, she has high leadership and\nobservational skills and is caring."
     },
     {
@@ -1780,7 +1780,7 @@
         "maxLevel": 99,
         "name": "San'i",
         "nickname": "",
-        "note": "<stand_picture:sani_menu><特徴1:威力を高めた土属性の魔法攻撃が強力。><特徴2:えっと、それだけです…。\n>\n\n<BFC_座標:700,450>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:sani_menu><特徴1:The enhanced earth attribute magic attack is powerful.><特徴2:Um, that's all...\n>\n\n<BFC_座標:700,450>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "Always in third place at the 'Magic Academy'... Is he actually not that great?\nHis uniform was bleached pure white by two geniuses."
     },
     {
@@ -1889,7 +1889,7 @@
         "maxLevel": 99,
         "name": "Yobanme",
         "nickname": "",
-        "note": "<stand_picture:yobanme_menu><特徴1:回復を中心とした風属性の魔法が得意。><特徴2:サポートに特化した運用に向いている。\n>\n\n<BFC_座標:890,510>   # 隊列座標をX座標を[890]に、Y座標を[510]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:yobanme_menu><特徴1:Specializes in wind attribute magic focused on recovery.><特徴2:It is suitable for operations specialized in support.\n>\n\n<BFC_座標:890,510>   # 隊列座標をX座標を[890]に、Y座標を[510]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "Steadily in 4th place at the 'Magic Academy', without panicking or causing a\ncommotion. To be honest, I'm considering breaking up with 'San-i'..."
     },
     {
@@ -2231,7 +2231,7 @@
         "maxLevel": 99,
         "name": "Part 2 Ryan",
         "nickname": "",
-        "note": "<stand_picture:ryan2_menu><特徴1:防御主体の『ユリシーン流』の見習い剣士。><特徴2:物理攻撃と回復をバランスよく持ち、パーティの安定性を高める。\n>\n\n<BFC_座標:660,380>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:ryan2_menu><特徴1:An apprentice swordsman of the \"Yurisine Style\", which is primarily defensive.><特徴2:Balances physical attacks and recovery, enhancing the stability of the party.\n>\n\n<BFC_座標:660,380>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "Currently striving to become a regular soldier in the Ulyssean army. Have a\nlong-standing relationship with childhood friend Rebecca."
     },
     {
@@ -2400,7 +2400,7 @@
         "maxLevel": 99,
         "name": "Part 2 Rebecca",
         "nickname": "",
-        "note": "<stand_picture:rebecca2_menu><特徴1:高い素早さから適当に雷魔法をぶっぱなすのが得意。><特徴2:火力補助や『ベガ』に弾丸装填により、火力サポートも可能。\n>\n\n<BFC_座標:830,445>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:rebecca2_menu><特徴1:They are good at randomly unleashing lightning magic due to their high agility.><特徴2:It's possible to provide firepower support by supplying ammunition to \"Vega\" and\nassisting with firepower.\n>\n\n<BFC_座標:830,445>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "Unleash Vega's Thunder Magic: 'Mischievous Girl' I have feelings for my\nchildhood friend, Ryan."
     },
     {
@@ -2519,7 +2519,7 @@
         "maxLevel": 99,
         "name": "Part 2 Melissa",
         "nickname": "",
-        "note": "<stand_picture:melissa2_menu><特徴1:高水準なステータスにより状況を選ばない。><特徴2:火力貢献、サポート。多様な属性攻撃を得意とする。\n>\n\n<BFC_座標:730,550>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:melissa2_menu><特徴1:Due to high-level status, they don't need to choose their situations.><特徴2:Contributes firepower, support. Specializes in various attribute attacks.\n>\n\n<BFC_座標:730,550>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "A reliable person who takes pride in their strong physical strength. They are\nable to communicate with Lunaroa, who has aphasia, the only one who can\nunderstand her."
     },
     {
@@ -2683,7 +2683,7 @@
         "maxLevel": 99,
         "name": "Part 2 Lunoa",
         "nickname": "",
-        "note": "<stand_picture:ronoa2_menu><特徴1:水魔法を中心とした回復、治癒が得意。><特徴2:貴重な全体回復も使用可能。\n>\n\n<BFC_座標:970,470>   # 隊列座標をX座標を[890]に、Y座標を[510]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:ronoa2_menu><特徴1:Specializes in healing and recovery, primarily through water magic.><特徴2:It's also possible to use a valuable full recovery.\n>\n\n<BFC_座標:970,470>   # 隊列座標をX座標を[890]に、Y座標を[510]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "A little kid who is skilled in water magic. Can't speak, but according to\nMelissa, she's quite sharp-tongued."
     },
     {
@@ -2767,7 +2767,7 @@
         "maxLevel": 99,
         "name": "Nikita",
         "nickname": "",
-        "note": "<stand_picture:nikita_menu><特徴1:優しい性格のため戦うことは出来ない。><特徴2:最近は新入りの『ベガちゃん』がお気に入り。\n>\n",
+        "note": "<stand_picture:nikita_menu><特徴1:Due to a gentle personality, they cannot fight.><特徴2:Recently, the newcomer \"Vega-chan\" has become my favorite.\n>\n",
         "profile": "Surviving woman from the village of Hatayaki. Very skilled in 'housework' and\n'nighttime activities' trained as a maid."
     },
     {
@@ -2871,7 +2871,7 @@
         "maxLevel": 99,
         "name": "Maid Cat",
         "nickname": "",
-        "note": "<stand_picture:cat_menu><特徴1:ワタクシに期待なんてしないでください！><特徴2:特製アイテムにより、パーティの補助が出来る。\n>\n\n<BFC_座標:920,410>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:cat_menu><特徴1:Please don't expect anything from me!><特徴2:With the special item, you can support the party.\n>\n\n<BFC_座標:920,410>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "A mysterious and excessively cheerful woman. She has a wide network of\ninformation, but prefers a lifestyle like that of a wanderer."
     },
     {
@@ -3030,7 +3030,7 @@
         "maxLevel": 99,
         "name": "Nagi",
         "nickname": "",
-        "note": "<stand_picture:nagi_menu><特徴1:高い素早さ、耐久を軸に安定した回復サポートが得意。><特徴2:戦闘経験がないので攻撃は苦手…。\n>\n\n<BFC_座標:950,430>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:nagi_menu><特徴1:Specializes in stable recovery support based on high speed and durability.><特徴2:I'm not good at attacking because I have no combat experience...\n>\n\n<BFC_座標:950,430>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "'Summoned as a \"witch\" three years ago. Real name is \"Naka Tamago Nagi\",\ncommonly known as \"Unagi-chan\".'"
     },
     {
@@ -3219,7 +3219,7 @@
         "maxLevel": 99,
         "name": "Alice",
         "nickname": "",
-        "note": "<stand_picture:AliceL_menu><特徴1:破滅的な破壊力で全てを蹂躙する。><特徴2:魔法を使うと敵がいなくなる。\n>\n\n<BFC_座標:880,495>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:AliceL_menu><特徴1:Destroy everything with devastating destructive power.><特徴2:When magic is used, the enemy disappears.\n>\n\n<BFC_座標:880,495>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "Summoned from a 'different dimension,' the 'Alice of Destruction.' She loves\nsweet things, cute things, and happy things."
     },
     {
@@ -3630,7 +3630,7 @@
         "maxLevel": 99,
         "name": "Ulyssean",
         "nickname": "",
-        "note": "<stand_picture:hidaly_menu><特徴1:高い耐久性により、パーティの盾になれる。><特徴2:みんなの安全を守る頼れる門番さん。\n>\n\n<BFC_座標:790,360>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:hidaly_menu><特徴1:Can become the shield of the party due to high durability.><特徴2:A reliable gatekeeper who protects everyone's safety.\n>\n\n<BFC_座標:790,360>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": ""
     },
     {
@@ -3724,7 +3724,7 @@
         "maxLevel": 99,
         "name": "Hoimiso",
         "nickname": "",
-        "note": "<stand_picture:hidaly_menu><特徴1:高い耐久性により、パーティの盾になれる。><特徴2:みんなの安全を守る頼れる門番さん。\n>\n\n<BFC_座標:920,410>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:hidaly_menu><特徴1:Due to high durability, they can become the shield of the party.><特徴2:A reliable gatekeeper who protects everyone's safety.\n>\n\n<BFC_座標:920,410>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": ""
     },
     {
@@ -3823,7 +3823,7 @@
         "maxLevel": 99,
         "name": "Tank",
         "nickname": "",
-        "note": "<stand_picture:hidaly_menu><特徴1:高い耐久性により、パーティの盾になれる。><特徴2:みんなの安全を守る頼れる門番さん。\n>\n\n<BFC_座標:700,450>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:hidaly_menu><特徴1:Due to high durability, they can become the shield of the party.><特徴2:A reliable gatekeeper who protects everyone's safety.\n>\n\n<BFC_座標:700,450>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": ""
     },
     {
@@ -3922,7 +3922,7 @@
         "maxLevel": 99,
         "name": "Singari",
         "nickname": "",
-        "note": "<stand_picture:hidaly_menu><特徴1:高い耐久性により、パーティの盾になれる。><特徴2:みんなの安全を守る頼れる門番さん。\n>\n\n<BFC_座標:890,510>   # 隊列座標をX座標を[890]に、Y座標を[510]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:hidaly_menu><特徴1:Can become the shield of the party due to high durability.><特徴2:A reliable gatekeeper who protects everyone's safety.\n>\n\n<BFC_座標:890,510>   # 隊列座標をX座標を[890]に、Y座標を[510]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": ""
     },
     {
@@ -4041,7 +4041,7 @@
         "maxLevel": 99,
         "name": "Part 2 Aisha",
         "nickname": "",
-        "note": "<stand_picture:aisha_menu><特徴1:攻撃と回復サポートを両立したバランスアタッカー。><特徴2:『友達』のおかげで、光属性の魔法が少し使えたりする。\n>\n\n<BFC_座標:770,530>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:aisha_menu><特徴1:A balanced attacker who combines both attack and healing support.><特徴2:『Thanks to \"friends\", I can use a bit of light attribute magic.\n>\n\n<BFC_座標:770,530>   # 隊列座標をX座標を[920]に、Y座標を[410]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "Hometown is Hajikko Village. Vita's childhood friend. Seems like they've become\nfriends with someone named \"Alice\"...?"
     },
     {
