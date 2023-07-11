@@ -114,7 +114,7 @@ Window_Base.prototype.contentsHeight = function () {
 
 Window_Base.prototype.resetFontSettings = function () {
     this.contents.fontFace = $gameSystem.mainFontFace();
-    this.contents.fontSize = $gameSystem.mainFontSize();
+    this.contents.fontSize = 24;
     this.resetTextColor();
 };
 

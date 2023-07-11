@@ -9141,7 +9141,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs a double ice attribute attack on a single enemy. Has a moderate chance\nto inflict the target with the status ailment \"Freeze",
+        "description": "Performs a double ice attribute attack on a single enemy. Has a moderate chance\nto inflict the target with the status ailment Freeze",
         "effects": [
             {
                 "code": 21,
@@ -9692,7 +9692,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase own number of actions to \"4 times\" for a duration of \"2 turns\".\nAdditionally, reduce MP consumption by \"50%\" and grant \"MP auto- recovery",
+        "description": "Increase own number of actions to \"4 times\" for a duration of \"2 turns\".\nAdditionally, reduce MP consumption by \"50%\" and grant MP auto- recovery",
         "effects": [
             {
                 "code": 21,
@@ -10074,7 +10074,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase durability for 5 turns and become \"sturdy\". Additionally, increase\n\"targetability\" and grant \"automatic HP recovery",
+        "description": "Increase durability for 5 turns and become \"sturdy\". Additionally, increase\n\"targetability\" and grant automatic HP recovery",
         "effects": [
             {
                 "code": 21,
@@ -11149,7 +11149,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Inflicts fire attribute damage to all enemies. Has a high chance to inflict the\ntarget with the status ailment \"poison",
+        "description": " Inflicts fire attribute damage to all enemies. Has a high chance to inflict the\ntarget with the status ailment poison",
         "effects": [
             {
                 "code": 21,
@@ -28856,7 +28856,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Inflicts fire attribute damage to all enemies. Has a high chance to inflict the\ntarget with the status ailment \"poison",
+        "description": " Inflicts fire attribute damage to all enemies. Has a high chance to inflict the\ntarget with the status ailment poison",
         "effects": [],
         "hitType": 2,
         "iconIndex": 64,
@@ -34734,7 +34734,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Inflicts fire attribute damage to all enemies. Has a high chance to inflict the\ntarget with the status ailment \"poison",
+        "description": " Inflicts fire attribute damage to all enemies. Has a high chance to inflict the\ntarget with the status ailment poison",
         "effects": [
             {
                 "code": 21,
