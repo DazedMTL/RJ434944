@@ -37,7 +37,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Can teleport to Ulyssean. Does not disappear no matter how many times it is\nused.",
+        "description": "Can teleport to Ulyssean. Does not disappear no matter how many times it is used.",
         "effects": [
             {
                 "code": 44,
@@ -70,7 +70,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Can teleport to Ulyssean. It doesn't disappear no matter how many times you use\nit. Can't be used right now it seems.",
+        "description": "Can teleport to Ulyssean. It doesn't disappear no matter how many times you use it. Can't be used\nright now it seems.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 303,
@@ -96,7 +96,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It is possible to change the initial settings. It is not necessary for those who\ndo not use it.",
+        "description": "It is possible to change the initial settings. It is not necessary for those who do not use it.",
         "effects": [
             {
                 "code": 44,
@@ -129,7 +129,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A 'superb guy' who can shop anytime. Industrial revolution. Retail\nbankruptcies. No time to wait.",
+        "description": "A 'superb guy' who can shop anytime. Industrial revolution. Retail bankruptcies. No time to wait.",
         "effects": [
             {
                 "code": 44,
@@ -162,7 +162,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It may be possible to recover from unexpected \"bugs\" encountered. If recovery is\ndifficult, please contact @Piyo_595en for assistance.",
+        "description": "It may be possible to recover from unexpected \"bugs\" encountered. If recovery is difficult, please\ncontact @Piyo_595en for assistance.",
         "effects": [
             {
                 "code": 44,
@@ -254,7 +254,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Recover 25% of HP. Affordable product from Cure Company. Use it like\na band-aid.",
+        "description": "Recover 25% of HP. Affordable product from Cure Company. Use it like a band-aid.",
         "effects": [
             {
                 "code": 11,
@@ -287,7 +287,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restore '50%' of HP. A staple product of 'Cure Company'. Definitely\na must-have for your home.",
+        "description": "Restore '50%' of HP. A staple product of 'Cure Company'. Definitely a must-have for your home.",
         "effects": [
             {
                 "code": 11,
@@ -320,7 +320,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Recovers 75% of HP. A high-quality product from \"Cure Company\". A strong\nally for working adults in battle.",
+        "description": "Recovers 75% of HP. A high-quality product from \"Cure Company\". A strong ally for working adults in\nbattle.",
         "effects": [
             {
                 "code": 11,
@@ -353,7 +353,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restore 'HP' to '100%'. A special order from 'Cure Company'. It\nwon't let you sleep tonight.",
+        "description": "Restore 'HP' to '100%'. A special order from 'Cure Company'. It won't let you sleep tonight.",
         "effects": [
             {
                 "code": 11,
@@ -412,7 +412,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Recovers \"25%\" of MP. An affordable product from \"Care Company\". Made by\nrefining rare earth materials.",
+        "description": "Recovers \"25%\" of MP. An affordable product from \"Care Company\". Made by refining rare earth\nmaterials.",
         "effects": [
             {
                 "code": 12,
@@ -445,7 +445,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Translate: Recovers \"50%\" of MP. A staple product of \"Care Company\". Popular\namong students preparing for exams.",
+        "description": "Translate: Recovers \"50%\" of MP. A staple product of \"Care Company\". Popular among students\npreparing for exams.",
         "effects": [
             {
                 "code": 12,
@@ -478,7 +478,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Translate: Recovers \"75%\" of MP. A luxury item from \"Care Company\". Accelerates\nthe brain, beyond the limits...",
+        "description": "Translate: Recovers \"75%\" of MP. A luxury item from \"Care Company\". Accelerates the brain, beyond\nthe limits...",
         "effects": [
             {
                 "code": 12,
@@ -511,7 +511,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restore 'MP' to '100%'. A custom-made product from 'Care Company'.\nIt seems that there is no demand for it at this level.",
+        "description": "Restore 'MP' to '100%'. A custom-made product from 'Care Company'. It seems that there is no demand\nfor it at this level.",
         "effects": [
             {
                 "code": 12,
@@ -570,7 +570,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Translate: Recovers \"25%\" of SP. Produced by \"Yurisine\". The raw materials are\nunknown.",
+        "description": "Translate: Recovers \"25%\" of SP. Produced by \"Yurisine\". The raw materials are unknown.",
         "effects": [
             {
                 "code": 13,
@@ -603,7 +603,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Recovers 'SP' by '50%'. Produced in 'Yurisine'. There is a shortage\nof supply compared to demand.",
+        "description": "Recovers 'SP' by '50%'. Produced in 'Yurisine'. There is a shortage of supply compared to demand.",
         "effects": [
             {
                 "code": 13,
@@ -636,7 +636,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Recovers 75% of SP. Produced by 'Yurisine'. Manufacturing method\nundisclosed.",
+        "description": "Recovers 75% of SP. Produced by 'Yurisine'. Manufacturing method undisclosed.",
         "effects": [
             {
                 "code": 13,
@@ -669,7 +669,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fully restore 'SP' to '100%'. Produced in 'Yurisine'. It seems that\nthe manufacturing method must not be known...",
+        "description": "Fully restore 'SP' to '100%'. Produced in 'Yurisine'. It seems that the manufacturing method must\nnot be known...",
         "effects": [
             {
                 "code": 13,
@@ -728,7 +728,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Recovers half of HP and MP. A collaboration product between 'Care Company' and\n'Cure Company'. It's convenient, but it seems that sales of their own products\nhave dropped...",
+        "description": "Recovers half of HP and MP. A collaboration product between 'Care Company' and 'Cure Company'. It's\nconvenient, but it seems that sales of their own products have dropped...",
         "effects": [
             {
                 "code": 11,
@@ -767,7 +767,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An amazing item that completely restores HP and MP. A collaboration product\nbetween 'Care Company' and 'Cure Company'. After completion, both companies had\na falling out.",
+        "description": "An amazing item that completely restores HP and MP. A collaboration product between 'Care Company'\nand 'Cure Company'. After completion, both companies had a falling out.",
         "effects": [
             {
                 "code": 11,
@@ -832,7 +832,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Recovers 40% of 'HP' for 'all members'. Due to its high popularity, it is very\ndifficult to obtain.",
+        "description": "Recovers 40% of 'HP' for 'all members'. Due to its high popularity, it is very difficult to obtain.",
         "effects": [
             {
                 "code": 11,
@@ -865,7 +865,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restore 70% of the HP of all members. A sad deficit product that demanded too\nmuch quality. Currently, production is suspended.",
+        "description": "Restore 70% of the HP of all members. A sad deficit product that demanded too much quality.\nCurrently, production is suspended.",
         "effects": [
             {
                 "code": 11,
@@ -898,7 +898,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Heals a single ally from 'KO' status and fully restores their 'HP' and 'MP'.\nMany patients are unable to be used until the end due to being too valuable.",
+        "description": "Heals a single ally from 'KO' status and fully restores their 'HP' and 'MP'. Many patients are\nunable to be used until the end due to being too valuable.",
         "effects": [
             {
                 "code": 22,
@@ -943,7 +943,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Heal the entire party from \"KO\" status and fully restore their HP and MP. This\nis cheating...! It doesn't count... it doesn't count...!!",
+        "description": "Heal the entire party from \"KO\" status and fully restore their HP and MP. This is cheating...! It\ndoesn't count... it doesn't count...!!",
         "effects": [
             {
                 "code": 22,
@@ -988,7 +988,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Heals the 'poison' status ailment of a single ally. The local residents have\nknowledge of using wild herbs as a remedy. Sigh, how uncivilized...",
+        "description": "Heals the 'poison' status ailment of a single ally. The local residents have knowledge of using wild\nherbs as a remedy. Sigh, how uncivilized...",
         "effects": [
             {
                 "code": 22,
@@ -1027,7 +1027,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Heals all \"abnormal status\". Well, you know. If you have this, it's good. It's\ncommon sense in the \"Reiwa\" era.",
+        "description": " Heals all \"abnormal status\". Well, you know. If you have this, it's good. It's common sense in the\n\"Reiwa\" era.",
         "effects": [
             {
                 "code": 22,
@@ -1114,7 +1114,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A sewing box that fixes the \"oops\" state. A must-have for girls. ...Not really\nnecessary? Y-yes...",
+        "description": "A sewing box that fixes the \"oops\" state. A must-have for girls. ...Not really necessary? Y-yes...",
         "effects": [
             {
                 "code": 22,
@@ -1153,7 +1153,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It can revive a single ally from \"KO\" status. It can be made from a 100-year-old\nseashell.",
+        "description": "It can revive a single ally from \"KO\" status. It can be made from a 100-year-old seashell.",
         "effects": [
             {
                 "code": 22,
@@ -1218,7 +1218,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Corn for livestock. Restores the HP of a single ally three times. It's tough to\neat...",
+        "description": "Corn for livestock. Restores the HP of a single ally three times. It's tough to eat...",
         "effects": [
             {
                 "code": 11,
@@ -1251,7 +1251,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A lunchbox made with love by Vita's mother. Completely restores the \"HP\" and\n\"MP\" of a single ally.",
+        "description": "A lunchbox made with love by Vita's mother. Completely restores the \"HP\" and \"MP\" of a single ally.",
         "effects": [
             {
                 "code": 11,
@@ -1427,7 +1427,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A teddy bear that has been raised together with Vita It is old, but well taken\ncare of.",
+        "description": "A teddy bear that has been raised together with Vita It is old, but well taken care of.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 210,
@@ -1518,7 +1518,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rare large creature meat. It is very delicious, but hunting is not recommended\ndue to its extreme ferocity.",
+        "description": "Rare large creature meat. It is very delicious, but hunting is not recommended due to its extreme\nferocity.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 259,
@@ -1544,7 +1544,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A lively river fish that inhabits upstream. Delicious when boiled, grilled, or\nsmoked.",
+        "description": "A lively river fish that inhabits upstream. Delicious when boiled, grilled, or smoked.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 260,
@@ -1570,7 +1570,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A splendid river fish that inhabits upstream. It is said to be delicious, and\noccasionally people come from the city to eat it.",
+        "description": "A splendid river fish that inhabits upstream. It is said to be delicious, and occasionally people\ncome from the city to eat it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 260,
@@ -1596,7 +1596,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A lively and splendid river fish that inhabits upstream. It's a huge fish that\nI've never seen before. This is amazing.",
+        "description": "A lively and splendid river fish that inhabits upstream. It's a huge fish that I've never seen\nbefore. This is amazing.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 260,
@@ -1622,7 +1622,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A mushroom that inhabits damp rocky areas. It is not poisonous and is very\ndelicious when cooked.",
+        "description": "A mushroom that inhabits damp rocky areas. It is not poisonous and is very delicious when cooked.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 261,
@@ -1648,7 +1648,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A herbal medicine that is effective for shoulder stiffness and lower back pain.\nA strong ally for hardworking fathers. It quickly heals various physical\ndiscomforts.",
+        "description": "A herbal medicine that is effective for shoulder stiffness and lower back pain. A strong ally for\nhardworking fathers. It quickly heals various physical discomforts.",
         "effects": [
             {
                 "code": 22,
@@ -1761,7 +1761,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A dream medicine that grows male genitalia on girls. The ecosystem of humanity\nwill be destroyed...!!",
+        "description": "A dream medicine that grows male genitalia on girls. The ecosystem of humanity will be\ndestroyed...!!",
         "effects": [],
         "hitType": 0,
         "iconIndex": 7,
@@ -1813,7 +1813,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A toilet cleaner that has been well received among the former Lila family maids.\nThe three-layer foam structure quickly removes dirt. Patent pending.",
+        "description": "A toilet cleaner that has been well received among the former Lila family maids. The three-layer\nfoam structure quickly removes dirt. Patent pending.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 177,
@@ -1839,7 +1839,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A ledger documenting Donyoku's misconduct. If made public, it could lead to a\nsentence of up to 30 years in prison.",
+        "description": "A ledger documenting Donyoku's misconduct. If made public, it could lead to a sentence of up to 30\nyears in prison.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 193,
@@ -2073,7 +2073,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the 'attack power' of a single ally by '1'. Even a journey of a\nthousand miles begins with a single step, and even dust can accumulate to form a\nmountain...?",
+        "description": "Increase the 'attack power' of a single ally by '1'. Even a journey of a thousand miles begins with\na single step, and even dust can accumulate to form a mountain...?",
         "effects": [
             {
                 "code": 42,
@@ -2106,7 +2106,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It increases the \"magic attack power\" of a single ally by 1. It seems that just\nby smelling it, one's intelligence improves.",
+        "description": "It increases the \"magic attack power\" of a single ally by 1. It seems that just by smelling it,\none's intelligence improves.",
         "effects": [
             {
                 "code": 42,
@@ -2139,7 +2139,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the 'HP' of a single ally by '20'. Protein can enhance its effect when\nadministered after a meal!",
+        "description": "Increase the 'HP' of a single ally by '20'. Protein can enhance its effect when administered after a\nmeal!",
         "effects": [
             {
                 "code": 42,
@@ -2172,7 +2172,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the \"MP\" of a single ally by 10. In the end, as long as you have the\nwillpower, you can survive in this world...!!",
+        "description": "Increase the \"MP\" of a single ally by 10. In the end, as long as you have the willpower, you can\nsurvive in this world...!!",
         "effects": [
             {
                 "code": 42,
@@ -2257,7 +2257,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Cracked fragments of crystals occasionally found underground. They can be \"sold\"\nat a decent price.",
+        "description": "Cracked fragments of crystals occasionally found underground. They can be \"sold\" at a decent price.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 476,
@@ -2283,7 +2283,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Large crystal fragments occasionally found underground. They can be \"sold\" for a\ndecent price.",
+        "description": "Large crystal fragments occasionally found underground. They can be \"sold\" for a decent price.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 475,
@@ -2309,7 +2309,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A large crystal-like mass occasionally found underground. It can be \"sold\" at a\nconsiderable price.",
+        "description": "A large crystal-like mass occasionally found underground. It can be \"sold\" at a considerable price.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 479,
@@ -2335,7 +2335,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It is a crystal that is occasionally produced from the ground. It can be \"sold\"\nat a very high price.",
+        "description": "It is a crystal that is occasionally produced from the ground. It can be \"sold\" at a very high\nprice.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 477,
@@ -2387,7 +2387,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Slimy mucus. It is commonly sold after removing its toxicity. It can be \"sold\"\nat a modest price.",
+        "description": "Slimy mucus. It is commonly sold after removing its toxicity. It can be \"sold\" at a modest price.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 498,
@@ -2413,7 +2413,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Damaged pot. Still usable! Cherish limited resources...!! It can be \"sold\" for a\ntrash-like price.",
+        "description": "Damaged pot. Still usable! Cherish limited resources...!! It can be \"sold\" for a trash-like price.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 531,
@@ -2439,7 +2439,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Monster's club. It's faster to take it from them than to make it, right? It can\nbe 'sold' at a token price.",
+        "description": "Monster's club. It's faster to take it from them than to make it, right? It can be 'sold' at a token\nprice.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 543,
@@ -2465,7 +2465,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Drinking it will cause death. It seems that specialists will now make medicine\nfrom it. It can be \"sold\" at a reasonable price.",
+        "description": "Drinking it will cause death. It seems that specialists will now make medicine from it. It can be\n\"sold\" at a reasonable price.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 497,
@@ -2491,7 +2491,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A gossip article full of fabrication. To those who were deceived, my\ncondolences... That being said, it can be \"sold\" at a decent price.",
+        "description": "A gossip article full of fabrication. To those who were deceived, my condolences... That being said,\nit can be \"sold\" at a decent price.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 513,
@@ -2517,7 +2517,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Smooth flat puzzle board. It is cold and fits well in the hand. It can be \"sold\"\nat a reasonable price.",
+        "description": "Smooth flat puzzle board. It is cold and fits well in the hand. It can be \"sold\" at a reasonable\nprice.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 564,
@@ -2543,7 +2543,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "We do not know, but customers often exchange them over there. They can be \"sold\"\nat a considerable price.",
+        "description": "We do not know, but customers often exchange them over there. They can be \"sold\" at a considerable\nprice.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 566,
@@ -2647,7 +2647,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A teddy bear that has been raised together with Vita It is old, but well taken\ncare of.",
+        "description": "A teddy bear that has been raised together with Vita It is old, but well taken care of.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 210,
@@ -2673,7 +2673,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Recipe for growing \"penis\" on girls' bodies in dreams. It can fundamentally\ndestroy the human ecosystem.",
+        "description": "Recipe for growing \"penis\" on girls' bodies in dreams. It can fundamentally destroy the human\necosystem.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 7,
@@ -2725,7 +2725,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A toilet cleaner that has been well received among former Lila household maids.\nThe three-layer foam structure quickly removes dirt. Patent pending.",
+        "description": "A toilet cleaner that has been well received among former Lila household maids. The three-layer foam\nstructure quickly removes dirt. Patent pending.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 177,
@@ -2751,7 +2751,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A ledger documenting Donyoku's misconduct. If made public, it could potentially\nlead to a 30-year prison sentence.",
+        "description": "A ledger documenting Donyoku's misconduct. If made public, it could potentially lead to a 30-year\nprison sentence.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 193,
@@ -2803,7 +2803,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Slimy mucus. It is commonly sold after removing its toxicity. It can be \"sold\"\nat a reasonable price.",
+        "description": "Slimy mucus. It is commonly sold after removing its toxicity. It can be \"sold\" at a reasonable\nprice.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1632,
@@ -2829,7 +2829,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Slimy mucus. It is commonly sold after removing its toxicity. It can be \"sold\"\nat a reasonable price.",
+        "description": "Slimy mucus. It is commonly sold after removing its toxicity. It can be \"sold\" at a reasonable\nprice.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1633,
@@ -2855,7 +2855,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A legendary hardware that brought about technological innovation. The author\nlikes \"Z〇Gear\".",
+        "description": "A legendary hardware that brought about technological innovation. The author likes \"Z〇Gear\".",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1634,
@@ -2881,7 +2881,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The body was black, but the hard was super strong. I liked \"Shadow Hearts 1 & 2\"\nand \"AN〇BIS\".",
+        "description": "The body was black, but the hard was super strong. I liked \"Shadow Hearts 1 & 2\" and \"AN〇BIS\".",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1635,
@@ -2907,7 +2907,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Slimy mucus. It is commonly sold after removing its toxicity. It can be \"sold\"\nat a reasonable price.",
+        "description": "Slimy mucus. It is commonly sold after removing its toxicity. It can be \"sold\" at a reasonable\nprice.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1636,
@@ -2933,7 +2933,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Slimy mucus. It is commonly sold after removing its toxicity. It can be \"sold\"\nat a reasonable price.",
+        "description": "Slimy mucus. It is commonly sold after removing its toxicity. It can be \"sold\" at a reasonable\nprice.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1637,
@@ -2959,7 +2959,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Slimy mucus. It is commonly sold after removing its toxicity. It can be \"sold\"\nat a modest price.",
+        "description": "Slimy mucus. It is commonly sold after removing its toxicity. It can be \"sold\" at a modest price.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1638,
@@ -3063,7 +3063,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of defeating the \"Queen Slime\". No matter whose help you borrow, an\nachievement is still an achievement.",
+        "description": "Proof of defeating the \"Queen Slime\". No matter whose help you borrow, an achievement is still an\nachievement.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3089,7 +3089,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of defeating the \"Workycat\". I may have grown a little by overcoming a\nformidable enemy.",
+        "description": "Proof of defeating the \"Workycat\". I may have grown a little by overcoming a formidable enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3141,7 +3141,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of defeating the \"Aqua Serpent\". Even the guild will be surprised. This\nmight earn some respect.",
+        "description": "Proof of defeating the \"Aqua Serpent\". Even the guild will be surprised. This might earn some\nrespect.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3167,7 +3167,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of defeating the \"Cave Lizard\". The sanctuary of wild animals was thus\nprotected.",
+        "description": "Proof of defeating the \"Cave Lizard\". The sanctuary of wild animals was thus protected.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3219,7 +3219,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of defeating the \"Platinum Swordsman\". However, \"Platinum\" is the weakest\namong the Four Heavenly Kings... Hehehe...",
+        "description": "Proof of defeating the \"Platinum Swordsman\". However, \"Platinum\" is the weakest among the Four\nHeavenly Kings... Hehehe...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3271,7 +3271,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of defeating the \"Slime Sorceress\". A woman who secretly mass-produced\nslimes. She was quite a nuisance.",
+        "description": "Proof of defeating the \"Slime Sorceress\". A woman who secretly mass-produced slimes. She was quite a\nnuisance.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3297,7 +3297,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of defeating the \"Guardian Chimera\". I smashed the masterpiece that\ngrandpa worked so hard to create...!!",
+        "description": "Proof of defeating the \"Guardian Chimera\". I smashed the masterpiece that grandpa worked so hard to\ncreate...!!",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3349,7 +3349,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof that we have overcome the \"Trial of Flames\". We are best friends, right?\nVega-chan☆彡",
+        "description": "Proof that we have overcome the \"Trial of Flames\". We are best friends, right? Vega-chan☆彡",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3375,7 +3375,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of overcoming the \"Trial of Ice\". If you ever break up with that woman,\nfeel free to reach out to me anytime.",
+        "description": "Proof of overcoming the \"Trial of Ice\". If you ever break up with that woman, feel free to reach out\nto me anytime.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3401,7 +3401,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of overcoming the \"Trial of the Wind\". I listened to your worries, but\nwhat you needed most was \"muscles\".",
+        "description": "Proof of overcoming the \"Trial of the Wind\". I listened to your worries, but what you needed most\nwas \"muscles\".",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3427,7 +3427,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of overcoming the \"Trial of the Earth\"...? I struggled so much! I think\nit's fine to clear it already...!!",
+        "description": "Proof of overcoming the \"Trial of the Earth\"...? I struggled so much! I think it's fine to clear it\nalready...!!",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3505,7 +3505,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of defeating the \"War Maiden\". She is a professional at recruiting forces\nfrom other countries. It was really annoying.",
+        "description": "Proof of defeating the \"War Maiden\". She is a professional at recruiting forces from other\ncountries. It was really annoying.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3531,7 +3531,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of defeating the \"Elite Angel\". She was tempting men by exposing her skin\nin the extremely cold snowy country. Hardworking.",
+        "description": "Proof of defeating the \"Elite Angel\". She was tempting men by exposing her skin in the extremely\ncold snowy country. Hardworking.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3583,7 +3583,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of being recognized by Princess Ulysseene. Starting with the white belt.\nIt seems like she is still hiding her power...",
+        "description": "Proof of being recognized by Princess Ulysseene. Starting with the white belt. It seems like she is\nstill hiding her power...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3609,7 +3609,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of being recognized by Princess Ulysseene. I've been promoted a little.\nThe princess is quite strong too...",
+        "description": "Proof of being recognized by Princess Ulysseene. I've been promoted a little. The princess is quite\nstrong too...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3635,7 +3635,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of being recognized by Princess Ulysseene... I've become considerably\nstronger. After battling with the \"Chairman,\" it seems like something has\nawakened within me.",
+        "description": "Proof of being recognized by Princess Ulysseene... I've become considerably stronger. After battling\nwith the \"Chairman,\" it seems like something has awakened within me.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3661,7 +3661,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is proof that I have been recognized by Princess Ulysseene. This is\namazing. To go this far, you must be quite a 'curious' person, huh...?",
+        "description": "This is proof that I have been recognized by Princess Ulysseene. This is amazing. To go this far,\nyou must be quite a 'curious' person, huh...?",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3687,7 +3687,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of being recognized by Princess Ulysseene. This is unbelievable. Why do\npeople always seek conflict...?",
+        "description": "Proof of being recognized by Princess Ulysseene. This is unbelievable. Why do people always seek\nconflict...?",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3713,7 +3713,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of defeating the \"Greatest Heroes\". Extra-dimensional villains. Those who\nwill destroy our world.",
+        "description": "Proof of defeating the \"Greatest Heroes\". Extra-dimensional villains. Those who will destroy our\nworld.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -3817,7 +3817,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Proof of defeating \"Lunaroa Lv99\". I still have a long way to go... Now, Laura\nand the others, let's go \"level up\"!",
+        "description": "Proof of defeating \"Lunaroa Lv99\". I still have a long way to go... Now, Laura and the others, let's\ngo \"level up\"!",
         "effects": [],
         "hitType": 0,
         "iconIndex": 317,
@@ -5339,7 +5339,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the drop rate of items and the acquisition rate of rewards in battles\nfor a while.",
+        "description": "Increase the drop rate of items and the acquisition rate of rewards in battles for a while.",
         "effects": [
             {
                 "code": 21,

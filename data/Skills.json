@@ -86,7 +86,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The following is a frame for skills that you want to display above the combat\nskills when opening the menu",
+        "description": "The following is a frame for skills that you want to display above the combat skills when opening\nthe menu",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
@@ -5860,7 +5860,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It boosts the user's fighting spirit and increases their attack power. It can be\nstacked up to two times",
+        "description": "It boosts the user's fighting spirit and increases their attack power. It can be stacked up to two\ntimes",
         "effects": [
             {
                 "code": 31,
@@ -6215,7 +6215,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Increases the defense and magic defense of all allies. Can be stacked up to 2\ntimes",
+        "description": " Increases the defense and magic defense of all allies. Can be stacked up to 2 times",
         "effects": [
             {
                 "code": 31,
@@ -6303,7 +6303,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Boosts the fighting spirit of all allies and increases their attack power. Can\nbe stacked up to 2 times",
+        "description": "Boosts the fighting spirit of all allies and increases their attack power. Can be stacked up to 2\ntimes",
         "effects": [
             {
                 "code": 31,
@@ -6738,7 +6738,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Boosts the fighting spirit of all allies and increases their attack power. Can\nbe stacked up to 2 times",
+        "description": "Boosts the fighting spirit of all allies and increases their attack power. Can be stacked up to 2\ntimes",
         "effects": [
             {
                 "code": 31,
@@ -7874,7 +7874,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs a physical slashing attack on a single enemy and increases \"attack\npower\" by one stage. There is a chance of triggering an \"additional attack",
+        "description": "Performs a physical slashing attack on a single enemy and increases \"attack power\" by one stage.\nThere is a chance of triggering an \"additional attack",
         "effects": [
             {
                 "code": 21,
@@ -7918,7 +7918,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals physical damage of slashing attribute to all enemies. After attacking,\nperforms a follow-up 'counterattack' with a group attack",
+        "description": " Deals physical damage of slashing attribute to all enemies. After attacking, performs a follow-up\n'counterattack' with a group attack",
         "effects": [
             {
                 "code": 21,
@@ -8031,7 +8031,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "A 3-hit slashing attack with low power that grants a higher amount of SP to a\nsingle enemy. There is a chance for an additional attack to occur",
+        "description": "A 3-hit slashing attack with low power that grants a higher amount of SP to a single enemy. There is\na chance for an additional attack to occur",
         "effects": [
             {
                 "code": 21,
@@ -8075,7 +8075,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts slashing physical damage to all enemies. Additionally, lowers the\ntarget's \"Agility\" by one stage",
+        "description": "Inflicts slashing physical damage to all enemies. Additionally, lowers the target's \"Agility\" by one\nstage",
         "effects": [
             {
                 "code": 21,
@@ -8119,7 +8119,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals piercing physical damage to a single enemy. There is a chance of\ntriggering an \"additional attack\".  I feel like I'm getting more accustomed to\nhandling weapons...!",
+        "description": " Deals piercing physical damage to a single enemy. There is a chance of triggering an \"additional\nattack\".  I feel like I'm getting more accustomed to handling weapons...!",
         "effects": [
             {
                 "code": 21,
@@ -8163,7 +8163,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Perform 6 random slashing attacks that cannot be targeted, and greatly recover\nSP. After the attack, activate \"Moonflower: Swift Flash\" and have a chance to\n\"follow-up\" with \"Zero Flower: Mist Flash",
+        "description": "Perform 6 random slashing attacks that cannot be targeted, and greatly recover SP. After the attack,\nactivate \"Moonflower: Swift Flash\" and have a chance to \"follow-up\" with \"Zero Flower: Mist Flash",
         "effects": [
             {
                 "code": 21,
@@ -8207,7 +8207,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the \"attack power\" of all allies by one stage. It can be increased up\nto two stages",
+        "description": "Increase the \"attack power\" of all allies by one stage. It can be increased up to two stages",
         "effects": [
             {
                 "code": 31,
@@ -8245,7 +8245,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Restore own HP by 60% and increase \"Attack Power\" by one stage. Additionally,\nenter the \"HP Auto-Recovery State",
+        "description": " Restore own HP by 60% and increase \"Attack Power\" by one stage. Additionally, enter the \"HP Auto-\nRecovery State",
         "effects": [
             {
                 "code": 11,
@@ -8289,7 +8289,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Supports a single ally and charges 60 SP. Upon seeing this, 'Lunaroa' becomes\nenergized and increases 'attack power'",
+        "description": "Supports a single ally and charges 60 SP. Upon seeing this, 'Lunaroa' becomes energized and\nincreases 'attack power'",
         "effects": [
             {
                 "code": 13,
@@ -8333,7 +8333,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals physical damage of slashing attribute to all enemies. After attacking,\nperforms a follow-up 'counterattack' with a group attack",
+        "description": " Deals physical damage of slashing attribute to all enemies. After attacking, performs a follow-up\n'counterattack' with a group attack",
         "effects": [
             {
                 "code": 21,
@@ -8377,7 +8377,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts slashing physical damage to all enemies. Additionally, lowers the\ntarget's \"Agility\" by one stage",
+        "description": "Inflicts slashing physical damage to all enemies. Additionally, lowers the target's \"Agility\" by one\nstage",
         "effects": [
             {
                 "code": 21,
@@ -8452,7 +8452,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs 4 random wind/slash attribute physical attacks that cannot be targeted\nfor attack. \"Instant activation\" and does not end own turn",
+        "description": "Performs 4 random wind/slash attribute physical attacks that cannot be targeted for attack. \"Instant\nactivation\" and does not end own turn",
         "effects": [
             {
                 "code": 21,
@@ -8490,7 +8490,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals wind/slash attribute physical damage to all enemies. \"Instant activation\"\nand does not end own turn",
+        "description": "Deals wind/slash attribute physical damage to all enemies. \"Instant activation\" and does not end own\nturn",
         "effects": [
             {
                 "code": 21,
@@ -8528,7 +8528,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflict non-elemental physical damage to a single enemy and follow up with \"Zero\nFlower: Mist Flash\". \"Immediately activate\" and do not end your own turn.\nPerform a \"preemptive strike\" on the next action",
+        "description": "Inflict non-elemental physical damage to a single enemy and follow up with \"Zero Flower: Mist\nFlash\". \"Immediately activate\" and do not end your own turn. Perform a \"preemptive strike\" on the\nnext action",
         "effects": [
             {
                 "code": 21,
@@ -8572,7 +8572,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For 5 turns, bestow \"Flash of the New Moon\" on oneself. \"Immediately activate\"\nand do not end one's own turn",
+        "description": "For 5 turns, bestow \"Flash of the New Moon\" on oneself. \"Immediately activate\" and do not end one's\nown turn",
         "effects": [
             {
                 "code": 21,
@@ -8641,7 +8641,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Restore 30% of a single ally's HP, MP, and SP, and revive them from \"KO\".\n\"Activates instantly\" and does not end own turn. Health comes from daily meals",
+        "description": " Restore 30% of a single ally's HP, MP, and SP, and revive them from \"KO\". \"Activates instantly\" and\ndoes not end own turn. Health comes from daily meals",
         "effects": [
             {
                 "code": 44,
@@ -8717,7 +8717,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs a wind attribute random 4-hit physical attack that cannot be targeted\nfor counterattacks. Activates instantly and does not end own turn",
+        "description": "Performs a wind attribute random 4-hit physical attack that cannot be targeted for counterattacks.\nActivates instantly and does not end own turn",
         "effects": [
             {
                 "code": 21,
@@ -8817,7 +8817,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restores 60% of a single ally's HP. Additionally, increases 'Attack Power' by\none stage for 3 turns",
+        "description": "Restores 60% of a single ally's HP. Additionally, increases 'Attack Power' by one stage for 3 turns",
         "effects": [
             {
                 "code": 31,
@@ -8899,7 +8899,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Heals a single ally's \"KO\" status. Additionally, increases \"Defense\" and \"Magic\nDefense\" by one stage",
+        "description": "Heals a single ally's \"KO\" status. Additionally, increases \"Defense\" and \"Magic Defense\" by one\nstage",
         "effects": [
             {
                 "code": 22,
@@ -8955,7 +8955,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Restores SP to all allies 25 times. Grants a low chance of automatic recovery\nfor \"HP,\" \"MP,\" and \"SP",
+        "description": " Restores SP to all allies 25 times. Grants a low chance of automatic recovery for \"HP,\" \"MP,\" and\n\"SP",
         "effects": [
             {
                 "code": 13,
@@ -9011,7 +9011,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the \"magic attack power\" of all allies by one stage. It can be\nincreased up to two stages",
+        "description": "Increase the \"magic attack power\" of all allies by one stage. It can be increased up to two stages",
         "effects": [
             {
                 "code": 31,
@@ -9049,7 +9049,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Enhance one's \"magic attack power\" to the \"maximum limit\". Additionally, remove\nall \"debuff status",
+        "description": "Enhance one's \"magic attack power\" to the \"maximum limit\". Additionally, remove all \"debuff status",
         "effects": [
             {
                 "code": 34,
@@ -9141,7 +9141,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs a double ice attribute attack on a single enemy. Has a moderate chance\nto inflict the target with the status ailment Freeze",
+        "description": "Performs a double ice attribute attack on a single enemy. Has a moderate chance to inflict the\ntarget with the status ailment Freeze",
         "effects": [
             {
                 "code": 21,
@@ -9179,7 +9179,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Perform three untargetable attacks of dark attribute. Cannot be aimed at\nspecific targets, but has high power",
+        "description": "Perform three untargetable attacks of dark attribute. Cannot be aimed at specific targets, but has\nhigh power",
         "effects": [],
         "hitType": 2,
         "iconIndex": 71,
@@ -9210,7 +9210,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs 6 untargetable ice attribute attacks. It cannot be aimed at, but it has\nvery high power",
+        "description": "Performs 6 untargetable ice attribute attacks. It cannot be aimed at, but it has very high power",
         "effects": [],
         "hitType": 2,
         "iconIndex": 255,
@@ -9272,7 +9272,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals ice attribute damage to all enemies. Additionally, lowers the target's\n\"attack power\" by one stage",
+        "description": " Deals ice attribute damage to all enemies. Additionally, lowers the target's \"attack power\" by one\nstage",
         "effects": [
             {
                 "code": 32,
@@ -9310,7 +9310,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals dark attribute damage to all enemies. Additionally, lowers the target's\n\"magic attack power\" by one stage",
+        "description": " Deals dark attribute damage to all enemies. Additionally, lowers the target's \"magic attack power\"\nby one stage",
         "effects": [
             {
                 "code": 32,
@@ -9348,7 +9348,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals thunder attribute damage to all enemies. Additionally, lowers the\ntarget's \"Defense\" by one stage",
+        "description": " Deals thunder attribute damage to all enemies. Additionally, lowers the target's \"Defense\" by one\nstage",
         "effects": [
             {
                 "code": 32,
@@ -9386,7 +9386,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals wind attribute damage to all enemies. Additionally, lowers the target's\n\"magic defense\" by one stage",
+        "description": " Deals wind attribute damage to all enemies. Additionally, lowers the target's \"magic defense\" by\none stage",
         "effects": [
             {
                 "code": 32,
@@ -9424,7 +9424,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals fire attribute damage to all enemies. Additionally, lowers the target's\n\"Speed\" by one stage",
+        "description": " Deals fire attribute damage to all enemies. Additionally, lowers the target's \"Speed\" by one stage",
         "effects": [
             {
                 "code": 32,
@@ -9462,7 +9462,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals light attribute damage to all enemies. Additionally, lowers the target's\n\"Luck\" by one stage",
+        "description": " Deals light attribute damage to all enemies. Additionally, lowers the target's \"Luck\" by one stage",
         "effects": [
             {
                 "code": 32,
@@ -9568,7 +9568,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Perform 6 attacks that cannot be targeted by dark attribute. Cannot be aimed at,\nbut has very high power",
+        "description": "Perform 6 attacks that cannot be targeted by dark attribute. Cannot be aimed at, but has very high\npower",
         "effects": [],
         "hitType": 2,
         "iconIndex": 287,
@@ -9692,7 +9692,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase own number of actions to \"4 times\" for a duration of \"2 turns\".\nAdditionally, reduce MP consumption by \"50%\" and grant MP auto- recovery",
+        "description": "Increase own number of actions to \"4 times\" for a duration of \"2 turns\". Additionally, reduce MP\nconsumption by \"50%\" and grant MP auto- recovery",
         "effects": [
             {
                 "code": 21,
@@ -9730,7 +9730,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": "Permanently enhances the \"overall performance\" of all allies, restores 30% HP,\nand revives from incapacitation. \"Activates instantly\" and does not end own\nturn. (Once per battle.)",
+        "description": "Permanently enhances the \"overall performance\" of all allies, restores 30% HP, and revives from\nincapacitation. \"Activates instantly\" and does not end own turn. (Once per battle.)",
         "effects": [
             {
                 "code": 22,
@@ -9780,7 +9780,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals ice elemental magic damage to a single enemy and follows up with \"Gleia's\nCoffin\". \"Activates instantly\" and does not end own turn. Performs \"First\nStrike\" on the next action",
+        "description": " Deals ice elemental magic damage to a single enemy and follows up with \"Gleia's Coffin\". \"Activates\ninstantly\" and does not end own turn. Performs \"First Strike\" on the next action",
         "effects": [
             {
                 "code": 44,
@@ -9818,7 +9818,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Extreme compression of the Soul of Samasa. Immediately perform a 16 consecutive\nattack of unparalleled power that cannot be targeted",
+        "description": "Extreme compression of the Soul of Samasa. Immediately perform a 16 consecutive attack of\nunparalleled power that cannot be targeted",
         "effects": [],
         "hitType": 0,
         "iconIndex": 95,
@@ -9849,7 +9849,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": " Completely restores the HP of all allies and revives them from incapacitation.\nAdditionally, increases 'Defense' and 'Magic Defense' by one stage for 3 turns",
+        "description": " Completely restores the HP of all allies and revives them from incapacitation. Additionally,\nincreases 'Defense' and 'Magic Defense' by one stage for 3 turns",
         "effects": [
             {
                 "code": 22,
@@ -9899,7 +9899,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Extreme compression of the Soul of Samasa. Immediately perform a 16 consecutive\nattack of unparalleled power that cannot be targeted",
+        "description": "Extreme compression of the Soul of Samasa. Immediately perform a 16 consecutive attack of\nunparalleled power that cannot be targeted",
         "effects": [],
         "hitType": 0,
         "iconIndex": 95,
@@ -9930,7 +9930,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Compressing the Soul of Samasa to its limit. Performing a 16 consecutive\npowerful attack of all attributes on a single enemy",
+        "description": "Compressing the Soul of Samasa to its limit. Performing a 16 consecutive powerful attack of all\nattributes on a single enemy",
         "effects": [
             {
                 "code": 44,
@@ -10030,7 +10030,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Top-tier \"hunters\" defend while attacking! They attack a single enemy while also\n\"recovering\" their own health",
+        "description": "Top-tier \"hunters\" defend while attacking! They attack a single enemy while also \"recovering\" their\nown health",
         "effects": [
             {
                 "code": 21,
@@ -10074,7 +10074,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase durability for 5 turns and become \"sturdy\". Additionally, increase\n\"targetability\" and grant automatic HP recovery",
+        "description": "Increase durability for 5 turns and become \"sturdy\". Additionally, increase \"targetability\" and\ngrant automatic HP recovery",
         "effects": [
             {
                 "code": 21,
@@ -10112,7 +10112,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " A small power attack with striking attribute on a single enemy. Decreases the\ntarget's \"attack power\" by one stage. Occasionally activates again",
+        "description": " A small power attack with striking attribute on a single enemy. Decreases the target's \"attack\npower\" by one stage. Occasionally activates again",
         "effects": [
             {
                 "code": 21,
@@ -10162,7 +10162,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " An attack with low power of striking attribute on a single enemy. Decreases the\ntarget's \"magic attack power\" by one stage. Occasionally activates again",
+        "description": " An attack with low power of striking attribute on a single enemy. Decreases the target's \"magic\nattack power\" by one stage. Occasionally activates again",
         "effects": [
             {
                 "code": 21,
@@ -10212,7 +10212,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Borrowing the power of spirits, it deals striking damage to all enemies. The\npower is determined by the \"Attack\" stat. It often triggers an \"Avalanche of\nRocks and Snow",
+        "description": "Borrowing the power of spirits, it deals striking damage to all enemies. The power is determined by\nthe \"Attack\" stat. It often triggers an \"Avalanche of Rocks and Snow",
         "effects": [
             {
                 "code": 21,
@@ -10256,7 +10256,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the \"physical defense\" of all allies by one stage. It can be increased\nup to two stages",
+        "description": "Increase the \"physical defense\" of all allies by one stage. It can be increased up to two stages",
         "effects": [
             {
                 "code": 31,
@@ -10451,7 +10451,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs a powerful three-hit attack against a single enemy. With \"Absolute\nAttack,\" it \"penetrates\" the enemy's defense",
+        "description": "Performs a powerful three-hit attack against a single enemy. With \"Absolute Attack,\" it \"penetrates\"\nthe enemy's defense",
         "effects": [
             {
                 "code": 21,
@@ -10489,7 +10489,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Performs an \"Ultimate Normal Attack\" on all enemies. Additionally, normal\nattacks are \"Ultimate-empowered\" for 5 turns",
+        "description": "Performs an \"Ultimate Normal Attack\" on all enemies. Additionally, normal attacks are \"Ultimate-\nempowered\" for 5 turns",
         "effects": [
             {
                 "code": 44,
@@ -10570,7 +10570,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "When we were children, we came up with the ultimate finishing move together.\nIt deals massive damage to a single enemy and heals the entire party",
+        "description": "When we were children, we came up with the ultimate finishing move together. It deals massive damage\nto a single enemy and heals the entire party",
         "effects": [
             {
                 "code": 44,
@@ -10677,7 +10677,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Borrowing the power of spirits, it deals earth attribute damage to all enemies.\nThe power is determined by the \"attack stat",
+        "description": "Borrowing the power of spirits, it deals earth attribute damage to all enemies. The power is\ndetermined by the \"attack stat",
         "effects": [],
         "hitType": 0,
         "iconIndex": 68,
@@ -10708,7 +10708,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Heals the HP of a single ally. Additionally, increases magic attack power by\none stage for 3 turns",
+        "description": " Heals the HP of a single ally. Additionally, increases magic attack power by one stage for 3 turns",
         "effects": [
             {
                 "code": 11,
@@ -10827,7 +10827,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs a physical attack with piercing attribute four times on a single enemy.\nAdditionally, performs a \"Follow-up Attack\" with \"Chain Shot\" on a single enemy",
+        "description": "Performs a physical attack with piercing attribute four times on a single enemy. Additionally,\nperforms a \"Follow-up Attack\" with \"Chain Shot\" on a single enemy",
         "effects": [
             {
                 "code": 21,
@@ -10871,7 +10871,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts physical damage on a single enemy and occasionally inflicts charm. The\nuser's SP greatly increases. This is what she is known for",
+        "description": "Inflicts physical damage on a single enemy and occasionally inflicts charm. The user's SP greatly\nincreases. This is what she is known for",
         "effects": [
             {
                 "code": 21,
@@ -10909,7 +10909,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals piercing physical damage to all enemies. Has a moderate chance to inflict\nthe \"Stun\" status ailment on the target",
+        "description": " Deals piercing physical damage to all enemies. Has a moderate chance to inflict the \"Stun\" status\nailment on the target",
         "effects": [
             {
                 "code": 21,
@@ -10947,7 +10947,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restores 60% of a single ally's HP. Additionally, increases 'magic attack\npower' by one stage for 3 turns",
+        "description": "Restores 60% of a single ally's HP. Additionally, increases 'magic attack power' by one stage for 3\nturns",
         "effects": [
             {
                 "code": 31,
@@ -10991,7 +10991,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "A small thunder attribute magic attack on a single enemy. Decreases the target's\n\"magic attack power\" by one stage",
+        "description": "A small thunder attribute magic attack on a single enemy. Decreases the target's \"magic attack\npower\" by one stage",
         "effects": [
             {
                 "code": 21,
@@ -11035,7 +11035,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Increases the \"magic defense\" of all allies by one stage. Can be increased up\nto two stages",
+        "description": " Increases the \"magic defense\" of all allies by one stage. Can be increased up to two stages",
         "effects": [
             {
                 "code": 31,
@@ -11073,7 +11073,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals fire attribute damage twice to a single enemy. Additionally, performs a\n\"Chain Shot\" with a \"Follow-up\" on a single enemy",
+        "description": " Deals fire attribute damage twice to a single enemy. Additionally, performs a \"Chain Shot\" with a\n\"Follow-up\" on a single enemy",
         "effects": [
             {
                 "code": 44,
@@ -11111,7 +11111,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals lightning attribute damage twice to a single enemy. Additionally,\nperforms a \"Chain Shot\" with \"Follow-up\" on a single enemy",
+        "description": " Deals lightning attribute damage twice to a single enemy. Additionally, performs a \"Chain Shot\"\nwith \"Follow-up\" on a single enemy",
         "effects": [
             {
                 "code": 44,
@@ -11149,7 +11149,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Inflicts fire attribute damage to all enemies. Has a high chance to inflict the\ntarget with the status ailment poison",
+        "description": " Inflicts fire attribute damage to all enemies. Has a high chance to inflict the target with the\nstatus ailment poison",
         "effects": [
             {
                 "code": 21,
@@ -11187,7 +11187,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts thunder attribute damage to all enemies. Has a low chance to inflict\nthe status ailment \"Paralysis\" on the target",
+        "description": "Inflicts thunder attribute damage to all enemies. Has a low chance to inflict the status ailment\n\"Paralysis\" on the target",
         "effects": [
             {
                 "code": 21,
@@ -11225,7 +11225,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Grant \"HP Auto Recovery\" to oneself and load \"Flame Bullets\" into the magazine.\n(Effect is permanent, cannot be stacked) Perform a follow-up attack with \"Flame\nBullet\" when using \"Single-target Gun or Magic Attack",
+        "description": " Grant \"HP Auto Recovery\" to oneself and load \"Flame Bullets\" into the magazine. (Effect is\npermanent, cannot be stacked) Perform a follow-up attack with \"Flame Bullet\" when using \"Single-\ntarget Gun or Magic Attack",
         "effects": [
             {
                 "code": 21,
@@ -11269,7 +11269,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Grant \"MP Auto Recovery\" to oneself and load \"Thunder Bullets\" into the\nmagazine. (Effect is permanent and cannot be stacked) Perform a follow- up\nattack with \"Thunder Bullet\" when using \"Single-target Gunshot, Magic Attack",
+        "description": " Grant \"MP Auto Recovery\" to oneself and load \"Thunder Bullets\" into the magazine. (Effect is\npermanent and cannot be stacked) Perform a follow- up attack with \"Thunder Bullet\" when using\n\"Single-target Gunshot, Magic Attack",
         "effects": [
             {
                 "code": 21,
@@ -11313,7 +11313,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Grant \"SP Auto Recovery\" to oneself and load \"Iron Bullets\" into the magazine.\n(Effect is permanent, cannot be stacked) Perform a follow-up attack with \"Iron\nBullet\" when using \"Single-target Gun or Magic Attack",
+        "description": " Grant \"SP Auto Recovery\" to oneself and load \"Iron Bullets\" into the magazine. (Effect is\npermanent, cannot be stacked) Perform a follow-up attack with \"Iron Bullet\" when using \"Single-\ntarget Gun or Magic Attack",
         "effects": [
             {
                 "code": 21,
@@ -11357,7 +11357,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Grant \"MP Auto Recovery\" to oneself and load \"Bullets of Light\" into the\nmagazine. (Effect is permanent and cannot be stacked) Perform a follow- up\nattack with \"Shine Bullet\" when using \"Single-target Gun or Magic Attacks",
+        "description": " Grant \"MP Auto Recovery\" to oneself and load \"Bullets of Light\" into the magazine. (Effect is\npermanent and cannot be stacked) Perform a follow- up attack with \"Shine Bullet\" when using \"Single-\ntarget Gun or Magic Attacks",
         "effects": [
             {
                 "code": 21,
@@ -11401,7 +11401,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Grant \"SP Auto Recovery\" to oneself and load \"Star Bullets\" into the magazine.\n(Effect is permanent and cannot be stacked) Perform a follow-up attack with\n\"Star Bullet\" when using \"Single-target Gun or Magic Attack",
+        "description": " Grant \"SP Auto Recovery\" to oneself and load \"Star Bullets\" into the magazine. (Effect is permanent\nand cannot be stacked) Perform a follow-up attack with \"Star Bullet\" when using \"Single-target Gun\nor Magic Attack",
         "effects": [
             {
                 "code": 21,
@@ -11735,7 +11735,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The ultimate firepower support magic. Use this as a last resort against strong\nenemies. It greatly increases the target's offensive capabilities for 2 turns",
+        "description": "The ultimate firepower support magic. Use this as a last resort against strong enemies. It greatly\nincreases the target's offensive capabilities for 2 turns",
         "effects": [
             {
                 "code": 21,
@@ -11773,7 +11773,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Generate a small sun inside a test tube and trigger nuclear fusion. Inflict 9999\nfixed damage to all enemies",
+        "description": "Generate a small sun inside a test tube and trigger nuclear fusion. Inflict 9999 fixed damage to all\nenemies",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -11804,7 +11804,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": " Causes nuclear fusion, dealing 9999 fixed damage to all enemies. Additionally,\nperforms a \"follow-up attack\" with the loaded \"bullet",
+        "description": " Causes nuclear fusion, dealing 9999 fixed damage to all enemies. Additionally, performs a \"follow-\nup attack\" with the loaded \"bullet",
         "effects": [
             {
                 "code": 44,
@@ -11873,7 +11873,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Generate a small sun inside a test tube and trigger nuclear fusion. Inflict 9999\nfixed damage to all enemies",
+        "description": "Generate a small sun inside a test tube and trigger nuclear fusion. Inflict 9999 fixed damage to all\nenemies",
         "effects": [],
         "hitType": 0,
         "iconIndex": 64,
@@ -11966,7 +11966,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Enhances own magical power and doubles magic attack power. Additionally, for 2\nturns, increases the number of actions to 4",
+        "description": "Enhances own magical power and doubles magic attack power. Additionally, for 2 turns, increases the\nnumber of actions to 4",
         "effects": [
             {
                 "code": 21,
@@ -12042,7 +12042,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Using the power of \"that girl,\" it changes the whimsical maiden's mood. Deals\ndark attribute damage to all enemies",
+        "description": "Using the power of \"that girl,\" it changes the whimsical maiden's mood. Deals dark attribute damage\nto all enemies",
         "effects": [],
         "hitType": 0,
         "iconIndex": 71,
@@ -12187,7 +12187,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Enhances own magical power and doubles magic attack power. Additionally, for 2\nturns, increases the number of actions to 4",
+        "description": "Enhances own magical power and doubles magic attack power. Additionally, for 2 turns, increases the\nnumber of actions to 4",
         "effects": [],
         "hitType": 0,
         "iconIndex": 95,
@@ -12218,7 +12218,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Enhances own magical power and doubles magic attack power. Additionally, for 2\nturns, increases the number of actions to 4",
+        "description": "Enhances own magical power and doubles magic attack power. Additionally, for 2 turns, increases the\nnumber of actions to 4",
         "effects": [],
         "hitType": 0,
         "iconIndex": 95,
@@ -12511,7 +12511,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I want to show my cool side to the person I like! The 'evasion rate' against\nphysical attacks increases by 5%",
+        "description": "I want to show my cool side to the person I like! The 'evasion rate' against physical attacks\nincreases by 5%",
         "effects": [],
         "hitType": 0,
         "iconIndex": 7,
@@ -12573,14 +12573,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Performs a \"Preemptive Attack\" with a chance during regular encounters. MP is\nnot consumed by this action",
+        "description": "Performs a \"Preemptive Attack\" with a chance during regular encounters. MP is not consumed by this\naction",
         "effects": [],
         "hitType": 0,
         "iconIndex": 97,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "先手必勝\"  \"First Strike Victory",
+        "name": "First Strike Victory",
         "note": "<OrderId:2>",
         "occasion": 3,
         "repeats": 1,
@@ -12635,7 +12635,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "When \"Flash of the New Moon\" is activated, the \"Critical Rate,\" \"Evasion Rate,\"\nand \"Magic Evasion Rate\" greatly increase",
+        "description": "When \"Flash of the New Moon\" is activated, the \"Critical Rate,\" \"Evasion Rate,\" and \"Magic Evasion\nRate\" greatly increase",
         "effects": [],
         "hitType": 0,
         "iconIndex": 67,
@@ -12697,7 +12697,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You can perform a \"Quick Tackle\" with the Q button. However, there are times\nwhen you cannot do it. If you use it against weak enemies, you can take the\ninitiative...!! Um, are you okay? Isn't it too strong...?",
+        "description": "You can perform a \"Quick Tackle\" with the Q button. However, there are times when you cannot do it.\nIf you use it against weak enemies, you can take the initiative...!! Um, are you okay? Isn't it too\nstrong...?",
         "effects": [],
         "hitType": 0,
         "iconIndex": 91,
@@ -12759,7 +12759,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " She herself takes the lead and inspires the fighting spirit of the entire team.\nHer \"All Abilities\" increase. It can be stacked up to two times",
+        "description": " She herself takes the lead and inspires the fighting spirit of the entire team. Her \"All Abilities\"\nincrease. It can be stacked up to two times",
         "effects": [
             {
                 "code": 31,
@@ -12852,7 +12852,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's fun to be together! During battles, I feel an increase in my own abilities\nwhen I sense Laura's cuteness",
+        "description": "It's fun to be together! During battles, I feel an increase in my own abilities when I sense Laura's\ncuteness",
         "effects": [],
         "hitType": 0,
         "iconIndex": 7,
@@ -12883,7 +12883,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A protective magic that can only be used by high-level wizards. Reduces damage\nfrom magic by 30% and nullifies poison",
+        "description": "A protective magic that can only be used by high-level wizards. Reduces damage from magic by 30% and\nnullifies poison",
         "effects": [],
         "hitType": 0,
         "iconIndex": 79,
@@ -12945,7 +12945,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Infuse one's own magical power into a weapon. Change \"normal attacks\" to \"ice\nattribute",
+        "description": "Infuse one's own magical power into a weapon. Change \"normal attacks\" to \"ice attribute",
         "effects": [],
         "hitType": 0,
         "iconIndex": 65,
@@ -12976,7 +12976,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Possesses the talent for ice and dark magic. Acquiring multiple attributes\nrequires special talent",
+        "description": "Possesses the talent for ice and dark magic. Acquiring multiple attributes requires special talent",
         "effects": [],
         "hitType": 0,
         "iconIndex": 15,
@@ -13038,7 +13038,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "When using Soul of Samasa, the critical rate increases. Additionally, it becomes\npossible to use \"magic of all attributes",
+        "description": "When using Soul of Samasa, the critical rate increases. Additionally, it becomes possible to use\n\"magic of all attributes",
         "effects": [],
         "hitType": 0,
         "iconIndex": 319,
@@ -13224,7 +13224,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The power to raise a shield is meaningless in the face of overwhelming physical\nstrength. When using 'physical attacks,' it penetrates through defense",
+        "description": "The power to raise a shield is meaningless in the face of overwhelming physical strength. When using\n'physical attacks,' it penetrates through defense",
         "effects": [],
         "hitType": 0,
         "iconIndex": 77,
@@ -13255,7 +13255,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's great to have a flexible and strong body! Reduces physical damage taken by\n5%",
+        "description": "It's great to have a flexible and strong body! Reduces physical damage taken by 5%",
         "effects": [],
         "hitType": 0,
         "iconIndex": 81,
@@ -13286,7 +13286,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Everyone! Follow me! When equipped with the 'Giant Sword', a 'Follow-up Attack'\noccurs during normal attacks",
+        "description": "Everyone! Follow me! When equipped with the 'Giant Sword', a 'Follow-up Attack' occurs during normal\nattacks",
         "effects": [],
         "hitType": 0,
         "iconIndex": 112,
@@ -13317,7 +13317,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "If I shoot a lot, I'll become stronger...! When equipped with a 'bow,' normal\nattacks become 'high-speed AoE'",
+        "description": "If I shoot a lot, I'll become stronger...! When equipped with a 'bow,' normal attacks become 'high-\nspeed AoE'",
         "effects": [],
         "hitType": 0,
         "iconIndex": 102,
@@ -13348,7 +13348,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Give it all you've got... one more shot...!! When equipped with the \"Iron Ball,\"\nnormal attacks become an untargetable \"3-hit attack",
+        "description": "Give it all you've got... one more shot...!! When equipped with the \"Iron Ball,\" normal attacks\nbecome an untargetable \"3-hit attack",
         "effects": [],
         "hitType": 0,
         "iconIndex": 98,
@@ -13379,7 +13379,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The most efficient method of destruction by utilizing the opponent's power. When\nhit by a physical attack, there is a 30% chance to perform a \"counterattack",
+        "description": "The most efficient method of destruction by utilizing the opponent's power. When hit by a physical\nattack, there is a 30% chance to perform a \"counterattack",
         "effects": [],
         "hitType": 0,
         "iconIndex": 112,
@@ -13410,7 +13410,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "During \"Ultimate\" mode, ally \"follow-up attacks\" occur with normal attacks. In\naddition, normal attacks become \"AoE\" and become \"3-hit attacks",
+        "description": "During \"Ultimate\" mode, ally \"follow-up attacks\" occur with normal attacks. In addition, normal\nattacks become \"AoE\" and become \"3-hit attacks",
         "effects": [],
         "hitType": 0,
         "iconIndex": 93,
@@ -13534,7 +13534,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "No matter how far the target, I never miss...! Possessing natural talent for the\nbow",
+        "description": "No matter how far the target, I never miss...! Possessing natural talent for the bow",
         "effects": [],
         "hitType": 0,
         "iconIndex": 102,
@@ -13565,7 +13565,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Very cheerful personality, can get along with anyone. Even if there is a slight\ndifference in dimension, can quickly become friends with anyone",
+        "description": "Very cheerful personality, can get along with anyone. Even if there is a slight difference in\ndimension, can quickly become friends with anyone",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -13596,7 +13596,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I make slightly unconventional language choices in works like 'Sable Noir,'\n'Aibou,' 'Invincible Duo,' and 'Detarameya.' It's all about individuality...\nindividuality!!",
+        "description": "I make slightly unconventional language choices in works like 'Sable Noir,' 'Aibou,' 'Invincible\nDuo,' and 'Detarameya.' It's all about individuality... individuality!!",
         "effects": [],
         "hitType": 0,
         "iconIndex": 283,
@@ -13658,7 +13658,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Before being attacked, just attack first! When equipped with a gun, it greatly\nincreases its own speed",
+        "description": "Before being attacked, just attack first! When equipped with a gun, it greatly increases its own\nspeed",
         "effects": [],
         "hitType": 0,
         "iconIndex": 115,
@@ -13689,7 +13689,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A protective magic that can only be used by high-level wizards. Reduces damage\nfrom magic by 30% and nullifies poison",
+        "description": "A protective magic that can only be used by high-level wizards. Reduces damage from magic by 30% and\nnullifies poison",
         "effects": [],
         "hitType": 0,
         "iconIndex": 79,
@@ -13720,7 +13720,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Possesses talent for lightning and fire magic. Acquiring multiple attributes\nrequires special talent",
+        "description": "Possesses talent for lightning and fire magic. Acquiring multiple attributes requires special talent",
         "effects": [],
         "hitType": 0,
         "iconIndex": 15,
@@ -13751,7 +13751,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Consistency and perseverance are important in everything. When loading a\n\"bullet,\" the \"critical rate\" increases",
+        "description": "Consistency and perseverance are important in everything. When loading a \"bullet,\" the \"critical\nrate\" increases",
         "effects": [],
         "hitType": 0,
         "iconIndex": 126,
@@ -13782,7 +13782,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "When using a single-target attack skill, perform a \"follow- up\" with a piercing\nattribute using a gun. The power is determined by both \"attack power\" and \"magic\nattack power",
+        "description": "When using a single-target attack skill, perform a \"follow- up\" with a piercing attribute using a\ngun. The power is determined by both \"attack power\" and \"magic attack power",
         "effects": [],
         "hitType": 0,
         "iconIndex": 126,
@@ -13844,7 +13844,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I train diligently every day. Yes, yes, continuity is the most important thing\nin everything, right?",
+        "description": "I train diligently every day. Yes, yes, continuity is the most important thing in everything, right?",
         "effects": [],
         "hitType": 0,
         "iconIndex": 97,
@@ -13875,7 +13875,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Recently, I've started feeling embarrassed about coming up with cool \"special\nmoves\". It's just that age",
+        "description": "Recently, I've started feeling embarrassed about coming up with cool \"special moves\". It's just that\nage",
         "effects": [],
         "hitType": 0,
         "iconIndex": 79,
@@ -13937,7 +13937,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A versatile girl who can do anything. She is capable of performing various\nattribute-based physical attacks",
+        "description": "A versatile girl who can do anything. She is capable of performing various attribute-based physical\nattacks",
         "effects": [],
         "hitType": 0,
         "iconIndex": 282,
@@ -13999,7 +13999,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Don't be afraid of anything and give it a try! This type of person tends to\nsucceed, you know",
+        "description": "Don't be afraid of anything and give it a try! This type of person tends to succeed, you know",
         "effects": [],
         "hitType": 0,
         "iconIndex": 282,
@@ -14030,7 +14030,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Skilled in the lightning attribute. No, just being able to use magic is amazing,\nright...?",
+        "description": "Skilled in the lightning attribute. No, just being able to use magic is amazing, right...?",
         "effects": [],
         "hitType": 0,
         "iconIndex": 15,
@@ -14061,7 +14061,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Specializes in the water attribute. She believes that the water attribute is the\nstrongest",
+        "description": "Specializes in the water attribute. She believes that the water attribute is the strongest",
         "effects": [],
         "hitType": 0,
         "iconIndex": 15,
@@ -14092,7 +14092,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A beginner-friendly protective magic that can only be used by high- ranking\nwizards. It reduces damage from magic by 10% and makes one less susceptible to\npoison",
+        "description": "A beginner-friendly protective magic that can only be used by high- ranking wizards. It reduces\ndamage from magic by 10% and makes one less susceptible to poison",
         "effects": [],
         "hitType": 0,
         "iconIndex": 79,
@@ -14154,7 +14154,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A carnivorous girl who can make proactive approaches. ...Rebecca is your\nfavorite? Oh, really...?",
+        "description": "A carnivorous girl who can make proactive approaches. ...Rebecca is your favorite? Oh, really...?",
         "effects": [],
         "hitType": 0,
         "iconIndex": 7,
@@ -14247,7 +14247,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs a physical attack with piercing attribute four times on a single enemy.\nAdditionally, performs a \"Follow-up Attack\" with \"Chain Shot\" on a single enemy",
+        "description": "Performs a physical attack with piercing attribute four times on a single enemy. Additionally,\nperforms a \"Follow-up Attack\" with \"Chain Shot\" on a single enemy",
         "effects": [
             {
                 "code": 21,
@@ -14353,7 +14353,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals wind/slash attribute physical damage to all enemies. \"Instant activation\"\nand does not end own turn",
+        "description": "Deals wind/slash attribute physical damage to all enemies. \"Instant activation\" and does not end own\nturn",
         "effects": [],
         "hitType": 0,
         "iconIndex": 402,
@@ -14384,7 +14384,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals ice elemental magic damage to a single enemy and follows up with \"Graias\nCoffin\". Cannot be used when \"Soul of Samasa\" is activated",
+        "description": "Deals ice elemental magic damage to a single enemy and follows up with \"Graias Coffin\". Cannot be\nused when \"Soul of Samasa\" is activated",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
@@ -14415,7 +14415,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase 'Attack Power' by one stage and perform a physical slashing attack on a\nsingle enemy. There is a chance of triggering an 'Additional Attack' (up to 3\ntimes)",
+        "description": "Increase 'Attack Power' by one stage and perform a physical slashing attack on a single enemy. There\nis a chance of triggering an 'Additional Attack' (up to 3 times)",
         "effects": [
             {
                 "code": 31,
@@ -14491,7 +14491,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts slashing physical damage to all enemies. Additionally, lowers the\ntarget's \"Agility\" by one stage",
+        "description": "Inflicts slashing physical damage to all enemies. Additionally, lowers the target's \"Agility\" by one\nstage",
         "effects": [
             {
                 "code": 32,
@@ -14529,7 +14529,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Perform 6 random slashing attacks that cannot be targeted, and greatly recover\nSP. After the attack, activate \"Moonflower: Swift Flash\" and have a chance to\n\"follow-up\" with \"Zero Flower: Mist Flash",
+        "description": "Perform 6 random slashing attacks that cannot be targeted, and greatly recover SP. After the attack,\nactivate \"Moonflower: Swift Flash\" and have a chance to \"follow-up\" with \"Zero Flower: Mist Flash",
         "effects": [
             {
                 "code": 21,
@@ -14605,7 +14605,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals ice elemental magic damage to a single enemy and follows up with \"Graias\nCoffin\". Cannot be used when \"Soul of Samasa\" is activated",
+        "description": "Deals ice elemental magic damage to a single enemy and follows up with \"Graias Coffin\". Cannot be\nused when \"Soul of Samasa\" is activated",
         "effects": [],
         "hitType": 0,
         "iconIndex": 97,
@@ -14636,7 +14636,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts slashing physical damage to all enemies. Additionally, lowers the\ntarget's \"Agility\" by one stage",
+        "description": "Inflicts slashing physical damage to all enemies. Additionally, lowers the target's \"Agility\" by one\nstage",
         "effects": [],
         "hitType": 0,
         "iconIndex": 97,
@@ -14667,7 +14667,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals wind attribute physical damage to all enemies. \"Instant activation\" and\ndoes not end own turn",
+        "description": "Deals wind attribute physical damage to all enemies. \"Instant activation\" and does not end own turn",
         "effects": [],
         "hitType": 0,
         "iconIndex": 107,
@@ -14798,7 +14798,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts slashing physical damage to all enemies. Additionally, lowers the\ntarget's \"Agility\" by one stage",
+        "description": "Inflicts slashing physical damage to all enemies. Additionally, lowers the target's \"Agility\" by one\nstage",
         "effects": [
             {
                 "code": 32,
@@ -14836,7 +14836,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Heals a single ally's HP by 65%. No additional effects. In the end, simplicity\nis the best",
+        "description": "Heals a single ally's HP by 65%. No additional effects. In the end, simplicity is the best",
         "effects": [
             {
                 "code": 11,
@@ -14874,7 +14874,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the \"physical defense\" of all allies by one stage. It can be increased\nup to two stages",
+        "description": "Increase the \"physical defense\" of all allies by one stage. It can be increased up to two stages",
         "effects": [
             {
                 "code": 31,
@@ -14912,7 +14912,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals 3 consecutive physical damage to a single enemy and activates \"Fatal\nShield\". Increases the \"maximum HP\" of all allies and slightly recovers the\noverall HP",
+        "description": " Deals 3 consecutive physical damage to a single enemy and activates \"Fatal Shield\". Increases the\n\"maximum HP\" of all allies and slightly recovers the overall HP",
         "effects": [
             {
                 "code": 44,
@@ -14950,7 +14950,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals 3 consecutive heavy physical damage to a single enemy. Additionally,\nsupports allies with \"Fatal Shield",
+        "description": " Deals 3 consecutive heavy physical damage to a single enemy. Additionally, supports allies with\n\"Fatal Shield",
         "effects": [],
         "hitType": 0,
         "iconIndex": 97,
@@ -15056,7 +15056,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts thunder attribute damage on a single enemy. There is a considerable\nchance to inflict \"Paralysis",
+        "description": "Inflicts thunder attribute damage on a single enemy. There is a considerable chance to inflict\n\"Paralysis",
         "effects": [
             {
                 "code": 21,
@@ -15125,7 +15125,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Load \"Thunder Bullet\" into Vega's magazine. If she is not in the party, it will\nfail to fire. (Effect is permanent, cannot be duplicated)",
+        "description": "Load \"Thunder Bullet\" into Vega's magazine. If she is not in the party, it will fail to fire.\n(Effect is permanent, cannot be duplicated)",
         "effects": [
             {
                 "code": 21,
@@ -15169,7 +15169,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the \"magic attack power\" of all allies by one stage. It can be\nincreased up to two stages",
+        "description": "Increase the \"magic attack power\" of all allies by one stage. It can be increased up to two stages",
         "effects": [
             {
                 "code": 31,
@@ -15207,7 +15207,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A mimicry-based firepower support magic. For 3 turns, it significantly increases\nthe \"attack performance\" of all allies. (Preemptive)",
+        "description": "A mimicry-based firepower support magic. For 3 turns, it significantly increases the \"attack\nperformance\" of all allies. (Preemptive)",
         "effects": [
             {
                 "code": 21,
@@ -15245,7 +15245,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Burn my cool magic into your eyes...! Increases the 'attack power' and 'magic\nattack power' of all allies and deals massive thunder damage to all enemies",
+        "description": "Burn my cool magic into your eyes...! Increases the 'attack power' and 'magic attack power' of all\nallies and deals massive thunder damage to all enemies",
         "effects": [
             {
                 "code": 31,
@@ -15295,7 +15295,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": " The ultimate firepower support magic. Raises the target's attack power\nsignificantly for one turn",
+        "description": " The ultimate firepower support magic. Raises the target's attack power significantly for one turn",
         "effects": [
             {
                 "code": 21,
@@ -15395,7 +15395,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts piercing physical damage on a single enemy and performs a \"follow-up\nattack\" with slashing attribute",
+        "description": "Inflicts piercing physical damage on a single enemy and performs a \"follow-up attack\" with slashing\nattribute",
         "effects": [
             {
                 "code": 21,
@@ -15477,7 +15477,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "The skillful girl is adept at grappling. She deals striking damage to all\nenemies and has a moderate chance to inflict \"Stun",
+        "description": "The skillful girl is adept at grappling. She deals striking damage to all enemies and has a moderate\nchance to inflict \"Stun",
         "effects": [
             {
                 "code": 21,
@@ -15559,7 +15559,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the \"physical evasion rate\" of all allies for 3 turns. ...Even if you\nget hit, don't complain, okay?",
+        "description": "Increase the \"physical evasion rate\" of all allies for 3 turns. ...Even if you get hit, don't\ncomplain, okay?",
         "effects": [
             {
                 "code": 21,
@@ -15597,7 +15597,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'll leave it to everyone here...!! Restores 30% of the entire party's 'MP' and\n'SP'",
+        "description": "I'll leave it to everyone here...!! Restores 30% of the entire party's 'MP' and 'SP'",
         "effects": [
             {
                 "code": 12,
@@ -15691,7 +15691,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the \"attack power\" of all allies by one stage. It can be increased up\nto two stages",
+        "description": "Increase the \"attack power\" of all allies by one stage. It can be increased up to two stages",
         "effects": [
             {
                 "code": 31,
@@ -15760,7 +15760,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Heals 60% of a single ally's HP. Additionally, cures poison, paralysis, and\nsleep",
+        "description": "Heals 60% of a single ally's HP. Additionally, cures poison, paralysis, and sleep",
         "effects": [
             {
                 "code": 11,
@@ -15816,7 +15816,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Heals the entire party's HP by 25%. Additionally, increases 'Defense' and\n'Magic Defense' by one stage",
+        "description": " Heals the entire party's HP by 25%. Additionally, increases 'Defense' and 'Magic Defense' by one\nstage",
         "effects": [
             {
                 "code": 11,
@@ -15928,7 +15928,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Decreases the \"attack power\" and \"magic attack power\" of a single enemy by one\nstage. This attack does not deal damage",
+        "description": "Decreases the \"attack power\" and \"magic attack power\" of a single enemy by one stage. This attack\ndoes not deal damage",
         "effects": [
             {
                 "code": 32,
@@ -15972,7 +15972,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Fully restores the HP of all allies and revives them from \"KO\" status.\nAdditionally, grants the target \"MP auto-recovery",
+        "description": " Fully restores the HP of all allies and revives them from \"KO\" status. Additionally, grants the\ntarget \"MP auto-recovery",
         "effects": [
             {
                 "code": 22,
@@ -16022,7 +16022,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You guys better surrender already...! Increases the 'attack power' and 'magic\nattack power' of all allies and deals heavy water damage to all enemies",
+        "description": "You guys better surrender already...! Increases the 'attack power' and 'magic attack power' of all\nallies and deals heavy water damage to all enemies",
         "effects": [
             {
                 "code": 31,
@@ -16072,7 +16072,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Fully restores the HP of all allies and revives them from \"KO\". Additionally,\ngrants allies \"MP auto-recovery",
+        "description": " Fully restores the HP of all allies and revives them from \"KO\". Additionally, grants allies \"MP\nauto-recovery",
         "effects": [
             {
                 "code": 22,
@@ -16184,7 +16184,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Create arrows of light and deal piercing damage to a single enemy. Additionally,\ngreatly weaken their \"Attack\" and \"Magic Attack\" stats",
+        "description": "Create arrows of light and deal piercing damage to a single enemy. Additionally, greatly weaken\ntheir \"Attack\" and \"Magic Attack\" stats",
         "effects": [
             {
                 "code": 32,
@@ -16228,7 +16228,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Heals the entire party's HP by 50% and grants \"HP Auto- Recovery\". Increases\n\"Defense\" and \"Magic Defense\" by one stage",
+        "description": " Heals the entire party's HP by 50% and grants \"HP Auto- Recovery\". Increases \"Defense\" and \"Magic\nDefense\" by one stage",
         "effects": [
             {
                 "code": 31,
@@ -16315,7 +16315,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Heals the entire party's HP by 50% and removes \"debuff\" status. Increases\n\"attack power\" and \"magic attack power",
+        "description": " Heals the entire party's HP by 50% and removes \"debuff\" status. Increases \"attack power\" and \"magic\nattack power",
         "effects": [
             {
                 "code": 34,
@@ -16432,7 +16432,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restores 50% of the entire party's HP. Charges 20 SP and grants 'SP Auto-\nRecovery'",
+        "description": "Restores 50% of the entire party's HP. Charges 20 SP and grants 'SP Auto- Recovery'",
         "effects": [
             {
                 "code": 13,
@@ -16513,7 +16513,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I am well-versed in 'medicine' to the point where it's hard to understand. I\ngreatly increase my own preemptive rate when performing healing actions",
+        "description": "I am well-versed in 'medicine' to the point where it's hard to understand. I greatly increase my own\npreemptive rate when performing healing actions",
         "effects": [],
         "hitType": 0,
         "iconIndex": 127,
@@ -16544,7 +16544,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "She tends to hide behind her white coat, but in reality, she is quite...\nPatients are getting better, even though she is not aware of it",
+        "description": "She tends to hide behind her white coat, but in reality, she is quite... Patients are getting\nbetter, even though she is not aware of it",
         "effects": [],
         "hitType": 0,
         "iconIndex": 7,
@@ -16575,7 +16575,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A protective magic that can only be used by high-level wizards. Reduces damage\nfrom magic by 30% and nullifies poison",
+        "description": "A protective magic that can only be used by high-level wizards. Reduces damage from magic by 30% and\nnullifies poison",
         "effects": [],
         "hitType": 0,
         "iconIndex": 79,
@@ -16606,7 +16606,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": " Completely restores the HP of all allies and revives them from incapacitation.\nAdditionally, increases 'Defense' and 'Magic Defense' by one stage for 3 turns",
+        "description": " Completely restores the HP of all allies and revives them from incapacitation. Additionally,\nincreases 'Defense' and 'Magic Defense' by one stage for 3 turns",
         "effects": [
             {
                 "code": 22,
@@ -16656,7 +16656,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A protective magic that can only be used by those with special abilities. It\nnullifies light attribute damage",
+        "description": "A protective magic that can only be used by those with special abilities. It nullifies light\nattribute damage",
         "effects": [],
         "hitType": 0,
         "iconIndex": 79,
@@ -16909,7 +16909,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increases the \"attack power\" of a single ally by one stage. Can be stacked up to\ntwo times",
+        "description": "Increases the \"attack power\" of a single ally by one stage. Can be stacked up to two times",
         "effects": [
             {
                 "code": 31,
@@ -16947,7 +16947,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increases the \"magic attack power\" of a single ally by one stage. Can be stacked\nup to two times",
+        "description": "Increases the \"magic attack power\" of a single ally by one stage. Can be stacked up to two times",
         "effects": [
             {
                 "code": 31,
@@ -17047,7 +17047,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Borrowing the power of a capable cat, so they say. Increases the attack power of\nall allies and triggers Vega's 'Concentrated Barrage'",
+        "description": "Borrowing the power of a capable cat, so they say. Increases the attack power of all allies and\ntriggers Vega's 'Concentrated Barrage'",
         "effects": [
             {
                 "code": 31,
@@ -17091,7 +17091,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "A lavish distribution of high-end recovery items prepared for a deficit.\nRestores 1500 HP to all allies and charges 15 SP",
+        "description": "A lavish distribution of high-end recovery items prepared for a deficit. Restores 1500 HP to all\nallies and charges 15 SP",
         "effects": [
             {
                 "code": 13,
@@ -17191,7 +17191,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Causes the target's energy to go out of control, resulting in an internal\nexplosion. Performs multiple untargetable light attribute attacks",
+        "description": " Causes the target's energy to go out of control, resulting in an internal explosion. Performs\nmultiple untargetable light attribute attacks",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -17222,7 +17222,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restore own HP by 100% and cure all status ailments. Additionally, increase all\nabilities by 'one stage'",
+        "description": "Restore own HP by 100% and cure all status ailments. Additionally, increase all abilities by 'one\nstage'",
         "effects": [
             {
                 "code": 11,
@@ -17338,7 +17338,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Romantic light is Alice's favorite. Deals light attribute damage to all enemies\nand removes \"enhancement state",
+        "description": "Romantic light is Alice's favorite. Deals light attribute damage to all enemies and removes\n\"enhancement state",
         "effects": [
             {
                 "code": 33,
@@ -17418,7 +17418,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Being indulgent towards oneself and loved ones. Spending time surrounded by\nloved ones is her \"happiness",
+        "description": "Being indulgent towards oneself and loved ones. Spending time surrounded by loved ones is her\n\"happiness",
         "effects": [],
         "hitType": 0,
         "iconIndex": 7,
@@ -17449,7 +17449,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Perform 4 attacks that cannot be targeted by any attribute. The power is\ndetermined by both physical attack and magic attack",
+        "description": "Perform 4 attacks that cannot be targeted by any attribute. The power is determined by both physical\nattack and magic attack",
         "effects": [],
         "hitType": 2,
         "iconIndex": 287,
@@ -17480,7 +17480,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Using the power of \"that girl,\" it changes the whimsical girl's mood. Deals dark\nattribute damage to all enemies",
+        "description": "Using the power of \"that girl,\" it changes the whimsical girl's mood. Deals dark attribute damage to\nall enemies",
         "effects": [],
         "hitType": 0,
         "iconIndex": 71,
@@ -17511,7 +17511,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Crush the target with an extremely expanded criminal light pressure. Inflict\ndevastating 5 consecutive damage of light attribute to all enemies",
+        "description": "Crush the target with an extremely expanded criminal light pressure. Inflict devastating 5\nconsecutive damage of light attribute to all enemies",
         "effects": [],
         "hitType": 0,
         "iconIndex": 286,
@@ -17542,7 +17542,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Able to exercise the privilege of \"Alice\". Changes the dimension of magic and\nreduces MP consumption to 0",
+        "description": "Able to exercise the privilege of \"Alice\". Changes the dimension of magic and reduces MP consumption\nto 0",
         "effects": [],
         "hitType": 0,
         "iconIndex": 286,
@@ -17666,7 +17666,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Look! Try saying who the 'master' is...!! It causes chaos with various\nconsecutive physical attacks on a single enemy",
+        "description": "Look! Try saying who the 'master' is...!! It causes chaos with various consecutive physical attacks\non a single enemy",
         "effects": [
             {
                 "code": 44,
@@ -17835,7 +17835,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Everyone should kneel before me! Performs 7 physical attacks with striking\nattribute on a single enemy",
+        "description": "Everyone should kneel before me! Performs 7 physical attacks with striking attribute on a single\nenemy",
         "effects": [
             {
                 "code": 44,
@@ -17911,7 +17911,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Everyone should kneel before me! Performs 7 physical attacks with striking\nattribute on a single enemy",
+        "description": "Everyone should kneel before me! Performs 7 physical attacks with striking attribute on a single\nenemy",
         "effects": [
             {
                 "code": 44,
@@ -18173,7 +18173,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the \"magic attack power\" of all allies by one stage. It can be\nincreased up to two stages",
+        "description": "Increase the \"magic attack power\" of all allies by one stage. It can be increased up to two stages",
         "effects": [
             {
                 "code": 31,
@@ -18304,7 +18304,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restores 60% of a single ally's HP. It has no special effects but can be used\nat any time",
+        "description": "Restores 60% of a single ally's HP. It has no special effects but can be used at any time",
         "effects": [
             {
                 "code": 11,
@@ -18417,7 +18417,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Decrease the \"magic defense\" of all enemies by one stage. Can stack up to two\nstages",
+        "description": "Decrease the \"magic defense\" of all enemies by one stage. Can stack up to two stages",
         "effects": [
             {
                 "code": 32,
@@ -18486,7 +18486,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " A small power attack with striking attribute on a single enemy. Decreases the\ntarget's \"Attack Power\" by one stage",
+        "description": " A small power attack with striking attribute on a single enemy. Decreases the target's \"Attack\nPower\" by one stage",
         "effects": [
             {
                 "code": 21,
@@ -18530,7 +18530,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " An attack with low power of striking attribute on a single enemy. Decreases the\ntarget's \"magic attack power\" by one stage",
+        "description": " An attack with low power of striking attribute on a single enemy. Decreases the target's \"magic\nattack power\" by one stage",
         "effects": [
             {
                 "code": 21,
@@ -18832,7 +18832,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "This is my 'everything'...!! Performs a four-hit physical attack with piercing\nattribute on a single enemy",
+        "description": "This is my 'everything'...!! Performs a four-hit physical attack with piercing attribute on a single\nenemy",
         "effects": [],
         "hitType": 0,
         "iconIndex": 102,
@@ -18863,7 +18863,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " As children, they came up with the ultimate finishing move. Deals massive\ndamage to a single enemy and grants \"HP auto-recovery\" to all allies",
+        "description": " As children, they came up with the ultimate finishing move. Deals massive damage to a single enemy\nand grants \"HP auto-recovery\" to all allies",
         "effects": [
             {
                 "code": 44,
@@ -19001,7 +19001,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restores 30% of the entire party's HP. Additionally, removes all 'debuff'\nstatus effects",
+        "description": "Restores 30% of the entire party's HP. Additionally, removes all 'debuff' status effects",
         "effects": [
             {
                 "code": 11,
@@ -19075,7 +19075,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Charge the SP of all allies by 20. Additionally, increase 'Defense' and 'Magic\nDefense' by one stage",
+        "description": "Charge the SP of all allies by 20. Additionally, increase 'Defense' and 'Magic Defense' by one stage",
         "effects": [
             {
                 "code": 31,
@@ -19342,7 +19342,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts fire damage to all enemies. Additionally, raises the \"all abilities\" of\nall allies by one stage",
+        "description": "Inflicts fire damage to all enemies. Additionally, raises the \"all abilities\" of all allies by one\nstage",
         "effects": [],
         "hitType": 2,
         "iconIndex": 64,
@@ -19373,7 +19373,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals wind attribute damage to all enemies, and additionally deals fire\nattribute damage. In addition, raises the \"all abilities\" of all allies by one\nstage and charges \"SP\" by 30",
+        "description": " Deals wind attribute damage to all enemies, and additionally deals fire attribute damage. In\naddition, raises the \"all abilities\" of all allies by one stage and charges \"SP\" by 30",
         "effects": [
             {
                 "code": 44,
@@ -19504,7 +19504,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Reduce magic damage taken by all allies and grant \"automatic recovery\" of HP,\nMP, and SP. \"Immediately activates\" and does not end own turn. (Cannot be\nstacked)",
+        "description": "Reduce magic damage taken by all allies and grant \"automatic recovery\" of HP, MP, and SP.\n\"Immediately activates\" and does not end own turn. (Cannot be stacked)",
         "effects": [
             {
                 "code": 21,
@@ -19573,7 +19573,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs 4 random wind/slash attribute physical attacks that cannot be targeted\nfor attack. \"Immediately activates\" and does not end its own turn",
+        "description": "Performs 4 random wind/slash attribute physical attacks that cannot be targeted for attack.\n\"Immediately activates\" and does not end its own turn",
         "effects": [
             {
                 "code": 21,
@@ -19704,7 +19704,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": " Heals the HP of a single ally. Additionally, removes all \"ability weakening\nstatus",
+        "description": " Heals the HP of a single ally. Additionally, removes all \"ability weakening status",
         "effects": [
             {
                 "code": 34,
@@ -19834,7 +19834,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Increases the \"magic defense\" of all allies by one stage. Can be increased up\nto two stages",
+        "description": " Increases the \"magic defense\" of all allies by one stage. Can be increased up to two stages",
         "effects": [
             {
                 "code": 31,
@@ -19872,7 +19872,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Load \"Water Bullets\" into Vega's magazine. If she is not in the party, it will\nfail to fire. (Effect is permanent, cannot be duplicated)",
+        "description": "Load \"Water Bullets\" into Vega's magazine. If she is not in the party, it will fail to fire. (Effect\nis permanent, cannot be duplicated)",
         "effects": [
             {
                 "code": 21,
@@ -19978,7 +19978,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Using the power of \"that girl,\" it changes the whimsical maiden's mood. Deals\ndark attribute damage to all enemies",
+        "description": "Using the power of \"that girl,\" it changes the whimsical maiden's mood. Deals dark attribute damage\nto all enemies",
         "effects": [],
         "hitType": 0,
         "iconIndex": 71,
@@ -20009,7 +20009,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals dark attribute damage to all enemies. Additionally, lowers the target's\n\"magic attack power\" by one stage",
+        "description": " Deals dark attribute damage to all enemies. Additionally, lowers the target's \"magic attack power\"\nby one stage",
         "effects": [
             {
                 "code": 32,
@@ -20047,7 +20047,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals dark attribute damage to all enemies. Additionally, lowers the target's\n\"magic attack power\" by one stage",
+        "description": " Deals dark attribute damage to all enemies. Additionally, lowers the target's \"magic attack power\"\nby one stage",
         "effects": [],
         "hitType": 2,
         "iconIndex": 71,
@@ -20078,7 +20078,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Perform a random 3-hit attack that cannot be targeted for counterattacks.\nAdditionally, remove the target's \"magic enhancement state",
+        "description": "Perform a random 3-hit attack that cannot be targeted for counterattacks. Additionally, remove the\ntarget's \"magic enhancement state",
         "effects": [
             {
                 "code": 33,
@@ -20134,7 +20134,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Cures all status ailments of a single ally. Additionally, increases all\nabilities by 'one stage'",
+        "description": " Cures all status ailments of a single ally. Additionally, increases all abilities by 'one stage'",
         "effects": [
             {
                 "code": 31,
@@ -20439,7 +20439,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I lost a lot of power as the price for my precious smile... But, I was able to\nsee something really wonderful",
+        "description": "I lost a lot of power as the price for my precious smile... But, I was able to see something really\nwonderful",
         "effects": [],
         "hitType": 0,
         "iconIndex": 10,
@@ -20501,7 +20501,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Crush the target with an overwhelmingly expanded and intense light. Inflict\ndevastating damage of the light attribute to all enemies",
+        "description": "Crush the target with an overwhelmingly expanded and intense light. Inflict devastating damage of\nthe light attribute to all enemies",
         "effects": [],
         "hitType": 0,
         "iconIndex": 286,
@@ -20601,7 +20601,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Causes the target's energy to go out of control, resulting in an internal\nexplosion. Deals light attribute damage to a single enemy",
+        "description": " Causes the target's energy to go out of control, resulting in an internal explosion. Deals light\nattribute damage to a single enemy",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -20632,7 +20632,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Cures all status ailments of a single ally. Additionally, increases all\nabilities by 'one stage'",
+        "description": " Cures all status ailments of a single ally. Additionally, increases all abilities by 'one stage'",
         "effects": [
             {
                 "code": 31,
@@ -20713,7 +20713,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs a powerful area attack with fire attribute on all enemies.\nAdditionally, performs a \"Concentrated Barrage\" with \"Follow-up\" on a single\nenemy",
+        "description": "Performs a powerful area attack with fire attribute on all enemies. Additionally, performs a\n\"Concentrated Barrage\" with \"Follow-up\" on a single enemy",
         "effects": [],
         "hitType": 2,
         "iconIndex": 64,
@@ -20806,7 +20806,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "This is my 'everything'...!! Perform a 6-hit physical thrust attack that cannot\nbe targeted, and follow up with 'Photon Burst'",
+        "description": "This is my 'everything'...!! Perform a 6-hit physical thrust attack that cannot be targeted, and\nfollow up with 'Photon Burst'",
         "effects": [
             {
                 "code": 44,
@@ -20844,7 +20844,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Crush the target with an overwhelmingly expanded and intense light. Inflict\ndevastating damage of the light attribute to all enemies",
+        "description": "Crush the target with an overwhelmingly expanded and intense light. Inflict devastating damage of\nthe light attribute to all enemies",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -20906,7 +20906,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs two consecutive slashing attacks on a single enemy. Additionally,\nperforms a \"Meteor Fall\" and follows up with a \"Pursuit\" attack",
+        "description": "Performs two consecutive slashing attacks on a single enemy. Additionally, performs a \"Meteor Fall\"\nand follows up with a \"Pursuit\" attack",
         "effects": [
             {
                 "code": 21,
@@ -21019,7 +21019,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs a 6-hit physical thrust attack that cannot be targeted for\ncounterattacks. Can collect a large amount of SP",
+        "description": "Performs a 6-hit physical thrust attack that cannot be targeted for counterattacks. Can collect a\nlarge amount of SP",
         "effects": [],
         "hitType": 2,
         "iconIndex": 97,
@@ -21050,7 +21050,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A healing magic passed down in the Ulyssean royal family. It restores 60% of\none's HP and charges 40 SP",
+        "description": "A healing magic passed down in the Ulyssean royal family. It restores 60% of one's HP and charges 40\nSP",
         "effects": [
             {
                 "code": 11,
@@ -21094,7 +21094,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " She herself takes the lead and inspires the fighting spirit of all allies. Her\n\"All Abilities\" increase. It can be stacked up to two times",
+        "description": " She herself takes the lead and inspires the fighting spirit of all allies. Her \"All Abilities\"\nincrease. It can be stacked up to two times",
         "effects": [
             {
                 "code": 31,
@@ -21156,7 +21156,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts slash-type physical and magical hybrid damage on a single enemy, and\nadditionally performs a follow-up attack with \"Great Thunderclap",
+        "description": "Inflicts slash-type physical and magical hybrid damage on a single enemy, and additionally performs\na follow-up attack with \"Great Thunderclap",
         "effects": [
             {
                 "code": 44,
@@ -21194,7 +21194,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs a 3-hit physical slashing attack on a single enemy. Additionally, it\ncan evolve into \"Light Dance\" and follow up with \"Crazy Comet",
+        "description": "Performs a 3-hit physical slashing attack on a single enemy. Additionally, it can evolve into \"Light\nDance\" and follow up with \"Crazy Comet",
         "effects": [
             {
                 "code": 44,
@@ -21294,7 +21294,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase own critical rate to 70% for 1 turn. Activate immediately and do not\nend own turn",
+        "description": "Increase own critical rate to 70% for 1 turn. Activate immediately and do not end own turn",
         "effects": [
             {
                 "code": 21,
@@ -21332,7 +21332,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs a 7-hit physical slashing attack on a single enemy. Beware! This is the\nstrike of the Lily Princess!!",
+        "description": "Performs a 7-hit physical slashing attack on a single enemy. Beware! This is the strike of the Lily\nPrincess!!",
         "effects": [],
         "hitType": 1,
         "iconIndex": 97,
@@ -21487,7 +21487,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the critical rate of a single ally by 70% for '1 turn'. It is a man's\nduty to support women...! Activates with 'First Strike'",
+        "description": "Increase the critical rate of a single ally by 70% for '1 turn'. It is a man's duty to support\nwomen...! Activates with 'First Strike'",
         "effects": [
             {
                 "code": 21,
@@ -24090,7 +24090,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restores 60% of a single ally's HP. Additionally, removes all 'debuff' status\neffects",
+        "description": "Restores 60% of a single ally's HP. Additionally, removes all 'debuff' status effects",
         "effects": [
             {
                 "code": 34,
@@ -24158,7 +24158,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restores 60% of a single ally's HP. Additionally, removes all 'debuff' status\neffects",
+        "description": "Restores 60% of a single ally's HP. Additionally, removes all 'debuff' status effects",
         "effects": [
             {
                 "code": 22,
@@ -27457,7 +27457,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It boosts the user's fighting spirit and increases their attack power. It can be\nstacked up to two times",
+        "description": "It boosts the user's fighting spirit and increases their attack power. It can be stacked up to two\ntimes",
         "effects": [
             {
                 "code": 31,
@@ -28495,7 +28495,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts multiple instances of non-elemental damage to a single enemy. The power\nis based on both \"Attack\" and \"Magic Attack\" stats",
+        "description": "Inflicts multiple instances of non-elemental damage to a single enemy. The power is based on both\n\"Attack\" and \"Magic Attack\" stats",
         "effects": [],
         "hitType": 2,
         "iconIndex": 287,
@@ -28526,7 +28526,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts multiple instances of non-elemental damage to a single enemy. The power\nis based on both \"Attack\" and \"Magic Attack\" stats",
+        "description": "Inflicts multiple instances of non-elemental damage to a single enemy. The power is based on both\n\"Attack\" and \"Magic Attack\" stats",
         "effects": [],
         "hitType": 2,
         "iconIndex": 287,
@@ -28557,7 +28557,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts multiple instances of non-elemental damage to a single enemy. The power\nis based on both \"Attack\" and \"Magic Attack\" stats",
+        "description": "Inflicts multiple instances of non-elemental damage to a single enemy. The power is based on both\n\"Attack\" and \"Magic Attack\" stats",
         "effects": [],
         "hitType": 2,
         "iconIndex": 287,
@@ -28588,7 +28588,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts multiple instances of non-elemental damage to a single enemy. The power\nis based on both \"Attack\" and \"Magic Attack\" stats",
+        "description": "Inflicts multiple instances of non-elemental damage to a single enemy. The power is based on both\n\"Attack\" and \"Magic Attack\" stats",
         "effects": [],
         "hitType": 2,
         "iconIndex": 287,
@@ -28712,7 +28712,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "A small power thrust + lightning attribute magic attack on a single enemy.\nDecreases the target's \"magic attack power\" by one stage",
+        "description": "A small power thrust + lightning attribute magic attack on a single enemy. Decreases the target's\n\"magic attack power\" by one stage",
         "effects": [
             {
                 "code": 21,
@@ -28856,7 +28856,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Inflicts fire attribute damage to all enemies. Has a high chance to inflict the\ntarget with the status ailment poison",
+        "description": " Inflicts fire attribute damage to all enemies. Has a high chance to inflict the target with the\nstatus ailment poison",
         "effects": [],
         "hitType": 2,
         "iconIndex": 64,
@@ -28887,7 +28887,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts thunder attribute damage to all enemies. Has a low chance to inflict\nthe status ailment \"Paralysis\" on the target",
+        "description": "Inflicts thunder attribute damage to all enemies. Has a low chance to inflict the status ailment\n\"Paralysis\" on the target",
         "effects": [],
         "hitType": 2,
         "iconIndex": 66,
@@ -29011,7 +29011,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals wind attribute physical damage to all enemies. \"Instant activation\" and\ndoes not end own turn",
+        "description": "Deals wind attribute physical damage to all enemies. \"Instant activation\" and does not end own turn",
         "effects": [
             {
                 "code": 21,
@@ -29318,7 +29318,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Crush the target with an overwhelmingly expanded and intense light. Inflict\ndevastating damage of the light attribute to all enemies",
+        "description": "Crush the target with an overwhelmingly expanded and intense light. Inflict devastating damage of\nthe light attribute to all enemies",
         "effects": [],
         "hitType": 0,
         "iconIndex": 286,
@@ -29380,7 +29380,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals ice elemental magic damage to a single enemy and follows up with \"Graias\nCoffin\". Cannot be used when \"Soul of Samasa\" is activated",
+        "description": "Deals ice elemental magic damage to a single enemy and follows up with \"Graias Coffin\". Cannot be\nused when \"Soul of Samasa\" is activated",
         "effects": [],
         "hitType": 0,
         "iconIndex": 97,
@@ -30851,7 +30851,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "This is my 'everything'...!! I perform a four-hit physical attack with piercing\nattribute on a single enemy, followed by a counterattack with 'Criminal\nStarburst'",
+        "description": "This is my 'everything'...!! I perform a four-hit physical attack with piercing attribute on a\nsingle enemy, followed by a counterattack with 'Criminal Starburst'",
         "effects": [],
         "hitType": 0,
         "iconIndex": 102,
@@ -30882,7 +30882,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "This is my 'everything'...!! I perform a four-hit physical attack with piercing\nattribute on a single enemy, followed by a follow-up attack with 'Criminal\nStarburst'",
+        "description": "This is my 'everything'...!! I perform a four-hit physical attack with piercing attribute on a\nsingle enemy, followed by a follow-up attack with 'Criminal Starburst'",
         "effects": [],
         "hitType": 0,
         "iconIndex": 102,
@@ -30944,7 +30944,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals 3 consecutive physical damage to a single enemy and activates \"Fatal\nShield\". Increases the \"Max HP\" of all allies and slightly recovers the overall\nHP",
+        "description": " Deals 3 consecutive physical damage to a single enemy and activates \"Fatal Shield\". Increases the\n\"Max HP\" of all allies and slightly recovers the overall HP",
         "effects": [],
         "hitType": 0,
         "iconIndex": 97,
@@ -31220,7 +31220,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Using the power of \"that girl,\" it changes the mood of the capricious maiden.\nDeals dark attribute damage to all enemies",
+        "description": "Using the power of \"that girl,\" it changes the mood of the capricious maiden. Deals dark attribute\ndamage to all enemies",
         "effects": [],
         "hitType": 0,
         "iconIndex": 71,
@@ -31406,7 +31406,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase 'Max HP' for 5 turns. Additionally, raise 'Aggro' and grant 'HP auto-\nrecovery'",
+        "description": "Increase 'Max HP' for 5 turns. Additionally, raise 'Aggro' and grant 'HP auto- recovery'",
         "effects": [
             {
                 "code": 31,
@@ -31644,7 +31644,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Restore the SP of all allies by 25. Additionally, grant automatic recovery of\nHP, MP, and SP",
+        "description": " Restore the SP of all allies by 25. Additionally, grant automatic recovery of HP, MP, and SP",
         "effects": [
             {
                 "code": 13,
@@ -31793,7 +31793,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Heals a single ally's HP by 65%. No additional effects. In the end, simplicity\nis the best",
+        "description": "Heals a single ally's HP by 65%. No additional effects. In the end, simplicity is the best",
         "effects": [
             {
                 "code": 11,
@@ -32168,7 +32168,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals slashing physical damage to all enemies. Additionally, lowers the\ntarget's \"Attack Power\" by one stage",
+        "description": " Deals slashing physical damage to all enemies. Additionally, lowers the target's \"Attack Power\" by\none stage",
         "effects": [
             {
                 "code": 21,
@@ -32287,7 +32287,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "After a deadly battle with \"Warcat,\" she has mastered a secret technique. It\ndeals multiple slashing damage to all enemies",
+        "description": "After a deadly battle with \"Warcat,\" she has mastered a secret technique. It deals multiple slashing\ndamage to all enemies",
         "effects": [
             {
                 "code": 21,
@@ -32356,7 +32356,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts piercing damage to a single enemy, then follows up with striking\ndamage, and performs a follow-up with slashing damage to all enemies. Applies\n\"debuff\" with all attacks",
+        "description": "Inflicts piercing damage to a single enemy, then follows up with striking damage, and performs a\nfollow-up with slashing damage to all enemies. Applies \"debuff\" with all attacks",
         "effects": [
             {
                 "code": 44,
@@ -32823,7 +32823,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Increase own \"all abilities\" and load \"Bullet of Ten Thousand Demons\" into the\nmagazine. (Effect is permanent, cannot be stacked) Perform a follow-up attack\nwith \"Ultima Bullet\" when using \"single-target gun or magic attacks",
+        "description": " Increase own \"all abilities\" and load \"Bullet of Ten Thousand Demons\" into the magazine. (Effect is\npermanent, cannot be stacked) Perform a follow-up attack with \"Ultima Bullet\" when using \"single-\ntarget gun or magic attacks",
         "effects": [
             {
                 "code": 21,
@@ -32936,7 +32936,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Alright, I got it! I'll give it my all next time!!\" Next turn, it triggers a\n\"Guaranteed Critical\" effect. (Critical hits deal triple damage)",
+        "description": "Alright, I got it! I'll give it my all next time!!\" Next turn, it triggers a \"Guaranteed Critical\"\neffect. (Critical hits deal triple damage)",
         "effects": [
             {
                 "code": 21,
@@ -32974,7 +32974,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'll go all out next...! If I win, it'll be over!! When taking action next turn,\ntrigger \"Guaranteed Critical\" (Power triples on critical hit)",
+        "description": "I'll go all out next...! If I win, it'll be over!! When taking action next turn, trigger \"Guaranteed\nCritical\" (Power triples on critical hit)",
         "effects": [
             {
                 "code": 21,
@@ -34218,7 +34218,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restores 60% of a single ally's HP. Additionally, removes all 'debuff' status\neffects",
+        "description": "Restores 60% of a single ally's HP. Additionally, removes all 'debuff' status effects",
         "effects": [
             {
                 "code": 11,
@@ -34435,7 +34435,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": " Completely restores the HP of all allies and revives them from incapacitation.\nAdditionally, increases 'Defense' and 'Magic Defense' by one stage for 3 turns",
+        "description": " Completely restores the HP of all allies and revives them from incapacitation. Additionally,\nincreases 'Defense' and 'Magic Defense' by one stage for 3 turns",
         "effects": [
             {
                 "code": 22,
@@ -34553,7 +34553,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restores 60% of a single ally's HP. Additionally, increases 'magic attack\npower' by one stage for 3 turns",
+        "description": "Restores 60% of a single ally's HP. Additionally, increases 'magic attack power' by one stage for 3\nturns",
         "effects": [
             {
                 "code": 31,
@@ -34597,7 +34597,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "A small thunder attribute magic attack on a single enemy. Decreases the target's\n\"magic attack power\" by one stage",
+        "description": "A small thunder attribute magic attack on a single enemy. Decreases the target's \"magic attack\npower\" by one stage",
         "effects": [
             {
                 "code": 21,
@@ -34734,7 +34734,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Inflicts fire attribute damage to all enemies. Has a high chance to inflict the\ntarget with the status ailment poison",
+        "description": " Inflicts fire attribute damage to all enemies. Has a high chance to inflict the target with the\nstatus ailment poison",
         "effects": [
             {
                 "code": 21,
@@ -34772,7 +34772,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts thunder attribute damage to all enemies. Has a low chance to inflict\nthe status ailment \"Paralysis\" on the target",
+        "description": "Inflicts thunder attribute damage to all enemies. Has a low chance to inflict the status ailment\n\"Paralysis\" on the target",
         "effects": [
             {
                 "code": 21,
@@ -34810,7 +34810,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Increase the \"magic defense\" of all allies by one stage. Can be increased up to\ntwo stages",
+        "description": " Increase the \"magic defense\" of all allies by one stage. Can be increased up to two stages",
         "effects": [
             {
                 "code": 31,
@@ -34848,7 +34848,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts multiple instances of non-elemental damage to a single enemy. The power\nis based on both \"Attack\" and \"Magic Attack\" stats",
+        "description": "Inflicts multiple instances of non-elemental damage to a single enemy. The power is based on both\n\"Attack\" and \"Magic Attack\" stats",
         "effects": [],
         "hitType": 2,
         "iconIndex": 287,
@@ -34941,7 +34941,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Crush the target with an overwhelmingly expanded and intense light. Inflict\ndevastating damage of the light attribute to all enemies",
+        "description": "Crush the target with an overwhelmingly expanded and intense light. Inflict devastating damage of\nthe light attribute to all enemies",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -35224,7 +35224,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts physical damage on a single enemy and occasionally inflicts charm. The\nuser's SP greatly increases. This is what she is known for",
+        "description": "Inflicts physical damage on a single enemy and occasionally inflicts charm. The user's SP greatly\nincreases. This is what she is known for",
         "effects": [],
         "hitType": 0,
         "iconIndex": 91,
@@ -35400,7 +35400,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'm very skilled at household chores. Because I'm a professional. Cooking,\nlaundry, housework, childcare... Leave it all to me!",
+        "description": "I'm very skilled at household chores. Because I'm a professional. Cooking, laundry, housework,\nchildcare... Leave it all to me!",
         "effects": [],
         "hitType": 0,
         "iconIndex": 282,
@@ -35431,7 +35431,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Toko-uwate\"... In other words, she is skilled in \"intimacy\". With her touch,\nanyone, regardless of gender, will become infatuated",
+        "description": "Toko-uwate\"... In other words, she is skilled in \"intimacy\". With her touch, anyone, regardless of\ngender, will become infatuated",
         "effects": [],
         "hitType": 0,
         "iconIndex": 7,
@@ -35493,7 +35493,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Secret technique...? There is no such thing!! I will live strong with just this\nbody...!",
+        "description": "Secret technique...? There is no such thing!! I will live strong with just this body...!",
         "effects": [],
         "hitType": 0,
         "iconIndex": 282,
@@ -35524,7 +35524,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Enhance one's \"magic attack power\" to the \"maximum limit\". Additionally, remove\nall \"debuff status",
+        "description": "Enhance one's \"magic attack power\" to the \"maximum limit\". Additionally, remove all \"debuff status",
         "effects": [
             {
                 "code": 34,
@@ -35598,7 +35598,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase own action count to \"4 times\" for 2 turns and increase critical rate.\nAdditionally, reduce MP consumption by 50% and grant MP auto- recovery",
+        "description": "Increase own action count to \"4 times\" for 2 turns and increase critical rate. Additionally, reduce\nMP consumption by 50% and grant MP auto- recovery",
         "effects": [
             {
                 "code": 21,
@@ -35636,7 +35636,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Extreme compression of the Soul of Samasa. Immediately perform a 16 consecutive\nattack of unparalleled power that cannot be targeted",
+        "description": "Extreme compression of the Soul of Samasa. Immediately perform a 16 consecutive attack of\nunparalleled power that cannot be targeted",
         "effects": [],
         "hitType": 0,
         "iconIndex": 95,
@@ -35729,7 +35729,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "A 3-hit slashing attack with low power that grants a higher amount of SP to a\nsingle enemy. There is a chance for an additional attack to occur",
+        "description": "A 3-hit slashing attack with low power that grants a higher amount of SP to a single enemy. There is\na chance for an additional attack to occur",
         "effects": [
             {
                 "code": 21,
@@ -35767,7 +35767,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs a physical slashing attack on a single enemy and increases \"attack\npower\" by one stage. There is a chance of triggering an \"additional attack",
+        "description": "Performs a physical slashing attack on a single enemy and increases \"attack power\" by one stage.\nThere is a chance of triggering an \"additional attack",
         "effects": [
             {
                 "code": 21,
@@ -35805,7 +35805,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals piercing physical damage to a single enemy. There is a chance of\ntriggering an \"additional attack\".  I feel like I'm getting more accustomed to\nhandling weapons...!",
+        "description": " Deals piercing physical damage to a single enemy. There is a chance of triggering an \"additional\nattack\".  I feel like I'm getting more accustomed to handling weapons...!",
         "effects": [
             {
                 "code": 21,
@@ -35843,7 +35843,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Perform 6 random slashing attacks that cannot be targeted, and greatly recover\nSP. After the attack, activate \"Moonflower: Swift Flash\" and have a chance to\n\"follow-up\" with \"Zero Flower: Mist Flash",
+        "description": "Perform 6 random slashing attacks that cannot be targeted, and greatly recover SP. After the attack,\nactivate \"Moonflower: Swift Flash\" and have a chance to \"follow-up\" with \"Zero Flower: Mist Flash",
         "effects": [
             {
                 "code": 21,
@@ -35912,7 +35912,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs a wind attribute random 4-hit physical attack that cannot be targeted\nfor counterattacks. Activates instantly and does not end own turn",
+        "description": "Performs a wind attribute random 4-hit physical attack that cannot be targeted for counterattacks.\nActivates instantly and does not end own turn",
         "effects": [
             {
                 "code": 21,
@@ -35950,7 +35950,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals wind attribute physical damage to all enemies. \"Instant activation\" and\ndoes not end own turn",
+        "description": "Deals wind attribute physical damage to all enemies. \"Instant activation\" and does not end own turn",
         "effects": [
             {
                 "code": 21,
@@ -35988,7 +35988,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflict non-elemental physical damage to a single enemy and follow up with \"Zero\nFlower: Mist Flash\". \"Immediately activate\" and do not end your own turn.\nPerform a \"preemptive strike\" on the next action",
+        "description": "Inflict non-elemental physical damage to a single enemy and follow up with \"Zero Flower: Mist\nFlash\". \"Immediately activate\" and do not end your own turn. Perform a \"preemptive strike\" on the\nnext action",
         "effects": [
             {
                 "code": 21,
@@ -36026,7 +36026,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For 5 turns, bestow \"Flash of the New Moon\" on oneself. \"Immediately activate\"\nand do not end one's own turn",
+        "description": "For 5 turns, bestow \"Flash of the New Moon\" on oneself. \"Immediately activate\" and do not end one's\nown turn",
         "effects": [
             {
                 "code": 21,
@@ -36126,7 +36126,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": " Completely restores the HP of all allies and revives them from incapacitation.\nAdditionally, increases 'Defense' and 'Magic Defense' by one stage for 3 turns",
+        "description": " Completely restores the HP of all allies and revives them from incapacitation. Additionally,\nincreases 'Defense' and 'Magic Defense' by one stage for 3 turns",
         "effects": [
             {
                 "code": 22,
@@ -36213,7 +36213,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Perform 6 random slashing attacks that cannot be targeted for counterattacks and\ngreatly recover SP. After the attack, activate \"Moonflower: Swift Flash\" and\nhave a chance to \"follow-up\" with \"Zero Flower: Mist Flash",
+        "description": "Perform 6 random slashing attacks that cannot be targeted for counterattacks and greatly recover SP.\nAfter the attack, activate \"Moonflower: Swift Flash\" and have a chance to \"follow-up\" with \"Zero\nFlower: Mist Flash",
         "effects": [
             {
                 "code": 21,
@@ -36251,7 +36251,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals wind attribute physical damage to all enemies. \"Instant activation\" and\ndoes not end own turn",
+        "description": "Deals wind attribute physical damage to all enemies. \"Instant activation\" and does not end own turn",
         "effects": [],
         "hitType": 0,
         "iconIndex": 97,
@@ -36282,7 +36282,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals ice elemental magic damage to a single enemy and follows up with \"Graias\nCoffin\". Cannot be used when \"Soul of Samasa\" is activated",
+        "description": "Deals ice elemental magic damage to a single enemy and follows up with \"Graias Coffin\". Cannot be\nused when \"Soul of Samasa\" is activated",
         "effects": [],
         "hitType": 0,
         "iconIndex": 97,
@@ -36653,7 +36653,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For 5 turns, bestow \"Flash of the New Moon\" on oneself. \"Immediately activate\"\nand do not end one's own turn",
+        "description": "For 5 turns, bestow \"Flash of the New Moon\" on oneself. \"Immediately activate\" and do not end one's\nown turn",
         "effects": [
             {
                 "code": 21,
@@ -36808,7 +36808,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": " Completely restores the HP of all allies and revives them from incapacitation.\nAdditionally, increases 'Defense' and 'Magic Defense' by one stage for 3 turns",
+        "description": " Completely restores the HP of all allies and revives them from incapacitation. Additionally,\nincreases 'Defense' and 'Magic Defense' by one stage for 3 turns",
         "effects": [
             {
                 "code": 22,
@@ -36870,7 +36870,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": " Completely restores the HP of all allies and revives them from incapacitation.\nAdditionally, increases 'Defense' and 'Magic Defense' by one stage for 3 turns",
+        "description": " Completely restores the HP of all allies and revives them from incapacitation. Additionally,\nincreases 'Defense' and 'Magic Defense' by one stage for 3 turns",
         "effects": [
             {
                 "code": 22,
@@ -36926,7 +36926,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": " Completely restores the HP of all allies and revives them from incapacitation.\nAdditionally, increases 'Defense' and 'Magic Defense' by one stage for 3 turns",
+        "description": " Completely restores the HP of all allies and revives them from incapacitation. Additionally,\nincreases 'Defense' and 'Magic Defense' by one stage for 3 turns",
         "effects": [
             {
                 "code": 22,
@@ -37013,7 +37013,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The ultimate firepower support magic. Use this as a last resort against strong\nenemies. It greatly increases the target's offensive capabilities for 2 turns",
+        "description": "The ultimate firepower support magic. Use this as a last resort against strong enemies. It greatly\nincreases the target's offensive capabilities for 2 turns",
         "effects": [
             {
                 "code": 21,
@@ -37299,7 +37299,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs two consecutive slashing attacks on a single enemy. Additionally,\nperforms a \"Meteor Fall\" and follows up with a \"Pursuit\" attack",
+        "description": "Performs two consecutive slashing attacks on a single enemy. Additionally, performs a \"Meteor Fall\"\nand follows up with a \"Pursuit\" attack",
         "effects": [
             {
                 "code": 21,
@@ -37443,7 +37443,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A healing magic passed down in the Ulyssean royal family. It restores 60% of\none's HP and charges 40 SP",
+        "description": "A healing magic passed down in the Ulyssean royal family. It restores 60% of one's HP and charges 40\nSP",
         "effects": [
             {
                 "code": 11,
@@ -37487,7 +37487,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " She herself takes the lead and inspires the fighting spirit of the entire team.\nHer \"All Abilities\" increase. It can be stacked up to two times",
+        "description": " She herself takes the lead and inspires the fighting spirit of the entire team. Her \"All Abilities\"\nincrease. It can be stacked up to two times",
         "effects": [
             {
                 "code": 31,
@@ -37580,7 +37580,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": " Deals 3 consecutive heavy physical damage to a single enemy. Additionally, it\nbranches into \"Light Dance\" and follows up with \"Crazy Comet",
+        "description": " Deals 3 consecutive heavy physical damage to a single enemy. Additionally, it branches into \"Light\nDance\" and follows up with \"Crazy Comet",
         "effects": [
             {
                 "code": 21,
@@ -37680,7 +37680,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase own critical rate to 100% for 1 turn. Activate immediately and do not\nend own turn",
+        "description": "Increase own critical rate to 100% for 1 turn. Activate immediately and do not end own turn",
         "effects": [
             {
                 "code": 21,
@@ -37780,7 +37780,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs two consecutive slashing attacks on a single enemy. Additionally,\nperforms a \"Meteor Fall\" and follows up with a \"Pursuit\" attack",
+        "description": "Performs two consecutive slashing attacks on a single enemy. Additionally, performs a \"Meteor Fall\"\nand follows up with a \"Pursuit\" attack",
         "effects": [
             {
                 "code": 21,
@@ -40297,7 +40297,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Heals all status ailments of a single ally. In addition, increases all\nabilities by 'one stage'",
+        "description": " Heals all status ailments of a single ally. In addition, increases all abilities by 'one stage'",
         "effects": [
             {
                 "code": 11,
@@ -40465,7 +40465,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Heals all status ailments of a single ally. In addition, increases all\nabilities by 'one stage'",
+        "description": " Heals all status ailments of a single ally. In addition, increases all abilities by 'one stage'",
         "effects": [
             {
                 "code": 11,
@@ -40515,7 +40515,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Automatically recovers 30% of own SP every turn. Effect is permanent and cannot\nbe stacked",
+        "description": "Automatically recovers 30% of own SP every turn. Effect is permanent and cannot be stacked",
         "effects": [
             {
                 "code": 21,
@@ -40697,7 +40697,7 @@
         "message1": " %1 cast %2!",
         "message2": "",
         "mpCost": 0,
-        "name": "ちえちまえー！！！\"  \"Wisdom before action!!!",
+        "name": "Wisdom before action!!!",
         "note": "",
         "occasion": 1,
         "repeats": 5,
@@ -40721,7 +40721,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Restore 30% of an ally's \"HP,\" \"MP,\" and \"SP\" individually. \"Immediately\nactivates\" and does not end own turn. Health comes from daily meals",
+        "description": " Restore 30% of an ally's \"HP,\" \"MP,\" and \"SP\" individually. \"Immediately activates\" and does not\nend own turn. Health comes from daily meals",
         "effects": [
             {
                 "code": 22,
@@ -40901,7 +40901,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals heavy fire damage to all enemies. No status ailments, but the power is\nincreased",
+        "description": "Deals heavy fire damage to all enemies. No status ailments, but the power is increased",
         "effects": [],
         "hitType": 2,
         "iconIndex": 400,
@@ -41025,7 +41025,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Because they are girls. Of course, they need continuous high firepower.\nIncreases their own 'attack power'. 'Immediately activates' (effect is\npermanent, cannot be stacked)",
+        "description": "Because they are girls. Of course, they need continuous high firepower. Increases their own 'attack\npower'. 'Immediately activates' (effect is permanent, cannot be stacked)",
         "effects": [
             {
                 "code": 21,
@@ -41063,7 +41063,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "No, it's the stable durability that makes all the difference. Women compete with\ntheir toughness. Reduces own 'damage taken'. 'Activates immediately' (effect is\ncontinuous, cannot be stacked)",
+        "description": "No, it's the stable durability that makes all the difference. Women compete with their toughness.\nReduces own 'damage taken'. 'Activates immediately' (effect is continuous, cannot be stacked)",
         "effects": [
             {
                 "code": 21,
@@ -41101,7 +41101,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "That's why amateurs... The 'method' is the most important thing in everything.\nIncreases own 'counterattack rate'. 'Instant activation' (effect is continuous,\ncannot be stacked)",
+        "description": "That's why amateurs... The 'method' is the most important thing in everything. Increases own\n'counterattack rate'. 'Instant activation' (effect is continuous, cannot be stacked)",
         "effects": [
             {
                 "code": 21,
@@ -41139,7 +41139,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "First of all. You're mistaken from the premise. Consciousness level. Can you\nraise it? Your own \"maximum HP\" increases. \"Instant activation\" (effect is\ncontinuous, cannot be stacked)",
+        "description": "First of all. You're mistaken from the premise. Consciousness level. Can you raise it? Your own\n\"maximum HP\" increases. \"Instant activation\" (effect is continuous, cannot be stacked)",
         "effects": [
             {
                 "code": 21,
@@ -41177,7 +41177,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Not yet... It's still not enough! The more power and savings, the better...!!\nIncrease one's own \"attack power\" even more. \"Instant activation\" (effect is\ncontinuous, cannot be stacked)",
+        "description": "Not yet... It's still not enough! The more power and savings, the better...!! Increase one's own\n\"attack power\" even more. \"Instant activation\" (effect is continuous, cannot be stacked)",
         "effects": [
             {
                 "code": 21,
@@ -41215,7 +41215,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "There are too many secret techniques, and it's a bit heavy... But for someone\nlike me, who is cost-effective!! The 'SP' gauge fills up very quickly. 'Instant\nActivation' (Effect is permanent, cannot be stacked)",
+        "description": "There are too many secret techniques, and it's a bit heavy... But for someone like me, who is cost-\neffective!! The 'SP' gauge fills up very quickly. 'Instant Activation' (Effect is permanent, cannot\nbe stacked)",
         "effects": [
             {
                 "code": 21,
@@ -41346,7 +41346,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the attack power of all allies by 'one stage'. 'Immediately activates'\nand does not end your own turn",
+        "description": "Increase the attack power of all allies by 'one stage'. 'Immediately activates' and does not end\nyour own turn",
         "effects": [
             {
                 "code": 31,
@@ -41384,7 +41384,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increase the \"magic attack power\" of all allies by \"one stage\". \"Activates\nimmediately\" and does not end your own turn",
+        "description": "Increase the \"magic attack power\" of all allies by \"one stage\". \"Activates immediately\" and does not\nend your own turn",
         "effects": [
             {
                 "code": 31,
@@ -41453,7 +41453,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Very cheerful personality, can get along with anyone. Overcoming a little\ngeneration gap, become friends quickly",
+        "description": "Very cheerful personality, can get along with anyone. Overcoming a little generation gap, become\nfriends quickly",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -41484,7 +41484,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "She makes slightly unconventional language choices, such as \"Saburunowāru\"\n(Sabre Noir), \"Aibō\" (Partner), \"Muteki no konbi\" (Invincible Duo), and\n\"Detarame ya\" (Nonsense Arrow). Almost all of them are her doing",
+        "description": "She makes slightly unconventional language choices, such as \"Saburunowāru\" (Sabre Noir), \"Aibō\"\n(Partner), \"Muteki no konbi\" (Invincible Duo), and \"Detarame ya\" (Nonsense Arrow). Almost all of\nthem are her doing",
         "effects": [],
         "hitType": 0,
         "iconIndex": 283,
