@@ -4927,9 +4927,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "『ON』にする",
-                                    "『OFF』にする",
-                                    "動作チェック"
+                                    "『ON』to set",
+                                    "『OFF』to set",
+                                    "Operation check"
                                 ],
                                 -1,
                                 0,
@@ -5226,9 +5226,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "『ON』にする",
-                                    "『OFF』にする",
-                                    "動作チェック"
+                                    "『ON』to set",
+                                    "『OFF』to set",
+                                    "Operation check"
                                 ],
                                 -1,
                                 0,
@@ -5603,8 +5603,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "『見る』",
-                                    "『見ない』"
+                                    "『Watch』",
+                                    "『Don't watch』"
                                 ],
                                 -1,
                                 0,
@@ -5764,8 +5764,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "『見る』",
-                                    "『見ない』"
+                                    "『Watch』",
+                                    "『Don't watch』"
                                 ],
                                 -1,
                                 0,

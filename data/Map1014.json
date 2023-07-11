@@ -1576,8 +1576,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1818,8 +1818,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2217,12 +2217,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ざっくり教えて",
-                                    "姿は選べる？",
-                                    "セリフも入れられる？",
-                                    "どこから購入する？",
-                                    "どんな雰囲気の予定？",
-                                    "おｋ。把握"
+                                    "Please tell me briefly",
+                                    "Can you choose your appearance?",
+                                    "Can I include dialogue?",
+                                    "Where can I purchase it?",
+                                    "What kind of atmosphere is planned?",
+                                    "OK Understood"
                                 ],
                                 4,
                                 0,
@@ -2333,10 +2333,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "おまかせ",
-                                    "ドット持ち込み",
-                                    "自分で作りたい場合",
-                                    "わかったでち"
+                                    "Leave it to me",
+                                    "Dot bring in",
+                                    "If you want to make it yourself",
+                                    "Got it"
                                 ],
                                 3,
                                 0,
@@ -2964,11 +2964,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ラウラについて",
-                                    "ルナロアについて",
-                                    "ヴィタについて",
-                                    "ベガについて",
-                                    "大丈夫なので…"
+                                    "About Laura",
+                                    "About Lunaroa",
+                                    "About Vita",
+                                    "About Vega",
+                                    "It's okay…"
                                 ],
                                 4,
                                 0,
@@ -5630,8 +5630,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "まだ帰らない！",
-                                    "もう帰る！"
+                                    "Not going home yet!",
+                                    "I'm going home!"
                                 ],
                                 1,
                                 0,
@@ -6098,8 +6098,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "まだ帰らない！",
-                                    "もう帰る！"
+                                    "Not going home yet!",
+                                    "I'm going home!"
                                 ],
                                 1,
                                 0,
@@ -6674,8 +6674,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6908,8 +6908,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7623,8 +7623,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見たいんです！",
-                                    "大丈夫です！"
+                                    "I want to see!",
+                                    "It's okay!"
                                 ],
                                 1,
                                 0,
@@ -8118,12 +8118,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いつものやつ！",
-                                    "かわいいやつ！",
-                                    "落ち着くやつ！",
-                                    "懐かしいやつ！",
-                                    "歌ってくれよ…！",
-                                    "変えないよ！"
+                                    "The usual one!",
+                                    "Cute one!",
+                                    "Calm down!",
+                                    "Nostalgic one!",
+                                    "Sing for me!",
+                                    "No change!"
                                 ],
                                 -1,
                                 0,
@@ -11232,8 +11232,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "援助してもらう…。",
-                                    "結構ですので！！"
+                                    "Get assistance",
+                                    "It's fine, thank you!!"
                                 ],
                                 1,
                                 0,
@@ -11470,8 +11470,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "大丈夫じゃないです！",
-                                    "大丈夫です！"
+                                    "Not okay!",
+                                    "It's okay!"
                                 ],
                                 1,
                                 0,

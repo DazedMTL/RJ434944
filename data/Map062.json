@@ -2471,8 +2471,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2648,9 +2648,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "仕事",
-                                    "家庭",
-                                    "選べない"
+                                    "Work",
+                                    "Family",
+                                    "Cannot choose"
                                 ],
                                 1,
                                 0,
@@ -2949,8 +2949,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "してあげる",
-                                    "してあげない"
+                                    "I will do it for you",
+                                    "I won't do it"
                                 ],
                                 -1,
                                 0,
@@ -3060,8 +3060,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "してあげる",
-                                    "してあげない"
+                                    "I will do it for you",
+                                    "I won't do it"
                                 ],
                                 -1,
                                 0,
