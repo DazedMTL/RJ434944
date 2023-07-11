@@ -8480,7 +8480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is a monument dedicated to the moon god who governs the love\nof lovers. It is said that if you offer a prayer, you will be\nunited with your beloved."
+                                "This is a monument dedicated to the moon god who governs the\nlove of lovers. It is said that if you offer a prayer, you\nwill be united with your beloved."
                             ]
                         },
                         {
@@ -9109,7 +9109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh my... There's an inn in a place like this, huh? \\SE[0] Are we\ngoing to rest here today?"
+                                "Oh my... There's an inn in a place like this, huh? \\SE[0]\nAre we going to rest here today?"
                             ]
                         },
                         {
@@ -10217,7 +10217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[31] Hmm... It's such nice weather... \\SE[1] It feels\ngood to be able to sleep in bed after a long time. \\SE[0] How\nabout you, Laura? Did you sleep well?"
+                                "\\SM[nod]\\SE[31] Hmm... It's such nice weather... \\SE[1] It\nfeels good to be able to sleep in bed after a long time.\n\\SE[0] How about you, Laura? Did you sleep well?"
                             ]
                         },
                         {
@@ -10296,7 +10296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE\\SE[21]Maybe it's because I relaxed in the bath? \\!\\SE[21]I\nwas able to sleep really well."
+                                "\\SE\\SE[21]Maybe it's because I relaxed in the bath?\n\\!\\SE[21]I was able to sleep really well."
                             ]
                         },
                         {
@@ -10323,7 +10323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50] (I feel like I just fainted because of Luna... but it's\njust a feeling...)"
+                                "\\SE[50] (I feel like I just fainted because of Luna... but\nit's just a feeling...)"
                             ]
                         },
                         {
@@ -10341,7 +10341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[tremble]\\SE[51] (Ugh... Now that I remember, I'm starting to\nfeel embarrassed...)"
+                                "\\SM[tremble]\\SE[51] (Ugh... Now that I remember, I'm\nstarting to feel embarrassed...)"
                             ]
                         },
                         {
@@ -10997,7 +10997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]Laura! You too...! \\SE[33]Thanks to you, we were able to\nescape from the village somehow..."
+                                "\\SE[4]Laura! You too...! \\SE[33]Thanks to you, we were able\nto escape from the village somehow..."
                             ]
                         },
                         {
@@ -11148,7 +11148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE\\SE[3]... Huh? \\SE[5] Weren't you with Rebecca? \\SE[3] Are you\nin the bathroom now?"
+                                "\\SE\\SE[3]... Huh? \\SE[5] Weren't you with Rebecca? \\SE[3]\nAre you in the bathroom now?"
                             ]
                         },
                         {
@@ -11290,7 +11290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]We managed to escape somehow... \\!\\SE[8]But then we got\ncaught by another group of guys..."
+                                "\\SE[9]We managed to escape somehow... \\!\\SE[8]But then we\ngot caught by another group of guys..."
                             ]
                         },
                         {
@@ -11308,7 +11308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]I think those guys are child kidnappers.... \\SE[37]There\nare rumors among the people around here that there are people who\nkidnap children and sell them."
+                                "\\SE[7]I think those guys are child kidnappers....\n\\SE[37]There are rumors among the people around here that\nthere are people who kidnap children and sell them."
                             ]
                         },
                         {
@@ -11335,7 +11335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]Do you know anything about the place where those people\nwent?"
+                                "\\SE[12]Do you know anything about the place where those\npeople went?"
                             ]
                         },
                         {
@@ -11353,7 +11353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]What I heard is... that they seem to be gathering at the\nMottrel Mine ahead... \\!\\SE[38]Sorry, I don't know anything more\nthan that..."
+                                "\\SE[12]What I heard is... that they seem to be gathering at\nthe Mottrel Mine ahead... \\!\\SE[38]Sorry, I don't know\nanything more than that..."
                             ]
                         },
                         {
@@ -11443,7 +11443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]Don't worry. I feel the same way as you. \\!\\SE[14]Let's\nsave Rebecca together."
+                                "\\SE[0]Don't worry. I feel the same way as you.\n\\!\\SE[14]Let's save Rebecca together."
                             ]
                         },
                         {
@@ -11524,7 +11524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]In that case, we'll figure something out.... \\SE[13]Will\nyou wait here? \\SE[0]Don't worry. I'll definitely bring Rebecca-\nchan back with me."
+                                "\\SE[14]In that case, we'll figure something out....\n\\SE[13]Will you wait here? \\SE[0]Don't worry. I'll\ndefinitely bring Rebecca- chan back with me."
                             ]
                         },
                         {
@@ -12201,7 +12201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE\\SE[2]I'm Lunaroa. \\SE[2]I've even changed your diapers\nbefore... But I guess you've forgotten about that a long time\nago."
+                                "\\SE\\SE[2]I'm Lunaroa. \\SE[2]I've even changed your diapers\nbefore... But I guess you've forgotten about that a long\ntime ago."
                             ]
                         },
                         {
@@ -12256,7 +12256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[tremble]Y-Yeah, please stop! Spare me... It's embarrassing..."
+                                "\\SM[tremble]Y-Yeah, please stop! Spare me... It's\nembarrassing..."
                             ]
                         },
                         {

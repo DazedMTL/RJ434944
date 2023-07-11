@@ -4089,7 +4089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]It went perfectly! \\SE\\SE[48]...or so I'd like to say.\n\\SE[48]I couldn't find the actual item. This is the only thing\nthat caught my eye."
+                                "\\SE[11]It went perfectly! \\SE\\SE[48]...or so I'd like to\nsay. \\SE[48]I couldn't find the actual item. This is the\nonly thing that caught my eye."
                             ]
                         },
                         {
@@ -4210,7 +4210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]Is this... a key? \\SE[3]It's quite big... It doesn't seem\nlike something you would use for a door. \\SE[2]I wonder where\nthis is used...?"
+                                "\\SE[4]Is this... a key? \\SE[3]It's quite big... It doesn't\nseem like something you would use for a door. \\SE[2]I wonder\nwhere this is used...?"
                             ]
                         },
                         {
@@ -4235,7 +4235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE\\SE[1]Don't you know either, sis? \\SE[3]Then, could it be\nsomething newly created...? \\SE[1]Do you have any idea, Nikita-\nsan?"
+                                "\\SE\\SE[1]Don't you know either, sis? \\SE[3]Then, could it be\nsomething newly created...? \\SE[1]Do you have any idea,\nNikita- san?"
                             ]
                         },
                         {
@@ -4276,7 +4276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE\\SE[52]A key...? \\SE[4]It's not something we usually use....\n\\SE[52]I'm sorry... I don't really know...."
+                                "\\SE\\SE[52]A key...? \\SE[4]It's not something we usually\nuse.... \\SE[52]I'm sorry... I don't really know...."
                             ]
                         },
                         {
@@ -4310,7 +4310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]Hmm... I have some clues, but I'm at a dead end... \\SE[3]I\nwonder what to do."
+                                "\\SE[2]Hmm... I have some clues, but I'm at a dead end...\n\\SE[3]I wonder what to do."
                             ]
                         },
                         {
@@ -4362,7 +4362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]It's not something new that Nikita knows... \\!\\SE[51]And\nit's not something old that we know... \\!\\SE[74]If it's neither\nof those..."
+                                "\\SE[50]It's not something new that Nikita knows...\n\\!\\SE[51]And it's not something old that we know...\n\\!\\SE[74]If it's neither of those..."
                             ]
                         },
                         {
@@ -4566,7 +4566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]Let's go ask the gardener, Yard. \\!\\SE[3]They might know\nsomething."
+                                "\\SE[4]Let's go ask the gardener, Yard. \\!\\SE[3]They might\nknow something."
                             ]
                         },
                         {
@@ -4646,7 +4646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]Nikita, come with us. Depending on the situation, we might\nescape together. \\SE[3]Don't worry. I will guarantee your safety."
+                                "\\SE[2]Nikita, come with us. Depending on the situation, we\nmight escape together. \\SE[3]Don't worry. I will guarantee\nyour safety."
                             ]
                         },
                         {
@@ -4726,7 +4726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE\\SE[45] (I wonder... these two... \\SE[13] They seem to have\nbecome close without me noticing... \\SE[45] I can smell it...\nYes, I can definitely smell it...)"
+                                "\\SE\\SE[45] (I wonder... these two... \\SE[13] They seem to\nhave become close without me noticing... \\SE[45] I can smell\nit... Yes, I can definitely smell it...)"
                             ]
                         },
                         {

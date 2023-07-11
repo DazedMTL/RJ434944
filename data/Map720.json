@@ -5148,7 +5148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]I obtained it safely. \\!\\SE[12]Let's go.\\ Luna is waiting."
+                                "\\SE[2]I obtained it safely. \\!\\SE[12]Let's go.\\ Luna is\nwaiting."
                             ]
                         },
                         {
@@ -5725,7 +5725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]I know about you. \\SE[36]You fought to avenge everyone in\nthe village, didn't you? \\SE[38]Are you willing to let go of the\nopportunity to kill me?"
+                                "\\SE[3]I know about you. \\SE[36]You fought to avenge everyone\nin the village, didn't you? \\SE[38]Are you willing to let go\nof the opportunity to kill me?"
                             ]
                         },
                         {
@@ -5791,7 +5791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[58]Enough, I don't care anymore... Because... \\SE[57]It's\n'your side'..."
+                                "\\SE[58]Enough, I don't care anymore... Because...\n\\SE[57]It's 'your side'..."
                             ]
                         },
                         {

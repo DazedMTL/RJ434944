@@ -2678,7 +2678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]This path leads to a cave. \\!\\SE[0]...Don't you want to go?"
+                                "\\SE[2]This path leads to a cave. \\!\\SE[0]...Don't you want\nto go?"
                             ]
                         },
                         {
@@ -3177,7 +3177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]Oh... Did you notice...? Daddy bought me a Soare Necklace.\n\\SE[0]...How do I look?"
+                                "\\SE[51]Oh... Did you notice...? Daddy bought me a Soare\nNecklace. \\SE[0]...How do I look?"
                             ]
                         },
                         {
@@ -3204,7 +3204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]Yes, it suits you very well. \\SE[18]I think you look really\ncute."
+                                "\\SE[3]Yes, it suits you very well. \\SE[18]I think you look\nreally cute."
                             ]
                         },
                         {
@@ -3463,7 +3463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[tremble]\\SE[43]I-I'm not doing anything...! I'm not happy at\nall...!\\SE[19] ...Cough..."
+                                "\\SM[tremble]\\SE[43]I-I'm not doing anything...! I'm not\nhappy at all...!\\SE[19] ...Cough..."
                             ]
                         },
                         {
@@ -3612,7 +3612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]Hmm... It seems to have subsided. I wonder if I caught a\ncold or something..."
+                                "\\SE[38]Hmm... It seems to have subsided. I wonder if I\ncaught a cold or something..."
                             ]
                         },
                         {
@@ -3666,7 +3666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]Ahaha... What's that! Vita! You look like a prince...!"
+                                "\\SE[16]Ahaha... What's that! Vita! You look like a\nprince...!"
                             ]
                         },
                         {
@@ -3828,7 +3828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]Could it be a cold after all...? Aisha, you seem a little\nfeverish."
+                                "\\SE[2]Could it be a cold after all...? Aisha, you seem a\nlittle feverish."
                             ]
                         },
                         {

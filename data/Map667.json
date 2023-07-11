@@ -2374,7 +2374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]Oh, Laura... It's such a shame that you've died.\n\\SM[nod]\\SE[12]Now, let me bring you back to life. \\SE[17]You'll\nreturn to the world of this shitty game once again..."
+                                "\\SE[14]Oh, Laura... It's such a shame that you've died.\n\\SM[nod]\\SE[12]Now, let me bring you back to life.\n\\SE[17]You'll return to the world of this shitty game once\nagain..."
                             ]
                         },
                         {
@@ -2456,7 +2456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]What to do... It's a game where you have to dodge the girls\nand make it to the other side of the bridge. \\SE[18]I'll be\nwaiting on the other side, so hurry up and come over."
+                                "\\SE[4]What to do... It's a game where you have to dodge the\ngirls and make it to the other side of the bridge.\n\\SE[18]I'll be waiting on the other side, so hurry up and\ncome over."
                             ]
                         },
                         {
@@ -3030,7 +3030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]Oh Laura... It's pathetic that you've been defeated.\n\\!\\SM[nod]\\SE[12]Now, let me revive you. \\!\\SE[17]You'll return\nto the world of this shitty game once again..."
+                                "\\SE[14]Oh Laura... It's pathetic that you've been defeated.\n\\!\\SM[nod]\\SE[12]Now, let me revive you. \\!\\SE[17]You'll\nreturn to the world of this shitty game once again..."
                             ]
                         },
                         {
@@ -3378,7 +3378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]Hmm... Maybe I made it too difficult... \\SE[45]Depending\non the player's environment, there are quite a few cases where\nit's impossible to clear. \\SE[14]It's really frustrating to be\nresponsible for players getting stuck."
+                                "\\SE[15]Hmm... Maybe I made it too difficult...\n\\SE[45]Depending on the player's environment, there are\nquite a few cases where it's impossible to clear.\n\\SE[14]It's really frustrating to be responsible for players\ngetting stuck."
                             ]
                         },
                         {
@@ -3396,7 +3396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]Should I use the Switch to Drastically Lower Difficulty\noption...? \\! (You can retry later.)\\!"
+                                "\\SE[2]Should I use the Switch to Drastically Lower\nDifficulty option...? \\! (You can retry later.)\\!"
                             ]
                         },
                         {
@@ -3831,7 +3831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]Oh, Laura... It's such a shame that you've died.\n\\SM[nod]\\SE[12]Now, let me bring you back to life. \\SE[17]You'll\nreturn to the world of this shitty game once again..."
+                                "\\SE[14]Oh, Laura... It's such a shame that you've died.\n\\SM[nod]\\SE[12]Now, let me bring you back to life.\n\\SE[17]You'll return to the world of this shitty game once\nagain..."
                             ]
                         },
                         {
@@ -3858,7 +3858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[33]W-Wait! \\SE[12]Lunaroa appeared too early! \\SE[53]It's\nimpossible to deal with her like that...!!"
+                                "\\SE[33]W-Wait! \\SE[12]Lunaroa appeared too early!\n\\SE[53]It's impossible to deal with her like that...!!"
                             ]
                         },
                         {
@@ -3885,7 +3885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]I adjusted her to be around that level... But I might have\ngone too far.... \\SM[nod]\\SE[12]Alright, let's nerf that Lunaroa."
+                                "\\SE[15]I adjusted her to be around that level... But I might\nhave gone too far.... \\SM[nod]\\SE[12]Alright, let's nerf\nthat Lunaroa."
                             ]
                         },
                         {
@@ -4024,7 +4024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[13]Alright, I've managed to debug it...!\n\\SE[16]Laura! You're going back to the world of this shitty game!\n\\SE[17]...Take this!!"
+                                "\\SM[nod]\\SE[13]Alright, I've managed to debug it...!\n\\SE[16]Laura! You're going back to the world of this shitty\ngame! \\SE[17]...Take this!!"
                             ]
                         },
                         {
@@ -4494,7 +4494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]Oh, Laura... It's such a shame that you've died.\n\\SM[nod]\\SE[12]Now, let me bring you back to life. \\SE[17]You'll\nreturn to the world of this shitty game once again..."
+                                "\\SE[14]Oh, Laura... It's such a shame that you've died.\n\\SM[nod]\\SE[12]Now, let me bring you back to life.\n\\SE[17]You'll return to the world of this shitty game once\nagain..."
                             ]
                         },
                         {
@@ -4842,7 +4842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]Hmm... Maybe I made it too difficult... \\SE[45]Depending\non the player's environment, there are cases where it might be\nimpossible to clear. \\SE[14]It's really frustrating if it's\nbecause of me that they get stuck, it's too unintentional."
+                                "\\SE[15]Hmm... Maybe I made it too difficult...\n\\SE[45]Depending on the player's environment, there are\ncases where it might be impossible to clear. \\SE[14]It's\nreally frustrating if it's because of me that they get\nstuck, it's too unintentional."
                             ]
                         },
                         {
@@ -4860,7 +4860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]Should I use the Switch to Drastically Lower Difficulty\noption...? \\! (You can retry later.)\\!"
+                                "\\SE[2]Should I use the Switch to Drastically Lower\nDifficulty option...? \\! (You can retry later.)\\!"
                             ]
                         },
                         {

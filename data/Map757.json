@@ -2176,7 +2176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0] (Chocolate... Mama... \\SE[60] Humans are scary... Mama...\nChocolate...)"
+                                "\\SE[0] (Chocolate... Mama... \\SE[60] Humans are scary...\nMama... Chocolate...)"
                             ]
                         },
                         {
@@ -2201,7 +2201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[45]I don't understand... What should I do... \\SE[42]I don't\nunderstand anything... I don't understand..."
+                                "\\SE[45]I don't understand... What should I do... \\SE[42]I\ndon't understand anything... I don't understand..."
                             ]
                         },
                         {
@@ -2508,7 +2508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5] Luna is waiting in the bath, so you should go quickly and\nattend to her..."
+                                "\\SE[5] Luna is waiting in the bath, so you should go quickly\nand attend to her..."
                             ]
                         },
                         {

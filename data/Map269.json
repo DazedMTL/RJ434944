@@ -1752,7 +1752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]This is... a document storage room...? \\SE[3]Why... am I in\na place like this...?"
+                                "\\SE[2]This is... a document storage room...? \\SE[3]Why... am\nI in a place like this...?"
                             ]
                         },
                         {
@@ -1793,7 +1793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]Is there something... that Vega wants to show me here...?"
+                                "\\SE[2]Is there something... that Vega wants to show me\nhere...?"
                             ]
                         },
                         {
@@ -1811,7 +1811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]Yes... but, \\SE[3]I don't know the exact location. [2]Could\nyou help me search for it? [3]It should be a stack of documents."
+                                "\\SE[2]Yes... but, \\SE[3]I don't know the exact location.\n[2]Could you help me search for it? [3]It should be a stack\nof documents."
                             ]
                         },
                         {
@@ -2015,7 +2015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]It's okay! It's okay! Let's do our best together, okay?\n\\SE[0]Right?"
+                                "\\SE[16]It's okay! It's okay! Let's do our best together,\nokay? \\SE[0]Right?"
                             ]
                         },
                         {
@@ -2664,7 +2664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]It shouldn't be in the shape of a book. \\!\\SE[3]It might be\na bundle of papers... or maybe it's in an envelope..."
+                                "\\SE[2]It shouldn't be in the shape of a book. \\!\\SE[3]It\nmight be a bundle of papers... or maybe it's in an\nenvelope..."
                             ]
                         },
                         {
@@ -3068,7 +3068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]This is a psychological battle, right? \\!\\SE[15]If you can\nread the hidden person's heart, you can win."
+                                "\\SE[2]This is a psychological battle, right? \\!\\SE[15]If you\ncan read the hidden person's heart, you can win."
                             ]
                         },
                         {
@@ -3503,7 +3503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]Ah... The hour hand and minute hand are misaligned...?\n\\SE[3]The minute hand is almost at 12, but the hour hand is not\ncatching up at all."
+                                "\\SE[5]Ah... The hour hand and minute hand are misaligned...?\n\\SE[3]The minute hand is almost at 12, but the hour hand is\nnot catching up at all."
                             ]
                         },
                         {
@@ -3528,7 +3528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]Ah... That's why it felt strange.... \\SE[15]I wonder what\nit is... It's making me restless.... \\SE[17]I want to fix it\nright away...."
+                                "\\SE[4]Ah... That's why it felt strange.... \\SE[15]I wonder\nwhat it is... It's making me restless.... \\SE[17]I want to\nfix it right away...."
                             ]
                         },
                         {
@@ -3628,7 +3628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[98]Let's do it...! \\.It's the fault of this wrong clock...!"
+                                "\\SE[98]Let's do it...! \\.It's the fault of this wrong\nclock...!"
                             ]
                         },
                         {
@@ -3653,7 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]Yeah, that's right.... \\.I want this clock to keep the\ncorrect time...\\.it should...."
+                                "\\SE[15]Yeah, that's right.... \\.I want this clock to keep\nthe correct time...\\.it should...."
                             ]
                         },
                         {
@@ -3814,7 +3814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]Ah... The clock is completely shattered... I'm sorry....\n\\SE[65]I didn't mean for this to happen...."
+                                "\\SE[46]Ah... The clock is completely shattered... I'm\nsorry.... \\SE[65]I didn't mean for this to happen...."
                             ]
                         },
                         {
@@ -4105,7 +4105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She is reading through the documents at an incredible speed... It\nseems better not to disturb her..."
+                                "She is reading through the documents at an incredible\nspeed... It seems better not to disturb her..."
                             ]
                         },
                         {
@@ -4183,7 +4183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I tried putting it back in its original position for now... The\ndamage is so bad that things like the angle of the needle don't\neven matter."
+                                "I tried putting it back in its original position for now...\nThe damage is so bad that things like the angle of the\nneedle don't even matter."
                             ]
                         },
                         {
@@ -4273,7 +4273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE\\SE[99]What is this place...? \\!\\SE[5]Wow, there are so many\nrestraints... \\!\\SE[99]Handcuffs, ankle cuffs... and a\nblindfold...?"
+                                "\\SE\\SE[99]What is this place...? \\!\\SE[5]Wow, there are so\nmany restraints... \\!\\SE[99]Handcuffs, ankle cuffs... and a\nblindfold...?"
                             ]
                         },
                         {
@@ -4862,7 +4862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]U-uh... so many books... \\SE[51]I'm not good with this\nkind of thing, so I'll leave it to those two..."
+                                "\\SE[102]U-uh... so many books... \\SE[51]I'm not good with\nthis kind of thing, so I'll leave it to those two..."
                             ]
                         },
                         {

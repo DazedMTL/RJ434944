@@ -6617,14 +6617,14 @@
                                 0,
                                 0,
                                 2,
-                                "兵士長  Sergeant  Sergeant  Sergeant"
+                                "Sergeant"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sergeant: They've caused quite a ruckus... Looks like they need\nsome educational guidance...!!"
+                                "They've caused quite a ruckus... Looks like they need some\neducational guidance...!!"
                             ]
                         },
                         {
@@ -6710,7 +6710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]There's nothing to learn from adults who let themselves be\npushed around by kids! \\SE[11]Absolutely nothing! \\!\\SE[18]Idiot!\nStupid!! Stupid!!!"
+                                "\\SE[14]There's nothing to learn from adults who let\nthemselves be pushed around by kids! \\SE[11]Absolutely\nnothing! \\!\\SE[18]Idiot! Stupid!! Stupid!!!"
                             ]
                         },
                         {
@@ -7024,7 +7024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sergeant: You brats...! I'll make you realize the fear of adults!\nI'll thoroughly make you understand...!!"
+                                "Sergeant: You brats...! I'll make you realize the fear of\nadults! I'll thoroughly make you understand...!!"
                             ]
                         },
                         {
