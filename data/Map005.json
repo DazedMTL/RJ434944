@@ -7946,7 +7946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[476]レアアースの欠片を手に入れた！\\$"
+                                "\\i[476] Obtained a rare earth fragment! $"
                             ]
                         },
                         {
@@ -8411,7 +8411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life Alpha! $"
                             ]
                         },
                         {
@@ -9123,28 +9123,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むむっ…『冒険初心者』\\.だね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!足取りがまさに『ドシロウト』\\.って感じ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そんな君に、こっそり教えてあげよう。"
+                                "Hmm... You're a beginner adventurer, right? Your footsteps really\ngive off a total amateur vibe... I'll secretly teach you a thing\nor two."
                             ]
                         },
                         {
@@ -9162,28 +9148,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実はね。もし通常戦闘で『全滅』しちゃっても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『はい、即終了！！』には、ならないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!割と甘めになってるから、どんどん行っちゃって！"
+                                "Actually, even if you wipe out in a regular battle, it won't be\nan instant game over. It's quite forgiving, so go ahead and keep\ngoing!"
                             ]
                         },
                         {
@@ -9194,14 +9166,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、やばそうな雰囲気の所はそうでもないけどね…！"
+                                "Well, it's not like you give off a dangerous vibe or anything...!"
                             ]
                         },
                         {
@@ -9221,28 +9193,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とっと…\\.そうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!それでも無理！めんどくさい！！ってなったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっそ『難易度』を変更してしまうといいよ。"
+                                "Oh... That's right. If it becomes too difficult and bothersome,\nit's better to just change the difficulty level!"
                             ]
                         },
                         {
@@ -9253,28 +9211,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『メニュー』の『オプション』から『難易度』ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ちゃんと言ったからね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "諦めるくらいだったら、いっそ下げちゃってね！"
+                                "Difficulty level can be changed from the Options in the Menu. I\nsaid it properly, you know! If it's too much to handle, it's\nbetter to just lower it!"
                             ]
                         },
                         {
@@ -9334,21 +9278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『オプション』から『難易度』を変更すると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦闘のバランスを変化させることが出来ます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『ＲＰＧ』が苦手、慣れていない方は『イージー』をどうぞ。"
+                                "By changing the difficulty level from the Options, you can alter\nthe balance of battles. If you're not good at or unfamiliar with\nRPGs, please choose Easy."
                             ]
                         },
                         {
@@ -9366,21 +9296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘なんかしたくないやいっ！…という方のために、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.さらに超低難度の『スィート』をご用意させて頂きました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!必要であれば、ご利用いただけたらと思います。"
+                                "For those who don't want to battle... We have prepared an even\neasier difficulty level called Sweet. If necessary, please feel\nfree to use it."
                             ]
                         },
                         {
@@ -9398,14 +9314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…高難易度は理不尽なバランスの可能性があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!いい感じに、お付き合いして頂けたら幸いです。"
+                                "...There is a possibility of unreasonable balance in high\ndifficulty levels. I would be grateful if you could enjoy it in a\ngood way."
                             ]
                         },
                         {
@@ -9432,21 +9341,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんね。長くなっちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.じゃ、気を付けていってらっしゃい。"
+                                "Sorry for rambling on. Well then, take care and have a safe\njourney."
                             ]
                         },
                         {
@@ -9666,21 +9568,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの 『ＢＧＭ』良くない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.これ、好きなんだよねぇ…\\.一生、聞けるわぁ…。"
+                                "Isn't the BGM here not good? I really like it, you know... I\ncould listen to it forever..."
                             ]
                         },
                         {
@@ -11891,7 +11786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[498]スライムの粘液を手に入れた！\\$"
+                                "\\i[498] Obtained slime slime! \\$"
                             ]
                         },
                         {
@@ -12610,7 +12505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[498]スライムの粘液を手に入れた！\\$"
+                                "\\i[498] Obtained slime slime! \\$"
                             ]
                         },
                         {
@@ -13427,21 +13322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘では『自己強化』は大切っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自分の力を高めて、大ダメージを与えよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!……と、書かれた看板に『らくがき』がしてある。"
+                                "In battle, self-enhancement is important! Strengthen yourself and\ndeal massive damage!... Written on a signboard, there is some\ndoodle."
                             ]
                         },
                         {
@@ -13459,21 +13340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃかましいんじゃ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.俺たちは何も考えずに物理で殴る…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そうだろ、みんなっ…！\\!……と書かれている。"
+                                "Don't be noisy...! We just hit with physical attacks without\nthinking...! Right, everyone...!... is written."
                             ]
                         },
                         {

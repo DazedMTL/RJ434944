@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "トライアルダンジョン～進捗６９％～",
+    "displayName": "Trial Dungeon ~Progress 69%~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -8832,14 +8832,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[64]うげぇ…\\.今度はなんなの…。"
+                                "\\SE[64]Ugh... What is it this time..."
                             ]
                         },
                         {
@@ -8859,28 +8859,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]綺麗な場所ばかりじゃないのね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]まるで水中の見えない所で『バタ足』を頑張っている、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.白鳥のような『情緒』を感じさせるわ…！"
+                                "\\SE[2]It's not just beautiful places, huh... It feels like\nstruggling with flutter kicks in an invisible underwater place,\ngiving off a swan-like emotion...!"
                             ]
                         },
                         {
@@ -8898,14 +8884,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]（全肯定の信者が一番やっかいだわ…。）"
+                                "\\SE[6] The most troublesome are the devout believers of absolute\naffirmation..."
                             ]
                         },
                         {
@@ -8939,28 +8925,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]ここは『トラップダンジョン』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.様々なトラップが君たちを待ち構えているよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]『トライ＆エラー』で少しずつ攻略していこう！"
+                                "\\SE[13]This is the Trap Dungeon. Various traps are waiting for\nyou! \\SE[12]Let's conquer them little by little through trial and\nerror!"
                             ]
                         },
                         {
@@ -8971,14 +8943,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]実はちょうど他にも『テストプレイ』を頼んでて…。"
+                                "\\SE[2]Actually, I was just asking for a test play from someone\nelse..."
                             ]
                         },
                         {
@@ -8998,14 +8970,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]他にも？"
+                                "\\SE[2]Anything else?"
                             ]
                         },
                         {
@@ -9454,14 +9426,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あらっ…？"
+                                "\\SE[1]Oh my...?"
                             ]
                         },
                         {
@@ -9512,28 +9484,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]『ママ』…！！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ラウラも一緒なのね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]二人もお手伝いしていたのかしら。"
+                                "\\SE[4]Mama...!! \\.Laura is with you too! \\!\\SE[15]I wonder if\nboth of you were helping out."
                             ]
                         },
                         {
@@ -9553,21 +9511,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]いや、『先行プレイ』はお願いしてたんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]今回はルナロア『だけ』にしか、声をかけてなくて…。"
+                                "\\SE[14]No, I asked for a test play but this time I only reached\nout to Lunaroa..."
                             ]
                         },
                         {
@@ -10364,14 +10315,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]えっと、これは…？"
+                                "\\SE[6]Um, what is this...?"
                             ]
                         },
                         {
@@ -10382,28 +10333,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]仲間キャラを自分で作ることも出来るんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]『レベル１』で始まる以外、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.特に制限はないから、\\.偏った趣向の人だとこんなことに…。"
+                                "\\SE[2]You can even create your own companion character yourself.\n\\!\\SE[1]There are no particular restrictions, except that it\nstarts at Level 1, so if you have unique preferences, you can do\nsomething like this..."
                             ]
                         },
                         {
@@ -10468,28 +10405,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]『テストプレイ』なのに、\\.がっつりやり込んでしまったわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]せっかくだから私の考えた、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『最強パーティ』を、\\.みんなにも紹介させてもらってもいい？"
+                                "\\SE[51]Even though it was just a test play, I got really into\nit... \\SE[10]Since I went through all that trouble, can I\nintroduce the strongest party that I came up with to everyone?"
                             ]
                         },
                         {
@@ -10509,14 +10432,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]ど、どうぞ…。"
+                                "\\SE[7]H-Here you go..."
                             ]
                         },
                         {
@@ -10579,28 +10502,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]左から説明するわね。\\.まずは『前編ラウラ』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]高い素早さとサポートに長けているわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.攻撃力は少し控えめだけど、『可能性』を秘めているの。"
+                                "\\SE[11]Let me explain from the left. First is Part 1 Laura.\n\\SE[10]She excels in high speed and support. Her attack power is\na bit modest, but she holds great potential."
                             ]
                         },
                         {
@@ -10611,28 +10520,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]健気に私に『強化』をかける姿…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[40]戦闘中でも『私自信』がうっかり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元気になっちゃうのが悩ましい所ね…！"
+                                "\\SE[21]The sight of her earnestly strengthening me...\n\\!\\SE[40]Even during battles, it's troubling how she\nunintentionally cheers me up...!"
                             ]
                         },
                         {
@@ -10704,28 +10599,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]『ラウラ』です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]私に何が出来るかは分からないけれど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[100]みんなの足を引っ張らないように頑張ります…！"
+                                "\\SE[22]I'm 'Laura'! \\!\\SE[0]I'm not sure what I can do, but...\n\\!\\SE[100]I'll do my best not to hold everyone back...!"
                             ]
                         },
                         {
@@ -10743,28 +10624,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[28]それで、その…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[91]幼馴染のルナのことが好き…\\.です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]『ユリシーン』で、いつか『結婚』するんだ…！"
+                                "\\SE[28]So, um... \\SE[91]I... I like my childhood friend\nLunaroa... \\SE[21]In the game Yurisene, we're going to get\nmarried someday...!"
                             ]
                         },
                         {
@@ -10793,21 +10660,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]も、もう…ラウラったら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]そんなこと言わなくても分かってるのに…！"
+                                "\\SE[22]M-Mou... Laura! \\!\\SE[21]Even if you don't say that, I\nalready know...!"
                             ]
                         },
                         {
@@ -10911,28 +10771,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]つ、次に行きましょう！\\.『後編ラウラ』！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]『二刀流』を使用可能になって、高いDPSを誇る主砲！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.その姿はまるで『私の考えた最強のラウラ』…！"
+                                "\\SE[12]N-Next, let's move on! Part 2 Laura!! \\SE[10]She can use\nDual Wielding and boasts high DPS as the main firepower! Her\nappearance is just like The strongest Laura I came up with...!"
                             ]
                         },
                         {
@@ -10950,28 +10796,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[32]私を助けるために、彼女は私の剣を携えて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[30]『強さ』と『弱さ』を持ちながら前に進んでいくの…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]はぁ…尊い。\\.これだけでちょっと泣きそうだわ…。"
+                                "\\SE[32]To help me, she carries my sword... \\!\\SE[30]Moving\nforward with both 'strength' and 'weakness'... \\!\\SE[51]Sigh...\nIt's so precious. Just this makes me want to cry a little..."
                             ]
                         },
                         {
@@ -11050,28 +10882,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『ラウラ』です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[18]もう、迷わない。ルナを助けるために…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私はどこまでも強くなる…！"
+                                "\\SE[2]I'm 'Laura'. \\!\\SE[18]I won't hesitate anymore. I will\nbecome stronger to help Lunaroa...!"
                             ]
                         },
                         {
@@ -11101,21 +10919,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]『ルナに守られる私』ではなく…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『ルナと並び立つ私』になる…！"
+                                "\\SE[12]Instead of being someone who is protected by Lunaroa... I\nwant to become someone who stands alongside Lunaroa...!"
                             ]
                         },
                         {
@@ -11199,21 +11010,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]きゃー！！かっこいいー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[29]早く、私を助けてー！！\\. 抱いてー！！！"
+                                "\\SE[51]Kyaa!! So cool!! \\!\\SE[29]Hurry, help me!! Hold me!!"
                             ]
                         },
                         {
@@ -11258,14 +11062,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[66]これは、また…。"
+                                "\\SE[66]This is, again..."
                             ]
                         },
                         {
@@ -11276,14 +11080,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]ラウラが見たら卒倒するんじゃないかしら…。"
+                                "\\SE[12]I wonder if Laura would faint if she saw this..."
                             ]
                         },
                         {
@@ -11376,28 +11180,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]次が最後ね！ \\.子供の頃の『ラウラ』…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]攻撃力はないけれど高い『回復性能』を持っているわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.彼女が編成の『軸』と言えるわね…！"
+                                "\\SE[11]Next is the last one! \\.The childhood 'Laura'...!\n\\!\\SE[10]She may not have high attack power, but she has\nexcellent 'healing abilities'! \\.She can be considered the 'core'\nof the team...!"
                             ]
                         },
                         {
@@ -11408,28 +11198,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あえて防御力を低めにしているわ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]戦闘中でも『守らなきゃ…！』って感じがして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.いつでもほっこり出来るの！"
+                                "\\SE\\SE[10]I deliberately keep my defense low...! \\SE[10]Even\nduring battles, I always have this feeling of I have to\nprotect...! and it makes me feel warm and fuzzy inside!"
                             ]
                         },
                         {
@@ -11501,28 +11277,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]『ラウラ』です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.怪我をしたら教えてね！ 私がすぐに治しちゃうから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[46]まだ小さいけど、お役に立てたらいいな！"
+                                "\\SE[15]I'm 'Laura'! Let me know if you get hurt! I'll heal you\nright away! \\SE[46]I'm still small, but I hope I can be of help!"
                             ]
                         },
                         {
@@ -11542,35 +11304,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]ルナおねーちゃんが『ボス』に負けちゃって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『およおよ』してるときは私のでばん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[46]『いい子いい子♥』と\\.『がんばれー♥』して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.おねーちゃんを慰めてあげてるの！"
+                                "\\SE[9]When Lunaroa loses to a boss and gets all worried, it's my\nturn to shine! \\SE[46]I comfort her by saying Good girl, good\ngirl ♥ and cheering her on with Do your best ♥!"
                             ]
                         },
                         {
@@ -11590,21 +11331,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[84]わ、\\.わっ…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[29]それは、言っちゃだめ…！！"
+                                "\\SE[84]W-Wait...!? \\SE[29]You can't say that...!!"
                             ]
                         },
                         {
@@ -11649,21 +11383,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]ま、まぁ…楽しんでくれてなによりだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]この後は、どう進める予定？"
+                                "\\SE[7]W-Well... as long as you're enjoying yourself, that's what\nmatters. \\!\\SE[2]What are your plans for after this?"
                             ]
                         },
                         {
@@ -11674,28 +11401,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]『クエスト』でお金がたまったから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラウラの装備を『都会』で超強化するわ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]これで周回効率をさらに高めることが出来そうなの！"
+                                "\\SE\\SE[10]I've saved up money from the 'quests', so I'm going to\nenhance Laura's equipment even further in the 'city'...!\n\\!\\SE[10]With this, we should be able to improve our farming\nefficiency even more!"
                             ]
                         },
                         {
@@ -11715,28 +11428,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なら、今のルナロアなら言ってもいいかな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[43]『教会の地下』に行ってみるといいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっておきの『楽しいイベント』が発生すると思うから。"
+                                "\\SE[2]Well, if it's Lunaroa right now, maybe I can say it...\n\\!\\SE[43]You should try going to the Church Basement. I think\nthere will be a special fun event that will occur."
                             ]
                         },
                         {
@@ -11747,28 +11446,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]『教会の地下』ね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.分かったわ…！ \\.行ってみる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]さっ…！ 行きましょう、ラウラ…！"
+                                "\\SE[11]The 'Church Basement', huh! I got it...! Let's go check it\nout! \\SE[10]Alright...! Let's go, Laura...!"
                             ]
                         },
                         {
@@ -12637,21 +12322,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]二人も楽しんでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]いつか『協力プレイ』もしましょう…！"
+                                "\\SE\\SE[10]I hope both of you enjoy it. \\!\\SE[10]Let's play\ntogether someday...!"
                             ]
                         },
                         {
@@ -14212,21 +13890,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]『ママ』…とっても楽しそうだったね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]少し様子がおかしかったけれど！"
+                                "\\SE[16]Mom... You seemed really happy! \\SE[0]But you seemed a\nlittle strange!"
                             ]
                         },
                         {
@@ -14246,21 +13917,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]いくらなんでも、ハマり過ぎでしょう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]あなた『合法ドラッグ』でも作っているの？"
+                                "\\SE[6]You're really obsessed, aren't you...? \\SE[9]Are you even\nmaking legal drugs?"
                             ]
                         },
                         {
@@ -14278,28 +13942,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[68]『合法ドラッグ』って…\\.いや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]創作物は『いかに脳内麻薬を出すか』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.みたいなところあるし、あんまり遠くはないのか…？"
+                                "\\SE[68]Legal drugs... Well, there's a saying that goes something\nlike how to produce brain drugs in creative works, so maybe it's\nnot that far off...? \\!\\SE[51]"
                             ]
                         },
                         {
@@ -14317,28 +13967,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]まっ…いいや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『デバッグ』はこの先だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]この勢いで進んでみよー！"
+                                "\\SE[4]Well... never mind. \\SE[0]The debug is up ahead.\n\\SE[0]Let's keep going with this momentum and see how it goes!"
                             ]
                         },
                         {

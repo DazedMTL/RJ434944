@@ -8480,14 +8480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恋人たちの愛を司る月の神様を祭った石碑だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "祈りをささげると想い人と結ばれると伝えられている。"
+                                "This is a monument dedicated to the moon god who governs the love\nof lovers. It is said that if you offer a prayer, you will be\nunited with your beloved."
                             ]
                         },
                         {
@@ -8505,7 +8498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "祈りをささげますか？"
+                                "Will you offer a prayer?"
                             ]
                         },
                         {
@@ -8561,14 +8554,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "願いは自分の力で叶えるものなのだ。"
+                                "Wishes are something that you make come true with your own power."
                             ]
                         },
                         {
@@ -8672,14 +8665,14 @@
                                 0,
                                 0,
                                 2,
-                                "ライアン"
+                                "Ryan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃ、二人とも気を付けてな。"
+                                "Well then, both of you take care."
                             ]
                         },
                         {
@@ -8720,21 +8713,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当に一緒に行かなくて大丈夫？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]…やっぱり、少し不安だけど。"
+                                "Are you really okay with not going together? \\SE[10]... Well, I'm\nstill a little worried though."
                             ]
                         },
                         {
@@ -8745,28 +8731,14 @@
                                 0,
                                 0,
                                 2,
-                                "ライアン"
+                                "Ryan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]近いうちにユリシーンの兵士さんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "定期の巡回にくるらしいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]俺たちはそこで連れて行ってもらうよ。"
+                                "\\SE\\SE[0]It seems that the soldiers from Ulyssean will come for\ntheir regular patrol soon. \\SE[0]We will be taken there by them."
                             ]
                         },
                         {
@@ -8800,21 +8772,14 @@
                                 0,
                                 0,
                                 2,
-                                "ライアン"
+                                "Ryan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]それに…レベッカをもう少し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "休ませてやりたいし…。"
+                                "\\SE[5]And... I want to let Rebecca rest a little longer..."
                             ]
                         },
                         {
@@ -8839,28 +8804,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]あっ そうだよね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[90]んっ、分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.先にユリシーンで待ってるね。"
+                                "\\SM[nod]Ah, that's right.... \\!\\SE[90]Hmm, I understand. \\.I'll\nwait for you in Ulyssean first."
                             ]
                         },
                         {
@@ -8871,21 +8822,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]向こうで、食事でも行きましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]レベッカちゃんもお大事にね？"
+                                "\\SE[16]Let's go have a meal over there. \\!\\SE[0]Take care of\nyourself too, Rebecca-chan?"
                             ]
                         },
                         {
@@ -8910,14 +8854,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]はいっ！ ありがとうございます。"
+                                "\\SM[nod]Yes! Thank you very much."
                             ]
                         },
                         {
@@ -8928,14 +8872,14 @@
                                 0,
                                 0,
                                 2,
-                                "ライアン"
+                                "Ryan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ラウラ達も気を付けてな。"
+                                "\\SE[1]Take care, Laura and the others."
                             ]
                         },
                         {
@@ -9348,14 +9292,14 @@
                                 0,
                                 0,
                                 2,
-                                "ライアン"
+                                "Ryan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ところでねえちゃんは…ラウラの知り合い？"
+                                "By the way, are you acquainted with Laura, girl?"
                             ]
                         },
                         {
@@ -9366,28 +9310,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロアよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたのオムツも変えてあげたことも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるんだけど…忘れちゃったわよね。"
+                                "I'm Lunaroa. I've even changed your diapers before... but I guess\nyou forgot, huh?"
                             ]
                         },
                         {
@@ -9407,21 +9337,14 @@
                                 0,
                                 0,
                                 2,
-                                "ライアン"
+                                "Ryan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "や、やめてくれよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勘弁してくれ…恥ずかしい…。"
+                                "Y-You, please stop! Spare me... It's embarrassing..."
                             ]
                         },
                         {

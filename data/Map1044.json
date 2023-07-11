@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ラウラの部屋",
+    "displayName": "Laura's room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 10,
@@ -900,28 +900,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]そろそろルナが、帰ってくる……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.めちゃくちゃ大人になってたらどうしよう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[115]５年……\\.５年だもんね。"
+                                "\\SE\\SE[115]Luna will be coming back soon... I wonder what I'll do\nif she's grown up so much... \\SE[115]It's been five years... Five\nwhole years."
                             ]
                         },
                         {
@@ -939,28 +925,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[120]『都会』で『ビック』になってるかもしれないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.こんな『田舎』は退屈に感じるかもしれない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[100]それじゃ、困る。\\.とても……。"
+                                "\\SE[120] She might have become a big shot in the city, and she\nmight find this countryside boring... \\SE[100] If that's the\ncase, I'll be in trouble... Very much so..."
                             ]
                         },
                         {
@@ -978,14 +950,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]…なら、\\.相応の準備をしないとだよね。"
+                                "\\SE[14]... In that case, I need to make appropriate preparations,\nright?"
                             ]
                         },
                         {
@@ -1057,28 +1029,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]…よし、\\.『あれ』を練習しよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[58]『練習しておいたほうがいいよ』って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと前から言われてたし…！"
+                                "\\SE[15]... Alright, let's practice that thing! \\SE[58] I've been\ntold for a long time that it's better to practice after all...!"
                             ]
                         },
                         {
@@ -1277,14 +1235,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……\\.……\\.……。"
+                                "......\\.......\\........"
                             ]
                         },
                         {
@@ -1343,28 +1301,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…私だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.これといって特に秀でたところのない……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!どこにでもいる、\\.いつもの私だ……。"
+                                "...It's me. I don't have any particularly outstanding\nqualities... I'm just an ordinary person..."
                             ]
                         },
                         {
@@ -1430,14 +1374,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……はぁ。"
+                                "......sigh."
                             ]
                         },
                         {
@@ -1519,28 +1463,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…って、ちがう！\\. 落ち込んでる場合じゃない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.今日こそ、確実に『もの』にしないと…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『あれ』を練習する時間、ほとんどないんだから…！！"
+                                "...No, that's not it! \\. This is not the time to be feeling down!\n\\. Today, without fail, I have to make sure to become a thing!!\n\\! I don't have much time to practice that!!"
                             ]
                         },
                         {
@@ -1634,14 +1564,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{そう、\\.『パンチラ』の練習は……！！"
+                                "\\{Yes, practicing panty shots...!!"
                             ]
                         },
                         {
@@ -1675,21 +1605,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…はっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『あっち』を忘れてたっ！！"
+                                "...Hah!! \\I forgot about that!!"
                             ]
                         },
                         {
@@ -2032,28 +1955,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]\\SM[pop]でも、心の準備は出来たぞ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.いざというときが来るかもしれないからね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[58]人生、\\.何があるかは分からないんだから！"
+                                "\\SE[19]\\SM[pop]But I'm mentally prepared...! \\Because the time\nmight come...! \\!\\SE[58]In life, \\you never know what might\nhappen!"
                             ]
                         },
                         {
@@ -2071,28 +1980,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…っと、そうだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『予備のぱんつ』をもっておこう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[22]備えあれば、憂いないもんね。"
+                                "\\SE[2]... Oh, that's right! \\. I should have some backup panties!\n\\!\\SE[22] It's always good to be prepared, you know."
                             ]
                         },
                         {
@@ -2122,7 +2017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[784]ラウラのぱんつを手に入れた！\\$"
+                                "\\i[784]Obtained Laura's panties! \\$"
                             ]
                         },
                         {
@@ -2171,14 +2066,14 @@
                                 0,
                                 0,
                                 2,
-                                "お母さん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラー。\\.ご飯よー！"
+                                "Laura, dinner is ready!"
                             ]
                         },
                         {
@@ -2478,14 +2373,14 @@
                                 3,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile7]\\FF[lunaroa_smile1]\\AA[F]\\M[jump]ふんふーん…♪"
+                                "\\F[laura_smile7]\\FF[lunaroa_smile1]\\AA[F]\\M[jump]Hmm hmm...♪"
                             ]
                         },
                         {
@@ -2496,21 +2391,14 @@
                                 4,
                                 0,
                                 2,
-                                "パパーン"
+                                "Papaan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile7]\\FF[papan_normal]\\AA[FF]どうしたあ？\\C[23]ラウラ\\C[0]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えらいご機嫌じゃないか。"
+                                "\\F[laura_smile7]\\FF[papan_normal]\\AA[FF]What's wrong?\n\\C[23]Laura\\C[0]. You seem to be in a great mood."
                             ]
                         },
                         {
@@ -2521,21 +2409,14 @@
                                 3,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile7]\\FF[papan_normal]\\AA[F]ふふーん♪わかっちゃう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えへへー教えてあげなーい！"
+                                "\\F[laura_smile7]\\FHehe~♪ Can you guess? Ehehe~ I won't tell you~!"
                             ]
                         },
                         {
@@ -2546,21 +2427,14 @@
                                 4,
                                 0,
                                 2,
-                                "パパーン"
+                                "Papaan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile7]\\FF[papan_normal]\\AA[FF]えぇ…教えてくれよぉ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パパショック…。"
+                                "\\F[laura_smile7]\\FF[papan_normal]\\AA[FF]Eh... Please tell me...\nPapa is shocked..."
                             ]
                         },
                         {
@@ -2602,35 +2476,14 @@
                                 5,
                                 0,
                                 2,
-                                "ママミヤ"
+                                "Mamamiya"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile7]\\FF[mamamiya_normal]\\AA[FF]あんまりパパをいじめないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほらあの子よ。隣の\\C[23]ルナロア\\C[0]ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学園に入学するって1年前に出てった娘。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明日帰ってくるんですって。"
+                                "\\F[laura_smile7]\\FF[mamamiya_normal]\\AA[FF]Don't tease Papa too\nmuch. Look, that child. The girl next door,\n\\C[23]Lunaroa\\C[0]-chan. She left a year ago saying she'll enroll\nin the school. She's coming back tomorrow, they say."
                             ]
                         },
                         {
@@ -2641,28 +2494,14 @@
                                 4,
                                 0,
                                 2,
-                                "パパーン"
+                                "Papaan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile7]\\FF[papan_normal]\\AA[FF]あの特待生で行った娘か…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "星界学園で魔法の勉強してるんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…すごいよなぁ。"
+                                "\\F[laura_smile7]\\FF[papan_normal]\\AA[FF]Is that the daughter who\nwent as a scholarship student... She's studying magic at Hoshikai\nAcademy, right? ...That's amazing, isn't it?"
                             ]
                         },
                         {
@@ -2682,21 +2521,14 @@
                                 3,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile6]\\FF[papan_normal]\\AA[F]\\M[jumpjump]帰ってくるー♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰ってくるー♪"
+                                "\\F[laura_smile6]\\FI'm coming back~♪ I'm coming back~♪"
                             ]
                         },
                         {
@@ -2707,28 +2539,14 @@
                                 0,
                                 0,
                                 2,
-                                "ママミヤ"
+                                "Mamamiya"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile6]\\FF[mamamiya_normal]\\AA[FF]この子ったら\\C[23]ルナロア\\C[0]ちゃん大好きで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小さいときは『私は\\C[23]ルナ\\C[0]と結婚するー！』って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言って聞かなかったけ…懐かしいわねぇ。"
+                                "\\F[laura_smile6]\\FF[mamamiya_normal]\\AA[FF]This child, she was so\nin love with Lunaroa-chan. When she was little, she used to say,\nI'm going to marry Lunaroa! and wouldn't listen... It's\nnostalgic, isn't it?"
                             ]
                         },
                         {
@@ -2739,21 +2557,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile6]\\FF[mamamiya_normal]\\AA[F]違うもん！今でも好きだもん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "卒業したら結婚するって約束したもん！"
+                                "\\F[laura_smile6]\\FNo, that's not it! I still love her! We\npromised to get married after we graduate!"
                             ]
                         },
                         {
@@ -2764,28 +2575,14 @@
                                 0,
                                 0,
                                 2,
-                                "パパーン"
+                                "Papaan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile6]\\FF[papan_normal]\\AA[FF]ははっ！女の子同士だと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この国じゃ結婚出来ねぇから『\\C[17]ユリシーン\\C[0]』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "にでも引っ越さねぇとな！"
+                                "Haha! Since two girls can't get married in this country, we'll\nhave to move to a place like Yurisene!"
                             ]
                         },
                         {
@@ -2796,21 +2593,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_doya6]\\FF[papan_normal]\\AA[F]じゃあ引っ越すもん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対結婚するもん！！"
+                                "\\F[laura_doya6]\\FF[papan_normal]\\AA[F]Then let's move! We'll\ndefinitely get married!!"
                             ]
                         },
                         {
@@ -2845,28 +2635,14 @@
                                 0,
                                 0,
                                 2,
-                                "ママミヤ"
+                                "Mamamiya"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_doya6]\\FF[mamamiya_normal]\\AA[FF]あんまりこの子を焚き付けないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたそろそろ時間でしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まーた親方さんにドヤされるわよ？"
+                                "\\F[laura_doya6]\\FDon't provoke this child too much. Isn't it\nabout time for you? You're going to be teased by the boss again,\naren't you?"
                             ]
                         },
                         {
@@ -2877,21 +2653,14 @@
                                 0,
                                 0,
                                 2,
-                                "パパーン"
+                                "Papaan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_doya6]\\FF[papan_normal]\\AA[FF]おっいけねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃ、俺は愛する家族の為に働いてくるぜ！"
+                                "\\F[laura_doya6]\\FF[papan_normal]\\AA[FF]Oh, I got it! Then, I'll\ngo work for the sake of my beloved family!"
                             ]
                         },
                         {
@@ -3114,14 +2883,14 @@
                                 0,
                                 0,
                                 2,
-                                "ママミヤ"
+                                "Mamamiya"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_doya6]\\FF[mamamiya_normal]\\AA[FF]はいはい。行ってらっしゃい。"
+                                "\\F[laura_doya6]\\FF[mamamiya_normal]\\AA[FF]Yes, yes. Have a safe\ntrip."
                             ]
                         },
                         {
@@ -3132,14 +2901,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile1]\\FF[mamamiya_normal]\\AA[F]いってらっしゃいー！"
+                                "\\F[laura_smile1]\\FF[mamamiya_normal]\\AA[F]Have a safe trip!"
                             ]
                         },
                         {
@@ -3150,21 +2919,14 @@
                                 0,
                                 0,
                                 2,
-                                "ママミヤ"
+                                "Mamamiya"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile1]\\FF[mamamiya_normal]\\AA[FF]さて…今のうちに洗濯物を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗っちゃわないとねぇ。"
+                                "Well... I better do the laundry while I can."
                             ]
                         },
                         {
@@ -3184,14 +2946,14 @@
                                 0,
                                 0,
                                 2,
-                                "ママミヤ"
+                                "Mamamiya"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile1]\\FF[mamamiya_normal]\\AA[FF]…あらやだ。薪が少ないわどうしましょう？"
+                                "\\F[laura_smile1]\\FF[mamamiya_normal]\\AA[FF]... Oh my, we're\nrunning low on firewood. What should we do?"
                             ]
                         },
                         {
@@ -3202,14 +2964,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile3]\\FF[mamamiya_normal]\\AA[F]私が枝でも集めてこよっか？"
+                                "\\F[laura_smile3]\\FF[mamamiya_normal]\\AA[F]Should I go gather some\nfirewood?"
                             ]
                         },
                         {
@@ -3220,28 +2982,14 @@
                                 0,
                                 0,
                                 2,
-                                "ママミヤ"
+                                "Mamamiya"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_smile3]\\FF[mamamiya_normal]\\AA[FF]んーお願いしようかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんまり遠くにいっちゃダメよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとお昼前には帰ってくること。"
+                                "\\F[laura_smile3]\\FF[mamamiya_normal]\\AA[FF]Hmm, should I ask her?\nBut don't go too far, okay? And make sure to come back before\nnoon."
                             ]
                         },
                         {
@@ -3252,21 +3000,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[laura_doya1]\\FF[mamamiya_normal]\\AA[F]\\M[jump]任せて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番いいもの拾ってきちゃうから！"
+                                "\\F[laura_doya1]\\FLeave it to me! I'll pick up the best things for\nyou!"
                             ]
                         },
                         {
@@ -3470,28 +3211,14 @@
                                 0,
                                 0,
                                 2,
-                                "ママミヤ"
+                                "Mamamiya"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[mamamiya_normal]\\AA[FF]本当に元気ねぇ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにしてももう5年も経つなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "年を取ると時間なんて一瞬ねぇ…。"
+                                "\\FF[mamamiya_normal]\\AA[FF]You really have a lot of energy... But\nit's already been 5 years, huh? Time flies when you're getting\nolder..."
                             ]
                         },
                         {
@@ -3782,14 +3509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロアとの５年分の『文通』だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…私の宝物。"
+                                "It's five years worth of correspondence with Lunaroa... My\ntreasure."
                             ]
                         },
                         {
@@ -3867,21 +3587,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あっ、\\.そうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]\\SM[double]たしかこの辺りに…。"
+                                "\\SE[2]Ah, that's right. \\SE[14]\\SM[double]I'm pretty sure it's\naround here..."
                             ]
                         },
                         {
@@ -3915,14 +3628,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\$\\SE[19]…あった！"
+                                "\\$\\SE[19]...I found it!"
                             ]
                         },
                         {
@@ -3961,7 +3674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\$へそくりの100G 手に入れた！\\$"
+                                "I got 100G in secret savings!"
                             ]
                         },
                         {
@@ -4038,7 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分のベッドだ。"
+                                "It's my bed."
                             ]
                         },
                         {
@@ -4056,14 +3769,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[29]寝るには早い時間かなぁ…。"
+                                "\\SE[29]I wonder if it's still too early to go to bed...."
                             ]
                         },
                         {

@@ -3292,14 +3292,14 @@
                                 0,
                                 0,
                                 2,
-                                "メイド"
+                                "Maid"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おはようございます。\\!『お嬢様』"
+                                "Good morning, young lady."
                             ]
                         },
                         {
@@ -3333,28 +3333,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]あらっ 貴方まだいたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[75]これ以上いても、『給金』は払えないのだけれど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もう、お金なんてないわよ。\\.知ってると思うけど。"
+                                "\\SE[4]Oh, you're still here? \\SE[75]Even if you stay any longer,\nI won't be able to pay you the wages. I don't have any money\nleft. I think you already know that."
                             ]
                         },
                         {
@@ -3365,28 +3351,14 @@
                                 0,
                                 0,
                                 2,
-                                "メイド"
+                                "Maid"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうですね。私も失礼するつもりです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ただ…私も『リラ家』に長く仕えた身…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私なりに『愛着』もあります。"
+                                "Yes, I understand. I also intend to take my leave. However... I\nhave served the Lira family for a long time myself... I have my\nown attachment as well."
                             ]
                         },
                         {
@@ -3406,21 +3378,14 @@
                                 0,
                                 0,
                                 2,
-                                "メイド"
+                                "Maid"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老婆心ながら、色々心配になってしまうのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お嬢様は…この後、\\.どうなさるおつもりですか？"
+                                "I can't help but worry about various things. What are your plans\nafter this, young lady?"
                             ]
                         },
                         {
@@ -3438,21 +3403,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]どうする…ね。\\.どうしましょうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[75]お母様は『よその家』に行ってしまったし…。"
+                                "\\SE[76]What should we do... \\SE[75]Mother has gone to someone\nelse's house...."
                             ]
                         },
                         {
@@ -3463,28 +3421,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[49]適当に国の仕事に就いて、出世して…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『家の再興』でもしようかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[75]…まだ全然、考えていないのだけれど。"
+                                "\\SE[49]Maybe I should just take up some random government job and\nwork my way up... Maybe even try to revive the family.\n\\!\\SE[75]...But I haven't really thought about it at all yet."
                             ]
                         },
                         {
@@ -3502,21 +3446,14 @@
                                 0,
                                 0,
                                 2,
-                                "メイド"
+                                "Maid"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それも…\\.いいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お嬢様でしたら、成し遂げると思います。"
+                                "That's... a good idea. If it's you, young lady, I believe you can\naccomplish it."
                             ]
                         },
                         {
@@ -3543,21 +3480,14 @@
                                 0,
                                 0,
                                 2,
-                                "メイド"
+                                "Maid"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少し、お時間よろしいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お嬢様に見せたい…\\!『文書』がございます。"
+                                "Excuse me, do you have a moment? I have a document that I would\nlike to show you, young lady..."
                             ]
                         },
                         {
@@ -3577,14 +3507,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『文書』……？"
+                                "\\SE[2]Document...?"
                             ]
                         },
                         {

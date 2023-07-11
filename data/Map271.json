@@ -6336,21 +6336,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[tremble]\\SE[102]ううっ…寒い…\\.でも、あったかい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]でも、寒い…\\.あったかい…。"
+                                "\\SM[tremble]\\SE[102]Ugh... It's cold... But warm... \\SE[51]But,\nit's cold... Warm..."
                             ]
                         },
                         {
@@ -6401,21 +6394,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]風邪引かないようにね…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]ほら、もうちょっとくっついていいから。"
+                                "\\SE[52]Make sure you don't catch a cold, okay...? \\!\\SE[1]Come\non, you can snuggle a little closer."
                             ]
                         },
                         {
@@ -6487,21 +6473,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『文書』のこと…\\.そろそろ聞いてもいいかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]それのためにあんな所まで出向いたのでしょう？"
+                                "\\SE[2]About the document... Can I ask you about it soon?\n\\SE[3]Did you go all the way there for that?"
                             ]
                         },
                         {
@@ -6521,28 +6500,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]そうね…あんた達にも世話になったし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.説明する義務があるわよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]…キャット。\\.お願い。"
+                                "\\SE[50]Well... I've been helped by you guys too. I have an\nobligation to explain, right? \\SE[3]...Cat. Please."
                             ]
                         },
                         {
@@ -6708,14 +6673,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]これは…\\.『レアアースの採掘計画書』…？"
+                                "\\SE[2]Is this... Rare Earth Mining Plan...?"
                             ]
                         },
                         {
@@ -6786,14 +6751,14 @@
                                 0,
                                 0,
                                 2,
-                                "ふたり"
+                                "Two"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『レアアース』…？"
+                                "Rare Earth...?"
                             ]
                         },
                         {
@@ -6818,28 +6783,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]あなた達も何度か見ていると思うけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.魔法を使う際にエネルギー源になる鉱石よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]厳密には違うんだけど、そう理解しておいて。"
+                                "\\SE[4]I think you've seen it a few times too... The mineral that\nserves as the energy source when using magic. \\SE[3]Strictly\nspeaking, it's not exactly that, but just keep that in mind."
                             ]
                         },
                         {
@@ -6850,14 +6801,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[99]ほー…？"
+                                "\\SE[99]Huh...?"
                             ]
                         },
                         {
@@ -6891,21 +6842,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ここ１０年は右肩下がりだったのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あら…２年ほど前から急速に回復してる…？"
+                                "\\SE[2]So it's been declining for the past 10 years. \\!\\SE[3]Oh...\nIt's been rapidly recovering for about 2 years now...?"
                             ]
                         },
                         {
@@ -6916,28 +6860,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なるほど。主要産地だった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナイルン鉱山が枯渇していって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]3年前に新規開発に成功したのね……。"
+                                "\\SE[2]I see. The Nileun Mine, which used to be a major source,\nhas been depleting... \\SE[3]So three years ago, we succeeded in\nnew development..."
                             ]
                         },
                         {
@@ -6971,21 +6901,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]そういえば学園では『地理』は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あまり習っていなかったわね。こうしてみると…。"
+                                "\\SE[3]Come to think of it, we didn't really study geography much\nat school. Looking at it like this..."
                             ]
                         },
                         {
@@ -7019,21 +6942,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]それで…\\.こっちが追加の採掘範囲の資料。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[57]………やっぱり、\\.そうなのね。"
+                                "\\SE[2]So... This is the data for the additional mining area.\n\\SE[57].........I see, it's just as I thought."
                             ]
                         },
                         {
@@ -7091,14 +7007,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…えっ？"
+                                "\\SE[2]...Huh?"
                             ]
                         },
                         {
@@ -7116,14 +7032,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]まぁ…\\.さすがに気づくわよね。"
+                                "\\SE[74]Well... You did notice, right?"
                             ]
                         },
                         {
@@ -7134,21 +7050,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]まず…\\.新規の開拓鉱山がそもそも…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『コーダイン』の領土外…\\.それに…。"
+                                "\\SE[2]First of all... The new development mine is originally...\n\\SE[3]Outside the territory of Cordain... And also..."
                             ]
                         },
                         {
@@ -7173,21 +7082,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]マークが付いてる所…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『紛争』とか『略奪』が起こってない……？"
+                                "\\SE[4]The places marked with a \\SE[3]symbol... Are there no\nconflicts or looting happening there...?"
                             ]
                         },
                         {
@@ -7207,21 +7109,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]それは『新規開拓』の見取り図であると同時に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『紛争』の計画書でもあるんです。"
+                                "\\SE[2]That is not only a blueprint for new development, but also\na plan for conflict."
                             ]
                         },
                         {
@@ -7239,28 +7134,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…そりゃそうよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]自国の生産量で賄えないなら、\\.他所からもってくればいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『国力』はあるんだし、喧嘩をふっかけるのが一番よね。"
+                                "\\SE[2]... Well, that's true. If we can't meet the demand with our\nown production, then we should get it from elsewhere. \\SE[3] We\nhave the national power, so starting a fight is the best option."
                             ]
                         },
                         {
@@ -7287,35 +7168,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]牢獄の途中…政治犯の区画があったでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]あれ、略奪に反対した『保守派』の政治家なのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それっぽい罪状つけてぶち込んでるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]…あんたのときみたいに。"
+                                "\\SE[51]On the way to the prison... There was a section for\npolitical prisoners, right? \\SE\\SE[3]Those are the politicians\nfrom the conservative faction who opposed looting. They're being\nthrown in there with charges that seem fitting. \\SE[3]... Just\nlike what happened to you."
                             ]
                         },
                         {
@@ -7358,28 +7218,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]でも…『コーダイン』が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことしてたって聞いたことない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]辺境にいたから知らなかった…わけじゃ、\\.ないよね？"
+                                "\\SE[4]But... I've never heard that Cordain was doing such a\nthing... \\SE[3]I was in the borderlands, so I didn't know...\nright?"
                             ]
                         },
                         {
@@ -7406,21 +7252,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]表立ってやれば、周辺国から非難は避けられないからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]上手に『代理戦争』をしているのよ。"
+                                "\\SE[4]If we do it openly, we won't be able to avoid criticism\nfrom neighboring countries. \\!\\SE[3]That's why we're conducting\nproxy wars skillfully."
                             ]
                         },
                         {
@@ -7431,21 +7270,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『外部』の組織に領地を奪ってもらって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]鎮圧を口実に『コーダイン』がまた領地を奪うのよ。"
+                                "\\SE[2]We'll have an external organization take over the\nterritory... \\!\\SE[3]And then Cordain will seize the territory\nagain under the pretext of suppression."
                             ]
                         },
                         {
@@ -7472,28 +7304,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]そうやって対面を維持しながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.土地の領有権を主張するの。\\!…断れないわよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[52]平和にしてもらったんだもの。\\!\\SE[3]それくらい。"
+                                "\\SE[4]By maintaining face-to-face contact, we assert our\nownership of the land... You can't refuse, can you? \\SE[52]After\nall, we've given you peace. \\SE[3]That's the least you can do."
                             ]
                         },
                         {
@@ -7520,21 +7338,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]でも、なんでその…\\.『レアアース』…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]っていうのを、そこまで集めてるの？"
+                                "\\SE[5]But why are you collecting so much of that... 'Rare\nEarth'...? \\!\\SE[3]"
                             ]
                         },
                         {
@@ -7545,28 +7356,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]私たち個人では『レアアース』には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこまで依存してはいないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]でも、国単位となると話は別…。"
+                                "\\SE[2]As individuals, we don't rely on Rare Earth that much.\n\\!\\SE[3]But when it comes to the country as a whole, it's a\ndifferent story..."
                             ]
                         },
                         {
@@ -7577,28 +7374,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]コーダインの国力の成長はめざましいものがある…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]けど、『魔法』に完全に依存しているの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そうなれば『レアアース』の消費量も桁違いになってくる。"
+                                "\\SE[76]Cordain's national power has been growing remarkably...\n\\!\\SE[3]But it is completely dependent on magic. \\.If that's the\ncase, the consumption of Rare Earth will also become\nsignificantly higher."
                             ]
                         },
                         {
@@ -7609,21 +7392,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そんなお国と癒着して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.もっとも『メリット』があるところは…。"
+                                "\\SE[2]By colluding with such a country, there are more benefits\nto be gained..."
                             ]
                         },
                         {
@@ -7634,14 +7410,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[33]『魔法学園』…\\.なのね…。"
+                                "\\SE[33] Magic Academy... That's what it is, huh..."
                             ]
                         },
                         {
@@ -7668,14 +7444,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そこって…\\.ルナ達が通ってた…？"
+                                "\\SE[2]That place...\\.Was Lunaroa going through there...?"
                             ]
                         },
                         {
@@ -7686,28 +7462,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]そうね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]『学園』の話はあんまりしてなかったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.帰ったらゆっくり聞かせてあげるね。"
+                                "\\SE[3]I see... \\SE[1]We didn't talk much about the academy, so\nwhen we get back, I'll tell you all about it."
                             ]
                         },
                         {
@@ -7718,14 +7480,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[86]うん…聞きたい…\\.すごく……。"
+                                "\\SE[86]Yes... I want to know... Really..."
                             ]
                         },
                         {
@@ -7783,21 +7545,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…その次が今後の『計画書』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.まぁ、こっちが本題なんだけど。"
+                                "\\SE[2]...The next thing is the future plan document. Well, this\nis the main topic though."
                             ]
                         },
                         {
@@ -7833,21 +7588,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そこがこの辺りで一番の発掘産地なのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『ユリシーン』領内の『モットレル鉱山』…。"
+                                "\\SE[2]That's the best excavation site around here. \\SE[3]The\nMottrell Mine within the Ulyssean territory..."
                             ]
                         },
                         {
@@ -7881,21 +7629,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]『モットレル鉱山』…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.レベッカを、助けたところ…？"
+                                "\\SE[5]Mottrell Mine... The place where we saved Rebecca...?"
                             ]
                         },
                         {
@@ -7906,21 +7647,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]現在保有してる主要な産出鉱山は中小規模なの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]たぶん…\\.３年もすれば枯渇するでしょう。"
+                                "\\SE[4]The main producing mines we currently have are small to\nmedium-sized. \\!\\SE[3]Probably... They will likely be depleted in\nabout three years."
                             ]
                         },
                         {
@@ -7931,21 +7665,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…そうなれば、『モットレル鉱山』を有する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『ユリシーン』から奪うしかないわ。"
+                                "\\SE[2]... If that's the case, we have no choice but to take it\nfrom Ulyssean with the Mottrell Mine."
                             ]
                         },
                         {
@@ -7956,14 +7683,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[48]……\\.……\\.……。"
+                                "\\SE[48]......\\.......\\........"
                             ]
                         },
                         {
@@ -7974,28 +7701,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]…あの国は自転車操業なのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『成長』を維持をするには周りを滅ぼすしかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]そのために手段を選ぶ方法もない…。"
+                                "\\SE[75]... That country is just going through the motions. In\norder to maintain growth, they have no choice but to destroy\neverything around them. \\SE[3] There is no other way but to\nchoose the means to achieve that."
                             ]
                         },
                         {
@@ -8022,35 +7735,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あんたにこれを見せるためだけに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あんな下手な芝居をしてたわけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[74]さっき戦った『白い魔法使い』……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私だけじゃ怪しい相手だったからね。"
+                                "\\SE[2]I only put on such a poor performance just to show you\nthis. \\SE[74]The White Mage we fought earlier... I was the only\none who found them suspicious."
                             ]
                         },
                         {
@@ -8068,14 +7760,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]巻き込んだお二人には申し訳なく思ってるけど…。"
+                                "\\SE[75]I'm sorry for involving both of you..."
                             ]
                         },
                         {
@@ -8102,28 +7794,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]まっ…私は『没落貴族』だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]あっちで家の復興をするよりも気に入らない方と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦うことにした。\\.ってだけなんだけど。"
+                                "\\SE[76]Well... I am a fallen noble, after all. \\!\\SE[51]Rather\nthan rebuilding my family over there, I decided to fight against\nthose I dislike. That's all."
                             ]
                         },
                         {
@@ -8134,21 +7812,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]無茶を承知で言っているわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]…私の言いたいこと、\\.伝わっているわよね。"
+                                "\\SE[2]I'm saying this fully aware of how reckless it is.\n\\!\\SE[3]...I hope you understand what I'm trying to say."
                             ]
                         },
                         {
@@ -8182,21 +7853,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[33]少し…時間をちょうだい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私一人の、問題ではないから…。"
+                                "\\SE[33]Please give me a little time. It's not just my problem\nalone..."
                             ]
                         },
                         {
@@ -8207,21 +7871,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…ええ、もちろん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.答えを急かすつもりはないわ。"
+                                "\\SE[2]... Yes, of course. I have no intention of rushing for an\nanswer."
                             ]
                         },
                         {
@@ -8255,35 +7912,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]でも…こういっちゃアレだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そんな危険なこと…\\.する必要ある？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『戦争』が起きるのが分かってるなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.みんなで逃げちゃえばいいじゃん。"
+                                "\\SE[2]But... I hate to say it, but... Do we really need to do\nsomething so dangerous? \\SE[3]If we know that a war is going to\nhappen, why don't we all just run away together?"
                             ]
                         },
                         {
@@ -8310,14 +7946,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]これを言うべきかは、迷っていたのだけれど…。"
+                                "\\SE[2]I was hesitant about whether or not to say this..."
                             ]
                         },
                         {
@@ -8328,21 +7964,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]ヴィタ。あなたのことも調べたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[82]出身は『ハジッコ集落』…\\.よね。"
+                                "\\SE[3]Vita, I also investigated about you. \\!\\SE[82]You're from\nthe Hajikko Village, right?"
                             ]
                         },
                         {
@@ -8376,14 +8005,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]そう…\\.だけど…。"
+                                "\\SE[8]Yes... But..."
                             ]
                         },
                         {
@@ -8394,28 +8023,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]『レアアース』ってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『精錬』っていう作業が必要なの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]…より『純度』の高い状態にする必要があるわけ。"
+                                "\\SE[74]Rare Earth, you see. \\SE[3]It requires a process called\nrefining. \\SE[3]...It's necessary to make it in a higher state of\npurity."
                             ]
                         },
                         {
@@ -8426,21 +8041,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]それを何も知らない辺境の集落の人間に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『安い金』を払ってやらせているんだけど…。"
+                                "\\SE[74]I'm having someone from a remote village who knows nothing\nabout it do it for a cheap price...."
                             ]
                         },
                         {
@@ -8467,28 +8075,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『精錬』をすると絶対に…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『あぶない物質』が出てしまうの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]人間が少し触れるだけで…\\!取返しのつかないほどの…。"
+                                "\\SE[2]When you perform refining, there is absolutely... a\ndangerous substance that is produced. \\SE[51]Just a slight touch\nfrom a human... it can become irreparable..."
                             ]
                         },
                         {
@@ -8520,14 +8114,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[45]あぶない…\\.物質………。"
+                                "\\SE[45]Dangerous... Substance..."
                             ]
                         },
                         {
@@ -8554,14 +8148,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[67]…っ。"
+                                "\\SE[67]..."
                             ]
                         },
                         {
@@ -8572,35 +8166,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]あなた…『集落』で見なかった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!全身の骨が溶けて体がゼリーみたいになったり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!肺の機能を少しずつ失っていって窒息死したり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[75]すごい頭痛がして、少しずつ言葉を失った人たち…。"
+                                "\\SE[74]Did you... see it in the village? \\!Their entire body\nmelted and turned into jelly-like substance \\!They gradually lost\nlung function and died from suffocation \\!\\SE[75]People who\nexperienced severe headaches and gradually lost their ability to\nspeak..."
                             ]
                         },
                         {
@@ -8634,21 +8207,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[56]……\\.いた。\\.たくさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[57]お父さんも…お母さんも、\\.アイシャも…。"
+                                "\\SE[56]...... They were all there. \\SE[57] My father... my\nmother... Aisha too..."
                             ]
                         },
                         {
@@ -8708,14 +8274,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラとルナロア"
+                                "Laura and Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………\\.………\\.……。"
+                                ".........\\..........\\........"
                             ]
                         },
                         {
@@ -8747,21 +8313,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]この物質を制御する技術はまだこの世界にないのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[75]『精錬』は自国でやるにはあまりに危険だから…。"
+                                "\\SE[76]There is still no technology in this world to control this\nsubstance. \\!\\SE[75]It is too dangerous to refine it in our own\ncountry..."
                             ]
                         },
                         {
@@ -8795,28 +8354,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[67]…ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[74]あなたが利発そうだったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.少し、話過ぎてしまったかもしれないわ…。"
+                                "\\SE[67]... I'm sorry. \\SE[74] You seemed intelligent, so I may\nhave talked a bit too much..."
                             ]
                         },
                         {
@@ -8852,28 +8397,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ルナロア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ラウラには、まだ伝えてない…\\.わよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[74]…その様子だと。"
+                                "\\SE[2]Lunaroa. \\I haven't told Laura yet...\\.Right?\n\\!\\SE[74]...From the looks of it."
                             ]
                         },
                         {
@@ -8914,28 +8445,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[92]もしかして…\\.ハタヤキ村は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[93]おとうさんも…\\.おかあさんも…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[53]『コーダイン』に殺された。\\!\\SE[51]ってこと…？"
+                                "\\SE[92]Could it be... that Hatayaki Village... \\SE[93]My\nfather... and my mother... \\SE[53]were killed by Codain...\n\\SE[51]is that what happened...?"
                             ]
                         },
                         {
@@ -8978,28 +8495,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]村の近くに小さな山、あったでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あそこはまだ未開発地域…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]『レアアース』が採掘できる目算が高いのよ。"
+                                "\\SE[74]There was a small mountain near the village, right? \\.That\narea is still undeveloped.... \\!\\SE[51]It is highly estimated\nthat Rare Earth can be mined there."
                             ]
                         },
                         {
@@ -9026,28 +8529,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[85]難しい話だなって。思ってたけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんとなく、\\.途中から分かったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]…全部、正しく、\\.分かってるか。\\.自信、ないけど。"
+                                "\\SE[85]I thought it was a difficult story. But somehow, I\nunderstood it halfway through. \\SE[51]...I understand everything\ncorrectly. Although I'm not confident."
                             ]
                         },
                         {
@@ -9081,28 +8570,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]ごめんね…\\.私がもっと強かったら…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[38]村の人たちも…\\.あなたのご両親も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.きっと助けられたはずなのに…。"
+                                "\\SE[52]I'm sorry... If only I were stronger... \\SE[38]The people\nin the village... Your parents... They could have been saved for\nsure..."
                             ]
                         },
                         {
@@ -9120,21 +8595,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]私の出身なんて『学園』は分かってるものね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[48]兵を連れた『理事長』に足止めをされちゃったの。"
+                                "\\SE[47]The Principal with the soldiers stopped me because they\nknew where I came from, the Academy. \\!\\SE[48]"
                             ]
                         },
                         {
@@ -9152,21 +8620,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[37]ようやく村に着いたころには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.たくさんの人が死んじゃってて…。"
+                                "\\SE[37]By the time I finally arrived at the village... so many\npeople had already died..."
                             ]
                         },
                         {
@@ -9186,21 +8647,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[95]そんな…\\.ルナが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]悪いことなんて、\\.なにもないよ…。"
+                                "\\SE[95]No way... Lunaroa... \\SE[51]It's not your fault at all..."
                             ]
                         },
                         {
@@ -9211,14 +8665,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]ラウラ………。"
+                                "\\SE[52]Laura..."
                             ]
                         },
                         {
@@ -9245,21 +8699,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]今日は…もう、\\.休みましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]朝になったら国境を越えることになるから…。"
+                                "\\SE[74]Let's rest for today... \\.Because we'll be crossing the\nborder in the morning.... \\!\\SE[51]"
                             ]
                         },
                         {

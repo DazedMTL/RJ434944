@@ -3096,21 +3096,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[double]\\SE[1]わっ…\\.今日のご飯豪華だね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]すっごい、美味しいし…！"
+                                "\\SM[double]\\SE\\SE[21]Wow... Today's meal is so luxurious...!\n\\SE[21]It's incredibly delicious too...!"
                             ]
                         },
                         {
@@ -3130,28 +3123,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[4]うん、ルナロアが張り切り過ぎて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.大漁の具材を買っちゃったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]消費しないと、だめになっちゃうから…。"
+                                "\\SM[nod]\\SE[4]Yeah, Lunaroa got too excited and bought a lot of\nfresh ingredients. \\SE[3]If we don't use them up, they'll go\nbad..."
                             ]
                         },
                         {
@@ -3178,21 +3157,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[29]あはは…ルナは『お茶目さん』だなぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[91]でも、本当に…\\.おいしい…！"
+                                "\\SE[29]Ahaha... Lunaroa is such a mischievous person...\n\\SE[91]But, really... It's delicious...!"
                             ]
                         },
                         {
@@ -3212,21 +3184,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]ルナロアも、ちゃんと食べてよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.買い過ぎた責任はとってもらわないと。"
+                                "\\SE[4]Lunaroa, make sure you eat too, okay? [1]You have to take\nresponsibility for buying too much."
                             ]
                         },
                         {
@@ -3289,28 +3254,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あっ\\. 食べるのを忘れてたわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]そうだ、\\.せっかくだし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[45]『ラウラ』を『おかず』にしながら食べましょう…。"
+                                "\\SE\\SM[nod]\\SE[45]Oh, I forgot to eat... \\SE[0]That's right,\nsince we have them... \\SM[nod]\\SE[45]Let's eat while using Laura\nas a side dish..."
                             ]
                         },
                         {
@@ -3489,28 +3440,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]（あぁ…。\\.一生懸命にご飯を頬張るラウラ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[47]愛おしくて…\\.どこか『官能的』だわ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[35]私が死ぬときは、\\.ラウラに『消化』されて死にたい…。）"
+                                "\\SE[46] (Ah... Laura, who is devouring her meal so eagerly...\n\\SE[47] It's so endearing... and somehow 'sensual'... \\SE[35]\nWhen I die, I want to be 'digested' by Laura and die...)"
                             ]
                         },
                         {
@@ -3569,21 +3506,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]いやぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]今日のルナロアは一段と、\\.『ひどい』ね…。"
+                                "\\SE[14]Oh my... \\SE[15]Lunaroa is particularly... terrible\ntoday..."
                             ]
                         },
                         {
@@ -3594,28 +3524,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]私はもう諦めたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.今日は疲れたから、もう寝るわね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]申し訳ないけど、私抜きでどうにかして…。"
+                                "\\SE[74]I've already given up. \\.I'm tired today, so I'm going to\nsleep now.... \\!\\SE[51]I'm sorry, but please manage without\nme...."
                             ]
                         },
                         {
@@ -3813,28 +3729,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の部屋もあるけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしはここで…みんなと過ごすほうが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好き…かも…。"
+                                "I have my own room too... but I might prefer... spending time\nhere with everyone..."
                             ]
                         },
                         {
@@ -3845,28 +3747,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ベガはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お勉強中に水を…たくさん飲むから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トイレに行く回数が…多いんだよ…。"
+                                "...As for Vega, you see. She drinks a lot of water while\nstudying... so she ends up going to the bathroom... quite\nfrequently..."
                             ]
                         },
                         {
@@ -3877,14 +3765,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほほぉー…？"
+                                "Ohh...?"
                             ]
                         },
                         {
@@ -3895,21 +3783,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞こえてるわよー？"
+                                "Hey, can you hear me?"
                             ]
                         },
                         {
@@ -3987,14 +3868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "炎を見ていると心が落ち着いてくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ここの炎が一番ほっとする。"
+                                "When I look at the flames, my heart becomes calm... The flames\nhere are the most comforting."
                             ]
                         },
                         {
@@ -4362,28 +4236,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の部屋もあるけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしはここで…みんなと過ごすほうが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好き…かも…。"
+                                "I have my own room too... but I might prefer... spending time\nhere with everyone..."
                             ]
                         },
                         {
@@ -4394,28 +4254,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ベガはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お勉強中に水を…たくさん飲むから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トイレに行く回数が…多いんだよ…。"
+                                "...As for Vega, you see. She drinks a lot of water while\nstudying... so she ends up going to the bathroom... quite\nfrequently..."
                             ]
                         },
                         {
@@ -4426,14 +4272,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほほぉー…？"
+                                "Ohh...?"
                             ]
                         },
                         {
@@ -4444,21 +4290,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞こえてるわよー？"
+                                "Hey, can you hear me?"
                             ]
                         },
                         {
@@ -4529,28 +4368,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の部屋もあるけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしはここで…みんなと過ごすほうが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好き…かも…。"
+                                "I have my own room too... but I might prefer... spending time\nhere with everyone..."
                             ]
                         },
                         {
@@ -4561,28 +4386,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ベガはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お勉強中に水を…たくさん飲むから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トイレに行く回数が…多いんだよ…。"
+                                "...As for Vega, you see. She drinks a lot of water while\nstudying... so she ends up going to the bathroom... quite\nfrequently..."
                             ]
                         },
                         {
@@ -4593,14 +4404,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほほぉー…？"
+                                "Ohh...?"
                             ]
                         },
                         {
@@ -4611,21 +4422,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞こえてるわよー？"
+                                "Hey, can you hear me?"
                             ]
                         },
                         {
@@ -4696,28 +4500,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の部屋もあるけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしはここで…みんなと過ごすほうが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好き…かも…。"
+                                "I have my own room too... but I might prefer... spending time\nhere with everyone..."
                             ]
                         },
                         {
@@ -4728,28 +4518,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ベガはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お勉強中に水を…たくさん飲むから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トイレに行く回数が…多いんだよ…。"
+                                "...As for Vega, you see. She drinks a lot of water while\nstudying... so she ends up going to the bathroom... quite\nfrequently..."
                             ]
                         },
                         {
@@ -4760,14 +4536,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほほぉー…？"
+                                "Ohh...?"
                             ]
                         },
                         {
@@ -4778,21 +4554,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞こえてるわよー？"
+                                "Hey, can you hear me?"
                             ]
                         },
                         {

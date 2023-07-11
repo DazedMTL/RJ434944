@@ -13774,7 +13774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よーい…\\.スタート！！"
+                                "Ready... Start!!"
                             ]
                         },
                         {
@@ -14039,14 +14039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームクリア！！おめでとう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたはこのゲームをクリアしました！！"
+                                "Congratulations on clearing the game! You have successfully\ncompleted this game!"
                             ]
                         },
                         {
@@ -14073,21 +14066,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ゲームクリア…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]私、ゴール出来たんだ！"
+                                "\\SE\\SE[21]Game cleared...!? \\!\\SE[21]I made it to the goal!"
                             ]
                         },
                         {
@@ -14192,28 +14178,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]おめでとう。\\.ラウラ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『クソゲー』をクリアしてくれてありがとう…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]だんだん『病みつき』になってきたんじゃないの…！"
+                                "\\SE[13]Congratulations, Laura...! Thank you for clearing this\nshitty game...! \\SE[12]You're starting to get addicted to it,\naren't you...?!"
                             ]
                         },
                         {
@@ -14233,21 +14205,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]じゃあ、今回はクリアプレイヤーのラウラに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬としてこれを贈呈しちゃうよ。"
+                                "\\SE[1]Well then, as a reward for the clear player Laura this\ntime, I'll present this to you."
                             ]
                         },
                         {
@@ -14267,28 +14232,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]…って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう『景品』はあげちゃってたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]でも仕方ない。\\.これをくれてやろう。"
+                                "\\SE[14]... I guess I already gave away the prize. \\!\\SE[15] But\noh well. I'll give you this."
                             ]
                         },
                         {
@@ -14318,7 +14269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[389]キュアミストαを手に入れた！\\$"
+                                "\\i[389] Obtained Cure Mist Alpha! \\$"
                             ]
                         },
                         {
@@ -14385,28 +14336,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]じゃあ、ゲームの世界から出してあげるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]出口はまだ作ってないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恐竜に食べられるか、ルナロアに捕食されてね。"
+                                "\\SE\\SE[0]Well then, I'll let you out of the game world. \\!\\SE[0]I\nhaven't made an exit yet, so you might get eaten by dinosaurs or\ndevoured by Lunaroa."
                             ]
                         },
                         {
@@ -14469,14 +14406,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]えっ。"
+                                "\\SE[19]Huh?"
                             ]
                         },
                         {
@@ -14487,21 +14424,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]じゃあね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プレイしてくれて本当にありがとう…。"
+                                "\\SE[19]Well then, goodbye. Thank you so much for playing..."
                             ]
                         },
                         {
@@ -14582,28 +14512,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[116]あの…ヴィタ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとまって…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[33]これを止めてぇ…！！"
+                                "\\SE[116]Um... Vita...! Wait a moment...!! \\!\\SE[33]Please stop\nthis...!!"
                             ]
                         },
                         {
@@ -14626,14 +14542,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃああああ！！"
+                                "Kyaaaahhh!!"
                             ]
                         },
                         {

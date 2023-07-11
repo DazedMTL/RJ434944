@@ -27634,7 +27634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『メルクル草』を手に入れた！\\$"
+                                "Obtained Mercury Grass! $"
                             ]
                         },
                         {
@@ -27661,21 +27661,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]うん、これでばっちり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]村長さんもきっと喜んでくれるよ。"
+                                "\\SE[16]Yeah, this should be perfect. \\!\\SE[0]I'm sure the village\nchief will be happy with this."
                             ]
                         },
                         {
@@ -27695,28 +27688,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]おつかれさま。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[4]それにしても驚いたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ロノア。あなた『魔法』が使えるのね？"
+                                "\\SE[72]Good work. \\SE[4]But still, I'm surprised. Lunaroa, you\ncan use magic, huh?"
                             ]
                         },
                         {
@@ -27727,21 +27706,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ハタヤキ村を出て…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.気が付いたら、いつの間にか使えるようになってたの。"
+                                "\\SE[1]I left Hatayaki Village... and before I knew it, I became\nable to use it."
                             ]
                         },
                         {
@@ -27775,14 +27747,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そういうことってよくあることなの？"
+                                "\\SE[2]Is that something that happens often?"
                             ]
                         },
                         {
@@ -27793,28 +27765,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ごく稀に…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]ふふっ…ロノア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あなたもしかしたら『天才』かもしれないわね？"
+                                "\\SE[2]Very rarely... \\!\\SE[7]Hehe... Lunaroa. \\.You might also be\na genius, you know?"
                             ]
                         },
                         {
@@ -27872,14 +27830,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]たぁい。"
+                                "\\SE[11]Alright."
                             ]
                         },
                         {
@@ -27890,21 +27848,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]メリッサもすごいよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.すっごく強くてびっくりしちゃった。"
+                                "\\SE[5]Melissa is amazing too, isn't she? She's incredibly strong\nand it surprised me."
                             ]
                         },
                         {
@@ -27946,21 +27897,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]エルモ村の『自警団』で教わってるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[5]見習いだけど、たまにお手伝いもしてるんだ。"
+                                "\\SE\\SE[5]I'm being taught by the Vigilante Corps in Elmo Village.\n\\SE[5]I'm still an apprentice, but sometimes I also help out."
                             ]
                         },
                         {
@@ -28009,21 +27953,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]あなたも、なかなか『センス』があるわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]ラウラくらいなら、すぐ追い抜けるんじゃないかしら？"
+                                "\\SE[72]You also have quite a sense. \\!\\SE[15]I wonder if you can\neasily surpass Laura?"
                             ]
                         },
                         {
@@ -28057,28 +27994,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]あはは…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[5]あっ、そろそろ戻らないと村長さん心配しちゃうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[0]ロノアもちゃんとお花摘めた？"
+                                "\\SE[16]Ahaha...! \\SE[5]Oh, we should probably head back soon, or\nthe village chief will start worrying. \\SE[0]Did Ronoa manage to\npick some flowers too?"
                             ]
                         },
                         {
@@ -28164,14 +28087,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ちぇーたっ！"
+                                "\\SE[1]Che-ta!"
                             ]
                         },
                         {

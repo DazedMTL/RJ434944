@@ -10160,14 +10160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "焚火の暖かさに安らぎを覚える…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体力が全回復した！"
+                                "I feel a sense of peace in the warmth of the bonfire.... My\nstamina has fully recovered!"
                             ]
                         },
                         {
@@ -10272,21 +10265,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君はこんな所にまで来るんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "焚火を用意するのも一苦労だよ…。"
+                                "So you've come all the way here. It was quite a task to prepare\nthe bonfire..."
                             ]
                         },
                         {
@@ -10319,21 +10305,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここのボスは…\\!って過剰戦力じゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!私から言えることが何かあるとは思えないんだけど。"
+                                "The boss here... isn't it too overpowered?! I don't think there's\nanything I can say from my perspective."
                             ]
                         },
                         {
@@ -10357,14 +10336,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はい、お気をつけて、"
+                                "Yes, please be careful."
                             ]
                         },
                         {
@@ -10763,14 +10742,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]やった…\\.かな？"
+                                "\\SE[12]Did I...\\.do it?"
                             ]
                         },
                         {
@@ -10878,28 +10857,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]これで終わりだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『あれ』も何回か千切ったことあったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.いつもこんな感じだったもん。"
+                                "\\SE[4]This is the end. \\!\\SE[0]I've torn apart that a few times\nbefore, but it always ended up like this."
                             ]
                         },
                         {
@@ -10919,28 +10884,14 @@
                                 0,
                                 0,
                                 2,
-                                "凪"
+                                "Nagi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]いつもこんな感じなんですか…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[37]それにしても、お二人と一緒でよかったです…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私一人ではとても…。\\SE[6]"
+                                "\\SE[14]Is it always like this...!? \\SE[37]But still, I'm glad to\nbe with both of you... \\SE[6]I couldn't handle it alone..."
                             ]
                         },
                         {
@@ -10981,14 +10932,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]これでメリアちゃんも助かるのかな…？"
+                                "\\SE[5]I wonder if Meria-chan will be saved with this...?"
                             ]
                         },
                         {
@@ -10999,21 +10950,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そうだと思うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]原因の『あれ』\\.もう片付けられたし…。"
+                                "\\SE[2]I think so. \\SE[0]The cause of that has been taken care\nof..."
                             ]
                         },
                         {
@@ -11075,28 +11019,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]あっ、ここも崩れるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]病床の主がいなくなったんだもん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自浄作用で消されるよね。"
+                                "\\SE[4]Ah, this place is collapsing too. \\SE[3]Since the master of\nthe sickbed is gone. It will be erased by the self-purification\nprocess."
                             ]
                         },
                         {
@@ -11131,21 +11061,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]破滅のアリス…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あなたは……。"
+                                "\\SE[17]Alice of Destruction... You..."
                             ]
                         },
                         {
@@ -11163,21 +11086,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]次は…『ルナロアの夢』で会いましょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]あの子と一緒に待ってるわ。"
+                                "\\SE\\SE[15]Next... let's meet in Lunaroa's Dream. \\SE[15]I'll be\nwaiting there with that child."
                             ]
                         },
                         {
@@ -11188,14 +11104,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]ルナは…\\.元気なの？"
+                                "\\SE[11]Luna... Are you okay?"
                             ]
                         },
                         {
@@ -11206,28 +11122,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]元気だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私たちにも、とっても優しくしてくれてる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]…たまに、とても寂しそうな顔をするけどね。"
+                                "\\SE\\SE[2]I'm doing well. \\SE[2]They are very kind to us.\nSometimes, though, they have a very lonely expression."
                             ]
                         },
                         {
@@ -11268,14 +11170,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[65]そう……。"
+                                "\\SE[65]Yes..."
                             ]
                         },
                         {
@@ -11310,28 +11212,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そろそろお別れの時間ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]少しの間だったけど、楽しかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.またね。\\.\\SE[15]『ラウラ』"
+                                "\\SE\\SE[15]It's time to say goodbye soon. \\SE[16]It was a short\ntime, but it was fun. \\SE[15]See you again, Laura."
                             ]
                         },
                         {
@@ -11419,28 +11307,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[23]ルナ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.もうすぐ、会いに行くよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]あと少しだから…\\.待っていて…。"
+                                "\\SE[23]Luna... I'm going to see you soon. \\SE[12]Just a little\nlonger... Wait for me..."
                             ]
                         },
                         {
@@ -11461,28 +11335,14 @@
                                 0,
                                 0,
                                 2,
-                                "凪"
+                                "Nagi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…まもなく、ここは崩壊します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.脱出しましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]さっ、私の手を…。"
+                                "\\SE[2]...Soon, this place will collapse. Let's escape. \\SE[1]Come\non, take my hand..."
                             ]
                         },
                         {

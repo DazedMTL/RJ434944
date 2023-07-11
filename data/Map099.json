@@ -9680,14 +9680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうなモンスターがこちらを睨んでいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦闘を開始しますか？\\!"
+                                "A strong-looking monster is glaring at us... Should we start the\nbattle?"
                             ]
                         },
                         {
@@ -10380,7 +10373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフβを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life β! \\$"
                             ]
                         },
                         {
@@ -10509,14 +10502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうなモンスターがこちらを睨んでいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦闘を開始しますか？\\!"
+                                "A strong-looking monster is glaring at us... Should we start the\nbattle?"
                             ]
                         },
                         {
@@ -11076,14 +11062,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒制服の少女"
+                                "Girl in a black uniform"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…ただじゃ通してくれそうにないわね。"
+                                "\\SE[2]... You don't seem like someone who would let me pass so\neasily."
                             ]
                         },
                         {
@@ -11125,14 +11111,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]倒せるかな…？"
+                                "\\SE[2]I wonder if you can defeat me...?"
                             ]
                         },
                         {
@@ -11143,21 +11129,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒制服の少女"
+                                "Girl in a black uniform"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]多分、余裕でしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]戦ってるの見てたけど、あなたは『筋』がいいもの。"
+                                "\\SE[4]Maybe, you'll have an easy time. \\SE[7]I've been watching\nyou fight, and you have good muscles."
                             ]
                         },
                         {
@@ -11168,21 +11147,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒制服の少女"
+                                "Girl in a black uniform"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]教えてくれる『先生』がいいんでしょうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]実戦経験は少なそうだけど基本は出来ているし。"
+                                "\\SE[2]You probably prefer having a teacher who can teach you,\nright? \\SE[7]Even though you seem to have little actual combat\nexperience, you have the basics down."
                             ]
                         },
                         {
@@ -11202,14 +11174,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]えっ…\\.そ、そうかなぁ…///"
+                                "\\SE[8]Huh... I-I'm not so sure about that...///"
                             ]
                         },
                         {
@@ -11227,14 +11199,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]（えへへ…\\.ルナのこと褒められちゃった。）"
+                                "\\SE[22] (Ehehe... I got praised by Luna.)"
                             ]
                         },
                         {
@@ -11245,21 +11217,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒制服の少女"
+                                "Girl in a black uniform"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]キャット。\\.ラウラのサポートをしてあげて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]私のほうは勝手に上手くやるわ。"
+                                "\\SE[2]Cat. Please support Laura. \\SE[3]I'll manage on my own."
                             ]
                         },
                         {
@@ -11329,21 +11294,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]お任せあれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.いざとなったらラウラちゃん担いで逃げますので！"
+                                "\\SE[15]Leave it to me! If things get tough, I'll carry Laura-chan\nand run away!"
                             ]
                         },
                         {
@@ -11361,21 +11319,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒制服の少女"
+                                "Girl in a black uniform"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]あとは、そうね…\\.ラウラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]あなたに一つ魔法を教えてあげるわ。"
+                                "\\SE[4]And then, let's see... Laura. \\SE[7]I'll teach you one\nmagic spell."
                             ]
                         },
                         {
@@ -11402,21 +11353,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[106]『魔法』…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[102]私にも『魔法』が…！？"
+                                "\\SE[106]Magic...!! \\!\\SE[102]I can use magic too...!?"
                             ]
                         },
                         {
@@ -11434,28 +11378,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒制服の少女"
+                                "Girl in a black uniform"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[84]あー…\\.想像してるのとは違うかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]『数学の魔法』とでも言いましょうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…戦いながら教えてあげるわ。"
+                                "\\SE[84]Ah... It might be different from what you're imagining.\n\\SE[7]Let's call it Mathematical Magic or something. I'll teach\nyou while we fight."
                             ]
                         },
                         {
@@ -11475,21 +11405,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[100]んんっ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[17]よく分かんないけど、分かった…！"
+                                "\\SE[100]Hmm...? \\!\\SE[17]I'm not entirely sure, but I\nunderstand...!"
                             ]
                         },
                         {
@@ -11657,14 +11580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうなモンスターがこちらを睨んでいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦闘を開始しますか？\\!"
+                                "A strong-looking monster is glaring at us... Should we start the\nbattle?"
                             ]
                         },
                         {
@@ -12120,7 +12036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[414]天使のつのぶえを手に入れた！\\$"
+                                "\\i[414] I obtained the horn of an angel! $"
                             ]
                         },
                         {
@@ -13062,7 +12978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは開きそうにない…。"
+                                "It doesn't seem like this will open..."
                             ]
                         },
                         {

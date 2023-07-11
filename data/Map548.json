@@ -4658,14 +4658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "異形の生命体が蠢いている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦いますか？"
+                                "Strange life forms are wriggling... Will you fight?"
                             ]
                         },
                         {
@@ -5020,21 +5013,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]倒せた…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]一体、\\.なんだったの…？"
+                                "\\SE[5]I defeated it...? \\!\\SE[3]What on earth was it...?"
                             ]
                         },
                         {
@@ -5095,21 +5081,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]結局…\\.収穫はなしね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[4]『精霊』もいないようだし…\\.撤収しましょう…。"
+                                "\\SE[75]In the end... There's no harvest... \\SE[4]It seems there\nare no Spirits either... Let's withdraw..."
                             ]
                         },
                         {
@@ -5120,21 +5099,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[44]そうだね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]なんだか疲れちゃったよ…。"
+                                "\\SE[44]That's right.... \\!\\SE[9]I feel kind of tired...."
                             ]
                         },
                         {
@@ -5263,21 +5235,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[20]これは…\\.戦ってらんないわね！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[22]逃げるわよ！！"
+                                "\\SE[20]This... We can't keep fighting!! \\SE[22]Let's run away!!"
                             ]
                         },
                         {

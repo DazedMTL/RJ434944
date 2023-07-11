@@ -10123,28 +10123,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]お疲れさま。これで、依頼達成ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]なかなか、いい動きが出来ていたと思うわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[11]ラウラの『超すごい指揮』のおかげね。"
+                                "\\SE\\SE[0] Good work. With this, the mission is complete. \\SE[0] I\nthink you did a great job with your movements. \\SE[11] Thanks to\nLaura's amazing command."
                             ]
                         },
                         {
@@ -10155,21 +10141,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[33]\\SM[pop]無理矢理、褒めようとしないで…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]超すごくはないです！ \\.はずかしい！"
+                                "\\SE[33]\\SM[pop]Don't try to force yourself to praise me...!\n\\!\\SE[51]I'm not that amazing! \\.It's embarrassing!"
                             ]
                         },
                         {
@@ -10180,28 +10159,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[80]『過保護』ね、\\.ほんと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]まっ…仕事も片付いたし、帰りましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]ここの報告書は私がやっとくわ。\\.家賃代としてね。"
+                                "\\SE[80]Overprotective, huh... Seriously.... \\SE\\SE[7]Well...\nsince the work is done, let's go home. \\SE[7]I'll take care of\nthe report here. Consider it as payment for the rent."
                             ]
                         },
                         {
@@ -10212,21 +10177,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]や、家賃だなんて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]そんなこと、気にしなくてもいいのに。"
+                                "\\SE[5]Oh, about the rent... \\SE[3]You don't have to worry about\nthat kind of thing."
                             ]
                         },
                         {
@@ -10260,21 +10218,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]あら、そう…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ならお言葉に甘えて、あなたが代わりに書いてみる？"
+                                "\\SE[72]Oh, really...? \\.In that case, I'll take you up on your\noffer and have you write it instead?"
                             ]
                         },
                         {
@@ -10303,28 +10254,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[33]わ、私にはそのっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あまりにも、難しすぎて、\\.それはっ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[92]やっぱり、家賃分働いていただいても…？"
+                                "\\SE[33]W-Wait, that's...! It's just too difficult, and...!!\n\\SE[92]Maybe you could work for the rent after all...?"
                             ]
                         },
                         {

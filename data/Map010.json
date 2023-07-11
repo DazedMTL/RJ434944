@@ -2021,7 +2021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "高級な暖炉だ。高級なだけでは女性にはモテない。"
+                                "It's a high-class fireplace. Just being high-class won't make it\npopular with women."
                             ]
                         },
                         {
@@ -2099,35 +2099,14 @@
                                 0,
                                 0,
                                 2,
-                                "独身のおじさん"
+                                "Unmarried uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やぁ、ラウラちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ところでお金には困ってないかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そんなときはおじさんに相談しなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんたって私は『独身』で\\.『お金持ち』だからね。"
+                                " Hey, Laura-chan. By the way, are you having any financial\ntroubles? If you are, you should come and talk to your uncle.\nAfter all, I am unmarried and rich, you know."
                             ]
                         },
                         {
@@ -2138,14 +2117,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]いやっ！\\.大丈夫です！"
+                                "\\SE[19]No! I'm fine!"
                             ]
                         },
                         {
@@ -2156,21 +2135,14 @@
                                 0,
                                 0,
                                 2,
-                                "独身のおじさん"
+                                "Unmarried uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか…困ったときはいつでも頼りなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!なんたっておじさんは『独身』で\\.『お金持ち』だからね。"
+                                "I see... Whenever you're in trouble, you can rely on me. After\nall, your uncle is unmarried and rich, you know."
                             ]
                         },
                         {
@@ -2239,28 +2211,14 @@
                                 0,
                                 0,
                                 2,
-                                "独身のおじさん"
+                                "Unmarried uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やぁ、ラウラちゃん……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ちょっと、疲れていてね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.また今度ね…。"
+                                " Hey, Laura-chan... Sorry, I'm a bit tired right now... Let's\ncatch up another time, okay?"
                             ]
                         },
                         {
@@ -2271,14 +2229,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]明らかに疲弊しきっている……。"
+                                "\\SE[102]He looks completely exhausted..."
                             ]
                         },
                         {
@@ -2363,14 +2321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おじさんのお気に入りのようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.使い込まれた形跡がある。"
+                                "It seems to be the old man's favorite. There are signs of heavy\nuse."
                             ]
                         },
                         {
@@ -2448,14 +2399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新しくお迎えしたばかりの娘みたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…まだ綺麗。"
+                                "She's like a newly adopted daughter. \\!...Still so beautiful."
                             ]
                         },
                         {
@@ -2533,14 +2477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この村にはピアノを買うと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.女性にモテるという『迷信』がある。"
+                                "In this village, there is a superstition that says if you buy a\npiano, you will be popular with women."
                             ]
                         },
                         {
@@ -2618,28 +2555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シオリチャン、お疲れ様〜😃♥ 😄"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!一緒に今度ランチ、したいなァ💗😃♥ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ｵｼﾞｻﾝと一緒に行こうヨ(^o^)💗😆(^_^)❗💕😄😃☀ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!なんてね(^з<)😚😄☀ (^o^)(^_^)😍"
+                                "Shiori-chan, good job~ 😃♥ 😄 Let's have lunch together next time,\nI'd love to! 💗😃♥ Let's go with Oshisan (^o^)💗😆(^_^)❗💕😄😃☀ Just\nkidding (^з<)😚😄☀ (^o^)(^_^)😍"
                             ]
                         },
                         {
@@ -2657,21 +2573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーンで働いているらしい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大人のお姉さんへ愛情たっぷりな恋文みたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…これは破壊力がありそうだ。"
+                                "It seems like a love letter full of affection for an adult sister\nworking in the Yuri scene. \\!... This seems to have destructive\npower."
                             ]
                         },
                         {
@@ -2698,7 +2600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "急いで隠したのか、ぐしゃぐしゃになっている……。"
+                                "Did you hurriedly hide it? It's all crumpled..."
                             ]
                         },
                         {
@@ -2786,21 +2688,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あ、あら……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.こんな所で会うなんてね……。"
+                                "\\SE[2] Ah, oh my... To meet in a place like this..."
                             ]
                         },
                         {
@@ -2811,21 +2706,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]えっ、\\.あっ…そうだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[29]めずらしいね。\\.あはは……。"
+                                "\\SE[102]Huh, ah... That's right. \\SE[29]It's unusual, isn't it?\nAhaha..."
                             ]
                         },
                         {
@@ -2843,21 +2731,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ラウラは何も見なかったし、知らなかった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]…そうだよね？"
+                                "\\SE\\SE[15]Laura didn't see anything and didn't know...\n\\!\\SE[15]...That's right, isn't it?"
                             ]
                         },
                         {
@@ -2868,21 +2749,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[123]\\SM[pop]……っ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[29]そ、そうだねー…\\.あはは……。"
+                                "\\SE[123]\\SM[pop]......!? Y-Yes, that's right... Ahaha..."
                             ]
                         },
                         {
@@ -3065,7 +2939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\$300Gを入手した。"
+                                "Obtained $300G."
                             ]
                         },
                         {
@@ -3142,7 +3016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう何も入っていなかった。"
+                                "There was nothing left."
                             ]
                         },
                         {
@@ -3220,14 +3094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここ最近、トマトの香りを纏うと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.女性にモテるというデマが広がっている。"
+                                "Recently, there has been a rumor spreading that if you have the\nscent of tomatoes, you will be popular with women."
                             ]
                         },
                         {

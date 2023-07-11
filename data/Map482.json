@@ -4627,21 +4627,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]本日から学びを共にする友人を紹介する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]すでに、聞き及んでいる者も多いと思うが…。"
+                                "\\SE[2]Today, I will introduce a friend who will study together\nwith us. \\!\\SE[3]I believe many of you have already heard about\nher..."
                             ]
                         },
                         {
@@ -4878,28 +4871,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]本日よりこちらでお世話になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『ルナロア』と申します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[0]至らぬところもありますが、\\.よろしくお願いします。"
+                                "\\SE\\SM[nod]\\SE[0] From today onwards, I will be in your care\nhere. My name is Lunaroa. \\SM[nod]\\SE[0] I may have some\nshortcomings, but please take care of me."
                             ]
                         },
                         {
@@ -5112,21 +5091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『魔法学園』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.コーダイン帝国に属する学び舎。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そこは優秀な者を集め、国民に教養を与える機関…。"
+                                "『Magic Academy』\\. A school belonging to the Kordain Empire. \\!It\nis an institution that gathers talented individuals and provides\neducation to the citizens..."
                             ]
                         },
                         {
@@ -5144,21 +5109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『学業』は一部の貴族が受けられる高尚なもの…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『ハタヤキ村』は中立地域だし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本来なら私のような田舎者が受けられるものではない。"
+                                "『Academics』 is a sophisticated pursuit that only a few nobles can\nundertake... \\!『Hatayaki Village』 is a neutral area, so it's not\nsomething that a country bumpkin like me should be able to\npursue."
                             ]
                         },
                         {
@@ -5176,14 +5127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ私は、『特待生』っていう待遇を受けることが出来て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "高額な学費を免除してもらえるそうだ。"
+                                "I heard that I will be able to receive the treatment of a\n'scholarship student' and have my expensive tuition fees waived."
                             ]
                         },
                         {
@@ -5201,21 +5145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最初は行くつもりなんて、\\.なかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.学歴なんて私にはどうでもいいことだし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!なにより…\\!ラウラと離れるのは寂しかった。"
+                                "At first, I didn't plan on going. I didn't care about my academic\nbackground... But above all else... I was sad to be separated\nfrom Laura."
                             ]
                         },
                         {
@@ -5233,21 +5163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『学園』を卒業すると『家名』が与えられて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『貴族の地位』を得ることができるみたいで…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!私は家族のために、『学園』に通うことにした。"
+                                "It seems that upon graduating from the 'academy', one is given a\n'family name' and can obtain a 'noble status'... \\!For the sake\nof my family, I have decided to attend the 'academy'."
                             ]
                         },
                         {

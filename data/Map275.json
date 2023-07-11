@@ -8009,14 +8009,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]ものすごく、強そうなモンスターがいる…。"
+                                "\\SE[102]There's a really strong-looking monster..."
                             ]
                         },
                         {
@@ -8027,14 +8027,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]……\\.……\\.……\\!\\SE[14]…あっ。"
+                                "\\SE[3]......\\.......\\.......\\!\\SE[14]...Ah."
                             ]
                         },
                         {
@@ -8068,28 +8068,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]い、いや…なんでもないの…\\.あはは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]もしかしたら、強いかも？\\.だから…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.気を付けたほうが、いいんじゃないかなー？\\. …って。"
+                                "\\SE[21]N-No... It's nothing... Ahaha... \\SE[0]Maybe it's strong?\nSo... It might be better to be careful, you know? ...Well..."
                             ]
                         },
                         {
@@ -8100,14 +8086,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]そ、そうなの…？"
+                                "\\SE[5]I-Is that so...?"
                             ]
                         },
                         {
@@ -8311,14 +8297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうなモンスターがいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦いますか？\\!"
+                                "There's a strong-looking monster.... Will you fight it?"
                             ]
                         },
                         {
@@ -8552,14 +8531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユニークモンスター討伐の記念碑だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『ヘルデーモン』と再戦しますか？\\!"
+                                "It's a monument to commemorate the defeat of a unique monster....\n\\! Hell Demon will you have a rematch? \\!"
                             ]
                         },
                         {

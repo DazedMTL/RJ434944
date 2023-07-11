@@ -16573,14 +16573,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]今日の目的地は狩場の先…。"
+                                "\\SE[3] Today's destination is ahead of the hunting grounds..."
                             ]
                         },
                         {
@@ -16857,21 +16857,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]まだ『ブツ』を手に入れていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…\\SE[4]手持無沙汰じゃ帰れないぞ。"
+                                "\\SE[3] I still haven't obtained the item. \\!...\\SE[4] I can't go\nback empty-handed."
                             ]
                         },
                         {
@@ -17056,21 +17049,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]おはよー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はどこまでいこっか？"
+                                "\\SE[1]Good morning! Where should we go today?"
                             ]
                         },
                         {
@@ -17081,21 +17067,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]おかあさんに『メルクル草』頼まれたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前よりも奥に進みたいな。"
+                                "\\SE[4]Mom asked me to get some Merukuru Grass, so I want to go\nfurther in than before."
                             ]
                         },
                         {
@@ -17106,28 +17085,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]あっー…かがんで『石洗い』してるもんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お父さんも腰痛そうにしてたし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]私も持って帰ろー。"
+                                "\\SE[7]Ah... you're bending down and washing stones, huh. Dad also\nseemed to have back pain... \\!\\SE[0]I'll bring some back too."
                             ]
                         },
                         {
@@ -17138,21 +17103,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]よーし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[pop]\\SE[11]『無敵のコンビ』出発っー！！"
+                                "\\SE[13]Alright.... \\!\\SM[pop]\\SE[11]Departure of the Invincible\nDuo!!"
                             ]
                         },
                         {
@@ -17163,14 +17121,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[pop]\\SE[1]おー……！！"
+                                "\\SM[pop]\\SE[1]Oh...!!"
                             ]
                         },
                         {
@@ -17353,21 +17311,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]どうしたー…\\.『サーブルノワール』？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]今度こそは、って顔をしているな…！"
+                                "\\SE[4]What's wrong... Sable Noir? \\SE[12]You have that I'm\ndetermined this time look on your face...!"
                             ]
                         },
                         {
@@ -17385,28 +17336,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]いやー…無理だねー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[6]朝なんて『もぐら』にびっくりして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっとガタガタ震えてたんだもん。"
+                                "\\SE[9]Oh... it's impossible, right? \\!\\SE[6]I was surprised by\nthe mogura this morning and I've been trembling ever since."
                             ]
                         },
                         {
@@ -17426,21 +17363,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[10]そ、それは厳しいな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]やっぱりお前には『おるすばん』がお似合いだ…！"
+                                "\\SE[10]T-That's tough! \\!\\SE[13]I guess house-sitting suits you\nafter all...!"
                             ]
                         },
                         {
@@ -17501,21 +17431,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]行きましょ。\\.ヴィタ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[11]今日の私はやる気まんまんなの…！"
+                                "\\SE[0]Let's go, Vita! \\SE[11]I'm full of motivation today...!"
                             ]
                         },
                         {
@@ -17876,14 +17799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『サーブルノワール』は遊んで欲しいみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…なでてあげますか？\\!"
+                                "It seems like they want you to play 'Sable Noir'. Shall I pet\nthem for you?"
                             ]
                         },
                         {
@@ -17951,7 +17867,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごきげんになったみたい…。"
+                                "It seems like they became happy..."
                             ]
                         },
                         {
@@ -18001,7 +17917,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっとさみしそう…。"
+                                "They seem a little lonely..."
                             ]
                         },
                         {

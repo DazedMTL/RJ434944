@@ -7801,21 +7801,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン兵"
+                                "Cordin Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お疲れさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この先は『コーダイン』だよ。"
+                                "Good work. From here on out, it's Cordin."
                             ]
                         },
                         {
@@ -8777,14 +8770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうなモンスターがいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦いますか？\\!"
+                                "There's a strong-looking monster.... Will you fight it?"
                             ]
                         },
                         {
@@ -9030,14 +9016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユニークモンスター討伐の記念碑だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『戦乙女』と再戦しますか？\\!"
+                                "It's a monument to commemorate the defeat of a unique monster....\nShall we have a rematch with the 'Battle Maiden'?"
                             ]
                         },
                         {
@@ -9558,7 +9537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[497]あぶない劇毒を手に入れた！\\$"
+                                "\\i[497] Obtained dangerous poison! \\$"
                             ]
                         },
                         {
@@ -10277,7 +10256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[385]マジカルケアβを手に入れた！\\$"
+                                "\\i[385] I obtained Magical Care β! \\$"
                             ]
                         },
                         {

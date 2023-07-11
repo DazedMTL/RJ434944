@@ -11639,14 +11639,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]私たちが使うような武器は売ってないわよ。"
+                                "\\SE[2] We don't sell weapons like the ones we use."
                             ]
                         },
                         {
@@ -11657,14 +11657,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]うっ…たしかに…。"
+                                "\\SE[38]Uh... That's true..."
                             ]
                         },
                         {
@@ -11773,28 +11773,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン兵"
+                                "Cordin Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごくろうさま。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報告に会った学園の生徒さんだね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!準備が出来たら俺に声をかけてくれ。"
+                                "Good work. You're the student from the academy who came for the\nreport, right? When you're ready, please let me know."
                             ]
                         },
                         {
@@ -11812,7 +11798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『コーダイン地下水道』に行きますか？\\!"
+                                "Are you going to the 'Cordin Underground Sewer'?!"
                             ]
                         },
                         {
@@ -11958,28 +11944,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン兵"
+                                "Cordin Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごくろうさま。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報告に会った学園の生徒さんだね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!準備が出来たら俺に声をかけてくれ。"
+                                "Good work. You're the student from the academy who came for the\nreport, right? When you're ready, please let me know."
                             ]
                         },
                         {
@@ -11997,7 +11969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地下水道に行きますか？\\!"
+                                "Are you going to the underground sewer?"
                             ]
                         },
                         {
@@ -13069,21 +13041,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン兵"
+                                "Cordin Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは兵士の宿舎なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "関係者以外立ち入り禁止だよ。"
+                                "This is the soldiers' dormitory. It's off-limits to anyone who is\nnot authorized."
                             ]
                         },
                         {
@@ -13712,21 +13677,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]この先は城外よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…外出許可はとってないわ。"
+                                "\\SE[2] Beyond here is outside the castle... I don't have\npermission to leave."
                             ]
                         },
                         {
@@ -14007,21 +13965,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン兵"
+                                "Cordin Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先はコーダイン城だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中庭までは入れるが、社会科見学もほどほどにな。"
+                                "This is Cordin Castle up ahead. You can enter the courtyard, but\nplease refrain from excessive sightseeing."
                             ]
                         },
                         {
@@ -14092,35 +14043,14 @@
                                 0,
                                 0,
                                 2,
-                                "主婦さん"
+                                "Housewife"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うちの旦那が仕事中に地下の化け物に襲われたのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幸い軽いけがで済んだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あんたたちが倒してくれるのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちの家計のためにも頑張っとくれ…！"
+                                "My husband was attacked by a monster in the basement while he was\nat work. Fortunately, he only got minor injuries... Will you all\nbe able to defeat it? Please do your best for the sake of our\nhousehold finances...!"
                             ]
                         },
                         {
@@ -14191,21 +14121,14 @@
                                 0,
                                 0,
                                 2,
-                                "客引きバニー"
+                                "Bunny Hostess"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客引き中よ…うっふん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…ってあらやだ、女の子に色仕掛けしちゃったわ。"
+                                "I'm trying to attract customers... hehe ♥ Oh my, I accidentally\nseduced a girl."
                             ]
                         },
                         {
@@ -14223,28 +14146,14 @@
                                 0,
                                 0,
                                 2,
-                                "客引きバニー"
+                                "Bunny Hostess"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…いや、そこのあなた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を一瞬『そういう目』で見たわね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!なら問題ないわ。\\.うっふん♥"
+                                "...Oh, you there. Did you just give me a quick that kind of look?\nWell, that's not a problem. Hehe ♥"
                             ]
                         },
                         {
@@ -14264,14 +14173,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[59]み、見てませんけど！？"
+                                "\\SE[59]I-I wasn't looking, okay?!"
                             ]
                         },
                         {
@@ -14401,28 +14310,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン兵"
+                                "Cordin Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "同僚が辺境の視察に回されてぼやいてたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『ハジッコ集落』…\\.とか言ってたかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そんなド田舎で何すんだろうな…。"
+                                "My colleague was complaining about being sent on a frontier\ninspection. They were saying something about a Hajikko Village. I\nwonder what they're going to do in such a rural place..."
                             ]
                         },
                         {
@@ -14493,35 +14388,14 @@
                                 0,
                                 0,
                                 2,
-                                "働き盛りな住民"
+                                "Hardworking resident"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コーダインは今の王様になってから豊かになったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先代を悪くいう訳じゃないんだけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!今の王様はこう…『ビシッ』っとなんでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "決めちゃうから、かっこいいんだよな。"
+                                "Since Koudain became the current king, things have become\nprosperous. I don't mean to speak ill of the previous king,\nbut... the current king is like, Bam! and decides everything, so\nhe's really cool."
                             ]
                         },
                         {
@@ -14592,28 +14466,14 @@
                                 0,
                                 0,
                                 2,
-                                "詳しいおじいちゃん"
+                                "Detailed Grandpa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『現政権』に交代した際に国王が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行政の腐敗部分を一斉に排除したんじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『既存権益』に群がる役人の反対を全て押しのけての。"
+                                "When the current administration took over, the king eliminated\nall the corrupt parts of the government in one fell swoop,\npushing aside all opposition from the bureaucrats clinging to\ntheir existing interests."
                             ]
                         },
                         {
@@ -14624,21 +14484,14 @@
                                 0,
                                 0,
                                 2,
-                                "詳しいおじいちゃん"
+                                "Detailed Grandpa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれは痛快だったわい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ちょっとした『革命』を見た気分じゃったよ。"
+                                "That was exhilarating. It felt like witnessing a small\nrevolution."
                             ]
                         },
                         {
@@ -14718,28 +14571,14 @@
                                 0,
                                 0,
                                 2,
-                                "熱烈な女の子"
+                                "Passionate girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "も、もしかして『あの』ルナロア…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!私…ファンなんです！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと憧れてて…！！！"
+                                "C-Could it be... that Lunaroa...!? I-I'm... a fan!! I've admired\nyou for so long...!!!"
                             ]
                         },
                         {
@@ -14764,14 +14603,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[80]あらあら…\\.人気者じゃない？"
+                                "\\SE[80]Oh my... Quite popular, aren't you?"
                             ]
                         },
                         {
@@ -14782,14 +14621,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]も、もう…\\.からかわないでよ…。"
+                                "\\SE[52]P-Please... don't tease me anymore..."
                             ]
                         },
                         {
@@ -14816,28 +14655,14 @@
                                 0,
                                 0,
                                 2,
-                                "熱烈な女の子"
+                                "Passionate girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ…\\.あなたは『焔迅の』\\.ベガ…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!うそっ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!やだっ\\. おめかししてこないと…！！"
+                                "Eh... You're Vega from Flame Swift...!? No way...!! Oh my...!! I\nneed to dress up...!!"
                             ]
                         },
                         {
@@ -14862,21 +14687,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]えっ…\\.何…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『焔迅の』…？\\. 初めて聞いたんだけど。"
+                                "\\SE[90] Eh... What...? Flame Swift...? I've never heard of it\nbefore."
                             ]
                         },
                         {
@@ -14887,14 +14705,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[45]あらあら…\\.人気者ね？"
+                                "\\SE[45]Oh my... Quite popular, aren't you?"
                             ]
                         },
                         {
@@ -14905,14 +14723,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]…人をからかうんじゃないわよ。"
+                                "\\SE[57]... Don't tease people, okay?"
                             ]
                         },
                         {
@@ -14990,21 +14808,14 @@
                                 0,
                                 0,
                                 2,
-                                "憧れる男の子"
+                                "Longing Boy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぼくも将来は学園に入って魔法使いになるんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで兵士に志願して魔法剣士になる！"
+                                "I also want to enter the academy in the future and become a\nwizard! Then I'll volunteer as a soldier and become a magic\nswordsman!"
                             ]
                         },
                         {
@@ -15029,21 +14840,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]いい将来設計じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "応援してるわよ。"
+                                "\\SE[7]That's a good plan for the future. I'll be cheering for\nyou."
                             ]
                         },
                         {
@@ -15054,14 +14858,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]（意外と子供好きなのかしら…。）"
+                                "\\SE[2] (I wonder if he actually likes children...)"
                             ]
                         },
                         {
@@ -15139,21 +14943,14 @@
                                 0,
                                 0,
                                 2,
-                                "歌う女の子"
+                                "Singing girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "るる～るるる～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ユリシーンの～\\.悪い奴らをぶっとばせ～。"
+                                "Lulu~lululu~. \\.Let's beat up those bad guys in the Yuri scene~."
                             ]
                         },
                         {
@@ -15164,21 +14961,14 @@
                                 0,
                                 0,
                                 2,
-                                "歌う女の子"
+                                "Singing girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これね、今 子供たちの間で流行ってるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おねえちゃん達も一緒に歌う？"
+                                "This is something that's popular among kids right now. Will you\nbig sisters sing along too?"
                             ]
                         },
                         {
@@ -15249,21 +15039,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]こっちだと学園に戻ってしまうわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.依頼終了までは戻れないよね。"
+                                "\\SE[2]If we go this way, we'll end up back at the school. We\ncan't go back until the mission is complete, right?"
                             ]
                         },
                         {
@@ -15424,21 +15207,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]こっちだと学園に戻ってしまうわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.依頼終了までは戻れないよね。"
+                                "\\SE[2] If we go this way, we'll end up back at the school. We\ncan't go back until the mission is complete, right?"
                             ]
                         },
                         {
@@ -15599,21 +15375,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]こっちだと学園に戻ってしまうわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.依頼終了までは戻れないよね。"
+                                "\\SE[2]If we go this way, we'll end up back at the school. We\ncan't go back until the mission is complete, right?"
                             ]
                         },
                         {
@@ -15774,21 +15543,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]こっちだと学園に戻ってしまうわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.依頼終了までは戻れないよね。"
+                                "\\SE[2] If we go this way, we'll end up back at the school. We\ncan't go back until the mission is complete, right?"
                             ]
                         },
                         {
@@ -15949,21 +15711,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]こっちだと学園に戻ってしまうわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.依頼終了までは戻れないよね。"
+                                "\\SE[2]If we go this way, we'll end up back at the school. We\ncan't go back until the mission is complete, right?"
                             ]
                         },
                         {
@@ -16124,28 +15879,14 @@
                                 0,
                                 0,
                                 2,
-                                "落ちちゃった戦士"
+                                "Fallen Warrior"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーむ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "兵士志願したのだが、落とされてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!魔法学園もあるから要求レベルが高いみたいだな…。"
+                                "Hmm... I volunteered to be a soldier, but I was rejected. It\nseems like the requirements are high because there is also a\nmagic academy..."
                             ]
                         },
                         {
@@ -16886,21 +16627,14 @@
                                 0,
                                 0,
                                 2,
-                                "サンイ"
+                                "San'i"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて…\\.と。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.俺たちは先に現場の兵士さんに話を通しておくよ。"
+                                "Well... let's go and inform the soldiers at the scene first."
                             ]
                         },
                         {
@@ -16911,28 +16645,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヨバンメ"
+                                "Yobanme"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アイテムの補充が必要ならお願い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『チーム』とはいっても、やっぱり二人が核だし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.その辺りの判断はあなた達に任せたいわ。"
+                                "If you need any item replenishment, please let me know. Even\nthough we call ourselves a team, it's still the two of you who\nare the core. I want to leave the decision-making in that regard\nup to you."
                             ]
                         },
                         {
@@ -16943,21 +16663,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[2]分かったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.こっちに任せておいて。"
+                                "\\SM[nod]\\SE[2] I understand. Leave it to me."
                             ]
                         },
                         {
@@ -17792,21 +17505,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]さて、\\.行きましょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あまり二人を待たせるわけにもいかないしね。"
+                                "Well, shall we go? We can't keep the two of them waiting for too\nlong, after all."
                             ]
                         },
                         {
@@ -17817,21 +17523,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そ、\\.そうね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.うん、\\.行きましょう。"
+                                "\\SE[2]Y-Yes...! Umm, let's go."
                             ]
                         },
                         {
@@ -17849,28 +17548,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]（いきなり『二人っきり』になっちゃったわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[24]どうしましょう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\.私、\\.けっこう『人見知り』なのよね…。）"
+                                "\\SE[3] (I suddenly ended up being alone with them... What should\nI do... I'm actually quite shy around people...)"
                             ]
                         },
                         {
@@ -18267,21 +17952,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン兵"
+                                "Cordin Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋には警備兵の配置が義務付けられているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近出来た法律なんだけどね。"
+                                "It's mandatory to have security guards stationed at the weapon\nshop. It's a recently enacted law."
                             ]
                         },
                         {
@@ -18352,21 +18030,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア推しの子"
+                                "Lunaroa fan girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『あの』ルナロアごっこやるね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!いくぞぉー…！"
+                                "Hey, let's play that Lunaroa game! Let's gooo...!"
                             ]
                         },
                         {
@@ -18438,28 +18109,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロアファンの子"
+                                "Lunaroa fan's child"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずびゃーん！！\\. ばしゅー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どごごごーん！！\\. しゅごーん！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!どーん！！ \\.ぐちゃぐちゃー！！\\!ズゴバーン！！！"
+                                "Zubyaaan!! Bashuu!! Dogogogoon!! Shugoon!! Doon!! Guchaguchaa!!\nZugobaan!!"
                             ]
                         },
                         {
@@ -18540,28 +18197,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガファンの子"
+                                "Vega fan's child"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎぇー！！ やられたー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ずごごばーん！！ \\.ばじゅどーん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ぐしゃぐしゃぐしゃー！！ \\!ぐちょぉ！！"
+                                "Gee! I got hit! Zugogoban! Bajudon! Gushagusha! Guchoo!"
                             ]
                         },
                         {
@@ -18579,14 +18222,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]（えっ\\. 私ってこういう認知なの…？）"
+                                "\\SE[14] (Huh. Is this how I'm perceived...?)"
                             ]
                         },
                         {
@@ -18716,21 +18359,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガファンの子"
+                                "Vega fan's child"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『焔迅の』ベガごっこやるね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.いくよぉ…！"
+                                "Let's play 'Blazing Swift' Vega pretend...! Let's go...!"
                             ]
                         },
                         {
@@ -18811,28 +18447,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガファンの子"
+                                "Vega fan's child"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あはっ！\\. ここがいいんでしょう…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほらっ…ほらっ…！ これが大好きなんでしょう！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もっといい声で鳴きなさい！！\\. この変態っ！！"
+                                "Ahaha! Is this place good...? Look...look...! This is what you\nlove, right?! Now, make even better sounds!! You pervert!!"
                             ]
                         },
                         {
@@ -18913,28 +18535,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロアファンの子"
+                                "Lunaroa fan's child"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…だ、だめぇ…♡！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、私…変態に調教されちゃう…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あなたの豚になっちゃうぅ……♡♡♡！！"
+                                "Ah...no, stop...♡!! I-I'm being trained like a pervert...! I-I'm\nbecoming your piggy...♡♡♡!!"
                             ]
                         },
                         {
@@ -18952,14 +18560,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]（……なんで？）"
+                                "\\SE[90] (...Why?)"
                             ]
                         },
                         {
@@ -19118,7 +18726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[476]レアアースの欠片を手に入れた！\\$"
+                                "\\i[476] Obtained a rare earth fragment! $"
                             ]
                         },
                         {
@@ -19918,7 +19526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[531]割れたつぼを手に入れた！\\$"
+                                "\\i[531] Obtained a broken pot! \\$"
                             ]
                         },
                         {
@@ -20637,7 +20245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[475]レアアースの大欠片を手に入れた！\\$"
+                                "\\i[475] I obtained a large fragment of rare earth! $"
                             ]
                         },
                         {
@@ -21356,7 +20964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[543]そまつな棍棒を手に入れた！\\$"
+                                "\\i[543]I obtained a sturdy club! $"
                             ]
                         },
                         {
@@ -22075,7 +21683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[393]どくけし草を手に入れた！\\$"
+                                "\\i[393]I obtained some Detox Grass! $"
                             ]
                         },
                         {

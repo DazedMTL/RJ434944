@@ -2275,21 +2275,14 @@
                                 0,
                                 0,
                                 2,
-                                "武器屋のオヤジ"
+                                "Weapon Shop Owner"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よぉ！やっぱ武器がねぇと始まらねぇよな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.じゃんじゃん買ってってくれ！"
+                                "Yo! Can't start without weapons, right?! So come on, buy 'em up!"
                             ]
                         },
                         {
@@ -2307,14 +2300,14 @@
                                 0,
                                 0,
                                 2,
-                                "武器屋のオヤジ"
+                                "Weapon Shop Owner"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おうよっ！"
+                                "Hey there!"
                             ]
                         },
                         {
@@ -2385,21 +2378,14 @@
                                 0,
                                 0,
                                 2,
-                                "防具屋のオヤジ"
+                                "Armor Shop Owner"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よぉ！まずは防具から固めねぇとな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃんじゃん買っていってくれ！"
+                                "Yo! First, let's strengthen your armor! Buy lots and lots from\nme!"
                             ]
                         },
                         {
@@ -2417,14 +2403,14 @@
                                 0,
                                 0,
                                 2,
-                                "防具屋のオヤジ"
+                                "Armor Shop Owner"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あばよっ！！"
+                                "Yo!"
                             ]
                         },
                         {
@@ -2495,21 +2481,14 @@
                                 0,
                                 0,
                                 2,
-                                "名うてのミレイユ"
+                                "Renowned Milayu"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの店主さん売り上げを競ってるのよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…『武器』と『防具』じゃ需要が違うと思うけど。"
+                                "That shopkeeper is competing in sales, you know. But I think the\ndemand for weapons and armor is different."
                             ]
                         },
                         {
@@ -2580,21 +2559,14 @@
                                 0,
                                 0,
                                 2,
-                                "Ｂ級騎士ドレアム"
+                                "Ｂ Knight Doream"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この全身鎧。なんという名品だ…\\.すばらしい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!重過ぎて私には到底、装備出来ないが…。"
+                                "B Knight Doream: This full-body armor... What a magnificent\nmasterpiece...! It's amazing...! It's too heavy for me to equip,\nthough..."
                             ]
                         },
                         {
@@ -2665,28 +2637,14 @@
                                 0,
                                 0,
                                 2,
-                                "悩めるレイカ"
+                                "Troubled Reika"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んー…防具を買って被弾を減らすか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "武器を買って早めに片付けてしまうか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!正解が分からないわ。"
+                                "Hmm... Should I buy armor to reduce damage or buy a weapon to\nfinish things off quickly... I don't know the right answer."
                             ]
                         },
                         {
@@ -2697,14 +2655,14 @@
                                 0,
                                 0,
                                 2,
-                                "悩めるレイカ"
+                                "Troubled Reika"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんたはどう思う？\\!"
+                                "What do you think?"
                             ]
                         },
                         {
@@ -2738,21 +2696,14 @@
                                 0,
                                 0,
                                 2,
-                                "悩めるレイカ"
+                                "Troubled Reika"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一つの正解よね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.わたしのほどほどの腕力だと頼りないけど…。"
+                                "There's only one correct answer, right? I'm not very reliable\nwith my moderate strength though..."
                             ]
                         },
                         {
@@ -2776,21 +2727,14 @@
                                 0,
                                 0,
                                 2,
-                                "悩めるレイカ"
+                                "Troubled Reika"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "間違いないわよねー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!状況を作れる魔法なんて私には使えないけど…。"
+                                "There's no doubt about it, right? I can't use magic that can\ncreate situations though..."
                             ]
                         },
                         {
@@ -2814,28 +2758,14 @@
                                 0,
                                 0,
                                 2,
-                                "悩めるレイカ"
+                                "Troubled Reika"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私の代わりに攻撃を受けてくれる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "友達なんているわけないでしょ…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!見損なったわ！最低ねっ！\\.あなた！！"
+                                "There's no way I have friends who would take the attacks for\nme...! I've been fooled! How awful! You!!"
                             ]
                         },
                         {
@@ -2846,21 +2776,14 @@
                                 0,
                                 0,
                                 2,
-                                "悩めるレイカ"
+                                "Troubled Reika"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…そんな友達がいるなら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.あんた。大切にしてやんなよ？"
+                                "...If you have friends like that, you should cherish them,\nshouldn't you?"
                             ]
                         },
                         {
@@ -2941,21 +2864,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーデ重視のミコ"
+                                "Miko with a focus on coordination"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごっつい鎧より、ドレスが着たいなぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!やっぱり可愛い服だと、\\.気合が入るものね。"
+                                "I want to wear a dress rather than heavy armor.... Ah, when I\nwear cute clothes, I feel more motivated."
                             ]
                         },
                         {
@@ -3117,28 +3033,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器や防具って何から買ったらいいか分かんないよー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…とか思ってたりする？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!よかったら『アドバイス』してあげよっか？\\!"
+                                "I don't know what to buy for weapons and armor! ...Do you ever\nthink that? If you want, shall I give you some advice?"
                             ]
                         },
                         {
@@ -3173,28 +3075,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "装備していない箇所があるうちは『防具』を優先するといいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!一通り揃ったら、基本的に『武器』を優先していこう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!まずは、そこから目指すんだっ！"
+                                "Until you have all your equipment equipped, it's best to\nprioritize armor. Once you have everything in place, then you can\nprioritize weapons! First, aim for that!"
                             ]
                         },
                         {
@@ -3218,28 +3106,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コアな話になるけど『攻撃力』が低くても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "計算式の関係上『０ダメージ』になったりとかはしないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!そういう詰み方は(多分)しないから安心してね。"
+                                "I'll get into some serious talk, but even if your attack power is\nlow, you won't end up dealing 0 damage due to the calculation\nformula. So don't worry, I (probably) won't make you feel\nhelpless like that."
                             ]
                         },
                         {
@@ -3263,28 +3137,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このゲームでは『防御力』は、ほとんど上がらないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!代わりに『最大ＨＰ』と『最大ＭＰ』が上昇するんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!…まぁ、そっちを基準に参考にしてね！\\. ってことで！！"
+                                "In this game, defense power doesn't increase much. Instead,\nmaximum HP and maximum MP increase. So, well, use those as a\nreference! That's all!!"
                             ]
                         },
                         {
@@ -3308,14 +3168,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そ、そう…？"
+                                "I-Is that so...?"
                             ]
                         },
                         {

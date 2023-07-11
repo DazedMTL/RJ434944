@@ -10735,14 +10735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうなモンスターがいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦いますか？\\!"
+                                "There's a strong-looking monster.... Will you fight it?"
                             ]
                         },
                         {
@@ -10976,14 +10969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユニークモンスター討伐の記念碑だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『死霊術師』と再戦しますか？\\!"
+                                "This is a monument to commemorate the defeat of a unique\nmonster.... Necromancer, shall we have a rematch?!"
                             ]
                         },
                         {
@@ -11380,7 +11366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[476]レアアースの欠片を手に入れた！\\$"
+                                "\\i[476] Obtained a rare earth fragment! $"
                             ]
                         },
                         {
@@ -12099,7 +12085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life Alpha! $"
                             ]
                         },
                         {
@@ -12856,21 +12842,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっ、ぼちぼち慣れてきた？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.もう私が教えるようなことはあんまりないかな…？"
+                                "Yaa, are you getting used to it little by little? I don't think\nthere's much left for me to teach you...?"
                             ]
                         },
                         {
@@ -12888,28 +12867,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この洞窟は『ぽろり！』を狙ってくるやつが多いから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乙女の純情を守りたい人は気をつけてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!……そんな人いないか。"
+                                "This cave has a lot of Porori! coming after you, so if you want\nto protect the purity of a maiden, be careful. \\!... I wonder if\nthere's anyone like that."
                             ]
                         },
                         {
@@ -12929,21 +12894,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……まぁ、一応くれてやろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.千人に一人は欲しいって場合もあるかもしれないし……。"
+                                "...Well, I'll give it to you just in case. There might be a case\nwhere one in a thousand wants it..."
                             ]
                         },
                         {
@@ -12983,7 +12941,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\i[445]すっごい裁縫セットを３０個もくれた！\\$"
+                                "\\i[445] She gave me an amazing sewing set, all 30 of them! \\$"
                             ]
                         },
                         {

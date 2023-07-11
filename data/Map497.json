@@ -2284,28 +2284,14 @@
                                 0,
                                 0,
                                 2,
-                                "ギルドの受付さん"
+                                "Guild receptionist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はーい。冒険者ギルドはこちらでーす。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…って学生さんかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "卒業まではアルバイト禁止なのよ。ごめんねー。"
+                                "Hello. This is the Adventurer's Guild. Oh... are you a student?\nI'm sorry, but part-time jobs are prohibited until graduation. I\napologize."
                             ]
                         },
                         {
@@ -2385,28 +2371,14 @@
                                 0,
                                 0,
                                 2,
-                                "ギルド長"
+                                "Guild Master"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最近の依頼は国力増強の意図を感じる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦争でも始めるつもりなのか…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!いや、まさかな…。"
+                                "I sense the intention of strengthening the country's power in\nrecent requests.... Are they planning to start a war...? No, it\ncan't be..."
                             ]
                         },
                         {
@@ -2462,28 +2434,14 @@
                                 0,
                                 0,
                                 2,
-                                "ギルド長さん"
+                                "Guild Master"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっと…学生さんかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつか君たちに依頼する時がくるかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時はよろしくね。"
+                                "Oh, are you students? There may come a time when I'll request\nyour help. I'll count on you then."
                             ]
                         },
                         {
@@ -2599,21 +2557,14 @@
                                 0,
                                 0,
                                 2,
-                                "苦労の多い回復士"
+                                "Hardworking Healer"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦士２人、魔法使い一人だと私の負担が多いわね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だれかいい人募集してみようかなぁ…。"
+                                "It's quite a burden for me with two warriors and only one\nmage.... Maybe I should try recruiting someone nice...."
                             ]
                         },
                         {
@@ -2684,14 +2635,14 @@
                                 0,
                                 0,
                                 2,
-                                "退屈な格闘家"
+                                "Boring Fighter"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "役所の待ち時間ってなげぇよな…。"
+                                "The waiting time at the government office is so long..."
                             ]
                         },
                         {
@@ -2762,21 +2713,14 @@
                                 0,
                                 0,
                                 2,
-                                "真面目な戦士"
+                                "Serious Warrior"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最近はギルドに外部から依頼をもらいに来る人も多いんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事をとられないよう、頑張らないとね。"
+                                "Lately, there have been many people coming to the guild to\nreceive requests from outside. I have to work hard so that I\ndon't lose any jobs."
                             ]
                         },
                         {
@@ -2847,21 +2791,14 @@
                                 0,
                                 0,
                                 2,
-                                "外からきた戦士"
+                                "Warrior from the outside"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コーダインには初めて来たけど安定してるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺みたいな、よそ者を雇ってくれるのもありがたい。"
+                                "It's my first time coming to Caudine, but it seems stable. It's\nalso grateful that they hire outsiders like me."
                             ]
                         },
                         {
@@ -3088,7 +3025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[445]すっごい裁縫セットを手に入れた！\\$"
+                                "\\i[445]I got an amazing sewing set! $"
                             ]
                         },
                         {

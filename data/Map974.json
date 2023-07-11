@@ -2217,21 +2217,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャットの声"
+                                "Cat's voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本日より務めさせていただく者です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お嬢様との『お顔合わせ』兼\\.『面接』に来ました。"
+                                "I am the one who will be serving from today. I have come for the\nmeeting and interview with the young lady."
                             ]
                         },
                         {
@@ -2258,21 +2251,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[34]…いいわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.入ってきて。"
+                                "\\SE[34]... It's fine. \\. Come in."
                             ]
                         },
                         {
@@ -2488,21 +2474,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]…ふーん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あなたが『新しい人』なの。"
+                                "\\SE[0]... Hmmm. So you're the new person."
                             ]
                         },
                         {
@@ -2520,28 +2499,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]あははっ…\\.お手柔らかに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]ちなみに『合格基準』ってあったりします？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それなりに、なんでもこなせる自信はありますけど…。"
+                                "\\SE[21]Ahaha... Take it easy on me... By the way, is there any\ncriteria for passing?\\ I have confidence in being able to handle\nanything to a certain extent..."
                             ]
                         },
                         {
@@ -2552,28 +2517,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]…『お父様』に何か言われたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[4]別にたいした条件なんかないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私があなたを見て……。"
+                                "\\SE[14]... Did Father say something to you? \\SE[4] There aren't\nany special conditions. \\. I will be observing you..."
                             ]
                         },
                         {
@@ -2584,35 +2535,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]この人はこんな簡単なことも出来ないんだ…\\.とか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[59]この人は大人なのに私より頭悪いなぁ…\\.とか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]この人はいつになったら学ぶんだろう…\\.とか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[33]…そういう『退屈な人』はいや。"
+                                "\\SE[4]This person can't even do such simple things... \\.\n\\SE[59]And yet, they're an adult but dumber than me... \\.\n\\SE[45]I wonder when this person will ever learn... \\.\n\\SE[33]...I dislike people like that who are so boring."
                             ]
                         },
                         {
@@ -2646,28 +2576,14 @@
                                 0,
                                 1,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]（…なるほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　優秀な子特有の『ストレス』ですねぇ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[25]　ちょっと、『なまいき』\\.かもですが。）"
+                                "\\SE[2] (...I see. \\. It's the stress that comes with being an\nexcellent child, huh.... \\!\\SE[25] Well, I might be a bit cheeky\nmyself.)"
                             ]
                         },
                         {
@@ -2678,28 +2594,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]それなら問題ありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ワタクシは機転が効き、\\.賢く聡明で、\\.面白いですから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]決してお嬢様を退屈させたりいたしませんっ！"
+                                "\\SE\\SE[15]In that case, there's no problem. \\. I am resourceful,\n\\. intelligent, \\. and interesting. \\!\\SE[15]I will never bore\nthe young lady!"
                             ]
                         },
                         {
@@ -2726,21 +2628,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]そ、そう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自信満々なのね…。"
+                                "\\SE[14]I-Is that so... You seem very confident..."
                             ]
                         },
                         {
@@ -2774,28 +2669,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]では、さっそく『面接』を始めましょう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]何をもって証明すればいいですかね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…お嬢様からは何かあります？"
+                                "\\SE[14]Well then, let's start the interview right away!\n\\SE[0]What should I do to prove myself? ....Do you have any\nspecific requests from the young lady?"
                             ]
                         },
                         {
@@ -2822,14 +2703,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]……じゃあ。"
+                                "\\SE[4]... Well then."
                             ]
                         },
                         {
@@ -2870,14 +2751,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[44]『かくれんぼ』…\\.したい。"
+                                "\\SE[44]Hide and seek... I want to play."
                             ]
                         },
                         {
@@ -2904,21 +2785,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]（い、意外な所きました…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　子供らしいところあるんですね。）"
+                                "\\SE[12] (Oh, you came to an unexpected place... You have a\nchildish side, huh.)"
                             ]
                         },
                         {
@@ -3004,28 +2878,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[58]へ、変な勘違いしないでよね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[55]面接で『かくれんぼ』は無駄がないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.別に、私が遊びたい訳じゃないんだから。"
+                                "\\SE[58]D-Don't get any strange misunderstandings...!\n\\SE[55]Playing hide and seek during the interview is not a waste.\nIt's not like I want to play or anything."
                             ]
                         },
                         {
@@ -3036,28 +2896,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あなたは屋敷の構造を覚えられるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.不慣れな環境での『観察力』や『機転』も精査できる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]…ねっ？ \\.そうでしょ？"
+                                "\\SE\\SE[2]You can remember the structure of the mansion, and you\ncan also assess your observational skills and resourcefulness in\nan unfamiliar environment. \\SE[2]...right? That's how it is,\nisn't it?"
                             ]
                         },
                         {
@@ -3084,21 +2930,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[58]（むむっ…それは、\\.確かに一理あるかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[57]　この子の発言は妙な『説得力』が、ありますねぇ…。）"
+                                "\\SE[58] (Hmm... that's true,\\. there might be some truth to that.\n\\!\\SE[57] This child's words have a strange persuasiveness to\nthem, don't they...)"
                             ]
                         },
                         {
@@ -3109,21 +2948,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[59]それに、構造を知ってる人だと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[40]\\}すぐ見つかっちゃって、\\.面白くないし…。"
+                                "\\SE[59]And besides, if it's someone who knows the structure....\n\\SE[40]They'll find me right away, and it won't be\ninteresting...."
                             ]
                         },
                         {
@@ -3134,21 +2966,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]（あらら、そっちが本音ですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]　ふふっ…これはぜひ『合格』\\.したいですねぇ。）"
+                                "\\SE[16] (Oh my, is that your true feelings? \\!\\SE[45] Hehe... I\ndefinitely want to pass this."
                             ]
                         },
                         {
@@ -3159,21 +2984,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ええ、分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なるべく早く、見つけて差し上げます。"
+                                "\\SE[1]Yes, understood. I will find her as soon as possible."
                             ]
                         },
                         {
@@ -3207,28 +3025,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]出来るものなら、やってみなさいっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]今から『１０分』したら捜索を始めることっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.いいわね！ \\.絶対にズルしてはいけないわよ！"
+                                "\\SE[12]If you can do it, give it a try! \\SE[13]Starting from now,\nwe'll begin the search in 10 minutes! \\SE[12]Alright!\n\\SE[12]Absolutely no cheating allowed!"
                             ]
                         },
                         {
@@ -3512,28 +3316,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]ふふっ…行ってしまいました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[11]これは、真剣勝負…\\.ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『大人の本気』を見せてやりましょう…！"
+                                "\\SE[15]Hehe... She went off. \\SE[11]This is a serious match...\nisn't it? Let's show them our serious adult side...!"
                             ]
                         },
                         {
@@ -3633,21 +3423,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "って、お屋敷広っ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ここから『お嬢様』を探し出すんですかっ…！？"
+                                "W-Wow, the mansion is huge...! Are we going to search for the\nyoung lady from here...!?"
                             ]
                         },
                         {
@@ -3658,28 +3441,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、これでは埒が明きません…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!こんなときは『聞き込み』です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!事件解決は、いつも地道な一歩から始まるのです！"
+                                "Th-This won't get us anywhere....! In times like this, it's time\nfor questioning! Solving a case always starts with a diligent\nstep!"
                             ]
                         },
                         {
@@ -3697,21 +3466,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ、いいところにメイドの先輩が。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!すいませーん！\\.少しお尋ねしたいのですがー！！"
+                                "Oh, there's a senior maid in a good place. Excuse me! I would\nlike to ask you a few questions!!"
                             ]
                         },
                         {
@@ -3729,21 +3491,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…えっ。\\.『聞き込み』は反則？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!バラしたら『クビ』になるから言えない…？"
+                                "...Huh? Is questioning against the rules? You can't say it\nbecause you'll get fired if you reveal it...?"
                             ]
                         },
                         {
@@ -3754,28 +3509,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほどっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『コンプライアンス』が、しっかりしてるんですね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!いい職場なようで、安心しました！"
+                                "I see! So the workplace has a strong compliance! It seems like a\ngood place, I feel relieved!"
                             ]
                         },
                         {
@@ -3814,14 +3555,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…『詰み』ましたね。"
+                                "...I'm in a checkmate."
                             ]
                         },
                         {

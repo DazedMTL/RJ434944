@@ -3084,21 +3084,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ようこそ…\\.歓迎するよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]エルモ村の一件以来かな？"
+                                "\\SE[2]Welcome... I welcome you. \\SE[1]Since the incident in Elmo\nVillage, right?"
                             ]
                         },
                         {
@@ -3118,21 +3111,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ご拝謁に賜り光栄です。コーダイン王。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]…ご用件は、すでにお分かりかと思いますが。"
+                                "\\SE[2]It is an honor to be granted an audience, King Cordin.\n\\!\\SE[3]...I believe you already know the purpose of our visit."
                             ]
                         },
                         {
@@ -3152,21 +3138,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]すべて知っているのだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]僕を止めに…いや、\\!\\SE[2]殺しにきたのかな？"
+                                "\\SE[3]You know everything, don't you? \\!\\SE[0]Did you come to\nstop me... no, \\!\\SE[2]did you come to kill me?"
                             ]
                         },
                         {
@@ -3186,21 +3165,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[32]…必要であれば。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]一つだけ、お伺いしてもよろしいでしょうか？"
+                                "\\SE[32]... If it is necessary. \\!\\SE[3] May I ask you one thing?"
                             ]
                         },
                         {
@@ -3220,21 +3192,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]きみにも分からないことがあるんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]いいよ。\\.聞いてみなよ。"
+                                "\\SE[3]There are things you don't understand, huh? \\SE[2]Alright.\nGo ahead and ask."
                             ]
                         },
                         {
@@ -3254,21 +3219,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ここまで過剰に『レアアース』を集める理由はなんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]国家維持にしては多すぎる…\\.目的はどこに？"
+                                "\\SE[2]What is the reason for gathering Rare Earth to such an\nexcessive extent? \\SE[3]It seems too much for the purpose of\nmaintaining the country... Where is the objective?"
                             ]
                         },
                         {
@@ -3286,21 +3244,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]えっ？\\. あの『文書』からそこまで分かったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]……君は本当に賢いんだな。"
+                                "\\SE[3]Huh? You understood that much from that document?\n\\SE[2]...You're really clever."
                             ]
                         },
                         {
@@ -3334,28 +3285,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]きみたちは知っているかい…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.時折、世界に『亀裂』が入っているのを、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]その先に広がっている…\\.我々の知らない世界の存在を。"
+                                "\\SE[3]Do you know...? Occasionally, there are cracks in the\nworld, and beyond them... the existence of a world unknown to us."
                             ]
                         },
                         {
@@ -3366,14 +3303,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]現状では…\\.あの世界に干渉するに至っていない。"
+                                "\\SE[8]Currently... we have not yet interfered with that world."
                             ]
                         },
                         {
@@ -3391,28 +3328,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]僕が思うに…\\.あれは『未来』の時間軸だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]我々の計り知れない技術を行使する、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.人間たちの『文明』があるように思えてならない。"
+                                "\\SE[15]In my opinion... that is a timeline of the future.\n\\SE[0]It seems that humans have a civilization that utilizes our\nunimaginable technology."
                             ]
                         },
                         {
@@ -3423,28 +3346,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]きっとあの先には、\\.我々を超越した『未知の技術』がある…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]化石燃料に依存しきったこの世界を根底から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.覆すほどの…\\!\\SE[1]『未来』があるだろう。"
+                                "\\SE[13]Surely, beyond that, there is unknown technology that\nsurpasses us... \\SE\\SE[1]A future that will completely overturn\nthis world that is completely dependent on fossil fuels...\n\\SE[1]It must exist."
                             ]
                         },
                         {
@@ -3462,28 +3371,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]ただ、亀裂を開くには膨大なエネルギーが必要なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.魔法の力を持ってしても…\\.届かないほどにね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]…だから、僕がやることにした。"
+                                "\\SE[15]However, opening a rift requires an enormous amount of\nenergy. Even with the power of magic... it is beyond reach.\n\\SE[14]...That's why I decided to do it."
                             ]
                         },
                         {
@@ -3494,28 +3389,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]大地全体から燃料を集めて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『もっとも強い方法』で燃やすんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]これなら魔法を上回るエネルギーを生み出せる。"
+                                "\\SE[15]Gathering fuel from the entire land... and burning it in\nthe most powerful way. \\SE[2]This way, we can generate energy\nthat surpasses magic."
                             ]
                         },
                         {
@@ -3576,21 +3457,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]少しだけ…\\.試してみたんだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]とても大きな穴を開けて…\\!\\SE[14]『爆発』させたんだ。"
+                                "\\SE[13]Just a little... I tried it. \\!\\SE[15]I opened a very\nlarge hole... \\!\\SE[14]And caused an explosion."
                             ]
                         },
                         {
@@ -3658,14 +3532,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]入口を開くことは出来たんだ。"
+                                "\\SE[1]I was able to open the entrance."
                             ]
                         },
                         {
@@ -3683,21 +3557,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]ただ…繊細な調整が必要なみたいでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]『向こう』を少し、壊してしまったんだ。"
+                                "\\SE[11]However... it seems that delicate adjustments are\nnecessary. \\!\\SE[14]I ended up breaking a little bit of the other\nside."
                             ]
                         },
                         {
@@ -3765,28 +3632,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]広がっていたのは、\\.『ひび割れた世界』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]残念ながら、僕が求めていた…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『理想の成果』は得られなかった。"
+                                "\\SE[11]What spread out was a cracked world. \\SE[12]Unfortunately,\nI couldn't obtain the... ideal results that I was seeking."
                             ]
                         },
                         {
@@ -3804,21 +3657,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]あと一歩…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]干渉するには届かなかったんだ。"
+                                "\\SE[15]Just one step... \\!\\SE[12]I couldn't reach the point of\ninterference."
                             ]
                         },
                         {
@@ -3836,21 +3682,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]それでも、あと少し…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]もっともっと、『薪』をくべ続ければ…\\.きっと届く。"
+                                "\\SE[14]Even so, just a little more... \\SE[15]If we continue to\nburn more and more fuel... I'm sure we will reach it."
                             ]
                         },
                         {
@@ -3868,28 +3707,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]わくわくしないかい…\\.ルナロア？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]自分たちが『歴史』を決定的に変える扉を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.開けられるかもしれないなんてさ。\\!\\SE[1]夢そのものだ。"
+                                "\\SE\\SE\\SE[1]Aren't you excited, Lunaroa? \\SE\\SE[1]The possibility\nof us being able to open a door that will decisively change\nhistory... It's like a dream."
                             ]
                         },
                         {
@@ -4372,28 +4197,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]だけどそれには国力と財力と、強い決意が必要だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.他の誰かがやってくれそうでは…\\.なくてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]僕が最後までやり遂げるって、\\.決めたんだ。"
+                                "\\SE[15]However, it requires national power, financial resources,\nand strong determination. \\SE[2]It's not something that someone\nelse could do for us... \\SE[2]I decided that I will see it\nthrough to the end."
                             ]
                         },
                         {
@@ -4404,28 +4215,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]だから僕自身の信念のために、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.決して止まることはないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]…例えどれだけ、犠牲がでようともね。"
+                                "\\SE\\SE[2]That's why, for the sake of my own beliefs, I will never\nstop. \\.No matter how much sacrifice it may require. \\!\\SE[2]"
                             ]
                         },
                         {
@@ -4445,21 +4242,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]少し、\\.長くなっちゃったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]君の疑問の答えになっていたかな。"
+                                "\\SE[6]It got a little long, didn't it? \\SE[1]I wonder if it\nanswered your question."
                             ]
                         },
                         {
@@ -4477,21 +4267,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]きっと…\\.僕もきみに聞いて欲しかったんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]お喋りし過ぎてしまったみたいだ。"
+                                "\\SE[6]I'm sure... I wanted to hear your thoughts too. \\SE[1]It\nseems like I ended up talking too much."
                             ]
                         },
                         {
@@ -4511,21 +4294,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[32]…お考えよく分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]私たちと、違う道であることも。"
+                                "\\SE[32]...I understand your thoughts well. \\SE[3]It's a different\npath from ours."
                             ]
                         },
                         {
@@ -4628,28 +4404,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]さて…\\.やろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.研究の過程で…\\.色々な力が産まれたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]きみに見てもらいたくて、\\.うずうずしている。"
+                                "\\SE[5]Well... Shall we? During the research process... Various\npowers were born. \\SE[14]I'm eager to show you, so I can't sit\nstill."
                             ]
                         },
                         {
@@ -4674,28 +4436,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12](…行きましょう \\.ラウラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[0]大丈夫。\\.あなたが一緒なら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　私 どこまでも強くなれるから。)"
+                                "\\SE[12](...Let's go, Laura. \\SE[0]It's okay. If you're with me, I\ncan become stronger no matter where we go.)"
                             ]
                         },
                         {
@@ -4706,14 +4454,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[100]（うん……！）"
+                                "\\SE[100] (Yes...!)"
                             ]
                         },
                         {
@@ -4757,21 +4505,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]……童心に返ったみたいだ、\\.わくわくする…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]僕の退屈を埋めてくれ…\\.ルナロア…！！"
+                                "\\SE[13]... It seems like I've returned to my childhood, I'm\nexcited... \\SE[2] Fill my boredom... Lunaroa...!!"
                             ]
                         },
                         {
@@ -4993,21 +4734,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]…きみは本当にすごいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.理事長の話以上じゃないか。"
+                                "\\SE[3]...You're really amazing. It's even beyond what the\nchairman said."
                             ]
                         },
                         {
@@ -5025,14 +4759,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]……\\.……\\.……。"
+                                "\\SE[0]......\\.......\\........"
                             ]
                         },
                         {
@@ -5043,28 +4777,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]君がもし味方だったら…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.３０年は短縮できたかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]少し…\\.悔しいな。"
+                                "\\SE[0]If you were on my side... we might have been able to\nshorten it by 30 years. \\SE[3]It's a little... frustrating."
                             ]
                         },
                         {
@@ -5117,14 +4837,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]なに…\\.この揺れは…。"
+                                "\\SE[4]What... is this shaking..."
                             ]
                         },
                         {
@@ -5144,21 +4864,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]…彼女が目覚めるのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]これはっ…戦いに魅せられてしまったのかな…？"
+                                "\\SE[3]... Will she awaken? \\!\\SE[14] I wonder if she has been\ncaptivated by the battle...?"
                             ]
                         },
                         {
@@ -5351,14 +5064,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[92]この子は…？"
+                                "\\SE[92]Who is this child...?"
                             ]
                         },
                         {
@@ -5404,14 +5117,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒い女の子"
+                                "Black girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……\\.……\\.……。"
+                                "......\\.......\\........"
                             ]
                         },
                         {
@@ -5514,28 +5227,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]おぉ…。\\.『知識のアリス』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この目で見ることが出来るとは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]僕が…僕のことが、\\.分かるかな…？"
+                                "\\SE[15]Oh... 'Alice of Knowledge'. To think that I can see it\nwith my own eyes... \\SE[2]I wonder if... if she can understand\nme...?"
                             ]
                         },
                         {
@@ -5586,14 +5285,14 @@
                                 0,
                                 0,
                                 2,
-                                "知識のアリス"
+                                "Alice of Knowledge"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あなたが、\\.私を呼んだ人？"
+                                "\\SE[2]You... are the one who called me?"
                             ]
                         },
                         {
@@ -5604,21 +5303,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]そうだ…。僕に、\\.この世界に…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]新しい『未来』を見せてくれないか……？"
+                                "\\SE[15]That's right... Won't you show me a new future in this\nworld...?"
                             ]
                         },
                         {
@@ -5735,14 +5427,14 @@
                                 0,
                                 0,
                                 2,
-                                "知識のアリス"
+                                "Alice of Knowledge"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]やだ。"
+                                "\\SE[5]No."
                             ]
                         },
                         {
@@ -5841,21 +5533,14 @@
                                 0,
                                 0,
                                 2,
-                                "知識のアリス"
+                                "Alice of Knowledge"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]だって、あなた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.つまんないんだもん…。"
+                                "\\SE[57]Because you're boring..."
                             ]
                         },
                         {
@@ -6285,14 +5970,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[33]…あ、\\.ぐぅ！！"
+                                "\\SE[33]...Ah, ugh!!"
                             ]
                         },
                         {
@@ -6357,14 +6042,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[84]ラウラ…！！"
+                                "\\SE[84]Laura...!!"
                             ]
                         },
                         {
@@ -6429,28 +6114,14 @@
                                 0,
                                 0,
                                 2,
-                                "知識のアリス"
+                                "Alice of Knowledge"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…あれ？ 死なないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.すごいね。おねえさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]教えて。名前。"
+                                "\\SE[2]... Huh? You're not dying? \\. That's amazing, big sister.\n\\!\\SE[1] Tell me. Your name."
                             ]
                         },
                         {
@@ -6470,21 +6141,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]私は、\\.ルナロアよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あなたは、どちらさまかしら…？"
+                                "\\SE[47]I am Lunaroa. \\SE[3]May I ask who you are...?"
                             ]
                         },
                         {
@@ -6495,28 +6159,14 @@
                                 0,
                                 0,
                                 2,
-                                "知識のアリス"
+                                "Alice of Knowledge"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]私は『アリス』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『知識のアリス』っていうんだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]ちょっと長いから、\\.『アリス』でいいよ。"
+                                "\\SE[5]I am 'Alice'. \\SE[3]But you can call me 'Alice of\nKnowledge'... \\SE[1]It's a bit long, so just 'Alice' is fine."
                             ]
                         },
                         {
@@ -6527,28 +6177,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そう、ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『アリス』…\\.素敵なお名前ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あなたはどうして、ここに来たのかしら？"
+                                "\\SE[2]Yes, thank you. 'Alice'... What a lovely name. \\SE[3]I\nwonder why you came here?"
                             ]
                         },
                         {
@@ -6559,28 +6195,14 @@
                                 0,
                                 0,
                                 2,
-                                "知識のアリス"
+                                "Alice of Knowledge"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]どうして…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.さっき殺しちゃった人に呼ばれたから…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]私は『ママ』を探してるだけだけど。"
+                                "\\SE[2]Why...? \\.Is it because I was called by the person I just\nkilled...? \\!\\SE[3]I'm just looking for 'Mama'."
                             ]
                         },
                         {
@@ -6591,21 +6213,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『ママ』…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あなたはお母さんを探しているの？"
+                                "\\SE[2] Mama...? Are you looking for your mother?"
                             ]
                         },
                         {
@@ -6639,28 +6254,14 @@
                                 0,
                                 0,
                                 2,
-                                "知識のアリス"
+                                "Alice of Knowledge"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]…もういいでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.わたし、退屈なの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[5]おねえさん。さっきみたいに遊んでよ。"
+                                "\\SE[3]... That's enough, right? I'm bored. \\SE[5] Big sister,\nplay with me like earlier."
                             ]
                         },
                         {
@@ -6929,14 +6530,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]ぁ…\\.ぐっ……。"
+                                "\\SE[24]Ah... Ugh..."
                             ]
                         },
                         {
@@ -6956,21 +6557,14 @@
                                 0,
                                 0,
                                 2,
-                                "知識のアリス"
+                                "Alice of Knowledge"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]すごいね…\\.ルナロア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]ちょっと驚いちゃった。"
+                                "\\SE[2]Wow... Lunaroa. \\SE[0]I was a little surprised."
                             ]
                         },
                         {
@@ -7004,14 +6598,14 @@
                                 0,
                                 0,
                                 2,
-                                "知識のアリス"
+                                "Alice of Knowledge"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]んっ…\\.なに…？"
+                                "\\SE[21]Hmm... What...?"
                             ]
                         },
                         {
@@ -7022,21 +6616,14 @@
                                 0,
                                 0,
                                 2,
-                                "知識のアリス"
+                                "Alice of Knowledge"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]私も連れていけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自分ばっかりずるいって？"
+                                "\\SE[2]Can you take me with you too? \\.Is it unfair that it's only\nme?"
                             ]
                         },
                         {
@@ -7132,14 +6719,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪のアリス"
+                                "Blonde Alice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]私も…この人と遊びたかったな…。"
+                                "\\SE[2]I also... wanted to play with this person..."
                             ]
                         },
                         {
@@ -7159,28 +6746,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪のアリス"
+                                "Blonde Alice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あっそうだ…この人に…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『ママ』になってもらえないかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]とっても素敵じゃない…？ \\!\\SE[16]あなたはどう思う？"
+                                "\\SE\\SE[0]Oh, by the way... Could you... become my Mama?\n\\.Wouldn't that be wonderful...? \\!\\SE[0]What do you think?"
                             ]
                         },
                         {
@@ -7221,14 +6794,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪のアリス"
+                                "Blonde Alice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[45]あはっ…。"
+                                "\\SE[45]Ahaha..."
                             ]
                         },
                         {
@@ -7239,21 +6812,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪のアリス"
+                                "Blonde Alice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]やっぱり、\\.そう思う…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]良かったぁ…\\.じゃあ決まりだね。"
+                                "\\SE\\SE[15]I thought so after all...? \\SE[15]That's great...\\.Then\nit's settled."
                             ]
                         },
                         {
@@ -7338,28 +6904,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪のアリス"
+                                "Blonde Alice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ふふっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あの子、寂しがりやだから…\\.たくさん愛してあげて…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]よろしくね…\\.『ママ』？"
+                                "\\SE\\SE[15]Hehe... Because that child gets lonely easily... Please\nlove them a lot, okay? \\SE[15]Take care of them... as their Mama,\nokay?"
                             ]
                         },
                         {
@@ -7601,14 +7153,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]二人とも、無事！？"
+                                "\\SE[22]Are both of you safe!?"
                             ]
                         },
                         {
@@ -7637,14 +7189,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[98]これは…\\.一体……！？"
+                                "\\SE[98]What is this... What on earth...!?"
                             ]
                         },
                         {
@@ -7704,21 +7256,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]だめっ！！\\.ここ、崩れちゃう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]はやく脱出しないと…！"
+                                "\\SE[17]No way!! This place is collapsing! \\SE[15]We need to\nescape quickly...!"
                             ]
                         },
                         {
@@ -7729,21 +7274,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[18]そ、そうね…！ \\.あなたはラウラをお願い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[22]私はルナロアを運ぶ！！"
+                                "\\SE[18]R-Right...! \\.You take care of Laura! \\!\\SE[22]I'll carry\nLunaroa!!"
                             ]
                         },
                         {
@@ -7754,14 +7292,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]分かった…！"
+                                "\\SE[16]Understood...!"
                             ]
                         },
                         {

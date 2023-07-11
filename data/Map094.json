@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ユリシーン地下道",
+    "displayName": "Ulyssean Underground Passage",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9806,7 +9806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[385]マジカルケアαを2つ手に入れた！\\$"
+                                "\\i[385] I obtained two Magical Care α! \\$"
                             ]
                         },
                         {
@@ -10061,7 +10061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを2つ手に入れた！\\$"
+                                "\\i[384] I obtained two Cure Life Alpha! \\$"
                             ]
                         },
                         {
@@ -10358,14 +10358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現在『ルナロア』と別行動になっています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!さみしいので早く合流しましょう。"
+                                "Currently, I am separated from Lunaroa. I'm lonely, so let's meet\nup soon."
                             ]
                         },
                         {
@@ -11816,7 +11809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[385]マジカルケアαを手に入れた！\\$"
+                                "\\i[385] I obtained the Magical Care Alpha! \\$"
                             ]
                         },
                         {
@@ -12595,7 +12588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[531]割れたつぼを手に入れた！\\$"
+                                "\\i[531] Obtained a broken pot! \\$"
                             ]
                         },
                         {

@@ -1543,28 +1543,14 @@
                                 0,
                                 0,
                                 2,
-                                "道具屋のおねえさん"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませ。\\.『道具屋』よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何をお買い求めかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!……って、言いたいところなんだけど。"
+                                "Welcome. This is the Tool Shop. What can I help you find?\n...Well, that's what I would like to say, but..."
                             ]
                         },
                         {
@@ -1575,35 +1561,14 @@
                                 0,
                                 0,
                                 2,
-                                "道具屋のおねえさん"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最近『うーばー』……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ってやつがすごくて物が売れないのよねー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!なのでお休み中。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あなた達ものんびりしていってねー。"
+                                "Lately, there's been this Uber thing that's been really popular,\nand it's been affecting my sales... So, I'm taking a break. You\nguys can take it easy too."
                             ]
                         },
                         {

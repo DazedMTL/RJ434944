@@ -8499,7 +8499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[386]ユリチャージαを手に入れた！\\$"
+                                "\\i[386]I obtained the Yuri Charge α! \\$"
                             ]
                         },
                         {
@@ -9441,7 +9441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "濡れた枝を手に入れた！\\$"
+                                "I obtained a wet branch! $"
                             ]
                         },
                         {
@@ -9452,14 +9452,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]うわっ…汚っ…。"
+                                "\\SE[13]Oh no... It's dirty..."
                             ]
                         },
                         {
@@ -9537,14 +9537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうなモンスターがいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦いますか？\\!"
+                                "There's a strong-looking monster.... Will you fight it?"
                             ]
                         },
                         {
@@ -9845,21 +9838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユニークモンスター討伐の記念碑だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『クイーンスライム』と再戦しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（さすがにもう何もないです。）\\!"
+                                "It's a monument to commemorate the defeat of a unique monster....\nQueen Slime, would you like to have a rematch? (There's really\nnothing else to do anymore.)"
                             ]
                         },
                         {
@@ -10108,14 +10087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうなモンスターがいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦いますか？\\!"
+                                "There's a strong-looking monster.... Will you fight it?"
                             ]
                         },
                         {
@@ -10400,14 +10372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユニークモンスター討伐の記念碑だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『クイーンスライム』と再戦しますか？\\!"
+                                "It's a monument to commemorate the defeat of a unique monster....\nQueen Slime, would you like to have a rematch?"
                             ]
                         },
                         {
@@ -10658,21 +10623,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やあやぁ。にんげんの人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なにかご用事？\\!"
+                                "Hi there, human! Do you need something?"
                             ]
                         },
                         {
@@ -10706,28 +10664,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁ、あれは『ユニークモンスター』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ギルドの『討伐対象』に指定された、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この辺り一帯の『ヌシ』みたいな感じ。"
+                                "Ah, that's like the boss of this area that has been designated as\na unique monster for the guild's subjugation target."
                             ]
                         },
                         {
@@ -10738,35 +10682,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『力試し』をしたいなら挑んでもいいかも…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!負けても『ゲームオーバー』にはならないから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気軽に戦ってもいいかもね？\\. ほら、『焚火』ならあるし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\}……まぁ、勝てないと思うけど。"
+                                "If you want to have a test of strength, you can try challenging\nit...? Even if you lose, it won't be a game over, so you can feel\nfree to fight, maybe? Look, there's a bonfire too... Well, I\ndon't think you can win though."
                             ]
                         },
                         {
@@ -10790,21 +10713,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私と君は初対面だと思うけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!何？ \\.もしかして、ナンパしてる…？"
+                                "I think this is our first meeting... What? Are you trying to hit\non me...?"
                             ]
                         },
                         {
@@ -10902,21 +10818,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やあやぁ。にんげんの人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なにかご用事？\\!"
+                                "Hi there, human! Do you need something?"
                             ]
                         },
                         {
@@ -10950,28 +10859,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁ、あれね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『ユニークモンスター』を討伐しても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.お墓を調べると、『再戦』が出来るんだ。"
+                                "Ah, that's right. Even if you defeat a Unique Monster, if you\nexamine the grave, you can have a Rematch."
                             ]
                         },
                         {
@@ -10982,35 +10877,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『レベル上げ』に使ってもよし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『アイテム稼ぎ』に使ってもよし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『サンドバッグ』に使ってもよし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!煮るなり焼くなり、\\.好きなようにご利用するがいいよ。"
+                                "You can use it for leveling up... or use it for item farming...\nor use it as a punching bag... Cook it or grill it, use it\nhowever you like."
                             ]
                         },
                         {
@@ -11034,21 +10908,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私と君は初対面だと思うけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!何？ \\.もしかして、ナンパしてる…？"
+                                "I think this is our first meeting... What? Are you trying to hit\non me...?"
                             ]
                         },
                         {
@@ -12462,7 +12329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life Alpha! $"
                             ]
                         },
                         {
@@ -13181,7 +13048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[476]レアアースの欠片を手に入れた！\\$"
+                                "\\i[476] Obtained a rare earth fragment! $"
                             ]
                         },
                         {
@@ -13878,21 +13745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームは『一日一時間』…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.健康的な生活のために正しい距離感をっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!……っと、かかれた看板に『らくがき』がされている。"
+                                "The game is one hour per day...!! \\ For a healthy lifestyle, it's\nimportant to maintain the right distance...! \\ Oh no, there's\ndoodles on the sign that was written."
                             ]
                         },
                         {
@@ -13910,28 +13763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やかましいんじゃ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.つまらねぇ大人のルールに縛られねぇぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!俺たちは、くたばるまでゲームをやる…\\.そうだろ、みんな！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!……と、書かれている。"
+                                "Don't be so noisy...!! \\ We won't be bound by boring adult\nrules!! \\ We'll play games until we drop... Right, everyone!? \\\n...That's what it says."
                             ]
                         },
                         {
@@ -14002,28 +13834,14 @@
                                 0,
                                 0,
                                 2,
-                                "仲のいい女の子"
+                                "Close friends"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この辺りのべとべとモンスターは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.粘液で服を溶かしてくるから気を付けてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!乙女のおっぱいが『ぽろり』しちゃったら大変だもの。"
+                                "Be careful around the slimy monsters in this area, as they can\ndissolve your clothes with their slime. It would be a disaster if\na maiden's breasts were to pop out!"
                             ]
                         },
                         {
@@ -14051,28 +13869,14 @@
                                 0,
                                 0,
                                 2,
-                                "仲のいい女の子"
+                                "Close friends"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…って、遅かったよね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.もうおっぱいが『まるだし』だもん……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!とっても恥ずかしいよね…。"
+                                "... Ah, it's too late now... My breasts are already completely\nexposed... It's so embarrassing..."
                             ]
                         },
                         {
@@ -14093,28 +13897,14 @@
                                 0,
                                 0,
                                 2,
-                                "仲のいい女の子"
+                                "Close friends"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これあげるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.もし『ぽろり』が恥ずかしくなったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでお洋服を直すといいよ！"
+                                "Here, take this. If you feel embarrassed about the pop out, you\ncan use this to fix your clothes!"
                             ]
                         },
                         {
@@ -14154,7 +13944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[445]すっごい裁縫セットを１０個もくれた！\\$"
+                                "\\i[445]They gave me 10 amazing sewing sets! \\$"
                             ]
                         },
                         {
@@ -14184,21 +13974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[445]すっごい裁縫セットを使うことで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっぱいが『まるだし』になってしまう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『ぽろり状態』を治すことが出来ます。"
+                                "\\i[445] By using the amazing sewing set, you can fix the pop out\nsituation where your breasts are completely exposed."
                             ]
                         },
                         {
@@ -14216,21 +13992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ぽろり状態』は特に悪影響はありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.乙女の尊厳を守りたいときに使いましょう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!……じゃあ治さない？\\. そう……。"
+                                "There are no particular negative effects to the 'pop out' state.\nLet's use it when we want to protect the dignity of maidens!\n...So, should we fix it? Yes..."
                             ]
                         },
                         {
@@ -14319,28 +14081,14 @@
                                 0,
                                 0,
                                 2,
-                                "仲のいい女の子"
+                                "Close friends"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ねぇ、ラウラ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.『おっぱい』が『まるだし』だけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!恥ずかしくないの？"
+                                "Hey, Laura... Your oppai are completely exposed... Aren't you\nembarrassed?"
                             ]
                         },
                         {
@@ -14351,14 +14099,14 @@
                                 0,
                                 0,
                                 2,
-                                "仲のいい女の子"
+                                "Close friends"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もしかして、そういうのが好きな人なの……？"
+                                "Could it be that you're someone who likes that kind of thing...?"
                             ]
                         },
                         {
@@ -14379,21 +14127,14 @@
                                 0,
                                 0,
                                 2,
-                                "仲のいい女の子"
+                                "Close friends"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "山頂におっきいべとべとがいたんだよね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.大丈夫だと思うけど、気を付けてね。"
+                                "There was a big sticky thing at the mountaintop... I think you'll\nbe fine, but be careful."
                             ]
                         },
                         {

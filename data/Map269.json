@@ -1417,14 +1417,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]探し物を手伝わないと…。"
+                                "\\SE[2]I need help finding something..."
                             ]
                         },
                         {
@@ -1745,21 +1745,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ここは…書類の保管庫…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]どうして、\\.こんな場所に…？"
+                                "\\SE[2]This is... a document storage room...? \\SE[3]Why... am I in\na place like this...?"
                             ]
                         },
                         {
@@ -1793,14 +1786,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ここに…ベガが見せたいものが、\\.あるの…？"
+                                "\\SE[2]Is there something... that Vega wants to show me here...?"
                             ]
                         },
                         {
@@ -1811,28 +1804,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そう…なんだけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]具体的な場所は分からないのよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.探すの手伝ってもらえる？\\. 書類の束のはずなんだけど。"
+                                "\\SE[2]Yes... but, \\SE[3]I don't know the exact location. [2]Could\nyou help me search for it? [3]It should be a stack of documents."
                             ]
                         },
                         {
@@ -1897,14 +1876,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]こ、この中から見つけられるものなの…？"
+                                "\\SE[102]C-Can we find something from within here...?"
                             ]
                         },
                         {
@@ -1915,21 +1894,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[20]こ、ここにあるはずなのよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[91]とても重要なものだから、\\.どうにか見つけるしかないのよ…。"
+                                "\\SE[20]I-it should be here... \\SE[91]It's something very\nimportant, so we have to find it somehow..."
                             ]
                         },
                         {
@@ -2036,21 +2008,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]大丈夫！\\.大丈夫！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.一緒にがんばろ？ \\.\\SE[0]ね？"
+                                "\\SE[16]It's okay! It's okay! Let's do our best together, okay?\n\\SE[0]Right?"
                             ]
                         },
                         {
@@ -2061,14 +2026,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]えへへー…じゃあ、\\.がんばるぅ…！"
+                                "\\SE[22]Ehehe... Alright, I'll do my best...!"
                             ]
                         },
                         {
@@ -2319,7 +2284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここにあるはずの『書類』を探してみよう！"
+                                "Let's try to find the documents that should be here!"
                             ]
                         },
                         {
@@ -2674,14 +2639,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]どういった物を探せばいいの？"
+                                "\\SE[2]What kind of things should I search for?"
                             ]
                         },
                         {
@@ -2692,21 +2657,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]本の形状ではないはずなの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]まとめられた紙の束か…\\.封書になっているか…。"
+                                "\\SE[2]It shouldn't be in the shape of a book. \\!\\SE[3]It might be\na bundle of papers... or maybe it's in an envelope..."
                             ]
                         },
                         {
@@ -2717,14 +2675,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]ふーん…。"
+                                "\\SE[3]Hmm..."
                             ]
                         },
                         {
@@ -2812,14 +2770,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]…手間取らせて悪いわね。"
+                                "\\SE[74]...I'm sorry for causing you trouble."
                             ]
                         },
                         {
@@ -2950,21 +2908,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]しまってるんじゃなくて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.隠してるなら…\\.本棚の裏…\\.とか…？"
+                                "\\SE[14]It's not that I'm hiding it... If I were hiding it...\nWould it be behind the bookshelf... or something...?"
                             ]
                         },
                         {
@@ -3015,21 +2966,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]んんー…\\.違うか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私ならそうするんだけど…。"
+                                "\\SE[3]Hmm... Maybe not... That's what I would do though..."
                             ]
                         },
                         {
@@ -3117,21 +3061,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]こういうのは『心理戦』だよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]隠した人間の『心』を読み切れば勝てるよ。"
+                                "\\SE[2]This is a psychological battle, right? \\!\\SE[15]If you can\nread the hidden person's heart, you can win."
                             ]
                         },
                         {
@@ -3393,14 +3330,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ヴィタ。何かあった？"
+                                "\\SE[2]Vita. Is something wrong?"
                             ]
                         },
                         {
@@ -3411,14 +3348,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]こんなときに、どうでもいいことなんだけど…。"
+                                "\\SE[2]At a time like this, it's something trivial, but..."
                             ]
                         },
                         {
@@ -3476,14 +3413,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]この時計…なんだか、\\.違和感が…。"
+                                "\\SE[8]This clock... for some reason, it feels... off."
                             ]
                         },
                         {
@@ -3541,14 +3478,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]時計…。"
+                                "\\SE[3]The clock..."
                             ]
                         },
                         {
@@ -3559,21 +3496,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]あっ…短針と長針がずれてる…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]長針がそろそろ１２なのに、短針が全然間に合ってないね。"
+                                "\\SE[5]Ah... The hour hand and minute hand are misaligned...?\n\\SE[3]The minute hand is almost at 12, but the hour hand is not\ncatching up at all."
                             ]
                         },
                         {
@@ -3591,28 +3521,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]あっ…だから違和感あったんだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]なんだろう…むずむずする…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[17]今すぐ…\\.直してしまいたい…。"
+                                "\\SE[4]Ah... That's why it felt strange.... \\SE[15]I wonder what\nit is... It's making me restless.... \\SE[17]I want to fix it\nright away...."
                             ]
                         },
                         {
@@ -3705,21 +3621,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[98]やっちゃえ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.間違ってる時計が悪いんだ…！"
+                                "\\SE[98]Let's do it...! \\.It's the fault of this wrong clock...!"
                             ]
                         },
                         {
@@ -3737,21 +3646,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]そう、だよね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この時計も正しい時間を刻みたい…\\.はず…。"
+                                "\\SE[15]Yeah, that's right.... \\.I want this clock to keep the\ncorrect time...\\.it should...."
                             ]
                         },
                         {
@@ -3778,14 +3680,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]えいっ。"
+                                "\\SE[17]Ei."
                             ]
                         },
                         {
@@ -3887,14 +3789,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[109]わっ…！ \\.落ちてきちゃった…！！"
+                                "\\SE[109]Ah...! It fell down...!!"
                             ]
                         },
                         {
@@ -3905,21 +3807,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]あぁ…時計が粉々に…ごめんね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[65]わたし、こんなつもりじゃ…。"
+                                "\\SE[46]Ah... The clock is completely shattered... I'm sorry....\n\\SE[65]I didn't mean for this to happen...."
                             ]
                         },
                         {
@@ -3930,28 +3825,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[78]ちょっとあんたたち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なに遊んでんのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[4]…って、\\.これは…。"
+                                "\\SE[78]Hey, what are you guys playing? \\!\\SE[4]...Wait, this\nis..."
                             ]
                         },
                         {
@@ -4081,21 +3962,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]この辺りは…\\.囚人の罪状の目録かしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]色々な犯罪があるものなのね…。"
+                                "\\SE[2]I wonder if this is... a catalog of prisoners' crimes?\n\\SE[3]There are various types of crimes, aren't there..."
                             ]
                         },
                         {
@@ -4106,21 +3980,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]…っと、いけない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]集中しないと…。"
+                                "\\SE[38]... Oh, I can't. \\SE[3] I need to focus..."
                             ]
                         },
                         {
@@ -4213,14 +4080,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]……\\.……\\.……\\.……。"
+                                "\\SE[3]......\\.......\\.......\\........"
                             ]
                         },
                         {
@@ -4238,14 +4105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ものすごい速さで書類に目を通している…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!邪魔しない方がよさそうだ…。"
+                                "She is reading through the documents at an incredible speed... It\nseems better not to disturb her..."
                             ]
                         },
                         {
@@ -4323,14 +4183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず元の位置に戻してみた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…針の角度など、どうでもいいほど損傷がひどい。"
+                                "I tried putting it back in its original position for now... The\ndamage is so bad that things like the angle of the needle don't\neven matter."
                             ]
                         },
                         {
@@ -4413,28 +4266,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ここには…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[5]うわっ、拘束具がいっぱい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[99]手錠に、足枷とか…\\.目隠し…？"
+                                "\\SE\\SE[99]What is this place...? \\!\\SE[5]Wow, there are so many\nrestraints... \\!\\SE[99]Handcuffs, ankle cuffs... and a\nblindfold...?"
                             ]
                         },
                         {
@@ -4445,14 +4284,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[53]ルナに見つかる前に隠しとこ…。"
+                                "\\SE[53]I need to hide before Lunaroa finds me..."
                             ]
                         },
                         {
@@ -4673,7 +4512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[389]キュアミストβを手に入れた！\\$"
+                                "\\i[389]Obtained Cure Mist β! \\$"
                             ]
                         },
                         {
@@ -4823,28 +4662,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]これは、食料…かな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.思ってたより、いい食材があるみたい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]意外とご飯は良かったりするのかな…？"
+                                "\\SE[2]This is... food, right? It seems like there are better\ningredients than I expected... \\SE[3]I wonder if rice can be\nsurprisingly good...?"
                             ]
                         },
                         {
@@ -4855,21 +4680,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]そっか。反省するための施設だもんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.健康じゃなきゃ意味ないのか。"
+                                "\\SE[3]I see. So this is a facility for reflection. It's\nmeaningless if it's not healthy, right?"
                             ]
                         },
                         {
@@ -4889,14 +4707,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[93]んー…ここには、ないみたい。"
+                                "\\SE[93]Hmm... It seems like it's not here."
                             ]
                         },
                         {
@@ -5037,21 +4855,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]う、うわっ…\\.本がたくさん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]私はこういうの苦手だし、\\.あの二人に任せよう…。"
+                                "\\SE[102]U-uh... so many books... \\SE[51]I'm not good with this\nkind of thing, so I'll leave it to those two..."
                             ]
                         },
                         {

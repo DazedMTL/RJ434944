@@ -1483,28 +1483,14 @@
                                 0,
                                 0,
                                 2,
-                                "武器屋さん"
+                                "Weapon Shop"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちは『武器屋』だぜぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!やっぱり相棒は『武器』だよなぁ！？"
+                                "Welcome! This here is a Weapon Shop! After all, the best partner\nis a weapon, right?!"
                             ]
                         },
                         {
@@ -1522,21 +1508,14 @@
                                 0,
                                 0,
                                 2,
-                                "武器屋さん"
+                                "Weapon Shop"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…嬢ちゃんは、買っていかないのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!いい商品けっこうあんだけど…。"
+                                "...Miss, aren't you going to buy something? We have some good\nproducts..."
                             ]
                         },
                         {
@@ -1554,14 +1533,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]はい、私は『これ』でいくと決めているので。"
+                                "Yes, I have decided to go with this \\SE[2]."
                             ]
                         },
                         {
@@ -1648,28 +1627,14 @@
                                 0,
                                 0,
                                 2,
-                                "防具屋さん"
+                                "Armor Shop"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらでは防具を扱っています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!長旅の戦友はやはり『防具』ですよ。"
+                                "Welcome. We deal with armor here. For a long journey, it's\nessential to have armor as your battle companion."
                             ]
                         },
                         {
@@ -1687,14 +1652,14 @@
                                 0,
                                 0,
                                 2,
-                                "防具屋さん"
+                                "Armor Shop"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、お越しください！"
+                                "Please come again!"
                             ]
                         },
                         {
@@ -1952,21 +1917,14 @@
                                 0,
                                 0,
                                 2,
-                                "洋服好きな女性"
+                                "Fashion-loving woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "可愛いお洋服を探しに来たんだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.はぁ…ブティックでもできないかなぁ…。"
+                                "I came to look for cute clothes... sigh... I wish there was a\nboutique around here..."
                             ]
                         },
                         {
@@ -2037,28 +1995,14 @@
                                 0,
                                 0,
                                 2,
-                                "女戦士さん"
+                                "Female warrior"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんた、武器に興味なさそうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう頼れる『相棒』はいる…そんな顔してる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そういうの、いいわね…\\.武器屋の主人は可哀そうだけど。"
+                                "You don't seem interested in weapons, huh? Do you already have a\nreliable partner... You have that kind of expression. Well,\nthat's fine... The owner of the weapon shop must be pitiful\nthough."
                             ]
                         },
                         {
@@ -2158,7 +2102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[543]そまつな棍棒を手に入れた！\\$"
+                                "\\i[543]I obtained a sturdy club! $"
                             ]
                         },
                         {

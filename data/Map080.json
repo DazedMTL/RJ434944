@@ -3722,28 +3722,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "意味ありげな場所に『焚火』を用意してみたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どう？ \\.わくわくしちゃった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…ここには、なにもないんだけども。"
+                                "I prepared a bonfire in a meaningful place. How is it? Are you\nexcited? ...But there's nothing here."
                             ]
                         },
                         {
@@ -4098,7 +4084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[399]精神力の薬草を手に入れた！\\$"
+                                "\\i[399] Obtained a herb of mental power! \\$"
                             ]
                         },
                         {
@@ -4353,7 +4339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[397]魔法力の薬草を手に入れた！\\$"
+                                "\\i[397]I obtained a magic herb! \\$"
                             ]
                         },
                         {
@@ -4608,7 +4594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[475]レアアースの大欠片を手に入れた！\\$"
+                                "\\i[475] I obtained a large fragment of rare earth! $"
                             ]
                         },
                         {
@@ -4759,7 +4745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[414]天使のつのぶえを手に入れた！\\$"
+                                "\\i[414] I obtained the horn of an angel! $"
                             ]
                         },
                         {

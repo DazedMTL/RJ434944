@@ -9380,14 +9380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "炎の揺らめきに心が落ち着いていく…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!パーティの体力が全回復した！"
+                                "The heart calms down in the flickering of flames.... \\! The\nparty's health has been fully restored!"
                             ]
                         },
                         {
@@ -9724,14 +9717,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]うぅ…。"
+                                "\\SE[22]Ugh..."
                             ]
                         },
                         {
@@ -9751,21 +9744,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[53]腕を噛まれちゃったのね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]とりあえず、傷を綺麗にしましょ…。"
+                                "\\SE[53]So you got bitten on the arm, huh... \\!\\SE[12]Let's clean\nup the wound for now..."
                             ]
                         },
                         {
@@ -9948,28 +9934,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[23]あ、足が震えて…\\.何も出来なかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私が、この子たちを守ってあげないといけないのに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[52]こんなときに、\\.私は…\\.何もっ……。"
+                                "\\SE[23]Ah, my legs are trembling... I couldn't do anything. I\nhave to protect these children... \\SE[52]At a time like this,\nI... I can't do anything..."
                             ]
                         },
                         {
@@ -9987,28 +9959,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[42]（違う…\\.違うでしょ！ \\.ニキータ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[57]　今は、\\.『反省』も『後悔』も、\\.どうでもいい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]　あの子たちのために、\\.自分に出来ることをするの！！）"
+                                "\\SE[42] (No... That's not right! Nikita...!! \\SE[57] Right now, I\ndon't care about reflection or regret! \\SE[13] I will do what I\ncan for those children!!)"
                             ]
                         },
                         {
@@ -10026,28 +9984,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[42]（メリッサが傷を綺麗にしてくれているから…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　私は止血…\\.『包帯』の代わりになるもの…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]　万が一、\\.骨が折れていたら『添え木』をする…！）"
+                                "\\SE[42] (Because Melissa is cleaning the wound for me... I will\nstop the bleeding... using something as a substitute for a\nbandage... \\SE[13] In case of a fracture, I will use a splint...\njust in case!)"
                             ]
                         },
                         {
@@ -10436,28 +10380,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[13]これで、よし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.他は『打ち身』があるくらいで…\\.大きな怪我はないみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]念のため、早くお医者さんに見せたい…\\.のと…。"
+                                "\\SM[nod]\\SE[13]Alright, with this... It seems like there aren't\nany major injuries, just some bruises... \\SE[3]Just to be safe, I\nwant to see a doctor as soon as possible... And..."
                             ]
                         },
                         {
@@ -10508,28 +10438,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]『ぱんつ』…\\.びしょびしょになっちゃったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]代わりに、私の使う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]片手じゃ大変だろうし、\\.『お股』も洗ってあげよっか？"
+                                "\\SE[6]Panties... They got all wet, huh? \\SE\\SE[0]Do you want me\nto lend you mine instead? \\SE[0]It must be difficult with just\none hand, so should I wash your private area too?"
                             ]
                         },
                         {
@@ -10549,14 +10465,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]うぁう……。"
+                                "\\SE[9]Ugh..."
                             ]
                         },
                         {
@@ -10597,28 +10513,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]（傷は残ってしまうかもしれないけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\.ひとまずは、よかった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[57]この子たちは、私が絶対に……。）"
+                                "\\SE[5] (There might be scars left from the wound... But for now,\nit's good... \\SE[57] I absolutely have to protect these\nchildren...)"
                             ]
                         },
                         {
@@ -11268,14 +11170,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]う、\\.うそでしょ…。"
+                                "\\SE[14]U-Uh, this can't be true..."
                             ]
                         },
                         {
@@ -11302,21 +11204,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]……\\.……\\.\\SE[14]メリッサ。ロノアを連れて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]はやく、\\.\\.逃げなさい。"
+                                "\\SE[13]......\\.......\\.\\SE[14]Melissa, take Ronoa and...\n\\!\\SE[13]quickly, \\.\\.run away."
                             ]
                         },
                         {
@@ -11334,14 +11229,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[54]で、でも…！"
+                                "\\SE[54]But...!"
                             ]
                         },
                         {
@@ -11352,28 +11247,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]いいから、\\.はやく！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]私は大丈夫だから！！\\.早く、逃げなさいっ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]あなたには、ロノアを守る役目があるんでしょ！！？"
+                                "\\SE[14]It's fine, hurry!! \\SE[13]I'll be okay!! Hurry, run\naway!!! \\SE[14]You have the role of protecting Ronoa, right!!?"
                             ]
                         },
                         {
@@ -11957,7 +11838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送の結晶石に『逃亡の森』が追加された！"
+                                "The 'Forest of Escape' has been added to the teleportation\ncrystal!"
                             ]
                         },
                         {

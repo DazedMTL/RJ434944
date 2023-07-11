@@ -5753,14 +5753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそハタヤキ村へ！…と書いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "観光客はこないので誰にも読まれることはない。"
+                                "Welcome to Hatayaki Village!... That's what it says. Since there\nare no tourists, no one will read it."
                             ]
                         },
                         {
@@ -6026,14 +6019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "楽しい豚はこちら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "↓でぬくもりに触れて幸せになろう！"
+                                "Here is a fun pig! Let's touch it and become happy with its\nwarmth!"
                             ]
                         },
                         {
@@ -6111,21 +6097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "豚飼育用のとうもろこしを育てています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "窃盗は犯罪です。絶対にやってはいけません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛い豚がお腹を空かせるのは可哀そうだと思いませんか？"
+                                "I am growing corn for pig farming. Theft is a crime. You should\nnever do it. Don't you think it's pitiful to see cute pigs go\nhungry?"
                             ]
                         },
                         {
@@ -6203,14 +6175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こころなしか…ルナロアの炎に似ている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体力が全回復した！"
+                                "It's as if... it resembles Lunaroa's flames... My health has\nfully recovered!"
                             ]
                         },
                         {
@@ -6644,21 +6609,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]ここは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『ハタヤキ村』…！？"
+                                "\\SE[76]This is.... Hatayaki Village...!?"
                             ]
                         },
                         {
@@ -6831,14 +6789,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]あなたは…。"
+                                "\\SE[5]You are..."
                             ]
                         },
                         {
@@ -6856,21 +6814,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]いらっしゃい。\\.ラウラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]ここは『ママ』の思い出の世界…。"
+                                "\\SE[16]Welcome. Laura. \\SE[0]This is the world of Mama's\nmemories..."
                             ]
                         },
                         {
@@ -6888,28 +6839,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[32]これまで生きてきて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.楽しかったこと、\\.辛かったこと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]そんな思い出がいっぱい詰まっている『場所』…。"
+                                "\\SE[32]Throughout my life... the fun times, the difficult\ntimes... \\SE[3]This place is filled with so many memories..."
                             ]
                         },
                         {
@@ -6927,14 +6864,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]……………。"
+                                "\\SE[0]................"
                             ]
                         },
                         {
@@ -6961,28 +6898,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]わ、私は別に邪魔しにきたわけじゃないよ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[43]ラウラが一人だと『迷子』になっちゃうから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.一緒に行ってあげようと思って…。"
+                                "\\SE[14]W-Well, it's not like I came here to bother you or\nanything...? \\SE[43]I just thought that if Laura was alone, she\nmight get lost, so I wanted to go with her..."
                             ]
                         },
                         {
@@ -7009,28 +6932,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]前にも言ったでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私は『友達』がたくさんいるから寂しくないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]この間も助けてもらったし。"
+                                "\\SE[2]Didn't I tell you before? \\.I have a lot of friends so I\ndon't feel lonely. \\!\\SE[0]You helped me the other day too."
                             ]
                         },
                         {
@@ -7048,28 +6957,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]だけど『あの子』はそうじゃないから…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『ひとりぼっち』だから\\.『ママ』に依存しちゃってるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]私よりもずっと、『甘えんぼさん』なの。"
+                                "\\SE\\SE[2]But that child is different... \\SE[3]She's all alone.\nShe depends on Mama. \\SE\\SE[2]She's much more of a clingy person\nthan me."
                             ]
                         },
                         {
@@ -7080,14 +6975,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]……………。"
+                                "\\SE[5]................"
                             ]
                         },
                         {
@@ -7107,21 +7002,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]ほら？ \\.先に進もう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]一緒なら、寂しくないでしょ？"
+                                "\\SE[16]See? Let's move forward, okay? \\SE[15]If we're together,\nyou won't feel lonely, right?"
                             ]
                         },
                         {
@@ -7155,14 +7043,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…って、\\.忘れてた。"
+                                "\\SE[2]...Oh, I forgot."
                             ]
                         },
                         {
@@ -7173,14 +7061,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]………？"
+                                "\\SE[5].........？"
                             ]
                         },
                         {
@@ -7191,28 +7079,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]今、とっても疲れちゃってて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦うとか、\\.全然無理そうなの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[5]何かあったら、\\.私のこと守ってくれる…？"
+                                "\\SE[21]Right now, I'm really tired... Fighting or anything like\nthat, it seems impossible for me. \\SE[5]If something happens,\nwill you protect me...?"
                             ]
                         },
                         {

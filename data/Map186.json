@@ -5424,7 +5424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーンに帰還しますか？\\!"
+                                "Will you return to Ulyssean?!"
                             ]
                         },
                         {
@@ -5621,7 +5621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーンに帰還しますか？\\!"
+                                "Will you return to Ulyssean?!"
                             ]
                         },
                         {
@@ -5818,7 +5818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーンに帰還しますか？\\!"
+                                "Are you returning to Ulyssean?"
                             ]
                         },
                         {
@@ -6082,14 +6082,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ここが…氷の試練…。"
+                                "\\SE[2]This is... the trial of ice..."
                             ]
                         },
                         {
@@ -6109,21 +6109,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]わ、私…雪って初めて見たけど…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[100]こんなに寒いんだね…！！"
+                                "\\SE[102]I-I... It's my first time seeing snow...!! \\SE[100]It's\nso cold...!!"
                             ]
                         },
                         {
@@ -6311,21 +6304,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]なんでそんな薄着で来たのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.無謀すぎるでしょ…。"
+                                "\\SE[74]Why did you come dressed so lightly? It's too reckless..."
                             ]
                         },
                         {
@@ -6397,28 +6383,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]だ、大丈夫…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[100]ちょっとくらい寒いほうがね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こう…\\.『生きてる』って感じするし…！"
+                                "\\SE[102]I-I'm fine...!! \\SE[100]It's actually nice to feel a\nlittle cold...! It makes me feel... alive...!"
                             ]
                         },
                         {
@@ -6438,21 +6410,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]（あぁ…寒さに震えるラウラの姿…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[50]　官能的だわ…。）"
+                                "\\SE[46] (Ah... Laura trembling in the cold... \\!\\SE[50] It's so\nsensual...)"
                             ]
                         },
                         {
@@ -6522,21 +6487,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なるほど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ここは『ルナロアの場所』…\\.ってことなのかな。"
+                                "\\SE[2]I see... \\SE[3]So this is Lunaroa's place... I suppose."
                             ]
                         },
                         {
@@ -6547,28 +6505,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]こいつをまだ強くするの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[52]別にいらなくない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.他に有意義な事に時間を使いましょうよ。"
+                                "\\SE[2]Are you still trying to make this person stronger?\n\\SE[52]Isn't it unnecessary? Let's spend our time on something\nmore meaningful."
                             ]
                         },
                         {
@@ -6620,21 +6564,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[37]なんでっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]私だって『パワーアップ』したいもんっ！！"
+                                "\\SE[37]Why...! \\!\\SE[9]I want to power up too!!"
                             ]
                         },
                         {
@@ -6805,21 +6742,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]元気を出して、ルナ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]もっと最強になって一緒に世界をぶっこわそう…！"
+                                "\\SE[15]Cheer up, Lunaroa...! \\SE[14]Let's become even stronger\nand destroy the world together...!"
                             ]
                         },
                         {
@@ -6830,21 +6760,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]そうする…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[59]世界を破壊する……！"
+                                "\\SE[38]That's right...! \\SE[59]To destroy the world...!"
                             ]
                         },
                         {
@@ -6871,21 +6794,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]ま、まぁ…\\.ここまで来ちゃったし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]先に進もっか…\\.寒いし…。"
+                                "\\SE[38]W-Well... since we've come this far... \\SE[3]Let's keep\ngoing... It's cold, though..."
                             ]
                         },
                         {
@@ -7042,7 +6958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送の結晶石に『氷の試練』が追加された！"
+                                "The 'Trial of Ice' has been added to the teleportation crystal!"
                             ]
                         },
                         {
@@ -7678,28 +7594,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]ううっ…\\.さむいっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[59]しかし、こういう不毛の土地こそ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "案外『穴場』だったりしますからね！"
+                                "\\SE[38]Uuu... It's cold... But, surprisingly, these barren lands\ncan be a hidden gem, you know! \\SE[59]"
                             ]
                         },
                         {

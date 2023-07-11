@@ -16573,14 +16573,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]狩場はこっちじゃないよ。"
+                                "\\SE[3]The hunting grounds are not here."
                             ]
                         },
                         {
@@ -16857,14 +16857,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]まだ、獲物が獲れてないよ。"
+                                "\\SE[2]I haven't caught any prey yet."
                             ]
                         },
                         {
@@ -17083,21 +17083,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]もう、遅いよー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私一人で行こうかと思っちゃった。"
+                                "\\SE[2] Geez, you're so slow. I was thinking of going alone."
                             ]
                         },
                         {
@@ -17117,28 +17110,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]んっ…ごめん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[25]おとうさんが『コーダイン』に行くのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝坊しちゃって…バタバタしてて…。"
+                                "\\SE[6]Hmm... I'm sorry. \\!\\SE[25]I overslept when dad was going\nto Cordain... I was in a rush..."
                             ]
                         },
                         {
@@ -17149,28 +17128,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あっ ヴィタの所も？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]うちもそうなんだ。なんかいっぱい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金もらえるかも！って張り切ってた。"
+                                "\\SE\\SE[15]Oh, Vita's place too? \\SE[15]Our place is the same. I\nwas all excited, thinking we might get a lot of money!"
                             ]
                         },
                         {
@@ -17181,28 +17146,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]あたしはねー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『ソアレのネックレス』買ってもらうんだー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヴィタは何を買ってもらうの？"
+                                "\\SE[0]As for me... I'm going to get the Soare Necklace bought for\nme. What are you going to get, Vita?"
                             ]
                         },
                         {
@@ -17213,14 +17164,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]おとうさんが『ユリシーン』に旅行に行こうって。"
+                                "\\SE[0]Dad said he wants to go on a trip to Yurisine."
                             ]
                         },
                         {
@@ -17231,21 +17182,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[1]あー…それも、いいかも…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[8]あたしもそうしようかなぁ…\\.うーん…。"
+                                "\\SM[nod]\\SE\\SE[8]Ah... that might be good too...! \\!\\SE[8]Maybe I\nshould do that too... Hmmm..."
                             ]
                         },
                         {
@@ -17272,21 +17216,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]じゃあ…みんなが頑張れるように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちはご馳走を用意しないとね。"
+                                "\\SE[1]Well then... in order for everyone to do their best, we\nneed to prepare a feast."
                             ]
                         },
                         {
@@ -17327,21 +17264,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[10]うん。あたしもイノシシ頼まれちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]じゃあ張り切っていこー。"
+                                "\\SM[nod]\\SE[10]Yeah. I was also asked to hunt wild boars.\n\\SE[1]Alright, let's go full throttle then."
                             ]
                         },
                         {
@@ -17352,14 +17282,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]おー。"
+                                "\\SE[14]Oh."
                             ]
                         },
                         {
@@ -17542,21 +17472,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]どうしたー…\\.『サーブルノワール』？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]おまえも、やる気まんまんかぁ…？"
+                                "\\SE[3]What's wrong... 'Sable Noir'? \\SE[14]Are you also full of\nmotivation...?"
                             ]
                         },
                         {
@@ -17567,28 +17490,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]この子はだめだよー。\\.『狩り』はへたくそだもん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]前なんて、イノシシにびっくりしちゃって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一週間も迷子になっちゃったんだから。"
+                                "\\SE[2]This child is hopeless. She's terrible at hunting.\n\\SE[3]Just the other day, she got scared by a wild boar and ended\nup getting lost for a whole week."
                             ]
                         },
                         {
@@ -17599,28 +17508,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ご主人様がだめって言ってるぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]残念だったな、『サーブルノワール』…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.お前は『おるすばん』だな…！"
+                                "\\SE\\SE[13]Master says you're no good. \\SE[13]Too bad, Sable\nNoir...! You'll be on guard duty...!"
                             ]
                         },
                         {
@@ -17681,21 +17576,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]そろそろ行こっか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.夕ご飯に間に合わなくなっちゃう。"
+                                "\\SE[0]Shall we go soon? We won't make it in time for dinner."
                             ]
                         },
                         {
@@ -18056,14 +17944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『サーブルノワール』は遊んで欲しいみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…なでてあげますか？\\!"
+                                "It seems like they want you to play 'Sable Noir'. Should I pet\nthem?"
                             ]
                         },
                         {
@@ -18131,7 +18012,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごきげんになったみたい…。"
+                                "It seems like they became happy..."
                             ]
                         },
                         {
@@ -18181,7 +18062,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっとさみしそう…。"
+                                "They seem a little lonely..."
                             ]
                         },
                         {

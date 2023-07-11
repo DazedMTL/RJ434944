@@ -5786,14 +5786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体力が全回復した！"
+                                "HP has been fully restored!"
                             ]
                         },
                         {
@@ -5898,21 +5891,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちわ。にんげんの人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにかご用事？"
+                                "Hello. Are you a human? Do you have any business?"
                             ]
                         },
                         {
@@ -5945,7 +5931,7 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
@@ -6458,28 +6444,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]ここが…『最深部』かな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あれっ？ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『風の精霊さん』はどこだろう…。"
+                                "\\SE[5]Is this... the deepest part? I wonder... \\!\\SE[3]Huh? Where\ncould the Wind Spirit be..."
                             ]
                         },
                         {
@@ -6490,21 +6462,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あそこにいるのは…\\.『使い魔』かしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]ちょっと聞いてみる？"
+                                "\\SE[2]Is that person over there... a familiar? \\!\\SE[0]Should I\nask them a question?"
                             ]
                         },
                         {
@@ -6515,28 +6480,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]んっ…\\.そうだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[5]すいませーん！ \\.私たちー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『風の精霊さん』に会いに来たんですけどー！！"
+                                "\\SE[7]Hmm... That's right. \\SE[5]Excuse me! We came to meet the\nWind Spirit!!"
                             ]
                         },
                         {
@@ -6601,14 +6552,14 @@
                                 0,
                                 0,
                                 2,
-                                "風の使い魔？"
+                                "Wind Familiar?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ………？"
+                                "Hm...?"
                             ]
                         },
                         {
@@ -6619,28 +6570,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あらっ 可愛らしい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]私たち、『風の試練』を受けに来たの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あなたの『主様』に会わせて欲しいのだけれど…。"
+                                "\\SE[2]Oh my, how adorable... \\SE[0]We came here to undergo the\nTrial of the Wind. We would like to meet your Master..."
                             ]
                         },
                         {
@@ -6658,21 +6595,14 @@
                                 0,
                                 0,
                                 2,
-                                "風の使い魔？"
+                                "Wind Familiar?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…えっと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!その…。"
+                                "Ah... um.... Well..."
                             ]
                         },
                         {
@@ -6699,21 +6629,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なんか歯切れが悪いね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]この子は『使い魔』じゃないのかな？"
+                                "\\SE[2]She seems a bit hesitant. \\!\\SE[3]I wonder if she's not a\nfamiliar?"
                             ]
                         },
                         {
@@ -6776,14 +6699,14 @@
                                 0,
                                 0,
                                 2,
-                                "風の使い魔？"
+                                "Wind Familiar?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だから…\\.えっと……。"
+                                "So... um...."
                             ]
                         },
                         {
@@ -6815,14 +6738,14 @@
                                 0,
                                 0,
                                 2,
-                                "風の精霊"
+                                "Spirit of the Wind"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ、私がお探しの『風の精霊』なんですぅ…！"
+                                "Ah, I am the Spirit of the Wind that you are looking for...!"
                             ]
                         },
                         {
@@ -6919,21 +6842,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]（やだっ…\\.私ったら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[9]とても失礼なことをしてしまったかしら…。）"
+                                "\\SE[12] (Oh no... Did I... \\!\\SE[9]do something very rude...?)"
                             ]
                         },
                         {
@@ -6951,21 +6867,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[20]（ちょっと、あんた。謝っときなさいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[19]私は知らないんだからね。）"
+                                "\\SE[20] (Hey, apologize! I don't know anything, you know.\n\\!\\SE[19])"
                             ]
                         },
                         {
@@ -6992,28 +6901,14 @@
                                 0,
                                 0,
                                 2,
-                                "風の精霊"
+                                "Spirit of the Wind"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ううっ…\\.ですよね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!私は見た目こんなで…威厳なんてないし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!がっかりしちゃいましたよね…\\.すいませぇん…。"
+                                "Ugh... I guess so... I don't have a dignified appearance... I\nmust have disappointed you... I'm sorry..."
                             ]
                         },
                         {
@@ -7094,28 +6989,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[109]い、いや…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.全然そんなことないですよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[99]ちょっとびっくりはしたけど…\\.可愛らしいと思うし…。"
+                                "\\SE[109]N-No...! I-It's not like that at all!! \\SE[99]I was just\na little surprised... But I think it's cute..."
                             ]
                         },
                         {
@@ -7200,28 +7081,14 @@
                                 0,
                                 0,
                                 2,
-                                "風の精霊"
+                                "Spirit of the Wind"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ…いいんです…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!私なんて『風の精霊』にはふさわしくないんだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もう、\\.消えちゃった方がいいんだ…。"
+                                "No... it's fine... I'm not worthy of being a Spirit of the\nWind... It would be better if I just... disappeared..."
                             ]
                         },
                         {
@@ -7370,28 +7237,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[95]ど、どうしよう…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私たちのせいで、精霊さん『自信』なくしちゃった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]『風の試練』どころじゃないよね…。"
+                                "\\SE[95]W-What should we do...? It's because of us that the spirit\nlost their confidence... \\SE[51]We can't even focus on the Trial\nof the Wind anymore..."
                             ]
                         },
                         {
@@ -7402,14 +7255,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]どうにかして、元気づけないとね…。"
+                                "\\SE[2]We have to find a way to cheer them up..."
                             ]
                         },
                         {
@@ -7477,21 +7330,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]思いっきり、ひっぱたいてみない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『気合』が入って元気になるかも。"
+                                "\\SE\\SE[0]How about giving them a good slap? \\!\\SE[0]It might give\nthem a boost of energy."
                             ]
                         },
                         {
@@ -7536,21 +7382,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[94]どういう思考回路してんのよ、\\.あんた…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[18]もう『虐待』でしょ。\\.そんなの。"
+                                "\\SE[94]What kind of thought process are you having? \\SE[18]It's\nalready abuse, isn't it? That's just..."
                             ]
                         },
                         {
@@ -7561,14 +7400,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]んー…\\.だめかなー…？"
+                                "\\SE[3]Hmm... I wonder if it's no good...?"
                             ]
                         },
                         {
@@ -7579,28 +7418,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]ラウラ。こいつは使い物にならないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[74]…こういうのは、私も正直自信ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ってことで、ヴィタと二人でどうにかしなさい。"
+                                "\\SE[4]Laura, this person is useless. \\!\\SE[74]...Honestly, I\ndon't have confidence in dealing with this kind of situation\neither. \\!\\SE[3]So, figure it out with Vita on your own."
                             ]
                         },
                         {
@@ -7627,21 +7452,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]よ、よし…わかった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[17]行こう、ヴィタ…！"
+                                "\\SE[19]Alright... I got it! \\SE[17]Let's go, Vita...!"
                             ]
                         },
                         {
@@ -7714,21 +7532,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]んっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]やれるだけ、\\.やってみよっか…。"
+                                "\\SE[3]Hmm... \\SE[2]I'll do whatever I can... Let's give it a\ntry..."
                             ]
                         },
                         {
@@ -7769,14 +7580,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]（ひっぱたけば、いいと思うけどなぁ…。）"
+                                "\\SE[3] (I think it would be good to give them a slap...)"
                             ]
                         },
                         {

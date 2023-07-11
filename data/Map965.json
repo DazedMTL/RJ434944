@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "デバッグルーム",
+    "displayName": "Debug Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -22921,21 +22921,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フラグ管理用"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャラ離脱スイッチです。"
+                                "This is a character departure switch for flag management."
                             ]
                         },
                         {
@@ -23408,21 +23401,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "７つの試練適正レベルにするわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰を連れて行く？\\!"
+                                "I will set the level of the seven trials to the appropriate\nlevel. Who should I bring along?!"
                             ]
                         },
                         {
@@ -23728,14 +23714,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回復！SPチャージ！"
+                                "Recovery! SP charge!"
                             ]
                         },
                         {
@@ -23825,14 +23811,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お店です！（未実装）"
+                                "It's a shop! (Not implemented yet)"
                             ]
                         },
                         {
@@ -28475,14 +28461,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値をあげます！\\!"
+                                "I'll raise your experience points!"
                             ]
                         },
                         {
@@ -28746,7 +28732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴィタとアイシャ"
+                                "Vita and Aisha"
                             ]
                         },
                         {
@@ -28800,7 +28786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ステートチェック？"
+                                "State check?"
                             ]
                         },
                         {
@@ -46847,14 +46833,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "２部編成にする？\\!"
+                                "Shall we form a party of two?"
                             ]
                         },
                         {
@@ -47119,14 +47105,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すけっと！"
+                                "Secret!"
                             ]
                         },
                         {
@@ -48582,14 +48568,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "２部編成にする？\\!"
+                                "Shall we form a party of two?"
                             ]
                         },
                         {
@@ -48854,14 +48840,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "助っ人を４人加入させるわ！"
+                                "I'll have four reinforcements join us!"
                             ]
                         },
                         {
@@ -48977,14 +48963,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回復！SPチャージ！"
+                                "Recovery! SP charge!"
                             ]
                         },
                         {
@@ -49074,14 +49060,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値をあげます！\\!"
+                                "I'll increase your experience points!"
                             ]
                         },
                         {
@@ -51851,14 +51837,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値をあげます！\\!"
+                                "I'll raise your experience points!"
                             ]
                         },
                         {
@@ -52115,14 +52101,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値をあげます！\\!"
+                                "I'll raise your experience points!"
                             ]
                         },
                         {
@@ -52379,14 +52365,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値をあげます！\\!"
+                                "I'll raise your experience points!"
                             ]
                         },
                         {
@@ -52643,14 +52629,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値をあげます！\\!"
+                                "I'll raise your experience points!"
                             ]
                         },
                         {
@@ -53057,21 +53043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レベル１０で開始"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１２で〆目安　　２０００程度経験値　１０回程度エンカ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "３人"
+                                "Starting at level 10, aim to finish by level 12. Approximately\n2000 experience points and encounter about 10 times? 3 people."
                             ]
                         },
                         {
@@ -53149,21 +53121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レベル１２開始。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "４人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くらい上がる"
+                                "Level 12 start. About 4 people will level up."
                             ]
                         },
                         {
@@ -53253,21 +53211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "１３開始"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリア後レベル１５　エンカ１０と仮定"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "揃うマップ　６０００必要"
+                                "Level 13 start, after clearing level 15, assuming 10 encounters,\na map with 6000 is needed."
                             ]
                         },
                         {
@@ -53345,14 +53289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値アイテムを配布。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "２０になるくらい"
+                                "Distributing experience items. About to reach level 20."
                             ]
                         },
                         {
@@ -53430,14 +53367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "道中は弱く、効率も悪い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボス経験値を高め。２０になる。"
+                                "The journey is weak and inefficient. Increase the boss\nexperience. Become level 20."
                             ]
                         },
                         {
@@ -53515,21 +53445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "２０開始。３ずつ上がって、３０近くに。弱点を強く設定。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "累計、９００００必要。　それぞれ、１０エンカで仮定"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボスは１５０００"
+                                "Starting at level 20. Increase by 3 each time, reaching close to\nlevel 30. Set weaknesses to be stronger. A total of 9000 is\nrequired. Assuming 10 encounters each. The boss has 15000."
                             ]
                         },
                         {
@@ -53607,28 +53523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "３０開始。３２に上がる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げる人がおおいかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボス２００００。必要１８０００"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１エンカ１８００目安"
+                                "Starting at 30. Going up to 32. There might be a lot of people\nrunning away. Boss is at 2000. Need 18000. 1 encounter is\napproximately 1800."
                             ]
                         },
                         {
@@ -53706,28 +53601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍾乳洞３２でスタート。３００００"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１エンカ２１００"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "城を３４開始、３６に。３２０００必要"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詰まないように、経験値を多めに。１エンカ３０００"
+                                "  Starting at Cave 32. Encounter rate is 1 in 3000. Begin at\nCastle 34, and reach Castle 36. It requires 32000 experience\npoints to level up. Be careful not to get stuck, so gain more\nexperience. Encounter rate is 1 in 3000."
                             ]
                         },
                         {
@@ -53805,21 +53679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロア離脱。ラウラ強化"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "３８開始（仮）敵は城流用。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく、クリア後に４２に。"
+                                "Lunaroa leaves. Laura strengthens level 38 (tentative). The enemy\nis the Castle Faction. Probably, it will be level 42 after\nclearing."
                             ]
                         },
                         {
@@ -53897,14 +53757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "４２開始。１０エンカ。３００００。１エンカ３１００"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "４３、４４くらいで〆？"
+                                "Starting at 42. Encounter at 10. 3000. Encounter at 1,310. Close\naround 43 or 44?"
                             ]
                         },
                         {
@@ -53982,7 +53835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "限定パートかつ、少数なので２１００程度"
+                                "Limited part and small number, so around 2100."
                             ]
                         },
                         {
@@ -54060,7 +53913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "４３開始。前半で＋１。後半で＋１想定"
+                                "43 start. +1 in the first half. +1 in the second half expected."
                             ]
                         },
                         {
@@ -54138,7 +53991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "４５になる。"
+                                "I'm turning 45."
                             ]
                         },
                         {
@@ -54216,21 +54069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "４５～５０で到着。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レベル上げ周回をすると６０に。試練も６０適正に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユニークは７０想定。"
+                                "Arrive at level 45-50. Leveling up through repeated runs will\nbring you to level 60. Trials are also recommended for level 60.\nUnique content is designed for level 70."
                             ]
                         },
                         {
@@ -54248,7 +54087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "５０→６０は３１００００必要。"
+                                "50 to 60 requires 31,000."
                             ]
                         },
                         {
@@ -54319,14 +54158,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値をあげます！\\!"
+                                "I'll raise your experience points!"
                             ]
                         },
                         {
@@ -54583,14 +54422,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値をあげます！\\!"
+                                "I'll raise your experience points!"
                             ]
                         },
                         {
@@ -54854,7 +54693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "１５～１８に。必要１３０００　エンカ１３，１５と仮定。"
+                                "Assuming encounters at levels 15-18, a total of 13,000 Enka is\nrequired for encounters 13 and 15."
                             ]
                         },
                         {
@@ -54932,28 +54771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "城を３４開始、３６に。３２０００必要"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詰まないように、経験値を多めに。１エンカ３０００"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボス戦でベガ側２４５００"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルナロア側３００００で、３７～３８に上昇。"
+                                "Starting at level 34, reaching level 36 requires 32,000\nexperience points. To avoid getting stuck, aim for more\nexperience points. Each encounter gives 3,000 experience points.\nIn boss battles, the Vega side gives 24,500 experience points,\nwhile the Lunaroa side gives 3,000 experience points, allowing\nyou to reach levels 37 to 38."
                             ]
                         },
                         {
@@ -55024,14 +54842,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値をあげます！\\!"
+                                "I'll raise your experience points!"
                             ]
                         },
                         {
@@ -55288,14 +55106,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値をあげます！\\!"
+                                "I'll raise your experience points!"
                             ]
                         },
                         {
@@ -55559,14 +55377,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "２部編成にする？\\!"
+                                "Shall we form a party of two?"
                             ]
                         },
                         {
@@ -55831,14 +55649,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "助っ人を４人加入させるわ！"
+                                "I'll have four reinforcements join us!"
                             ]
                         },
                         {
@@ -56078,14 +55896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値インフレマップ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "６０００～７０００"
+                                "Experience point inflation map. 6000-7000."
                             ]
                         },
                         {
@@ -56784,21 +56595,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "７つの試練適正レベルにするわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰を連れて行く？\\!"
+                                "I will set the level of the seven trials to the appropriate\nlevel. Who should I bring along?!"
                             ]
                         },
                         {
@@ -57729,14 +57533,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回復！SPチャージ！"
+                                "Recovery! SP charge!"
                             ]
                         },
                         {
@@ -57826,14 +57630,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回復！SPチャージ！"
+                                "Recovery! SP charge!"
                             ]
                         },
                         {
@@ -58066,14 +57870,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隠者の洞窟の適正レベルにしするの？\\!"
+                                "Are you going to adjust the appropriate level for the hermit's\ncave?!"
                             ]
                         },
                         {
@@ -58540,14 +58344,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コーダイン牢獄の適正レベル？\\!"
+                                "What's the appropriate level for the Cordain Prison?!"
                             ]
                         },
                         {
@@ -59137,14 +58941,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ加入後の適正レベル？\\!"
+                                "What is the appropriate level after Vega joins?!"
                             ]
                         },
                         {
@@ -60300,14 +60104,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロア回想のメンバー？\\!"
+                                "Lunaroa flashback member?!"
                             ]
                         },
                         {
@@ -60466,14 +60270,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロア回想のメンバー？（試験の方）\\!"
+                                "Lunaroa's flashback member? (The one for the exam)!"
                             ]
                         },
                         {
@@ -60765,14 +60569,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エルモ村の適正レベル？\\!"
+                                "What's the appropriate level for Elmo Village?!"
                             ]
                         },
                         {
@@ -61586,14 +61390,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エルモ村（ルナロア合流後）の適正レベル？\\!"
+                                "What's the recommended level for Elmo Village (after Lunaroa\njoins)?!"
                             ]
                         },
                         {
@@ -62149,14 +61953,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "３つの試練の適正レベル？\\!"
+                                "The appropriate level for the three trials?"
                             ]
                         },
                         {
@@ -62652,14 +62456,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地の試練跡の適正レベル？\\!"
+                                "What's the appropriate level for the Trial of the Earth?"
                             ]
                         },
                         {
@@ -63075,14 +62879,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コーダイン城攻略の適正レベル？\\!"
+                                "What is the recommended level for conquering the Caudine Castle?!"
                             ]
                         },
                         {
@@ -63601,14 +63405,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガパート攻略の適正レベル？\\!"
+                                "What is the recommended level for clearing the Vega route?!"
                             ]
                         },
                         {
@@ -64240,14 +64044,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガvs理事長の適正レベル？\\!"
+                                "What is Vega's aptitude level compared to the chairman's?!"
                             ]
                         },
                         {
@@ -64794,14 +64598,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コーダイン王戦の適正レベル？\\!"
+                                "What is the recommended level for the Cordain King battle?!"
                             ]
                         },
                         {
@@ -65365,14 +65169,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雪の城（ライアンレベッカ）の適正レベル？\\!"
+                                "What's the recommended level for the Snow Castle (Ryan Rebecca)?!"
                             ]
                         },
                         {
@@ -66228,14 +66032,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雪の城（ライアンレベッカ）の適正レベル？\\!"
+                                "What's the recommended level for the Snow Castle (Ryan Rebecca)?!"
                             ]
                         },
                         {
@@ -66638,14 +66442,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちパートの適正レベル？\\!"
+                                "What is the appropriate level for the children's part?!"
                             ]
                         },
                         {
@@ -67068,14 +66872,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雪の城（ライアンレベッカ）の適正レベル？\\!"
+                                "What's the recommended level for the Snow Castle (Ryan Rebecca)?!"
                             ]
                         },
                         {
@@ -67478,21 +67282,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君たちはずいぶん遠くまで来るんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…旅行とか、\\.好きな感じ？\\!"
+                                "You've come a long way, haven't you? ...Do you like traveling or\nsomething?"
                             ]
                         },
                         {
@@ -67526,14 +67323,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いいじゃん。"
+                                "That's great."
                             ]
                         },
                         {
@@ -67557,28 +67354,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今回の敵は『２体ボス』だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!倒す順番とか大切…？ \\.かも…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.あんまり関係ないかも…？"
+                                "This time, there are two boss enemies. The order in which you\ndefeat them might be important...? Or maybe not so much...?"
                             ]
                         },
                         {
@@ -67589,28 +67372,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "隙を見せると、もってかれちゃうかも…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!今の戦力を的確に把握しつつ、\\.一気に攻めるのか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.慎重に守りながら戦うのか決めるといい…\\.かも？"
+                                "If you show an opening, you might get taken down...? It might be\na good idea to decide whether to go on the offensive all at once\nwhile accurately assessing your current strength, or to fight\ncautiously while defending... maybe?"
                             ]
                         },
                         {
@@ -67630,14 +67399,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "後回しにしてもいい…\\.かも？"
+                                "It might be okay to put it off for later... maybe?"
                             ]
                         },
                         {
@@ -67661,14 +67430,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "またね。"
+                                "See you later."
                             ]
                         },
                         {
@@ -67756,14 +67525,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メリアの夢の適正レベル？\\!"
+                                "What is Melia's aptitude level for her dream?!"
                             ]
                         },
                         {
@@ -68157,14 +67926,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "理事長戦の適正レベル？\\!"
+                                "What's the appropriate level for the Chairman's battle?!"
                             ]
                         },
                         {
@@ -68540,14 +68309,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロアの影戦の適正レベル？\\!"
+                                "What is Lunaroa's appropriate level for shadow battles?!"
                             ]
                         },
                         {
@@ -68940,14 +68709,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローディア戦の適正レベル？\\!"
+                                "What's the recommended level for the Claudia battle?!"
                             ]
                         },
                         {
@@ -69459,14 +69228,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "画面エフェクトを入れてみる？"
+                                "Shall we try adding some screen effects?"
                             ]
                         },
                         {
@@ -69733,7 +69502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life Alpha! $"
                             ]
                         },
                         {
@@ -69855,14 +69624,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゃいちぇんばん？\\!"
+                                "Chai Chenban?!"
                             ]
                         },
                         {
@@ -71215,14 +70984,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪メイドちゃん"
+                                "Blonde Maid-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『サブクエスト』の受注はこちらで受けていますよー。"
+                                "I'm taking the orders for the subquests here, you know~."
                             ]
                         },
                         {
@@ -71338,7 +71107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ"
+                                "Ah"
                             ]
                         },
                         {
@@ -72763,14 +72532,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゃいちぇんばん？\\!"
+                                "Chai Chenban?!"
                             ]
                         },
                         {
@@ -72939,14 +72708,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キャラ追加する"
+                                "Add a character."
                             ]
                         },
                         {
@@ -73392,21 +73161,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "７つの試練適正レベルにするわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰を連れて行く？\\!"
+                                "I will set the level of the seven trials to the appropriate\nlevel. Who should I bring along?!"
                             ]
                         },
                         {
@@ -74002,21 +73764,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "７つの試練適正レベルにするわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰を連れて行く？\\!"
+                                "I will set the level of the seven trials to the appropriate\nlevel. Who should I bring along?!"
                             ]
                         },
                         {
@@ -74790,14 +74545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "←はレベッカ加入でバグるパターン。　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "→はバグらないパターン。"
+                                "  The pattern on the left bugs out when Rebecca joins. The\npattern on the right doesn't bug out."
                             ]
                         },
                         {
@@ -74815,7 +74563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（備考）→で一回編成すると、←でばバグは発生しない？"
+                                "(Note) If you organize it once with →, will the bug not occur\nwith ←?"
                             ]
                         },
                         {
@@ -74893,28 +74641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人数減らし、エンカ。で一番まずいパターン？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "２人陣形が出現し、４人以上でも常駐してしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "IDがズレるのか、指定の陣形が選べなくなる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フリーズはしない。"
+                                "The worst scenario when reducing the number of people and\nencountering. A formation of two people appears, and even with\nfour or more people, it remains stationed. Perhaps the ID is off,\nand the designated formation cannot be selected. It doesn't\nfreeze."
                             ]
                         },
                         {
@@ -74985,14 +74712,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すけっと！"
+                                "Secret!"
                             ]
                         },
                         {
@@ -75106,7 +74833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人数を増やすコマンド"
+                                "Command to increase the number of people."
                             ]
                         },
                         {
@@ -75406,21 +75133,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "７つの試練適正レベルにするわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰を連れて行く？\\!"
+                                "I will set the level of the seven trials to the appropriate\nlevel. Who should I bring along?!"
                             ]
                         },
                         {
@@ -75760,21 +75480,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フラグ管理用"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャラ離脱スイッチです。"
+                                "This is a character departure switch for flag management."
                             ]
                         },
                         {
@@ -75991,14 +75704,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キャラ追加する"
+                                "Add a character."
                             ]
                         },
                         {
@@ -76296,14 +76009,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コマンドで３人にするね。"
+                                "Let's make it three people with a command."
                             ]
                         },
                         {
@@ -76568,28 +76281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コマンドで３人に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "即話しかけるとバグる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにかしらイベントを挟むとバグらない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（左の妖精に話しかける。陣形を開くなど。）"
+                                "When you use the command on all three of them, it bugs out if you\ntalk to them immediately. Is there something like an event that\ncan be inserted to prevent the bug? (Talk to the fairy on the\nleft, open the formation, etc.)"
                             ]
                         },
                         {
@@ -76788,7 +76480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エンカデスト用"
+                                "Encadest for use"
                             ]
                         },
                         {
@@ -76866,21 +76558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一人ずつ入れ替える場合。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはどうやってもバグらないっぽい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仮に０人を経由してもバグらない。"
+                                "If we replace one person at a time, it seems like this won't\ncause any bugs no matter what. Even if we go through zero people,\nit won't cause any bugs."
                             ]
                         },
                         {
@@ -76958,14 +76636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "４人以下の専用陣形が出ると基本的にバグるので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "3人以下でも４人の陣形を読み込むように設定すればいい…？"
+                                "If a formation for less than 4 people is used, it will generally\ncause bugs, so should we set it to load a formation for 4 people\neven when there are only 3 or fewer people...?"
                             ]
                         },
                         {
@@ -77043,14 +76714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうなモンスターがいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦いますか？\\!"
+                                "There's a strong-looking monster.... Will you fight it?"
                             ]
                         },
                         {
@@ -77292,14 +76956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユニークモンスター討伐の記念碑だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『白金の剣士』と再戦しますか？\\!"
+                                "It's a monument to commemorate the defeat of a unique monster....\n\\! The Platinum Swordsman, will you have a rematch? \\!"
                             ]
                         },
                         {
@@ -77526,14 +77183,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隠者の洞窟の適正レベルにしするの？\\!"
+                                "Are you going to adjust the appropriate level for the hermit's\ncave?!"
                             ]
                         },
                         {
@@ -81207,14 +80864,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よにん！"
+                                "Hey, everyone!"
                             ]
                         },
                         {
@@ -81412,14 +81069,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ＆ロノア"
+                                "Melissa & Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せーのっ…"
+                                "Ready, set..."
                             ]
                         },
                         {
@@ -81458,14 +81115,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ＆ロノア"
+                                "Melissa & Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ばしゃー！！"
+                                "Splash!"
                             ]
                         },
                         {
@@ -81527,14 +81184,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[double]\\SE[36]わー！わー！！"
+                                "\\SM[double]\\SE[36]Wow! Wow!!"
                             ]
                         },
                         {
@@ -81719,14 +81376,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[18]やったなー！悪ガキめー！！"
+                                "\\SE[18]Well done! You little brat!!"
                             ]
                         },
                         {
@@ -81737,21 +81394,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]あはは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間に入ってきたラウラが悪いんだよー！"
+                                "\\SE[16]Ahaha! It's Laura's fault for getting in the way!"
                             ]
                         },
                         {
@@ -81762,14 +81412,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]むー…。"
+                                "\\SE[17]Mmm...."
                             ]
                         },
                         {
@@ -81780,14 +81430,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[7]たしかにー！"
+                                "\\SM[nod]\\SE[7]Certainly!"
                             ]
                         },
                         {
@@ -81933,14 +81583,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ＆ロノア"
+                                "Melissa & Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せーのっ…"
+                                "Ready, set..."
                             ]
                         },
                         {
@@ -81979,14 +81629,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ＆ロノア"
+                                "Melissa & Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ばしゃー！！"
+                                "Splash!"
                             ]
                         },
                         {
@@ -82030,14 +81680,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[double]\\SE[36]わー！わー！！"
+                                "\\SM[double]\\SE[36]Wow! Wow!!"
                             ]
                         },
                         {
@@ -82222,14 +81872,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[18]やったなー！悪ガキめー！！"
+                                "\\SE[18]Well done! You little brat!!"
                             ]
                         },
                         {
@@ -82240,21 +81890,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]あはは！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おねえちゃん、わざとやってるでしょー！"
+                                "\\SE[16]Ahaha!! Big sis, you're doing it on purpose, aren't you?!"
                             ]
                         },
                         {
@@ -82265,21 +81908,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]えへへー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ばれたかー！"
+                                "\\SE[21]Ehehe... You caught me!"
                             ]
                         },
                         {
@@ -82595,21 +82231,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "７つの試練適正レベルにするわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰を連れて行く？\\!"
+                                "I will set the level of the seven trials to the appropriate\nlevel. Who should I bring along?!"
                             ]
                         },
                         {
@@ -85912,28 +85541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>「闇フォグ：darkness_r」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>※迷路などに組み込むと面白いかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>└真っ黒いチップの縁部分にリージョン設定すると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>└パーティクル数を抑えられて◯"
+                                "  > Dark Fog: darkness_r > *It might be interesting to\nincorporate it into mazes and such. > └By setting the region on\nthe edge of the pitch-black chip, > └the number of particles can\nbe reduced."
                             ]
                         },
                         {
@@ -86767,14 +86375,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "進行度を変更するわ！（前半）\\!"
+                                "I'm going to change the progress level! (First half)!"
                             ]
                         },
                         {
@@ -87710,14 +87318,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "７つの試練のあとへ行く？\\!"
+                                "Shall we go after the seven trials?!"
                             ]
                         },
                         {
@@ -89248,14 +88856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうなモンスターがいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦いますか？\\!"
+                                "There's a strong-looking monster.... Will you fight it?"
                             ]
                         },
                         {
@@ -89489,14 +89090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユニークモンスター討伐の記念碑だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『這いよる者』と再戦しますか？\\!"
+                                "It's a monument to commemorate the defeat of a unique monster....\n\\! The Crawling One wants to have a rematch? \\!"
                             ]
                         },
                         {
@@ -89730,14 +89324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうなモンスターがいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦いますか？\\!"
+                                "There's a strong-looking monster.... Will you fight it?"
                             ]
                         },
                         {
@@ -89971,14 +89558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユニークモンスター討伐の記念碑だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『ガーディアンキマイラ』と再戦しますか？\\!"
+                                "It's a monument to commemorate the defeat of a unique monster....\n\\! Guardian Chimera, would you like to have a rematch? \\!"
                             ]
                         },
                         {
@@ -90630,14 +90210,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供４人！"
+                                "Four children!"
                             ]
                         },
                         {
@@ -90770,7 +90350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エルモ村のとき！"
+                                "When in Elmo Village!"
                             ]
                         },
                         {
@@ -91125,21 +90705,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "７つの試練適正レベルにするわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰を連れて行く？\\!"
+                                "I will set the level of the seven trials to the appropriate\nlevel. Who should I bring along?!"
                             ]
                         },
                         {
@@ -91486,7 +91059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロア回想のとき"
+                                "Lunaroa's flashback"
                             ]
                         },
                         {
@@ -91619,7 +91192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロア試験のとき"
+                                "During the Lunaroa exam."
                             ]
                         },
                         {
@@ -91752,7 +91325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴィタとアイシャ"
+                                "Vita and Aisha"
                             ]
                         },
                         {
@@ -91859,14 +91432,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供４人！"
+                                "Four children!"
                             ]
                         },
                         {
@@ -91992,14 +91565,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供４人！"
+                                "Four children!"
                             ]
                         },
                         {
@@ -92125,14 +91698,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供４人！"
+                                "Four children!"
                             ]
                         },
                         {
@@ -92586,14 +92159,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テスト"
+                                "Test"
                             ]
                         },
                         {
@@ -93430,7 +93003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴィタとアイシャ"
+                                "Vita and Aisha"
                             ]
                         },
                         {
@@ -93664,14 +93237,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちパートの適正レベル？\\!"
+                                "What is the appropriate level for the children's part?!"
                             ]
                         },
                         {
@@ -94199,14 +93772,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テスト"
+                                "Test"
                             ]
                         },
                         {
@@ -94217,14 +93790,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テスト"
+                                "Test"
                             ]
                         },
                         {
@@ -94309,14 +93882,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テスト"
+                                "Test"
                             ]
                         },
                         {
@@ -94327,14 +93900,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テスト"
+                                "Test"
                             ]
                         },
                         {
@@ -94922,21 +94495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーン最新のトイレだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自動で水が流れるので、いつも綺麗。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『水洗トイレ』は、実はちょっと怖い…。\\!トイレする？\\!"
+                                "This is the latest toilet in Ulyssean. It automatically flushes,\nso it's always clean. Flush toilets are actually a little\nscary... Do you need to use the toilet?"
                             ]
                         },
                         {
@@ -95086,14 +94645,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\SE[70]いや、\\.今はその時ではないな…！"
+                                "\\SE[70]No, now is not the time for that...!"
                             ]
                         },
                         {
@@ -95123,14 +94682,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\SE[102]いや、\\.今はその時ではないな…！"
+                                "\\SE[102]No, now is not the time for that...!"
                             ]
                         },
                         {
@@ -95228,21 +94787,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "る、\\.ルナロアさんっ…！！？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どうしてここに！！？"
+                                "L-Lunaroa-san...!!?? Why are you here!?"
                             ]
                         },
                         {
@@ -95253,28 +94805,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうって…\\.私はあなたの恋人だもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.すこしでも長い時間、一緒に過ごしたいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あれっ…？\\.そう思うのは、私だけだった…？"
+                                "W-What... I am your lover, after all. I want to spend as much\ntime together as possible. Huh...? Was I the only one who felt\nthat way...?"
                             ]
                         },
                         {
@@ -95294,21 +94832,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、\\.いやっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それは私も同じ気持ちですが……。"
+                                "I-I... No... I feel the same way too, but..."
                             ]
                         },
                         {
@@ -95319,28 +94850,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう、\\.よかった…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それならラウラは少し休むといいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『トイレ』をして、\\.疲れちゃったでしょう？"
+                                "I'm glad...! In that case, Laura, you should take a little rest.\nYou must be tired from holding it in, right?"
                             ]
                         },
                         {
@@ -95358,14 +94875,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それは…\\.あのっ、その……。"
+                                "Th-That is... Umm, well..."
                             ]
                         },
                         {
@@ -95376,21 +94893,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは私に任せて…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!私はもう少しここで『ゆっくり』するから…！"
+                                "Leave this to me...!! I'll take a little more time to relax\nhere...!"
                             ]
                         },
                         {
@@ -95476,21 +94986,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ…\\.ラウラ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.はぁ、はぁ…。"
+                                "Ugh... Laura... *panting*"
                             ]
                         },
                         {
@@ -95510,28 +95013,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ…\\.気にしないで？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!私はもう少しトイレで頑張るあなたのイメージを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さらに研鑽していくつもりだから…。"
+                                "Ah... Don't worry about it. I'm going to further refine the image\nof you working hard in the bathroom..."
                             ]
                         },
                         {
@@ -95689,7 +95178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "立ち絵差分　表示"
+                                "Character Sprite Variation Display"
                             ]
                         },
                         {
@@ -95846,21 +95335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\R[0]\\C[27]ああ…♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\R[15]\\C[0]もとに戻す"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\R[27]\\C[0]ああ…♡"
+                                "\\R[0]\\C[27] Ah...♡ \\R[15]\\C[0]Undo \\R[27]\\C[0]Ah...♡"
                             ]
                         },
                         {
@@ -95878,7 +95353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウィンドウ切り替えで初期化"
+                                "Initialize by switching windows."
                             ]
                         },
                         {
@@ -95956,7 +95431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしたい"
+                                "I want to do this."
                             ]
                         },
                         {
@@ -95990,7 +95465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "背景"
+                                "Background"
                             ]
                         },
                         {
@@ -96024,7 +95499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
@@ -96090,7 +95565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
@@ -96124,7 +95599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ下半身"
+                                "Vega's lower body"
                             ]
                         },
                         {
@@ -96158,7 +95633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ下半身　差分"
+                                "Vega's lower body variation."
                             ]
                         },
                         {
@@ -96192,7 +95667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
@@ -96226,7 +95701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロノア"
+                                "Lunaroa"
                             ]
                         },
                         {
@@ -96260,7 +95735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "表情　ベガ"
+                                "Expression - Vega"
                             ]
                         },
                         {
@@ -96342,7 +95817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "表情　レベッカ　前半"
+                                "Expression - Rebecca - First Half"
                             ]
                         },
                         {
@@ -96424,7 +95899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "表情　メリッサ"
+                                "Expression - Melissa"
                             ]
                         },
                         {
@@ -96506,7 +95981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "表情　ロノア"
+                                "Expression - Lunaroa"
                             ]
                         },
                         {
@@ -96588,7 +96063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "効果"
+                                "Effect"
                             ]
                         },
                         {
@@ -96622,7 +96097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "左上"
+                                "Top left"
                             ]
                         },
                         {
@@ -96736,7 +96211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "右上"
+                                "Top right"
                             ]
                         },
                         {
@@ -96983,7 +96458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次"
+                                "Next"
                             ]
                         },
                         {
@@ -98339,14 +97814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴィタは、奥義 \\i[102]飛天夢想弓を\\.習得した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!さらに\\i[102]アイシャの弓』が\\i[422]桜華の大弓に進化した！"
+                                "Vita has mastered the secret technique \\i[102]Flying Heavenly\nDream Bow! Furthermore, \\i[102]Aisha's Bow has evolved into\n\\i[422]Sakuraka's Great Bow!"
                             ]
                         },
                         {

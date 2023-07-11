@@ -1264,21 +1264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もらっちゃった『空の宝箱』だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.無限に『ぱかぱか』出来るらしい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『ぱかぱか』…\\.する？\\!"
+                                "I received a Sky Treasure Chest. It seems like I can endlessly\nopen and close it... Open and close?"
                             ]
                         },
                         {
@@ -1829,21 +1815,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[65]いやいや…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっちなこと考えてる場合じゃないでしょ。"
+                                "\\SE[65]No, no... This is not the time to be thinking about\nnaughty things."
                             ]
                         },
                         {
@@ -1930,14 +1909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たまにルナロアに勉強を教えてもらっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…進捗は良くない。"
+                                "I occasionally receive study lessons from Lunaroa. Unfortunately,\nmy progress is not good."
                             ]
                         },
                         {
@@ -2068,21 +2040,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[45]『チョコレート』…\\.すごかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[43]正気を失って列に並んじゃう人の気持ちが分かる…。"
+                                "\\SE[45] Chocolate... It was amazing. \\SE[43] I can understand how\nsomeone would lose their sanity and line up for it..."
                             ]
                         },
                         {
@@ -2093,21 +2058,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[48]ううっ…\\.しばらく、動けない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[65]お腹が、\\.『妊婦さん』のよう……。"
+                                "\\SE[48]Ugh... I can't move for a while... \\SE[65]My stomach feels\nlike that of a pregnant woman..."
                             ]
                         },
                         {
@@ -2139,21 +2097,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ラウラー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.一緒に『お風呂』入らない？"
+                                "\\SE[1]Laura? Would you like to take a bath together?"
                             ]
                         },
                         {
@@ -2173,21 +2124,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[71]『お風呂』…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[52]は、入る…\\.一緒に入る…！！"
+                                "\\SE[71]Bath...!? \\!\\SE[52]I'll... I'll join you... together!!"
                             ]
                         },
                         {
@@ -2205,21 +2149,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]分かったー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.じゃあ、先に行って待ってるねー。"
+                                "\\SE[16]Got it. Well then, I'll go ahead and wait for you."
                             ]
                         },
                         {
@@ -2246,21 +2183,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[53]『お風呂』にぃ…\\.行かねば……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[52]うごけぇ…私の体っ………！"
+                                "\\SE[53]Bath... I... have to go... \\!\\SE[52]I can't move... my\nbody...!"
                             ]
                         },
                         {
@@ -2497,14 +2427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "化粧台だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…実はあんまり使っていない。"
+                                "It's a dressing table... Actually, I don't use it much."
                             ]
                         },
                         {
@@ -2582,14 +2505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんとなく置いてみた花だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…なんとなく成長している気がする。"
+                                "I randomly placed these flowers... Somehow, I feel like they are\ngrowing."
                             ]
                         },
                         {
@@ -2667,14 +2583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローゼットにはまったく同じ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "白のワンピースが何着も入っている。"
+                                "There are several identical white dresses in the closet."
                             ]
                         },
                         {
@@ -2753,14 +2662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロアとお揃っちで買った花だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…私のほうが先に枯らせてしまいそう。"
+                                "I bought these flowers to match with Lunaroa. But... I feel like\nI'm going to make them wither before her."
                             ]
                         },
                         {
@@ -2839,21 +2741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "売店で衝動買いしてしまった天秤だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって…かっこいいんだもん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…ブラブラ揺れてけっこう邪魔だ。"
+                                "I impulsively bought a balance at the store. Because... it's\ncool, you know... But... it's quite annoying swaying around."
                             ]
                         },
                         {

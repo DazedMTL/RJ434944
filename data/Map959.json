@@ -3108,28 +3108,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]つまり、あなた達と同じ村の出身で…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]メリッサ、ロノアと一緒に村から脱出したけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.途中ではぐれてしまって…\\!\\SE[2]今に、\\.至ると。"
+                                "\\SE\\SE[2]In other words, I am from the same village as you\nall.... \\!\\SE[3]I escaped from the village together with Melissa\nand Lunoa, but I got separated along the way...\\!\\SE\\SE[2]And\nnow, I have finally arrived."
                             ]
                         },
                         {
@@ -3147,35 +3133,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]現在はコーダイン貴族『ドンヨク公』の屋敷で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『メイドさん』のお仕事をしてるみたいです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]なので、『命の危険』や『衣食住』の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.問題を抱えてることはないでしょう。"
+                                "\\SE[2]Currently, it seems like I am working as a maid at the\nresidence of the nobleman Donyoku in Caudine. \\SE[3]Therefore, I\nshouldn't have any problems concerning life-threatening\nsituations or food, clothing, and shelter."
                             ]
                         },
                         {
@@ -3200,14 +3165,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]それなら、\\.よかった…。"
+                                "\\SE[6]If that's the case, then... that's good to hear..."
                             ]
                         },
                         {
@@ -3227,21 +3192,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]ずっと探していたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.まさか、こんな遠くにいたなんて…。"
+                                "\\SE[47]I've been searching for you all this time, but I never\nexpected you to be so far away..."
                             ]
                         },
                         {
@@ -3261,28 +3219,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]なるほどね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.でも、無事だったみたいでよかったわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]彼女は、どんな人だったの？"
+                                "\\SE[74]I see... But I'm glad to hear that you all are safe.\n\\SE[7]What kind of person was she?"
                             ]
                         },
                         {
@@ -3293,21 +3237,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]あいえ、\\.いいあえあぃ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[11]ちぇいあっ！\\. あまんがむ…！"
+                                "\\SE[14]Ah, it's you... \\!\\SE[11]Welcome! What a surprise...!"
                             ]
                         },
                         {
@@ -3325,14 +3262,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[82]…なんて？"
+                                "\\SE[82]...What?"
                             ]
                         },
                         {
@@ -3352,28 +3289,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]えっと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]『なによりもまず、とにかく乳がでかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " \\.一度、見ておいた方がいい』…\\.\\SE[20]だそうです。"
+                                "\\SE[21]Um... \\SE[12]First and foremost, her breasts are huge. You\nshould definitely take a look at them once... \\SE[20]That's what\nI heard."
                             ]
                         },
                         {
@@ -3384,14 +3307,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]たぁい。"
+                                "\\SE[11]Here I am."
                             ]
                         },
                         {
@@ -3425,14 +3348,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]えぇ…？"
+                                "\\SE[90]Huh...?"
                             ]
                         },
                         {
@@ -3450,28 +3373,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]いや…ほんとに、\\.『でかい』んですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]『家の畑で採れました！』みたいなのぶら下げて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[56]意識するなっていうのが無理。\\.ってくらい…。"
+                                "\\SE[11]No... I mean, they're really, really huge. \\SE[14]She's\neven hanging a sign like I picked them from my own garden!...\n\\SE[56]It's impossible not to notice... they're that big..."
                             ]
                         },
                         {
@@ -3482,14 +3391,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[92]そ、そこまでいうほど…？"
+                                "\\SE[92]I-Is it really necessary to go that far...?"
                             ]
                         },
                         {
@@ -3516,14 +3425,14 @@
                                 0,
                                 0,
                                 2,
-                                "ライアン"
+                                "Ryan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]いや、そこから紹介するのはおかしいだろ…。"
+                                "\\SE[52]No, it's strange to introduce her from there..."
                             ]
                         },
                         {
@@ -3534,21 +3443,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]じゃあ、何よっ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]あんたはあれが『でかくない』\\.っていうの…！？"
+                                "\\SE[14]Well, what the...!! \\!\\SE[12]Are you saying that those\naren't huge...!?"
                             ]
                         },
                         {
@@ -3566,21 +3468,14 @@
                                 0,
                                 0,
                                 2,
-                                "ライアン"
+                                "Ryan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]いや…\\.それに関しては…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[38]…俺が悪かった。\\.あれは確かに、『でかい』"
+                                "\\SE[57]No... Regarding that... \\SE[38]... It was my bad. That was\ndefinitely huge."
                             ]
                         },
                         {
@@ -3607,35 +3502,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『おっぱい』の話しかしてないけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]その、ニキータ？って人は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.貴族の『メイドさん』をしてるんでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[4]なら、それはそれでいいと思うけど…。"
+                                "\\SE\\SE[4]We've only been talking about breasts... \\!\\SE[3]But,\num, Nikita? You're a noble's maid, right? \\!\\SE[4]If that's the\ncase, then I think that's fine too..."
                             ]
                         },
                         {
@@ -3662,14 +3536,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]それが、そうとも言い切れなくて…。"
+                                "\\SE[38]However, I can't say that for sure..."
                             ]
                         },
                         {
@@ -3694,14 +3568,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[65]何か…\\.問題があるの？"
+                                "\\SE[65]Is there... a problem?"
                             ]
                         },
                         {
@@ -3712,21 +3586,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]確定情報じゃないんで、断言出来ないんですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\SE[48]その貴族『ドンヨク公』は、『良くない噂』が多いんです。"
+                                "\\SE[2]It's not confirmed information, so I can't assert it, but\n\\SE[48]that noble, Duke Donyoku, has many bad rumors surrounding\nhim."
                             ]
                         },
                         {
@@ -3760,21 +3627,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『ドンヨク公』…\\.聞いたことないわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]影響力のある貴族は把握してるつもりだったけど。"
+                                "\\SE[2]Duke Donyoku... I've never heard of him. \\SE[3]I thought I\nwas aware of influential nobles."
                             ]
                         },
                         {
@@ -3785,28 +3645,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]コーダイン王没後に外貨で上手いことやって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.資金を作った『成金貴族』ですからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あまり表立った『外交』には関心がないようで。"
+                                "\\SE[2]After the death of King Cordin, he cleverly made money with\nforeign currency and became a nouveau riche noble. \\SE[3]It seems\nthat he is not very interested in overt diplomacy."
                             ]
                         },
                         {
@@ -3826,35 +3672,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]その『ドンヨク公』なんですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[47]どうやら自分好みの『身寄りのない女性』を集めて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.好き放題暮らしてるという噂なんですよね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[38]逆らったら、放り出されちゃうので…。"
+                                "\\SE\\SE[38]Regarding that Donyoku Duke... \\!\\SE[47]It seems that\nhe gathers women without any family ties to live as he pleases...\n\\!\\SE[38]If they go against him, they will be cast aside..."
                             ]
                         },
                         {
@@ -3917,21 +3742,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]そんな…\\.じゃあ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]そこで、ひどい目にあってるって、\\.こと…！？"
+                                "\\SE[12]No way... So, you're saying... \\SE[14]That means she's\ngoing through something terrible...!?"
                             ]
                         },
                         {
@@ -3949,14 +3767,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]あぅぁ、\\.うぉおう…。"
+                                "\\SE[9]Ahh, uwooo..."
                             ]
                         },
                         {
@@ -3976,14 +3794,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]おそらく…\\.かなりの確率で。"
+                                "\\SE[7]Probably... with a fairly high probability."
                             ]
                         },
                         {
@@ -4017,28 +3835,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]…で、その場合はどうするのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『不純』だとしても、無理矢理連れ出せはしないでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.対面上は普通に雇ってるだけなんだから。"
+                                "\\SE[74]...So, what would you do in that case? \\!\\SE[3]Even if\nit's considered impure, we shouldn't forcibly take her away. \\.On\nthe surface, we're just employing her normally."
                             ]
                         },
                         {
@@ -4058,28 +3862,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]そこで、もう一つの『不確定情報』です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]実は『ドンヨク公』には『脱税』の疑惑もありましてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それを明るみに出せれば、『一発』なんですよ！"
+                                "\\SE[74]And here's another piece of unconfirmed information!\n\\SE[10]Actually, there are suspicions of tax evasion surrounding\nDuke Donyoku. \\SE[10]If we can bring that to light, it would be a\nbig hit!"
                             ]
                         },
                         {
@@ -4090,28 +3880,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]つまり『潜入ミッション』です！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]『実情』を直接暴き！ \\.ニキータさんにも『接触』！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[11]『動かぬ証拠』も抑えれば『大三元』！\\.…ということです！！"
+                                "\\SE[14]In other words, it's an infiltration mission!!\n\\!\\SE[12]We'll directly expose the truth! \\.We'll also make\ncontact with Nikita-san!! \\!\\SE[11]If we can secure irrefutable\nevidence, it'll be a triple crown! \\....That's the plan!!"
                             ]
                         },
                         {
@@ -4131,14 +3907,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]まぁ、理にはかなってる…\\.のかしら？"
+                                "\\SE[90]Well, it does make sense... I wonder?"
                             ]
                         },
                         {
@@ -4217,21 +3993,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]なら、私が行くっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]ニキータは私たちの命の恩人なんだから！"
+                                "\\SE[14]Then, I'll go...! \\SE[13]Nikita is our savior, after all!"
                             ]
                         },
                         {
@@ -4303,14 +4072,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]あーしもっ！"
+                                "\\SE[14]Ah, me too!"
                             ]
                         },
                         {
@@ -4337,28 +4106,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]やる気はとても感じるのですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.まだ、準備不足というか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[38]不安要素が多くて、実行に移せないというか…。"
+                                "\\SE[12]I can really feel the motivation, but... \\.There's still a\nlack of preparation... \\!\\SE[38]There are many uncertainties, and\nit's difficult to proceed with the execution..."
                             ]
                         },
                         {
@@ -4369,28 +4124,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]気持ちは分かるけど、\\.少し落ち着きなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]急いては事を仕損じるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[72]無事は確認出来てるんだし、じっくり行きましょう。"
+                                "\\SE[4]I understand how you feel, but please calm down a little.\n\\!\\SE[51]Rushing will only ruin things. \\!\\SE[72]We have\nconfirmed that she is safe, so let's proceed carefully."
                             ]
                         },
                         {
@@ -4401,14 +4142,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]んんっー…。"
+                                "\\SE[38]Hmm..."
                             ]
                         },
                         {
@@ -4426,14 +4167,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]んむっ…。"
+                                "\\SE[13]Hmm..."
                             ]
                         },
                         {
@@ -4494,28 +4235,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…っと、そうだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.一つ言い忘れてたことがありました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『ドンヨク公』の今の住居なのですが…。"
+                                "\\SE[2]...Oh, that's right. \\.There's one thing I forgot to\nmention. \\!\\SE[3]It's about the current residence of Duke\nDonyoku...."
                             ]
                         },
                         {
@@ -4554,21 +4281,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『旧リラ家』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]つまり『姐さん』の元お屋敷になります。"
+                                "\\SE[2]Former Lira residence \\!\\SE[0]In other words, it became the\nmansion of Miss Elder Sister."
                             ]
                         },
                         {
@@ -4586,14 +4306,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]…なんですって？"
+                                "\\SE[90]...What did you say?"
                             ]
                         },
                         {
@@ -4604,21 +4324,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]これは『確定情報』です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.まぁ、登録された住所を調べただけですけど。"
+                                "\\SE[2]This is confirmed information. Well, I just looked up the\nregistered address."
                             ]
                         },
                         {
@@ -4645,28 +4358,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[20]じゃあ『そいつ』は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自分の立場を利用して、無力な女性を囲って…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\\\SE[21]『私の家』で薄汚い振る舞いをしてると…？"
+                                "\\SE[20]So, that person is taking advantage of their position to\nsurround helpless women... \\\\SE[21]And behaving in a filthy\nmanner in my house...?"
                             ]
                         },
                         {
@@ -4686,28 +4385,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]そ、そうですね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.わりと高めな確率で…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]\\}『家』自体は正当に買われたものですけど"
+                                "\\SE[57]Y-Yes, that's right.... \\.There's a fairly high\nprobability.... \\!\\SE[21]\\}The house itself was legitimately\npurchased, but..."
                             ]
                         },
                         {
@@ -4751,28 +4436,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]私が『潜入』するわ。 \\.出発は『明日』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.必要なら『社会的地位』を地獄まで叩き落としてくるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]キャット。\\.あんたも付いてきなさい。"
+                                "\\SE[2]I will infiltrate. \\.The departure will be tomorrow. \\.If\nnecessary, I will bring down my social status to hell.\n\\!\\SE[51]Cat. \\.You should come with me too."
                             ]
                         },
                         {
@@ -4860,21 +4531,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]あ、明日行くの…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[17]さっき、『急いては事を…』って\\.言ってなかった！？"
+                                "\\SE[4]Oh, we're going tomorrow...!? \\SE[17]Didn't you just say\nrushing will only ruin things earlier!?"
                             ]
                         },
                         {
@@ -4885,28 +4549,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]この二人が行くならよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]私が行くなら『内部構造』も分かってるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.下調べの工程をかなり省くことが出来るでしょ？"
+                                "\\SE[2]If these two are going, then fine. \\!\\SE[7]But if I go, I\nalready know the internal structure and we can skip a significant\nportion of the preliminary investigation, right?"
                             ]
                         },
                         {
@@ -4924,14 +4574,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[65]それは…そう？\\.なのかな…？"
+                                "\\SE[65]Is that so...? I wonder...?"
                             ]
                         },
                         {
@@ -4949,14 +4599,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]（さすが『理論武装』が早いな…。）"
+                                "\\SE[14] (As expected, Logical Armament is fast...)"
                             ]
                         },
                         {
@@ -5035,28 +4685,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]ど、どうやら『明日』になったようです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[57]『居残り組』にもサポートをお願いするかも…\\.なので！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]色々、準備をしておきます…！！"
+                                "\\SE[14]I-It seems like it's become tomorrow! \\SE[57]I might ask\nthe stay-behind group for support too... So! \\SE[21]I'll make\nvarious preparations...!!"
                             ]
                         },
                         {
@@ -5417,14 +5053,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]ベガさん…\\.お願いしますね。"
+                                "\\SE[13]Vega-san... Please, I'm counting on you."
                             ]
                         },
                         {
@@ -5442,14 +5078,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]うあー、\\.ゆうあー。"
+                                "\\SE[4]Ughhh, Yuuaaa."
                             ]
                         },
                         {
@@ -5467,14 +5103,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]えっと、\\.なんて…？"
+                                "\\SE[90]Um, what...?"
                             ]
                         },
                         {
@@ -5485,21 +5121,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]『もしピンチになったら、ズタズタにしちゃえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\.大丈夫！私が、魔法で治しておくから』\\.\\SE[2]だって。"
+                                "\\SE[14]If things get tough, I'll tear them to shreds! Don't\nworry! I'll heal you with magic. \\SE[2]That's what she said."
                             ]
                         },
                         {
@@ -5517,14 +5146,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[1]おーゆー。"
+                                "\\SM[nod]\\SE[1]Oh, Yuu."
                             ]
                         },
                         {
@@ -5535,21 +5164,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]なるほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.最悪、それでもいいわね。"
+                                "\\SE[72]I see. \\.That's the worst-case scenario, but it's fine."
                             ]
                         },
                         {

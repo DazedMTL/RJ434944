@@ -2294,21 +2294,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『リラ家』…\\.ですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あの『名門』の。"
+                                "\\SE[2] The Lira family... Is that so? That distinguished family."
                             ]
                         },
                         {
@@ -2328,28 +2321,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]うん、あそこは有名だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君も名前くらいは聞いたことあるよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]そこに『潜入』してもらいたい。"
+                                "\\SE\\SE[0]Yeah, that place is famous, so you must have heard the\nname at least. \\SE[0]I want you to infiltrate there."
                             ]
                         },
                         {
@@ -2360,28 +2339,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あそこは…『穏健派』ですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]国の発展に貢献しこそすれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.弓引くことなどないと思いますが…。"
+                                "\\SE[2]That place... is it the moderate faction? \\SE[3]While they\nmay contribute to the development of the country, I don't think\nthere's any need for them to draw their bows..."
                             ]
                         },
                         {
@@ -2392,28 +2357,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]それは、その通りだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼らは優秀だよ。僕の目から見てもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]だからこそ…\\.かな。"
+                                "\\SE[11]That's right. They are excellent. Even from my\nperspective. \\SE[12]That's why... I suppose."
                             ]
                         },
                         {
@@ -2424,28 +2375,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]いつかきっと彼らは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『力なき者』に、残酷な夢を見せてしまうんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]仲良く手を取り合って『平和』を…\\.なんて儚い夢をね。"
+                                "\\SE[15]Someday, they will surely... show the powerless ones a\ncruel dream. \\SE[0]Holding hands and seeking peace... What a\nfleeting dream."
                             ]
                         },
                         {
@@ -2456,28 +2393,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]そんなのあまりに『かわいそう』じゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]悲劇はいつも…『持たざる者』が『憧れた者』に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "成ろうとしたとき、総じて起きる。"
+                                "\\SE[3]Isn't that just too pitiful? \\SE[12]Tragedies always occur\nwhen the have-nots try to become the ones they admire."
                             ]
                         },
                         {
@@ -2495,21 +2418,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]話がズレちゃったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…引き受けてくれるかな？"
+                                "\\SE[1]The conversation got off track, didn't it? I wonder if\nyou'll accept the task?"
                             ]
                         },
                         {
@@ -2520,21 +2436,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[32]……はい、喜んで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]勅命とあらば、拒否権なんてないですけど。"
+                                "\\SE[32]... Yes, gladly. If it's a royal command, I have no right\nto refuse."
                             ]
                         },
                         {
@@ -2568,21 +2477,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]まぁ、それはそうだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.じゃあ、よろしく頼むよ。"
+                                "\\SE[6]Well, that's true. \\SE[6]Well then, I'm counting on you."
                             ]
                         },
                         {
@@ -2593,14 +2495,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[32]…では、そのように。"
+                                "\\SE[32]...Well then, as you wish."
                             ]
                         },
                         {
@@ -2744,28 +2646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワタクシはコーダインの『諜報員』でした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!有り体に言えば、自国を監視する『スパイ』…ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…きな臭い響きですが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.まぁ、そんな大層なものじゃありません。"
+                                "I was King Cordin's spy. To put it bluntly, I was a spy who\nmonitored our own country... It has a suspicious ring to it,\ndoesn't it? Well, it's not that grand of a thing."
                             ]
                         },
                         {
@@ -2783,21 +2664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『コーダイン』で有力な貴族を観察し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼らが『脅威』とならないか判断、報告をする…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『監察官』…ともいえるかもしれません。"
+                                "I observe influential nobles in 'Cordin' and judge whether they\nbecome a 'threat', then report it... You could say I am a\n'supervisor' or 'inspector'."
                             ]
                         },
                         {
@@ -2815,21 +2682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…まぁ、ともあれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『リラ家』の監察を命ぜられました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ワタクシはメイドとして『潜入』することになります。"
+                                "...Well, anyway. I have been tasked with monitoring the Lira\nfamily. I will be infiltrating as a maid."
                             ]
                         },
                         {

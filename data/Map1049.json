@@ -6866,21 +6866,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]お届け物にあがりましたー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.レベッカさんは御在宅でしょうかー？"
+                                "\\SE[1]I have a delivery for you. Is Rebecca-san at home?"
                             ]
                         },
                         {
@@ -6914,21 +6907,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]あれぇ…\\.だれもいない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[100]鍵は開いてたから、誰かはいると思ったんだけど…。"
+                                "\\SE[5]Huh... Nobody's here? \\SE[100]The door was unlocked, so I\nthought someone would be here..."
                             ]
                         },
                         {
@@ -6955,28 +6941,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]んー…それじゃあ仕方ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.お部屋の前に置いておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[58]不用心だけど、『都会』だと普通みたいだし…。"
+                                "\\SE[102]Hmm... Well, I guess there's no helping it. I'll just\nleave it in front of the room. \\SE[58]It's careless, but it seems\nto be normal in the city...."
                             ]
                         },
                         {
@@ -7219,28 +7191,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]いや、ここだと邪魔だな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.でも、机とかだと誰宛てか分かんなくなっちゃうし……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[100]他の人が間違って開けてしまうかも……。"
+                                "\\SE[102]No, it would be in the way here... But if I leave it on a\ndesk or something, I won't know who it's for... \\SE[100]Someone\nelse might accidentally open it..."
                             ]
                         },
                         {
@@ -7251,21 +7209,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]もうちょっと、『企業努力』してみよう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[100]ささいな気配りで、ぐっと良くなることってあるし…。"
+                                "\\SE[102]Let's try a little harder with our corporate efforts....\n\\SE[100]Sometimes, even small considerations can make a big\ndifference...."
                             ]
                         },
                         {
@@ -7595,28 +7546,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]こっちなら…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.いや、あんまり変わらない…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[100]若干良くなった気はするんだけど……。"
+                                "\\SE[102]How about this...? \\.No, it doesn't really make much of a\ndifference...? \\!\\SE[100]I feel like it's slightly better\nthough..."
                             ]
                         },
                         {
@@ -7627,21 +7564,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[58]難しい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『都会』の配達事情、\\.あまりにも難しい…。"
+                                "\\SE[58]It's difficult... The delivery situation in the city is\njust too difficult..."
                             ]
                         },
                         {
@@ -7718,21 +7648,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]あれ、部屋の中から何か音がした…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.いるなら直接、渡しちゃうけど…。"
+                                "\\SE[5]Huh, did I hear something from inside the room...? If\nsomeone's there, I'll just hand it over directly..."
                             ]
                         },
                         {
@@ -7817,28 +7740,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]いや、人様の部屋に勝手に入るのは良くないな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[100]失礼に当たらない様に、耳を澄ませて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずは、中の様子を伺う所から始めてみよう……。"
+                                "\\SE[102]No, it's not good to enter someone else's room without\npermission.... \\!\\SE[100]To avoid being rude, let's listen\ncarefully and start by trying to understand the situation inside\nfirst...."
                             ]
                         },
                         {
@@ -8023,28 +7932,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[116]『えっちなこと』してる…！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[33]私の知らないところで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.みんなが意外と『えっちなこと』してるっ！！"
+                                "\\SE[116]Doing lewd things...!!? \\SE[33]Everyone is doing\nunexpected lewd things without me knowing...!!"
                             ]
                         },
                         {
@@ -8055,28 +7950,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[95]それもかなり『ディープ』なやつ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あんな所に指を入れながら口でするやつ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[93]年上の私もしたことないような、\\.えっちなやつっ…！！"
+                                "\\SE[95]That's also quite a deep one!! Doing it with your fingers\nin a place like that and using your mouth!! \\SE[93]Even as\nsomeone older, I've never done something so lewd...!!"
                             ]
                         },
                         {
@@ -8289,28 +8170,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]見なかったことにしないと…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[31]年上として、年下のセンシティブな部分は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知らなかったことにしておかないとっ！！"
+                                "\\SE[102]I can't pretend I didn't see it...! \\!\\SE[31]As someone\nolder, I can't pretend I didn't know about the sensitive parts of\nsomeone younger!!"
                             ]
                         },
                         {
@@ -8321,21 +8188,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あれ、ラウラじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]どしたの？\\. 何か用事？"
+                                "\\SE[2]Oh, it's Laura. \\SE[0]What's up? Do you need something?"
                             ]
                         },
                         {
@@ -8400,28 +8260,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[116]ひぃ…！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私は何も見ていませんっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[31]見てはいけないものを見ていません……！！！！"
+                                "\\SE[116]Eek...!!? I-I didn't see anything!! \\SE[31]I didn't see\nanything I shouldn't have...!!!"
                             ]
                         },
                         {
@@ -8822,14 +8668,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[33]あいたー！！"
+                                "\\SE[33]Ouch!!"
                             ]
                         },
                         {
@@ -9236,28 +9082,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]あぁ…\\.そういうこと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]いやいや…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.みんな若くていいねぇ……。"
+                                "\\SE[46]Ah... Is that so? \\SE[15]No, no... Everyone is young and\ngood-looking..."
                             ]
                         },
                         {
@@ -9639,14 +9471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メリッサはコーヒーが好きみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.しっかりしてるし大人…って\\.感じ。"
+                                "Melissa seems to like coffee. She's mature and composed... that's\nthe impression I get."
                             ]
                         },
                         {
@@ -9724,14 +9549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見覚えのある万年筆だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…もしかしたら、おばあちゃんの形見なのかもしれない。"
+                                "It's a familiar fountain pen... Maybe it's a memento from my\ngrandmother."
                             ]
                         },
                         {
@@ -9809,14 +9627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サボテンがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…ルナロアも好きな…\\.サボテンが……？"
+                                "There is a cactus. ...Lunaroa also likes... The cactus...?"
                             ]
                         },
                         {
@@ -9894,21 +9705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロノアちゃんが摘んできた花だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!恐ろしいほど綺麗に活けてある…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.その種の才能があるのかもしれない。"
+                                "It's a flower that Ronoa-chan picked. It's arranged so\nbeautifully... She might have a talent for that kind of thing."
                             ]
                         },
                         {
@@ -9986,14 +9783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ライアンの訓練用の剣だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.使い込みから一生懸命さが伝わってくる…。"
+                                "This is Ryan's training sword. You can feel the dedication from\nthe wear and tear..."
                             ]
                         },
                         {
@@ -10071,21 +9861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レベッカの鞭だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!使い込まれた革が持ち主の手にフィットしながらも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先端のフォールは被害者の体に吸いつくような痛みを与える。"
+                                "Rebecca's whip. The well-worn leather fits snugly in the owner's\nhand, while the tip of the fall inflicts a pain that clings to\nthe victim's body."
                             ]
                         },
                         {
@@ -10103,7 +9879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…恐ろしい一品だ。"
+                                "...It's a terrifying item."
                             ]
                         },
                         {
@@ -10181,21 +9957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこにでもある時計だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "時間は戻せないけど、子供たちは前に進んでる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…わたしも負けてられないよね。"
+                                "It's just an ordinary clock. Time cannot be turned back, but\nchildren are moving forward. ...I can't afford to lose either."
                             ]
                         },
                         {
@@ -10273,14 +10035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『剣術』や『兵法』の本が、ぎっしり並んでいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ライアンのひたむきさがよく出ている…。"
+                                "Books on 'swordsmanship' and 'military strategy' are densely\nlined up. Ryan's earnestness is clearly evident..."
                             ]
                         },
                         {
@@ -10305,14 +10060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…おやっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.大型本の後ろが『隠し戸』になっていて………？"
+                                "...Oh? Behind the large books, there's a hidden door...?"
                             ]
                         },
                         {
@@ -10393,21 +10141,14 @@
                                 0,
                                 0,
                                 2,
-                                "ライアン"
+                                "Ryan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[59]ら、ラウラ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そこは見ちゃだめだぞ…！"
+                                "\\SE[59]La, Laura!! You shouldn't look there...!"
                             ]
                         },
                         {
@@ -10561,14 +10302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ニキータの『ブラ』がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…いや、でかい。\\.でかすぎる。"
+                                "Nikita has a bra. No... it's big. Too big."
                             ]
                         },
                         {

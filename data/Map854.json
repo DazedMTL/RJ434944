@@ -5341,21 +5341,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ほらっ、『湿布』出来たよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私が貼ってあげるから、\\.後ろ向いて。"
+                                "\\SE[1]Look, I made a patch for you. I'll put it on for you, so\nturn around."
                             ]
                         },
                         {
@@ -5411,21 +5404,14 @@
                                 0,
                                 0,
                                 2,
-                                "村長さん"
+                                "Village Chief"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉ…\\.すまんのぅ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!少し左側に貼ってくれるといいのぅ…。"
+                                "Oh... I apologize... It would be nice if you could put it a\nlittle to the left side..."
                             ]
                         },
                         {
@@ -5523,21 +5509,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]んー…じゃあ、この辺かな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[slidef]\\SE[12]えいっ…！！"
+                                "\\SE[3]Hmm... then, around here maybe?\n\\!\\SM[slidef]\\SE[12]There...!!"
                             ]
                         },
                         {
@@ -5652,21 +5631,14 @@
                                 0,
                                 0,
                                 2,
-                                "村長さん"
+                                "Village Chief"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほぉ…！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.これは、効きますぞぉ…！！"
+                                "Oh...!!! This will be effective...!!"
                             ]
                         },
                         {
@@ -5757,14 +5729,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]うあうー？"
+                                "\\SE[4]Uauu?"
                             ]
                         },
                         {
@@ -5775,14 +5747,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]『腰の調子はどう？』\\.だって。"
+                                "\\SE[1]How's your lower back feeling?\\. Because."
                             ]
                         },
                         {
@@ -5895,21 +5867,14 @@
                                 0,
                                 0,
                                 2,
-                                "村長さん"
+                                "Village Chief"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この通りじゃ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ばっちり効いておるぞい…！！"
+                                "It's working perfectly...!!"
                             ]
                         },
                         {
@@ -6013,14 +5978,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[83]（なんだか、微笑ましいな…。）"
+                                "\\SE[83] (Somehow, it's heartwarming...)"
                             ]
                         },
                         {
@@ -6076,28 +6041,14 @@
                                 0,
                                 0,
                                 2,
-                                "村長さん"
+                                "Village Chief"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ユリシーンのお使いさん』達も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!今夜は、宿の方に泊っていってくださいな。"
+                                "Thank you very much, Messengers of Elysium. Please stay at the\ninn tonight."
                             ]
                         },
                         {
@@ -6179,21 +6130,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]明日は私の自警団を見て行かない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.お昼には隊長たちが遠征から戻るはずだから。"
+                                "\\SE[1]Won't you come and see my vigilante group tomorrow? The\ncaptains should be back from their expedition by noon."
                             ]
                         },
                         {
@@ -6204,14 +6148,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あっ、見てみたいなー…。"
+                                "\\SE[1]Ah, I'd like to see it..."
                             ]
                         },
                         {
@@ -6276,14 +6220,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]それくらいの時間ならあるかな…？"
+                                "\\SE[3]If it's around that time, I might have it...?"
                             ]
                         },
                         {
@@ -6294,21 +6238,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]ええ、大丈夫よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.その後はすぐに『ユリシーン』に帰ることになるけど。"
+                                "\\SE[72]Yes, it's alright. \\ After that, we'll immediately return\nto Elysium."
                             ]
                         },
                         {
@@ -6350,21 +6287,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]じゃあ、明日はそうするね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]メリッサの自警団かぁ…。"
+                                "\\SE[0]Well then, let's do that tomorrow. \\SE[1]Melissa's\nvigilante group, huh..."
                             ]
                         },
                         {
@@ -6443,14 +6373,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]おう、えないあー！"
+                                "\\SE[4]Oh, Enaia!"
                             ]
                         },
                         {
@@ -6461,21 +6391,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]『うちのメリッサが最強の軍隊に育てるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　今のうちに唾つけとくといいよ！』\\.\\SE[0]だって。"
+                                "\\SE\\SE[0]I'll raise my Melissa into the strongest army, so it's\nbest to get on her good side now!\\.\\SE[0] That's what she said."
                             ]
                         },
                         {
@@ -6495,21 +6418,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]うーん…最強の軍団かぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私に出来るかなぁ…。"
+                                "\\SE[21]Hmm... the strongest army, huh. I wonder if I can do it..."
                             ]
                         },
                         {
@@ -6826,14 +6742,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]うぅ…あっ……ぅ…。"
+                                "\\SE Ugh... Ah... Ugh..."
                             ]
                         },
                         {
@@ -6844,14 +6760,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]（なにを伝えたいのかな。）"
+                                "\\SE[] (I wonder what she wants to convey.)"
                             ]
                         },
                         {
@@ -6862,21 +6778,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]ロノアはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『久しぶりに会えて嬉しい』だって"
+                                "\\SE[]Ronoa, you know. She said, I'm glad to see you after a long\ntime."
                             ]
                         },
                         {
@@ -6887,14 +6796,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[]（こくこく。）"
+                                "\\SM[nod]\\SE[] (Nodding.)"
                             ]
                         },
                         {
@@ -6905,14 +6814,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]メリッサちゃんすげー…。"
+                                "\\SE[]Melissa-chan is amazing..."
                             ]
                         },
                         {
@@ -6983,21 +6892,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]ロノアね。この村が気に入ったみたいなの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…村長さんも優しいし。"
+                                "\\SE Lunaroa seems to have taken a liking to this village... The\nvillage chief is also kind."
                             ]
                         },
                         {
@@ -7008,21 +6910,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]ロノアちゃんの気持ち、少し分かるかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとだけハタヤキ村に似てるからかな。"
+                                "\\SE I might understand Lunaroa's feelings a little. Maybe it's\nbecause this village reminds me a bit of Hatayaki Village."
                             ]
                         },
                         {

@@ -4297,21 +4297,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[double]\\SE[1]やった…！出来た！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]試作品だけど、新しい『技術』を導入出来たぞ…！"
+                                "\\SM[double]\\SE\\SE[12]Yay...! I did it! \\!\\SE[12]It's just a\nprototype, but I managed to introduce a new technology...!"
                             ]
                         },
                         {
@@ -4516,21 +4509,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]おはよう。\\.朝から元気ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]何か『いいこと』でもあったの？"
+                                "\\SE[72]Good morning. You seem energetic from the morning.\n\\SE[7]Did something good happen?"
                             ]
                         },
                         {
@@ -4602,28 +4588,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]おはよー…！\\.\\SE[12]ふふん…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]新しい『クソゲー』が完成したんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[12]ぜひ、ベガにもやって欲しい…！"
+                                "\\SE\\SE[12]Good morning...! \\SE[12]Hehe...! \\SE\\SE[12]I've\ncompleted a new shitty game! \\SE[12]I definitely want Vega to try\nit too...!"
                             ]
                         },
                         {
@@ -4650,21 +4622,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[92]『クソゲー』って…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[11]最初からそこを『ゴール』に設定するものなの…？"
+                                "\\SE[92]Shitty game... \\!\\SE[11]Is it something that's designed to\nbe a goal from the beginning...?"
                             ]
                         },
                         {
@@ -4740,28 +4705,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[pop]\\SE[1]名付けて、『ルナロアＣＡＴＣＨ！！』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]今回はルナロアの要望を全面に取り入れた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『オーダーメイドクソゲー』なんだ！"
+                                "\\SM[pop]\\SE\\SE[12]I'll name it Lunaroa CATCH!! \\SE[12]This time,\nI've fully incorporated Lunaroa's requests. It's a custom- made\nshitty game!"
                             ]
                         },
                         {
@@ -4781,14 +4732,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[92]『オーダーメイドクソゲー』…。"
+                                "\\SE[92]Custom-made shitty game...."
                             ]
                         },
                         {
@@ -4860,28 +4811,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]ぜひ、やってくれないか…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]『依頼主』に納品する前に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.誰かに客観的な『テストプレイ』を頼みたいんだ！"
+                                "\\SE[16]Could you please give it a try...! \\SE[15]Before\ndelivering it to the client, I want someone to do an objective\ntest play!"
                             ]
                         },
                         {
@@ -4908,14 +4845,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[59]（やりたくねぇー…。）"
+                                "\\SE[59] (I don't want to do it...)"
                             ]
                         },
                         {
@@ -4935,28 +4872,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[64]だ、だめか…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私なりに『真剣』に作ったんだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[63]無理にとは…\\.言えないし…。"
+                                "\\SE[64]Is it... not good? I worked on it seriously in my own\nway... \\SE[63]I can't force you to... say it's good..."
                             ]
                         },
                         {
@@ -4983,21 +4906,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[84]そんな目で見ないでよ…\\.わ、わかったってば…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[94]やればいいんでしょ、\\.やれば！"
+                                "\\SE[84]Don't look at me like that... F-Fine, I get it...!\n\\SE[94]Just do it, okay? Just do it!"
                             ]
                         },
                         {
@@ -5017,21 +4933,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[73]や、やってくれるのか…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[29]ありがとう、\\.ありがとう…！！"
+                                "\\SE[73]Y-You're going to do it...!? \\!\\SE[29]Thank you, thank\nyou...!!"
                             ]
                         },
                         {
@@ -5136,28 +5045,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]もう、言葉は不要だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私の『クソゲー』に触れて行ってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]…あっ、時間を無駄にしても大丈夫？"
+                                "\\SE[13]Enough, words are unnecessary. \\.Please experience my\nshitty game. \\!\\SE[2]...Oh, is it okay if you waste some time?"
                             ]
                         },
                         {
@@ -5175,21 +5070,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ええっ。\\.気にしないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]…とっくにそんな覚悟は出来てるから。"
+                                "\\SE[2]Oh, don't worry about it. \\SE[7]...I've already made up my\nmind about it."
                             ]
                         },
                         {
@@ -5301,21 +5189,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…結構、本格的な『機材』を使ってるのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]作るの大変だったんじゃないの？"
+                                "\\SE[2]...You're using quite sophisticated equipment, aren't you?\n\\SE[3] Wasn't it difficult to make?"
                             ]
                         },
                         {
@@ -5326,28 +5207,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]みんなの笑顔のためならいくらでも作業出来るよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ねっ…！\\. \\SE[0]起動してみて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SM[pop]\\SE[1]『バァン！』ってなってスタートするから！"
+                                "\\SE\\SE[0]I can work as much as needed for everyone's smiles!\n\\.Hey...! \\SE[0]Try starting it up! \\.\\SM[pop]\\SE\\SE[0]It'll go\nBang! and start!"
                             ]
                         },
                         {
@@ -5365,14 +5232,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[18]（これは真剣に向き合わないと、いけないかもね…。）"
+                                "\\SE[18] (I might have to take this seriously...)"
                             ]
                         },
                         {
@@ -5513,14 +5380,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[100]えっ、\\.ちょっと…！"
+                                "\\SE[100]Huh, wait a moment...!"
                             ]
                         },
                         {
@@ -5550,21 +5417,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]何よこの『足枷』はっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[46]変な所に当たってるんだけど…！"
+                                "\\SE[22]What is this shackle!? \\!\\SE[46]I'm hitting a weird\nspot...!"
                             ]
                         },
                         {
@@ -5594,21 +5454,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[20]こらっ、\\.説明しなさい…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[46]なんで黙ってるのよ！"
+                                "\\SE[20]Hey, explain yourself...! \\SE[46]Why are you staying\nsilent!"
                             ]
                         },
                         {
@@ -5779,28 +5632,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の部屋もあるけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしはここで…みんなと過ごすほうが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好き…かも…。"
+                                "I have my own room too... but I might prefer... spending time\nhere with everyone..."
                             ]
                         },
                         {
@@ -5811,28 +5650,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ベガはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お勉強中に水を…たくさん飲むから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トイレに行く回数が…多いんだよ…。"
+                                "...As for Vega, you see. She drinks a lot of water while\nstudying... so she ends up going to the bathroom... quite\nfrequently..."
                             ]
                         },
                         {
@@ -5843,14 +5668,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほほぉー…？"
+                                "Ohh...?"
                             ]
                         },
                         {
@@ -5861,21 +5686,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞こえてるわよー？"
+                                "Hey, can you hear me?"
                             ]
                         },
                         {
@@ -5953,14 +5771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "炎を見ていると心が落ち着いてくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ここの炎が一番ほっとする。"
+                                "When I look at the flames, my heart becomes calm... The flames\nhere are the most comforting."
                             ]
                         },
                         {

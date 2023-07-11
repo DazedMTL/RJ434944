@@ -2229,35 +2229,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]聞いてください…\\.お父様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[47]来年から、『黒制服』が与えれるそうです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[32]まだ『証明』の途中ではありますが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ひとまず、私は認められたのです。"
+                                "\\SE[46]Please listen... Father. \\SE[47]It seems that starting\nnext year, I will be given a black uniform. \\SE[32]I am still in\nthe middle of the proof, but... for now, I have been recognized."
                             ]
                         },
                         {
@@ -2324,14 +2303,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]お、お父様…？"
+                                "\\SE[8]Oh, Father...?"
                             ]
                         },
                         {
@@ -2358,35 +2337,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]（あららー…旦那様ったら…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　こりゃ『男泣き』しちゃってますね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[35]　いやはや、いい感じにフォロー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　するのが従者の務めですねぇ…。）"
+                                "\\SE[51] Oh my, my lord... Looks like you're shedding some tears\nthere... \\SE[35] Well well, it's the duty of a servant to provide\ngood support, isn't it?"
                             ]
                         },
                         {
@@ -2451,28 +2409,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あら、お嬢様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ちょっと、裾が曲がっちゃってますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]…このままでは、しわになります。\\.直しちゃいましょ。"
+                                "\\SE[2]Oh, young lady. \\SE[45]Your hem is a little crooked.\n\\SE[45]...If you leave it like this, it will wrinkle. \\SE[45]Let\nme fix it for you."
                             ]
                         },
                         {
@@ -2530,21 +2474,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]うそっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.えっと、\\.どの辺りかしら…？"
+                                "\\SE[13]No way...! Um, I wonder where...?"
                             ]
                         },
                         {
@@ -2634,21 +2571,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]ちょーっと、\\.動かないでくださいね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ぱぱっとキメちゃいますから。"
+                                "\\SE[57]Please don't move... I'll fix it quickly."
                             ]
                         },
                         {
@@ -2719,21 +2649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人生、山あり谷あり…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.上手くいったり、\\.いかなかったり…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!私たちは、流されてばかりで……。"
+                                "Life has its ups and downs... Sometimes things go well, sometimes\nthey don't... We are just being carried away..."
                             ]
                         },
                         {
@@ -2758,7 +2674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "希望が見えては、\\.陰りをみせて。"
+                                "Hope appears, then shows a shadow."
                             ]
                         },
                         {

@@ -4828,21 +4828,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]えっと…\\.こんな感じですけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[20]ど、どうですかね…？"
+                                "\\SE[12]Um... it's something like this... \\SE[20]W-What do you\nthink...?"
                             ]
                         },
                         {
@@ -5051,21 +5044,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]あまり見つめられると、照れてしまいます…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[20]お気に召しましたでしょうか…？"
+                                "\\SE[51]When I'm stared at too much, I get embarrassed...\n\\!\\SE[20]Did it please you...?"
                             ]
                         },
                         {
@@ -5085,21 +5071,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]いや、いいんじゃないの…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]よくこんなの用意できたと感心してたわ。"
+                                "\\SE[74]No, isn't it fine...? \\SE[3]I was impressed that you were\nable to prepare something like this."
                             ]
                         },
                         {
@@ -5124,21 +5103,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[45]至れり尽くせりだよね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]なんだか申し訳なく思ってきちゃった。"
+                                "\\SE[45]It's like being treated like royalty... \\SE[7]I'm starting\nto feel a little guilty."
                             ]
                         },
                         {
@@ -5158,28 +5130,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[double]\\SE[16]それは、なによりです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]あっ二階もあるんですよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ロフトになっていて寝るスペースもあるんです。"
+                                "\\SM[double]\\SE[16]That's great! \\SE[0]Oh, there's even a second\nfloor! It's a loft with a sleeping space too."
                             ]
                         },
                         {
@@ -5190,21 +5148,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]ほーん…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ちょっと見てこようかな…。"
+                                "\\SE[14]Hmm...? \\. Maybe I should take a look..."
                             ]
                         },
                         {
@@ -5587,21 +5538,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]さて、明日からはこっちで情報収集ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ノープランで来ちゃったけど、方針はどうしようかしら？"
+                                "\\SE[2]Well, starting from tomorrow, we'll gather information\nhere. \\!\\SE[3]I didn't come with a plan, but what should our\nstrategy be?"
                             ]
                         },
                         {
@@ -5621,28 +5565,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なら、やはり『冒険者ギルド』に行ってみては？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]最新の情報が集まるところですし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.みなさんも慣れているでしょうから。"
+                                "\\SE[2]Then, how about going to the Adventurer's Guild? \\SE[0]It's\na place where the latest information gathers, and I'm sure\neveryone is familiar with it."
                             ]
                         },
                         {
@@ -5667,21 +5597,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]へー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『ギルド』ってコーダインにもあるんだね。"
+                                "\\SE[4]Oh... So there's a Guild in Cordain too."
                             ]
                         },
                         {
@@ -5692,28 +5615,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]忘れてたわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]住んでいたころは『学生』だったから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『ギルド』とは縁がなかったものね…。"
+                                "\\SE[90]Oh, I forgot.... \\!\\SE[51]When I was living there, I was a\nstudent, so I had no connection to the Guild...."
                             ]
                         },
                         {
@@ -5785,28 +5694,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]方針も決まったということで…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.本日はこれにて退散させていただきますね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[35]コーダインの路地裏が恋しいので…！！"
+                                "\\SE\\SE[35]Now that the plan has been decided...! I will take my\nleave for today! \\SE[35]I miss the back alleys of Cordain...!!"
                             ]
                         },
                         {
@@ -5989,28 +5884,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]キャットさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.まだ、外で寝る生活してるの…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[8]ベッド…\\.こんなにあるのに。"
+                                "\\SE[4]Cat-san. Are you still sleeping outside...? \\SE[8]There are\nso many beds here..."
                             ]
                         },
                         {
@@ -6021,28 +5902,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]『アイデンティティ』だって譲らないのよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]私はもう諦めたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.完全に名前に人格を乗っ取られてるわよ。\\.あいつ。"
+                                "\\SE[74]I won't give up my 'identity'.... \\SE[51]I've already\ngiven up. \\SE[51]My personality has been completely taken over by\nmy name. \\SE[51]That person."
                             ]
                         },
                         {
@@ -6053,14 +5920,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[44]あはは…。"
+                                "\\SE[44]Ahaha..."
                             ]
                         },
                         {
@@ -6085,28 +5952,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]二階の寝床…『ダブルベッド』なんだけど…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]しかも、それが二つとか『えっち』すぎないかな…！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]こんなん燃えてきちゃうじゃんね…！！"
+                                "\\SE[16]The sleeping space on the second floor... It's a double\nbed...!! \\SE[15]And there are two of them, isn't that too\nlewd...!!! \\SE[14]I'm getting all fired up just thinking about\nit...!!"
                             ]
                         },
                         {
@@ -6441,28 +6294,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[55]んっ…よく眠れたかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.今日は『ギルド』に行くんだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[5]コーダインは初めてだし、\\.少し街も見てもいいかな…？"
+                                "\\SE[55] Hmm... I might have slept well. Today, we're going to the\nGuild, right? \\SE[5] It's my first time in Cordain, so maybe I\ncan take a look around the town a bit...?"
                             ]
                         },
                         {
@@ -6534,7 +6373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送の結晶石に『コーダイン』が追加された！"
+                                "Cordain has been added to the teleportation crystal!"
                             ]
                         },
                         {

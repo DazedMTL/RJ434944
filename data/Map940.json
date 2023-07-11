@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "秘奥の村 ～進捗７８％～",
+    "displayName": "Hidden Village ~Progress 78%~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4501,21 +4501,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]ここは…静かな所なのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]空気も綺麗で、悪くないかも。"
+                                "\\SE[0]This place... it's so quiet, isn't it? \\SE[1]The air is\nalso clean, it's not bad at all."
                             ]
                         },
                         {
@@ -4588,28 +4581,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]何を隠そう、ここは『勇者の村』だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]『出身』にすると最終的に『勇者の剣』を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手に入れる『豪華イベント』が始まるんだ。"
+                                "\\SE[16]To be honest, this place is the Hero's Village. \\SE[12]If\nyou choose origin here, a luxurious event will begin where you\ncan obtain the Hero's Sword."
                             ]
                         },
                         {
@@ -4629,14 +4608,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[64]勇者の…\\.剣…！？"
+                                "\\SE[64]The Hero's... Sword...!?"
                             ]
                         },
                         {
@@ -4647,21 +4626,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]やはりそこが気になりますか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]でもだめだぞ。これ以上は『機密情報』なのだ。"
+                                "\\SE[14]So you're still curious about that place... \\!\\SE[15]But\nsorry, I can't tell you any more. It's classified information."
                             ]
                         },
                         {
@@ -4679,14 +4651,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]はやく、『製品版』を…！！"
+                                "\\SE[24]Hurry up and release the full version...!!"
                             ]
                         },
                         {
@@ -4704,14 +4676,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]（勇者ってそんなにいいものなのかしら…？）"
+                                "\\SE[3] (I wonder if being a hero is really that great...)"
                             ]
                         },
                         {
@@ -4924,28 +4896,14 @@
                                 0,
                                 0,
                                 2,
-                                "お母さん？"
+                                "Mom?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと、『クローディア』ったら…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.まだこんなところにいたの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!今日は『王様に謁見』する日でしょ！！"
+                                "Hey, Claudia...! Are you still here!? Today is the day to meet\nthe king!!"
                             ]
                         },
                         {
@@ -5027,14 +4985,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]えっ…\\.私…？"
+                                "\\SE[0]Huh... Me...?"
                             ]
                         },
                         {
@@ -5045,28 +5003,14 @@
                                 0,
                                 0,
                                 2,
-                                "お母さん？"
+                                "Mom?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早く『勇者の契約』を済ませて来なさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『魔王』を倒すのがあなたの『使命』だって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小さいころから、お母さんいつもいってるでしょ！！"
+                                "Hurry up and finish the Hero's Contract! It's your mission to\ndefeat the Demon King! I've always been telling you that since\nyou were little, haven't I, dear?"
                             ]
                         },
                         {
@@ -5086,21 +5030,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]『お母さん』…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]あなたが、\\.私の『ママ』だって…？"
+                                "\\SE[12]Mom?...? \\SE[15]You're... my mom?"
                             ]
                         },
                         {
@@ -5181,28 +5118,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]ふざけないで！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私の『ママ』は世界にひと…\\.ふたりだけよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]あなたなんか私の『ママ』じゃない！！"
+                                "\\SE[16]Don't joke around!! My mom is the only one in the world...\njust the two of us!! \\SE[15]You're not my mom!!"
                             ]
                         },
                         {
@@ -5213,21 +5136,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[34]今すぐに私の目の前から消えて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[102]さもないと…！！"
+                                "\\SE[34]Disappear from my sight right now!\n\\!\\SE[102]Otherwise...!!"
                             ]
                         },
                         {
@@ -5263,28 +5179,14 @@
                                 0,
                                 0,
                                 2,
-                                "お母さん？"
+                                "Mom?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今更何言ってんだい。この子は…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!教育を間違えちまったみたいだね！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『おしりぺんぺん』の時間だよ！！"
+                                "What are you saying all of a sudden? This child...!! It seems\nlike I've made a mistake in raising you!! It's time for a\nspanking!!"
                             ]
                         },
                         {
@@ -5493,21 +5395,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[34]触らないで！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[66]放しなさい、この…！！"
+                                "\\SE[34]Don't touch me!! \\!\\SE[66]Let go of me, you...!!"
                             ]
                         },
                         {
@@ -5729,21 +5624,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[70]なに、この『圧倒的な力』は…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[33]私が太刀打ち出来ないなんて…！"
+                                "\\SE[70]What is this overwhelming power...!? \\SE[33]I can't even\ncompete...!"
                             ]
                         },
                         {
@@ -5754,28 +5642,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あぁ『強制イベント』に入ったからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]そうなったら、どれだけレベルが高くても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一切の抵抗は出来ないんだ。"
+                                "\\SE[2]Ah, I've entered a forced event, you see. \\!\\SE[3]Once that\nhappens, no matter how high your level is, you won't be able to\nresist at all."
                             ]
                         },
                         {
@@ -5795,28 +5669,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[10]きょ、『強制イベント』…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[63]じゃあ『おしりぺんぺん』も確定なのっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[27]なんで私がそんな目に！！"
+                                "\\SE[10]A forced event...!? \\!\\SE[63]Does that mean a spanking is\nguaranteed too!? \\!\\SE[27]Why do I have to go through something\nlike this!!"
                             ]
                         },
                         {
@@ -5834,21 +5694,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]まぁ『懲罰パート』も必要だろうと…\\.いう…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]『需要』と『義務』のめぐり合わせみたいな…？"
+                                "\\SE[16]Well, I suppose a punishment part is necessary too... I\nmean...? \\SE[15]It's like a combination of demand and\nobligation...?"
                             ]
                         },
                         {
@@ -6214,21 +6067,14 @@
                                 0,
                                 0,
                                 2,
-                                "お母さん？"
+                                "Mom?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらっ、反省しなさい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『悪い子でごめんなさい』と\\.謝罪しなさい！！"
+                                "Now, reflect on your actions! Apologize and say I'm sorry for\nbeing a bad child!"
                             ]
                         },
                         {
@@ -6239,21 +6085,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]だれが『偽物』の言うことを聞くもんですか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[34]はやく放しなさい…！！"
+                                "\\SE[12]Who would listen to what a fake says! \\!\\SE[34]Let me go\nquickly...!!"
                             ]
                         },
                         {
@@ -6328,14 +6167,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[28]っ！！！！！！！！！！"
+                                "\\SE[28]Ugh!!!"
                             ]
                         },
                         {
@@ -6353,14 +6192,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[33]ぐぅ…！！！！！！"
+                                "\\SE[33]Ugh...!!!"
                             ]
                         },
                         {
@@ -6378,28 +6217,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[82]かっ…\\.はっ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[60]なに…？\\. 信じられないくらい、痛い…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]体が消し飛んだのかと思った……。"
+                                "\\SE[82]Wha... What...? \\SE[60]I can't believe how much it\nhurts... \\SE[45]I thought my body had disappeared..."
                             ]
                         },
                         {
@@ -6410,28 +6235,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あぁ、イベント特有の『割合ダメージ』だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]効果的に演出出来るように、プレイヤーのＨＰから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "割合で減るように調整したんだった。"
+                                "\\SE[2]Ah, it's the percentage damage unique to events. \\SE[3]To\nmake it more effective in the presentation, I adjusted it so that\nit decreases proportionally from the player's HP."
                             ]
                         },
                         {
@@ -6449,14 +6260,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[60]わ、割合ダメージ…？"
+                                "\\SE[60]W-Percentage damage...?"
                             ]
                         },
                         {
@@ -6474,28 +6285,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]そうそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]クローディアったら、頭おかしいくらい『ＨＰ』が多いから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その分、がっつりと『割合ダメージ』を受けるんだよ。"
+                                "\\SE\\SE[0]That's right. \\SE[0]You see, Claudia has an insane\namount of HP, so she takes a significant amount of percentage\ndamage in return."
                             ]
                         },
                         {
@@ -6506,28 +6303,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]多分『ぺんぺん』一発で『成人男性』の一生が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.１００００人は消し飛ぶくらいの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『割合ダメージ』が入るんじゃないかな…。"
+                                "\\SE[2]I think if she were to receive a single spank it would be\nenough to erase the entire life of a grown man a thousand times\nover. It would be a percentage damage of that magnitude."
                             ]
                         },
                         {
@@ -6545,28 +6328,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[28]ま、まって…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.こんなの繰り返されたら多分、狂って死ぬ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[60]どうすれば、ここから抜けられるの…！"
+                                "\\SE[28]W-Wait...! If this keeps happening, I'll probably go crazy\nand die...!! \\SE[60]What should I do to escape from here...!"
                             ]
                         },
                         {
@@ -6584,28 +6353,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[10]どうすればいいんだっけ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]さっき『お母さん？』が『謝れ』って言ってたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.その通りにしたら、イベントが終わるんじゃないかな…。"
+                                "\\SE[10]What should I do... \\!\\SE[0]Earlier, Mom? said to\napologize, so maybe if I do that, the event will end..."
                             ]
                         },
                         {
@@ -6623,21 +6378,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]謝る…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[66]私が…？ \\.この『偽物』なんかに…？"
+                                "\\SE[16]Apologize...!? \\!\\SE[66]Me...? \\.To this fake...?"
                             ]
                         },
                         {
@@ -6648,21 +6396,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[34]ふざけないで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]私は絶対に屈したりなんてしな"
+                                "\\SE[34]Don't mess around! \\!\\SE[15]I will never surrender or\nanything like that."
                             ]
                         },
                         {
@@ -6737,14 +6478,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[28]か、はっ……！！！！"
+                                "\\SE[28]Wha... What...?!"
                             ]
                         },
                         {
@@ -6771,28 +6512,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]もう謝っちゃえばー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[8]それで終わるんだから別にいいじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たった一言で済んじゃうんだしさ。"
+                                "\\SE[9]Just apologize already, okay? \\!\\SE[8]It's not a big deal\nsince it will end that way. It will be settled with just a few\nwords."
                             ]
                         },
                         {
@@ -6803,21 +6530,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[34]やだっ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[60]仮に『謝る』としても、\\.こんな形は…！！"
+                                "\\SE[34]No way...!! \\!\\SE[60]Even if I were to apologize, it\nshouldn't be in this way...!!"
                             ]
                         },
                         {
@@ -6892,14 +6612,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[28]ぎゃぁっ…！！！！！"
+                                "\\SE[28]Gyaaah...!!!"
                             ]
                         },
                         {
@@ -7025,28 +6745,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]おぉ…あれを最後まで耐えきるつもりか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[25]ま、まぁ最大HPの９９％ダメージになってるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.死ぬことはないよね…\\!\\SE[45]多分。"
+                                "\\SE[16]Oh... so you're planning to endure until the end...\n\\!\\SE[25]Well, since it's taking 99% damage of your maximum HP,\nyou won't die... \\.\\SE[45]Probably."
                             ]
                         },
                         {
@@ -7064,28 +6770,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]うーむ…これも世の定めか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]『ラウラ』が許しても『お母さん？』が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許さないとは…。"
+                                "\\SE[14]Hmm... Is this also fate...? \\!\\SE[15]Even if Laura\nforgives, if Mom? doesn't forgive..."
                             ]
                         },
                         {
@@ -7103,21 +6795,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ねぇ、ヴィタ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私も『おしりぺんぺん』\\.されておいたほうがいい？"
+                                "\\SE[2]Hey, Vita. Should I also get a butt spanking?"
                             ]
                         },
                         {
@@ -7135,21 +6820,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]リソースの限界もあるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『需要』があったら、まぁ…\\.\\SE[45]考えるかなぁ…。"
+                                "\\SE[2]There are also limits to resources, so if there is demand,\nwell... \\SE[45]I guess I'll think about it..."
                             ]
                         },
                         {
@@ -7160,14 +6838,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]『需要』……。"
+                                "\\SE[13] Demand......."
                             ]
                         },
                         {

@@ -2208,28 +2208,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン姫"
+                                "Princess Ulysseene"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]無事に『試練』を乗り越えたようじゃな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[52]見違えるように強くなった…\\.ような気がするな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]まとった『気配』が違う…\\.ような気がするぞ！"
+                                "\\SE\\SE[52]It seems you have safely overcome the trial!\n\\SE[52]You've become noticeably stronger... or so it seems!\n\\SE[51]There's a different aura surrounding you... or so it\nfeels!"
                             ]
                         },
                         {
@@ -2240,14 +2226,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[18]はっ、ありがたき幸せ。"
+                                "\\SE[18]Ah, what a blissful happiness."
                             ]
                         },
                         {
@@ -2333,35 +2319,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン姫"
+                                "Princess Ulysseene"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]うむ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.特にキャットと言ったか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]そなたはとっても弱そうだったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.精悍な顔つきになった…\\.ような気がするな！"
+                                "\\SE[6]Hmm! Did you say something about a cat? \\SE[16]You seemed\nvery weak, but now you have a more refined look... or so it\nfeels!"
                             ]
                         },
                         {
@@ -2381,21 +2346,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]えっ…\\.そうですか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[20]やだ、新しい『ファンデーション』のおかげ…？"
+                                "\\SE\\SE[20]Huh... Is that so!? \\SE[20]Oh no, is it because of the\nnew foundation...?"
                             ]
                         },
                         {
@@ -2431,28 +2389,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]あ、あはは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[5]キャットさんは『後方支援役』なので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『試練』は特に受けていないんです…。"
+                                "\\SE[21]Ah, ahaha... \\!\\SE[5]Cat-san is a rear support role, so\n\\.I didn't particularly undergo any trials...."
                             ]
                         },
                         {
@@ -2472,21 +2416,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン姫"
+                                "Princess Ulysseene"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]なんと…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[26]ははっ！\\. これは参ったな！！"
+                                "\\SE[9]What...! \\!\\SE[26]Hahaha! This is troublesome!!"
                             ]
                         },
                         {
@@ -2527,28 +2464,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン姫"
+                                "Princess Ulysseene"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]ふむ…変わったように見えたんじゃがの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.人を見る目には自信があったのだが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[56]さては…\\.『情人』でも出来たか？"
+                                "\\SE[38]Hmm... You seem to have changed. I was confident in my\nability to judge people, but... \\SE[56]I wonder... Have you found\na lover or something?"
                             ]
                         },
                         {
@@ -2568,28 +2491,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]おっとー…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]それ以上は、さすがのお姫様にも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『黙秘権』を行使させて頂きたい次第ですよー。"
+                                "\\SE[12]Oh my...? \\!\\SE[45]I think it's about time for even a\nprincess like you to exercise your right to remain silent, don't\nyou think?"
                             ]
                         },
                         {
@@ -2616,21 +2525,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]（キャットさんの交友関係…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[57]　また一つ、\\.『謎』が生まれてしまったわ。）"
+                                "\\SE[3] (Cat-san's social circle... \\SE[57] Another 'mystery' has\nemerged.)"
                             ]
                         },
                         {
@@ -2648,21 +2550,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[60]（これ以上、身内の『色恋沙汰』は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　勘弁願いたいわ…。）"
+                                "\\SE[60] (I really hope there won't be any more romantic affairs\nwithin our group...)"
                             ]
                         },
                         {
@@ -2769,28 +2664,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン姫"
+                                "Princess Ulysseene"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]さぁ、父上！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.今こそ『決断』のときであろう！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[50]『コーダイン』の蛮行もここまでじゃ！！"
+                                "\\SE[9]Now, Father! \\.It is time for a decision!! \\!\\SE[50]Put an\nend to the atrocities of Cordain here and now!!"
                             ]
                         },
                         {
@@ -2817,28 +2698,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン王"
+                                "King Ulyssean"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『エルモ村』の一件は…\\.すでに確認している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『代理戦争』など遠回しな手段も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すでに選ばない状況にまできていることも…。"
+                                "We have already confirmed the incident in Elmo Village. The\nsituation has reached a point where we no longer have the luxury\nof using indirect means such as proxy wars."
                             ]
                         },
                         {
@@ -2849,21 +2716,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン王"
+                                "King Ulyssean"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現地では『コーダイン王』直々に手を下したと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!大臣、間違いないな？"
+                                "It was confirmed that King Cordain personally took action on-\nsite... Minister, am I correct?"
                             ]
                         },
                         {
@@ -2874,28 +2734,14 @@
                                 0,
                                 0,
                                 2,
-                                "大臣"
+                                "Minister"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい、間違いありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.諜報員からも裏付けがとれています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!意図する所はおそらく…。"
+                                "Yes, there is no mistake. We have also received confirmation from\nour spies. The intended purpose is probably..."
                             ]
                         },
                         {
@@ -2913,35 +2759,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン王"
+                                "King Ulyssean"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "血気盛んなあやつらしく…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『戦争』をしてみたいんじゃろうな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…俺はここにいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!止められるものなら、止めてみろ。\\.といった所か。"
+                                "They are full of youthful vigor.... They probably want to\nexperience war. ...I am here. If you can stop me, then try to\nstop me. That's about it."
                             ]
                         },
                         {
@@ -2959,14 +2784,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン王"
+                                "King Ulyssean"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは我々の使命…\\.じゃな。"
+                                "This is our mission... or rather..."
                             ]
                         },
                         {
@@ -3017,28 +2842,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン王"
+                                "King Ulyssean"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明後日を『開戦の日』とする！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!全兵力をあげて、『コーダイン』の蛮行を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.我々、『ユリシーン』が止めるのじゃ！"
+                                "Let us declare the day after tomorrow as the Day of War!! \\!We,\nthe Ulyssean forces, will mobilize all our troops to put an end\nto the atrocities of Cordain!"
                             ]
                         },
                         {
@@ -3162,28 +2973,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン姫"
+                                "Princess Ulysseene"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]父上…\\.よくぞ決断した！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[52]戦場には我も行くぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.兵たちの士気をあげてくれる！！"
+                                "\\SE[16]Father... You have made a great decision!! \\SE[52]I will\nalso go to the battlefield! I will boost the morale of our\nsoldiers!!"
                             ]
                         },
                         {
@@ -3203,28 +3000,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン王"
+                                "King Ulyssean"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ…\\.駄目だって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お前に『戦争』はまだ早すぎるって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.いつも言ってるでしょうに…！"
+                                "Huh... No, it's not allowed! I always tell you that war is still\ntoo early for you...!"
                             ]
                         },
                         {
@@ -3244,28 +3027,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン姫"
+                                "Princess Ulysseene"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[54]国家の一大事に、安全な所で寝ていろと申すのか…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[35]父上が何と言おうと、私はいくぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[54]『コーダイン』に、\\.裁きの鉄槌をくらわしてくれる！！"
+                                "\\SE[54]Are you telling me to stay in a safe place while our\ncountry faces a major crisis...!? \\!\\SE[35]No matter what Father\nsays, I will go! \\!\\SE[54]I will deliver a decisive blow to\nCordain with the hammer of justice!!"
                             ]
                         },
                         {
@@ -3285,21 +3054,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン王"
+                                "King Ulyssean"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、大臣…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんとか言ってくれよ…。"
+                                "M-Minister... Please say something..."
                             ]
                         },
                         {
@@ -3319,21 +3081,14 @@
                                 0,
                                 0,
                                 2,
-                                "大臣"
+                                "Minister"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうなってしまった姫様を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "止める手段は我々にはありません…。"
+                                "We do not have any means to stop the princess from becoming like\nthis..."
                             ]
                         },
                         {
@@ -3445,21 +3200,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]（これから『決戦』だというのに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　\\SE[15]ふふ…やっぱり、\\.可愛い国だわ。）"
+                                "\\SE[2] (Even though it's about to be a decisive battle....\n\\SE[15] Hehe... This country is really cute.)"
                             ]
                         },
                         {
@@ -3477,14 +3225,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]（少し、『緊張感』に欠けるようだけど…。）"
+                                "\\SE[3] (It seems to lack a bit of tension though...)"
                             ]
                         },
                         {
@@ -3502,14 +3250,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]（いよいよ…\\.なのね。）"
+                                "\\SE[51] (Finally... it's about to begin.)"
                             ]
                         },
                         {

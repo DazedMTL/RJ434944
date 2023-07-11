@@ -3280,21 +3280,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]キャットちゃんのお店ですよー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]補給が必要なら、なんなりと～。\\.（有料ですけど！）"
+                                "\\SE[16]It's Cat-chan's shop, you know~. \\!\\SE[0]If you need any\nsupplies, feel free to ask~. (It's not free though!)"
                             ]
                         },
                         {
@@ -3517,28 +3510,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヒダリィ"
+                                "Hidarii"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ヒダリィ』です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!こう見えて、我々は生え抜きの精鋭です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごいんですよ。えっへん。"
+                                "I'm Hidarii. Despite appearances, we are a group of elite\nindividuals. We're amazing, you know. Hehe."
                             ]
                         },
                         {
@@ -3660,28 +3639,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミギィ"
+                                "Migii"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ミギィ』です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!少々不謹慎かもしれませんが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きな作戦は、血がたぎりますね。"
+                                "I'm Migii. It might be a bit insensitive, but... big operations\nreally get my blood pumping."
                             ]
                         },
                         {
@@ -3959,28 +3924,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]おっ『スイスイちゃん』の出番ですか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]出発したらしばらく戻れないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思いますけど、\\.準備の方は大丈夫です？\\!"
+                                "\\SE\\SE[2]Oh, is it time for Swissy-chan to make an appearance!?\n\\SE[2]Once we leave, I don't think we'll be able to come back for\na while, but are you prepared?"
                             ]
                         },
                         {
@@ -4022,21 +3973,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[16]抜錨の時ですね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\SE[15]ささっ！\\. 乗り込んじゃってください！！"
+                                "\\SE[16]It's time to set sail...! \\!\\SE[15]Come on! Get on board!!"
                             ]
                         },
                         {

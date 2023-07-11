@@ -10346,7 +10346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを2つ手に入れた！\\$"
+                                "\\i[384] I obtained two Cure Life Alpha! \\$"
                             ]
                         },
                         {
@@ -10854,7 +10854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[414]天使のつのぶえを手に入れた！\\$"
+                                "\\i[414] I obtained the horn of an angel! $"
                             ]
                         },
                         {
@@ -10983,7 +10983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ユリシーン』に戻りますか？\\!"
+                                "Do you want to return to the 'Yuriseen' scene?"
                             ]
                         },
                         {
@@ -11620,28 +11620,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]わぁ…年季の入った洞窟…\\.って感じ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]こんな所に住んでるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "依頼人の研究者さん、どんな人なんだろう…。"
+                                "\\SE[5]Wow... This cave has a really ancient feel to it... \\SE[3]I\nwonder what kind of person the client, who lives in a place like\nthis, is..."
                             ]
                         },
                         {
@@ -11659,21 +11645,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]『クライアさん』ね…\\!\\SE[3]有名なのは、確か……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[2]『麻酔』の発明が一番知られてるものかしら。"
+                                "\\SE\\SE[3]Claire-san, huh... \\SE[3]She's quite famous, if I recall\ncorrectly... \\SM[nod]\\SE[2]I wonder if the invention of\nanesthesia is what she's most known for."
                             ]
                         },
                         {
@@ -11700,14 +11679,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]えっ\\. そんなすごい人なの…？"
+                                "\\SE[4]Huh... Is she really that amazing...?"
                             ]
                         },
                         {
@@ -11718,28 +11697,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ねー。\\.すごいよねー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]『麻酔』は知ってのとおり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手術でよく使われるものだけど…。"
+                                "\\SE\\SE[2]Hey... It's amazing, right? \\SE[2]As you know,\nanesthesia is commonly used in surgeries..."
                             ]
                         },
                         {
@@ -11750,35 +11715,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]クライアさんが劇薬の成分から『麻酔』を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作れることを発見したのよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]彼女のおかげで医療の歴史は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "300年進歩したとも言われてて……。"
+                                "\\SE[3]Claire-san discovered how to create anesthesia from the\ningredients of a powerful drug. \\SE[2]Thanks to her, it is said\nthat the history of medicine has advanced by 300 years..."
                             ]
                         },
                         {
@@ -11814,21 +11758,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]そ、そんな人がこんな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近くに住んでたんだね…。"
+                                "\\SE[8]S-So, there was someone like that living nearby..."
                             ]
                         },
                         {
@@ -11848,21 +11785,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]『すごい人』って、\\.案外近くにいるものなのかもね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]私もどんな人なのか楽しみなの。"
+                                "\\SE[0]I wonder if there are amazing people who are unexpectedly\nclose by? \\SE[1]I'm also looking forward to finding out what kind\nof person she is."
                             ]
                         },
                         {
@@ -11889,21 +11819,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]んで…その『すごい人』は何故か"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『女の子にちんちん』を生やす研究をしてると…。"
+                                "\\SE[2]And... for some reason, that amazing person is researching\nhow to grow penises on girls..."
                             ]
                         },
                         {
@@ -11914,28 +11837,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]んー…\\.わかんないなぁ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]こんな『聞かん棒』\\.面倒なだけだと思うけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]二人もそう思わない？"
+                                "\\SE[3]Hmm... I don't know... \\SE[10]I think this listening stick\nis just a hassle... \\SE[3]Don't you two think the same?"
                             ]
                         },
                         {
@@ -12071,14 +11980,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]えっ \\.な、なに…？"
+                                "\\SE[16]Huh, w-what...?"
                             ]
                         },
                         {
@@ -12096,28 +12005,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ヴィタ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あなたにも、いつか分かる日がくるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[13]『ちんちんは必要』だってことを。"
+                                "\\SE\\SM[nod]\\SE[13]Vita. \\SE[3]Someday, you will understand too.\n\\SM[nod]\\SE[13]That penises are necessary."
                             ]
                         },
                         {
@@ -12135,28 +12030,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]そうだよ。\\.ヴィタ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[100]『ちんちんは必要』だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[double]\\SE[51]人はいつだって、\\.隙間を埋めずにいられないの…。"
+                                "\\SE[5]That's right, Vita. \\SE[100]Penises are necessary.\n\\SM[double]\\SE[51]People always feel the need to fill the gaps..."
                             ]
                         },
                         {
@@ -12305,14 +12186,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[83]さっ \\.行こう……。"
+                                "\\SM[nod]\\SE[83]Alright, let's go..."
                             ]
                         },
                         {
@@ -12323,14 +12204,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[46]ええっ…！"
+                                "\\SM[nod]\\SE[46]Eh...!"
                             ]
                         },
                         {
@@ -12364,14 +12245,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[68]えっ \\.なにこの熱量の高さ…？"
+                                "\\SE[68]Huh, what is this intense heat...?"
                             ]
                         },
                         {
@@ -12587,7 +12468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送の結晶石に『隠者の洞窟』が追加された！"
+                                "The 'Hermit's Cave' has been added to the teleportation crystal!"
                             ]
                         },
                         {
@@ -13785,7 +13666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[476]レアアースの欠片を手に入れた！\\$"
+                                "\\i[476] Obtained a rare earth fragment! $"
                             ]
                         },
                         {

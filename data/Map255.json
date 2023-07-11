@@ -4535,21 +4535,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]\\SM[nod]うん、そろそろいい時間ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]ラウラ。準備は大丈夫？"
+                                "\\SE\\SE[0]\\SM[nod]Yes, it's about time. \\!\\SE[0]Laura, are you\nready?"
                             ]
                         },
                         {
@@ -4621,21 +4614,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[1]ん。大丈夫！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]それでどこに向かう予定なの？"
+                                "\\SM[nod]\\SE\\SE[2]Hmm. I'm fine! \\SE[2]So, where are we planning\nto go?"
                             ]
                         },
                         {
@@ -4646,21 +4632,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]色々考えたんだけど、支援体制が整っていて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[1]治安のいい『ユリシーン』で考えているの。"
+                                "\\SE[2]I've been thinking about various things, but I'm\nconsidering a safe place called Ulyssean where the support system\nis well- established. \\SE[1]"
                             ]
                         },
                         {
@@ -4694,14 +4673,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[123]ゆ、ユリシーン…！！？？"
+                                "\\SE[123]U-Ulyssean...!!??"
                             ]
                         },
                         {
@@ -5045,21 +5024,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]あっ、まずかった…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[6]それなら他の候補を考えるけど…。"
+                                "\\SE[7]Ah, was that bad...? \\SE[6]If that's the case, then I'll\nconsider other options..."
                             ]
                         },
                         {
@@ -5208,28 +5180,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[tremble]\\SE[17]ぶんぶんぶんっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[19]ゆ、『ユリシーン』で問題ないよ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[58]うんっ！全然大丈夫…\\.うんっ…！"
+                                "\\SM[tremble]\\SE[17]Buzz buzz buzz!! \\!\\SE[19]I-It's no problem at\nUlyssean...! \\!\\SM[nod]\\SE[58]Yeah! I'm totally fine... Yeah...!"
                             ]
                         },
                         {
@@ -5249,21 +5207,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]もう、どうしたの…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.変なラウラ。"
+                                "\\SE[21]What's wrong...? \\.Strange Laura."
                             ]
                         },
                         {
@@ -5306,21 +5257,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[99]あっそうだ…！\\.すっかり忘れてた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[91]えっと…ルナはまだ『お花』\\.好き…？"
+                                "\\SE[99]Oh, that's right...! I completely forgot! \\SE[91]Um...\ndoes Lunaroa still like flowers...?"
                             ]
                         },
                         {
@@ -5340,21 +5284,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ええっ…好きだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]それが、どうかした？"
+                                "\\SE[2]Eh... I do like them, but... \\SE[1]Is there something wrong\nwith that?"
                             ]
                         },
                         {
@@ -5365,28 +5302,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]え、えとね…久しぶりだから…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[58]これ、あげようと思って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[99]子供っぽいって…\\.笑われちゃうかもしれないけど…。"
+                                "\\SE[90]Um, well... It's been a while, so... \\SE[58]I thought of\ngiving you this, \\SE[99]but it might be childish... I might get\nlaughed at..."
                             ]
                         },
                         {
@@ -5587,7 +5510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロアに『スズランの髪飾り』をプレゼントした！"
+                                "I gave Lunaroa a 'Lily of the Valley hair accessory' as a\npresent!"
                             ]
                         },
                         {
@@ -5627,21 +5550,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]あら、かわいい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]これは髪飾り…かしら？"
+                                "\\SE[46]Oh, how cute... \\!\\SE[45]Is this a hair accessory, I\nwonder?"
                             ]
                         },
                         {
@@ -5661,21 +5577,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[double]\\SE[99]い、いらなかったら捨てちゃっていいかんね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[60]かさばっちゃうと思うし…！"
+                                "\\SM[double]\\SE[99]I-If you don't need it, you can just throw it\naway...! \\!\\SE[60]I think it might take up space...!"
                             ]
                         },
                         {
@@ -5693,21 +5602,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]ううん…とても嬉しい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[30]ありがとう、大切にするね。"
+                                "\\SE[46]No... I'm really happy... \\!\\SE[30]Thank you, I'll\ntreasure it."
                             ]
                         },
                         {
@@ -5978,21 +5880,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[double]\\SE[101]ほ、ほらっもういこっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[58]遅くなったら、よくないもんね……！"
+                                "\\SM[double]\\SE[101]H-Hey, let's go already...! \\SE[58]It's not\ngood to be late...!"
                             ]
                         },
                         {
@@ -6029,14 +5924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "再会を果たし、ラウラの恋心は再燃した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ラウラはパッシブスキル『\\i[7]乙女心』を習得した！"
+                                "Laura's love was reignited as they reunited! Laura has learned\nthe passive skill '\\i[7] Maiden's Heart'!"
                             ]
                         },
                         {
@@ -6066,14 +5954,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]もう…可愛いんだから…。"
+                                "\\SE[50]Oh... you're so cute..."
                             ]
                         },
                         {
@@ -6117,14 +6005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『宝物』を手に、ルナロアは『決意』を新たにした！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ルナロアはパッシブスキル『\\i[7]プリンセスガード』を習得した！"
+                                "Lunaroa, with the 'treasure' in hand, renewed her\n'determination'! Lunaroa has learned the passive skill '\\i[7]\nPrincess Guard'!"
                             ]
                         },
                         {
@@ -6572,14 +6453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロアと二人で作った『焚火』だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!教わったとおり、\\.ちゃんと『後始末』もしてある。"
+                                "We made a bonfire together with Lunaroa. Just as we were taught,\nwe also properly did the cleanup."
                             ]
                         },
                         {
@@ -6770,21 +6644,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]\\SM[nod]うん、そろそろいい時間ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]ラウラ。準備は大丈夫？"
+                                "\\SE\\SE[0]\\SM[nod]Yes, it's about time. \\!\\SE[0]Laura, are you\nready?"
                             ]
                         },
                         {
@@ -6856,21 +6723,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[1]ん。大丈夫！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]それでどこに向かう予定なの？"
+                                "\\SM[nod]\\SE\\SE[2]Hmm. I'm fine! \\SE[2]So, where are we planning\nto go?"
                             ]
                         },
                         {
@@ -6881,21 +6741,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]色々考えたんだけど、支援体制が整っていて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[1]治安のいい『ユリシーン』で考えているの。"
+                                "\\SE[2]I've been thinking about various things, but I'm\nconsidering a safe place called Yurisine where the support system\nis in place. \\SE[1]"
                             ]
                         },
                         {
@@ -6929,14 +6782,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[123]ゆ、ユリシーン…！！？？"
+                                "\\SE[123]Y-Yurisine...!!??"
                             ]
                         },
                         {
@@ -7280,21 +7133,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]あっ、まずかった…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[6]それなら他の候補を考えるけど…。"
+                                "\\SE[7]Ah, was that bad...? \\SE[6]If that's the case, then I'll\nconsider other options..."
                             ]
                         },
                         {
@@ -7443,28 +7289,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[tremble]\\SE[17]ぶんぶんぶんっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[19]ゆ、『ユリシーン』で問題ないよ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[58]うんっ！全然大丈夫…\\.うんっ…！"
+                                "\\SM[tremble]\\SE[17]Buzz buzz buzz!! \\!\\SE[19]I-It's no problem to\ngo to Yurisine...! \\!\\SM[nod]\\SE[58]Yeah! I'm totally fine...\nYeah...!"
                             ]
                         },
                         {
@@ -7484,21 +7316,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]もう、どうしたの…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.変なラウラ。"
+                                "\\SE[21]What's wrong...? Strange Laura."
                             ]
                         },
                         {
@@ -7541,21 +7366,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[99]あっそうだ…！\\.すっかり忘れてた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[91]えっと…ルナはまだ『お花』\\.好き…？"
+                                "\\SE[99]Oh, that's right...! I completely forgot! \\SE[91]Um...\nLunaroa, do you still like flowers...?"
                             ]
                         },
                         {
@@ -7575,21 +7393,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ええっ…好きだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]それが、どうかした？"
+                                "\\SE[2]Eh... I do like them, but... \\SE[1]Is there something wrong\nwith that?"
                             ]
                         },
                         {
@@ -7600,28 +7411,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]え、えとね…久しぶりだから…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[58]これ、あげようと思って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[99]子供っぽいって…\\.笑われちゃうかもしれないけど…。"
+                                "\\SE[90]Um, well... It's been a while, so... \\SE[58]I was thinking\nof giving you this, but... \\SE[99]It might be childish... I might\nget laughed at..."
                             ]
                         },
                         {
@@ -7822,7 +7619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロアに『スズランの髪飾り』をプレゼントした！"
+                                "I gave Lunaroa a 'Lily of the Valley hair accessory' as a\npresent!"
                             ]
                         },
                         {
@@ -7862,21 +7659,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]あら、かわいい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]これは髪飾り…かしら？"
+                                "\\SE[46]Oh, how cute... \\!\\SE[45]Is this a hair accessory, I\nwonder?"
                             ]
                         },
                         {
@@ -7896,21 +7686,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[double]\\SE[99]い、いらなかったら捨てちゃっていいかんね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[60]かさばっちゃうと思うし…！"
+                                "\\SM[double]\\SE[99]I-If you don't need it, you can just throw it\naway...! \\!\\SE[60]I think it might take up space...!"
                             ]
                         },
                         {
@@ -7928,21 +7711,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]ううん…とても嬉しい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[30]ありがとう、大切にするね。"
+                                "\\SE[46]No... I'm really happy... \\!\\SE[30]Thank you, I'll\ntreasure it."
                             ]
                         },
                         {
@@ -8213,21 +7989,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[double]\\SE[101]ほ、ほらっもういこっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[58]遅くなったら、よくないもんね……！"
+                                "\\SM[double]\\SE[101]H-Hey, let's go already...! \\SE[58]It's not\ngood to be late...!"
                             ]
                         },
                         {
@@ -8264,14 +8033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "再会を果たし、ラウラの恋心は再燃した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ラウラはパッシブスキル『\\i[7]乙女心』を習得した！"
+                                "Laura's love was reignited as they reunited! Laura has learned\nthe passive skill '\\i[7] Maiden's Heart'!"
                             ]
                         },
                         {
@@ -8301,14 +8063,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]もう…可愛いんだから…。"
+                                "\\SE[50]Oh... you're so cute..."
                             ]
                         },
                         {
@@ -8352,14 +8114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『宝物』を手に、ルナロアは『決意』を新たにした！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ルナロアはパッシブスキル『\\i[7]プリンセスガード』を習得した！"
+                                "Lunaroa, with the 'treasure' in hand, renewed her\n'determination'! Lunaroa has learned the passive skill '\\i[7]\nPrincess Guard'!"
                             ]
                         },
                         {
@@ -8590,28 +8345,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えー……\\.失礼いたします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.盛り上がっているところ大変恐縮なのですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ここでお伝えしなければいけないことがあります…。"
+                                "Um... Excuse me. I apologize for interrupting while things are\ngetting exciting... But there's something I need to tell you\nhere..."
                             ]
                         },
                         {
@@ -8832,28 +8573,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]……後にしてくれる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『いい雰囲気』だったことくらい分かるわよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]少し、空気を読んで遠慮してもらっていいかしら…？"
+                                "\\SE[12]... Can you leave us alone for a bit? Don't you understand\nthat it was a good atmosphere? \\SE[13] Could you please be\nconsiderate and read the mood a little...?"
                             ]
                         },
                         {
@@ -8883,28 +8610,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ、あっごめん……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私もね。\\.悪いとは思っているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!でもこれ……\\.『体験版』なんだよね。"
+                                "Eh, ah, sorry... I also feel bad about it. But, you see... this\nis a trial version, you know."
                             ]
                         },
                         {
@@ -8915,21 +8628,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひとまず『ここまで』にしとこっかなって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どんなゲームかは伝わったと思うしさ…。"
+                                "For now, let's call it quits here... I think you've got a sense\nof what kind of game it is, right..."
                             ]
                         },
                         {
@@ -8947,28 +8653,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]……何を言ってるのあなた？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私とラウラの『百合シーン』が入ってないじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]他の人の『えっちシーン』ばっかりで。"
+                                "\\SE[12]... What are you talking about? Our yuri scene isn't\nincluded. \\SE[13] It's just filled with other people's ecchi\nscenes."
                             ]
                         },
                         {
@@ -8979,28 +8671,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]それに私の『かっこいいシーン』も足りないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ラウラに『頼りになる私』を見せないといけないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]……一人で勝手に満足しないでもらえるかしら。"
+                                "\\SE[12]And besides, there aren't enough of my cool scenes either.\nI have to show Laura that I can be reliable. \\SE[13]...I wonder\nif I can't just be satisfied on my own."
                             ]
                         },
                         {
@@ -9011,28 +8689,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、気持ちはわかるんだけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.雰囲気や戦闘の感じはなんとなく分かったでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『体験版』って、そういうものだと思うし……。"
+                                "Well, I understand how you feel... But you kind of got the\natmosphere and the feel of the battles, right? I think that's\nwhat a trial version is supposed to be..."
                             ]
                         },
                         {
@@ -9085,28 +8749,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]そんな『つまらない事情』は聞いてないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.大切なのは私とラウラの『イチャイチャ』でしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]それを見ずに終わるなんて費やした時間の無駄だわ。"
+                                "\\SE\\SE[0]I didn't ask for such boring circumstances. \\.What's\nimportant is our lovey-dovey moments, right? \\!\\SE[0]It would be\na waste of time to end without seeing that."
                             ]
                         },
                         {
@@ -9169,14 +8819,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]\\SM[slidef]だから、早くこのイベントを見せなさいっ…！"
+                                "\\SE[14]\\SM[slidef]So, show me this event quickly...!"
                             ]
                         },
                         {
@@ -9199,28 +8849,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ゛ーっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それはあとにとって置いてるの！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!はやく、しまって！！\\. しまって！！"
+                                "Ahh!! That's something for later!! Hurry, put it away!! Put it\naway!!"
                             ]
                         },
                         {
@@ -9290,14 +8926,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]ぐぬぬっ……。"
+                                "\\SE[13]Grrr..."
                             ]
                         },
                         {
@@ -9308,28 +8944,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ってことで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この続きは各種『販売サイト』で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご購入いただきたく…。"
+                                "...So, for the continuation, we would like you to purchase it on\nvarious sales sites...."
                             ]
                         },
                         {
@@ -9352,14 +8974,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[89]\\SM[pop]\\{お金をとるっていうの…！！？"
+                                "\\SE[89]\\SM[pop] You're saying you'll take money...!!?"
                             ]
                         },
                         {
@@ -9370,28 +8992,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、\\.それはまぁ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!こっちも慈善事業じゃないしさ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そのための『体験版』があるわけで……。"
+                                "W-Well...? We're not running a charity here, you know... That's\nwhy there's a trial version for that..."
                             ]
                         },
                         {
@@ -9409,14 +9017,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]ふ、\\.ふざけたことをっ…！！"
+                                "\\SE[14]H-How dare you...!!"
                             ]
                         },
                         {
@@ -9506,14 +9114,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひ、\\.ひぃ…！！"
+                                "H-Hii...!!"
                             ]
                         },
                         {
@@ -9524,28 +9132,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[33]す、ストーップ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[92]こればっかりは仕方ないんじゃないかな…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.作った人にも生活とかあると思うし……。"
+                                "\\SE[33]S-Stop...! \\!\\SE[92]I think there's no helping it with\nthis...! \\.I believe the person who made it also has a life and\nall..."
                             ]
                         },
                         {
@@ -9556,28 +9150,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[84]それに、ほら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.お金を払った方が、楽しくなることってあるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]その時間を大切にしよう。\\.って思えるし…。"
+                                "\\SE[84]And besides, you know... There are times when paying money\nmakes things more enjoyable. \\SE[21]I think it's important to\ncherish that time... and believe in it."
                             ]
                         },
                         {
@@ -9642,21 +9222,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]ちょっと納得いかないけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ラウラがそう言うなら、我慢する…。\\SE[53]"
+                                "\\SE[52]I'm not completely convinced, but... if Laura says so,\nI'll endure it...\\SE[53]"
                             ]
                         },
                         {
@@ -9667,21 +9240,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]\\SM[rock]我慢できてえらいぞー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.よしよし、いい子ー……。"
+                                "\\SE[22]\\SM[rock]You did well enduring it. Good girl..."
                             ]
                         },
                         {
@@ -9692,14 +9258,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]えへへー……。"
+                                "\\SE[16]Ehehe..."
                             ]
                         },
                         {
@@ -9733,14 +9299,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この人たち、\\.こわっ……。）"
+                                "(These people... they're scary...)"
                             ]
                         },
                         {
@@ -9820,28 +9386,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、そういうわけで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『体験版』のデータは『製品版』に引継ぎ出来るから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その際は同梱の説明書を確認してね。"
+                                "Well, that's how it is. The data from the trial version can be\ntransferred to the full version, so please check the included\nmanual when that time comes."
                             ]
                         },
                         {
@@ -10366,21 +9918,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、『体験版』だとその先は通れないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『製品版』をご購入いただきたく…。"
+                                "Ah, in the trial version you can't proceed any further. We would\nlike you to purchase the full version..."
                             ]
                         },
                         {
@@ -10391,14 +9936,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ…！！"
+                                "Ugh...!!"
                             ]
                         },
                         {
@@ -10507,21 +10052,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ、引継ぎのやり方は大丈夫？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.詳しい人なら説明はいらないと思うけど…。\\!"
+                                "Ah, are you okay with the transfer method? I don't think I need\nto explain it to someone who knows the details...!"
                             ]
                         },
                         {
@@ -10555,28 +10093,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『体験版』を起動したときに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "フォルダがいっぱいあったと思うんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!その中に『save』ってフォルダがあるはず。"
+                                "I think when you started the demo version, there were a lot of\nfolders. There should be a folder called save in there."
                             ]
                         },
                         {
@@ -10587,28 +10111,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それを『製品版』の同じ場所に持っていくんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.これで続きが遊べるはずだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『バックアップ』は必ずとるようにしてね。"
+                                "Take that to the same place in the full version. With this, you\nshould be able to continue playing. Make sure to always make a\nbackup."
                             ]
                         },
                         {
@@ -10641,14 +10151,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか、\\.そうか…！"
+                                "I see, I see...!"
                             ]
                         },
                         {
@@ -10681,14 +10191,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そ、\\.そっか……。"
+                                "I-I see..."
                             ]
                         },
                         {

@@ -5720,14 +5720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（没イベント）あなたを想いながら…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!このシーンはクリア後に開放できるようだ…。"
+                                "(Event Not Found) Thinking of you... It seems like this scene can\nbe unlocked after clearing it..."
                             ]
                         },
                         {
@@ -5808,14 +5801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（没イベント）あなたを想いながら…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを開放しますか？\\!"
+                                "(Event Not Found) While thinking of you... Shall I unlock this\nscene?"
                             ]
                         },
                         {
@@ -5883,14 +5869,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オープニングのルナロアからラウラに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "操作が移る際に挟もうとしてやめたイベントです。"
+                                "This is an event that was planned to be inserted when the control\nswitches from Lunaroa in the opening to Laura, but it was\nabandoned."
                             ]
                         },
                         {
@@ -6005,14 +5984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（没イベント）　あなたを想いながら…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "(Event Not Found) While thinking of you... Should I play this\nscene?"
                             ]
                         },
                         {
@@ -6236,14 +6208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラ回想　二人の『始めて』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Laura's Flashback: The First Time for the Two of Us. Would you\nlike to replay this scene?"
                             ]
                         },
                         {
@@ -6447,14 +6412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -6672,14 +6630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラ回想　今日は私が。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Laura Flashback: Today, I will replay this scene. Would you like\nto watch it?"
                             ]
                         },
                         {
@@ -6883,14 +6834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -7108,14 +7052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラ回想　見透かされた弱さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Laura's Flashback: Exposed Weakness. \\.Would you like to replay\nthis scene?\\!"
                             ]
                         },
                         {
@@ -7319,14 +7256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -7473,14 +7403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『百合ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is Yuri Locked. Do you want to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -7545,7 +7468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほんとうに開放してもいいですか？\\!"
+                                "Are you sure you want to unlock it?!"
                             ]
                         },
                         {
@@ -7782,14 +7705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロア回想　あなたは私のもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Lunaroa Flashback: You are mine. Will you replay this scene?"
                             ]
                         },
                         {
@@ -7993,14 +7909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -8218,14 +8127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロア回想　あなたに特別な快楽を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Lunaroa Flashback - Special Pleasure for You. Would you like to\nplay this scene?"
                             ]
                         },
                         {
@@ -8429,14 +8331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -8654,14 +8549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティータ回想　私はもう諦めない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Tita Flashback: I won't give up anymore. Should I replay this\nscene?"
                             ]
                         },
                         {
@@ -8865,14 +8753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -9019,14 +8900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『百合ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is Yuri Locked. Do you want to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -9091,7 +8965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほんとうに開放してもいいですか？\\!"
+                                "Are you sure you want to unlock it?!"
                             ]
                         },
                         {
@@ -9328,14 +9202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロア回想　あなたと溶け合う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Lunaroa Flashback - Melting Together with You. \\.Would you like\nto replay this scene?\\!"
                             ]
                         },
                         {
@@ -9539,14 +9406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -9713,14 +9573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴィタ回想　お風呂ですっきり？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Vita Flashback - Feeling refreshed in the bath? . Do you want to\nreplay this scene? !"
                             ]
                         },
                         {
@@ -9924,14 +9777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -10078,14 +9924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『百合ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is Yuri Locked. Do you want to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -10150,7 +9989,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほんとうに開放してもいいですか？\\!"
+                                "Are you sure you want to unlock it?!"
                             ]
                         },
                         {
@@ -10387,14 +10226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴィタ回想　『後ろ』の開発…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Vita Flashback: Behind Development...? Should I play this scene?"
                             ]
                         },
                         {
@@ -10598,14 +10430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -10752,14 +10577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『百合ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is Yuri Locked. Do you want to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -10824,7 +10642,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほんとうに開放してもいいですか？\\!"
+                                "Are you sure you want to unlock it?!"
                             ]
                         },
                         {
@@ -11061,14 +10879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴィタ回想　『敗北イベント』…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Vita Flashback Defeat Event...? Should I play this scene?"
                             ]
                         },
                         {
@@ -11272,14 +11083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -11557,14 +11361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ回想　正しい『おちんちん』の扱き方。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Vega Flashback - The Proper Way to Handle a Penis. . Would you\nlike to play this scene? !"
                             ]
                         },
                         {
@@ -11768,14 +11565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -11993,14 +11783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ回想　危険！ 先輩メイドの性教育！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Vega Flashback - Danger! Senior Maid's Sex Education!! Would you\nlike to play this scene?"
                             ]
                         },
                         {
@@ -12204,14 +11987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -12429,14 +12205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ回想　私はあなたを支えたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Vega Flashback: I want to support you. Should I replay this\nscene?"
                             ]
                         },
                         {
@@ -12640,14 +12409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -12812,7 +12574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ニキータ立ちイラスト"
+                                "Nikita standing illustration"
                             ]
                         },
                         {
@@ -12891,7 +12653,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゲームの進行により開放されます。"
+                                "Unlocked as the game progresses."
                             ]
                         },
                         {
@@ -13032,7 +12794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ニキータ立ちイラスト"
+                                "Nikita standing illustration"
                             ]
                         },
                         {
@@ -13315,7 +13077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローディア立ちイラスト"
+                                "Claudia standing illustration"
                             ]
                         },
                         {
@@ -13507,28 +13269,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは『回想部屋』だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これまでの想い出を振り返ることができるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お帰りは左手の出口からお願いね。"
+                                "This is the Recollection Room. You can look back on your memories\nhere. Please exit through the left-hand door when you're ready to\nleave."
                             ]
                         },
                         {
@@ -13539,21 +13287,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、取り逃し要素はないから安心してくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\}……もしあったらバグです。"
+                                "Ah, don't worry, there are no missed elements. If there were, it\nwould be a bug."
                             ]
                         },
                         {
@@ -13643,7 +13384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームクリア後に開放されます。"
+                                "Unlocked after clearing the game."
                             ]
                         },
                         {
@@ -13717,14 +13458,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タイトル画面を閲覧できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.どのイラストを見ますか？\\!"
+                                "You can view the title screen. Which illustration would you like\nto see?"
                             ]
                         },
                         {
@@ -14371,7 +14105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラ立ちイラスト"
+                                "Laura standing illustration"
                             ]
                         },
                         {
@@ -14491,7 +14225,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゲームの進行により開放されます。"
+                                "Unlocked as the game progresses."
                             ]
                         },
                         {
@@ -14633,7 +14367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラ立ちイラスト"
+                                "Laura standing illustration"
                             ]
                         },
                         {
@@ -14979,7 +14713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロア立ちイラスト"
+                                "Lunaroa standing illustration"
                             ]
                         },
                         {
@@ -15241,7 +14975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴィタ立ちイラスト"
+                                "Vita standing illustration"
                             ]
                         },
                         {
@@ -15461,7 +15195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ立ちイラスト"
+                                "Vega standing illustration"
                             ]
                         },
                         {
@@ -15581,7 +15315,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゲームの進行により開放されます。"
+                                "Unlocked as the game progresses."
                             ]
                         },
                         {
@@ -15716,7 +15450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ立ちイラスト"
+                                "Vega standing illustration"
                             ]
                         },
                         {
@@ -16020,7 +15754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アリス立ちイラスト"
+                                "Alice standing illustration"
                             ]
                         },
                         {
@@ -16198,7 +15932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レベッカ立ちイラスト"
+                                "Rebecca standing illustration"
                             ]
                         },
                         {
@@ -16319,7 +16053,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゲームの進行により開放されます。"
+                                "Unlocked as the game progresses."
                             ]
                         },
                         {
@@ -16343,21 +16077,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\SE[11]なんで私に頼むのよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\.まぁ、\\SE[1]別にいいけど……。"
+                                "\\SE[11]Why are you asking me... Well, \\SE[1]it's not like I\nmind..."
                             ]
                         },
                         {
@@ -16420,14 +16147,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\SE[56]えっと、\\.普通のやつね……。"
+                                "\\SE[56]Um, just a normal one..."
                             ]
                         },
                         {
@@ -16472,14 +16199,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\SE[8]なんかラウラっぽいわ。\\.この曲。"
+                                "\\SE[8]It feels kind of like Laura. This song."
                             ]
                         },
                         {
@@ -16524,14 +16251,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\SE[18]私これ好きー。"
+                                "\\SE[18]I like this."
                             ]
                         },
                         {
@@ -16576,14 +16303,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\SE[11]懐かしいって人によると思うけど……。"
+                                "\\SE[11]I think it depends on the person whether they find it\nnostalgic..."
                             ]
                         },
                         {
@@ -16628,14 +16355,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\SE[29]歌ってるでしょうがー！！！"
+                                "\\SE[29]You know I'm singing, right?!"
                             ]
                         },
                         {
@@ -16677,21 +16404,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\SE[14]は、\\.はぁ…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\!\\SE[41]こほん…。 \\.仕方ないわね…！！"
+                                "\\SE[14]Ugh...!? \\SE[41]Ahem... Well, I guess there's no helping\nit...!!"
                             ]
                         },
                         {
@@ -16734,14 +16454,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\SE[2]そっ。"
+                                "\\SE[2]So..."
                             ]
                         },
                         {
@@ -16887,7 +16607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レベッカ立ちイラスト"
+                                "Rebecca standing illustration"
                             ]
                         },
                         {
@@ -17072,21 +16792,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\SE[11]なんで私に頼むのよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\.まぁ、\\SE[1]別にいいけど……。"
+                                "\\SE[11]Why are you asking me... Well, \\SE[1]it's not like I\nmind..."
                             ]
                         },
                         {
@@ -17149,14 +16862,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\SE[56]えっと、\\.普通のやつね……。"
+                                "\\SE[56]Um, just a regular one..."
                             ]
                         },
                         {
@@ -17201,14 +16914,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\SE[8]なんかラウラっぽいわ。\\.この曲。"
+                                "\\SE[8]She seems kind of like Laura... This song."
                             ]
                         },
                         {
@@ -17253,14 +16966,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\SE[18]私これ好きー。"
+                                "\\SE[18]I like this."
                             ]
                         },
                         {
@@ -17305,14 +17018,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\SE[11]懐かしいって人によると思うけど……。"
+                                "\\SE[11]I think it depends on the person whether they find it\nnostalgic..."
                             ]
                         },
                         {
@@ -17357,14 +17070,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\SE[29]歌ってるでしょうがー！！！"
+                                "\\SE[29]You're singing, aren't you?!"
                             ]
                         },
                         {
@@ -17406,21 +17119,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\SE[14]は、\\.はぁ…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\!\\SE[41]こほん…。 \\.仕方ないわね…！！"
+                                "\\SE[14]Ugh...!? \\SE[41]Ahem... I guess there's no helping it...!!"
                             ]
                         },
                         {
@@ -17463,14 +17169,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\SE[2]そっ。"
+                                "\\SE[2]So..."
                             ]
                         },
                         {
@@ -17641,14 +17347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レベッカ回想　肉食少女の逆夜這い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Rebecca's Flashback: The Reverse Night Visit of the Carnivorous\nGirl. Would you like to play this scene?"
                             ]
                         },
                         {
@@ -17852,14 +17551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -18077,14 +17769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レベッカ回想　肉食少女の新規開発。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Rebecca's Flashback: The New Development of the Carnivorous Girl.\nWould you like to play this scene?"
                             ]
                         },
                         {
@@ -18288,14 +17973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -18513,14 +18191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レベッカ回想　肉食少女の童貞喪失。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Rebecca's Flashback: Virginity Loss of the Carnivorous Girl.\nWould you like to replay this scene?"
                             ]
                         },
                         {
@@ -18724,14 +18395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -18887,14 +18551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -19068,14 +18725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レベッカ回想　肉食少女の勇者調教。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Rebecca's Flashback: The Hero Training of the Carnivorous Girl.\n.Would you like to play this scene? !"
                             ]
                         },
                         {
@@ -19293,14 +18943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -19456,14 +19099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -19605,14 +19241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "乳首チェックイベントを閲覧出来ます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どのキャラにしますか？\\!"
+                                "You can view the nipple check event. Which character would you\nlike to choose?"
                             ]
                         },
                         {
@@ -20007,14 +19636,14 @@
                                 0,
                                 0,
                                 2,
-                                "三人"
+                                "Three people"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "失礼ねっ！"
+                                "Excuse me!"
                             ]
                         },
                         {
@@ -20130,14 +19759,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イラストを変更しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>（右クリックでウィンドウを非表示に出来ます。）"
+                                "Do you want to change the illustration? > (You can hide the\nwindow by right-clicking.)"
                             ]
                         },
                         {
@@ -20165,14 +19787,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ぽろり状態』のイラストを閲覧できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\.誰を表示しますか？"
+                                "You can view the illustration of Polori State. Who would you like\nto display?"
                             ]
                         },
                         {
@@ -21439,7 +21054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キャット立ちイラスト"
+                                "Cat standing illustration"
                             ]
                         },
                         {
@@ -21517,7 +21132,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゲームの進行により開放されます。"
+                                "Unlocked as the game progresses."
                             ]
                         },
                         {
@@ -21652,7 +21267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キャット立ちイラスト"
+                                "Cat standing illustration"
                             ]
                         },
                         {
@@ -21914,7 +21529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メリッサ立ちイラスト"
+                                "Melissa standing illustration"
                             ]
                         },
                         {
@@ -22134,7 +21749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロノア立ちイラスト"
+                                "Lunaroa standing illustration"
                             ]
                         },
                         {
@@ -22354,7 +21969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティータ立ちイラスト"
+                                "Tita standing illustration"
                             ]
                         },
                         {
@@ -22736,7 +22351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ライアン立ちイラスト"
+                                "Ryan standing illustration"
                             ]
                         },
                         {
@@ -23604,7 +23219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アイシャ立ちイラスト"
+                                "Aisha standing illustration"
                             ]
                         },
                         {
@@ -23856,14 +23471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラ回想　ご奉仕は『恋人』の務めです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Laura Flashback: Service is the duty of a 'lover'! Should I play\nthis scene?"
                             ]
                         },
                         {
@@ -24067,14 +23675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -24318,7 +23919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームの進行により開放されます。"
+                                "Unlocked as the game progresses."
                             ]
                         },
                         {
@@ -24401,14 +24002,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イラストを変更しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>（右クリックでウィンドウを非表示に出来ます。）"
+                                "Do you want to change the illustration? > (You can hide the\nwindow by right-clicking.)"
                             ]
                         },
                         {
@@ -24436,14 +24030,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ぽろり状態』のイラストを閲覧できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\.誰を表示しますか？"
+                                "You can view the illustration of Polori State. Who would you like\nto display?"
                             ]
                         },
                         {
@@ -25107,7 +24694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームの進行により開放されます。"
+                                "Unlocked as the game progresses."
                             ]
                         },
                         {
@@ -25190,14 +24777,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イラストを変更しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>（右クリックでウィンドウを非表示に出来ます。）"
+                                "Do you want to change the illustration? > (You can hide the\nwindow by right-clicking.)"
                             ]
                         },
                         {
@@ -25225,14 +24805,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ぽろり状態』のイラストを閲覧できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\.誰を表示しますか？"
+                                "You can view the illustration of Polori State. Who would you like\nto display?"
                             ]
                         },
                         {
@@ -25425,7 +24998,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゲームの進行により開放されます。"
+                                "It will be unlocked as the game progresses."
                             ]
                         },
                         {
@@ -25689,14 +25262,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イラストを変更しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>（右クリックでウィンドウを非表示に出来ます。）"
+                                "Do you want to change the illustration? > (You can hide the\nwindow by right-clicking.)"
                             ]
                         },
                         {
@@ -25724,14 +25290,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ぽろり状態』のイラストを閲覧できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\.誰を表示しますか？"
+                                "You can view the illustration of Polori State. Who would you like\nto display?"
                             ]
                         },
                         {
@@ -26275,14 +25834,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イラストを追加しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>（右クリックでウィンドウを非表示に出来ます。）"
+                                "Do you want to add an illustration? > (You can hide the window by\nright-clicking.)"
                             ]
                         },
                         {
@@ -26310,14 +25862,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ぽろり状態』の立ち絵を閲覧できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\!誰を表示しますか？"
+                                "You can view the standing illustration of Polori State. Who would\nyou like to display?"
                             ]
                         },
                         {
@@ -26654,7 +26199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームの進行により開放されます。"
+                                "Unlocked as the game progresses."
                             ]
                         },
                         {
@@ -26737,14 +26282,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イラストを追加しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>（右クリックでウィンドウを非表示に出来ます。）"
+                                "Do you want to add an illustration? > (You can hide the window by\nright-clicking.)"
                             ]
                         },
                         {
@@ -26772,14 +26310,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ぽろり状態』の立ち絵を閲覧できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\!誰を表示しますか？"
+                                "You can view the illustration of Embarrassed State. Who would you\nlike to display?"
                             ]
                         },
                         {
@@ -26852,7 +26383,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゲームの進行により開放されます。"
+                                "It will be unlocked as the game progresses."
                             ]
                         },
                         {
@@ -26936,7 +26467,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゲームの進行により開放されます。"
+                                "It will be unlocked as the game progresses."
                             ]
                         },
                         {
@@ -27120,14 +26651,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イラストを追加しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>（右クリックでウィンドウを非表示に出来ます。）"
+                                "Do you want to add an illustration? > (You can hide the window by\nright-clicking.)"
                             ]
                         },
                         {
@@ -27155,14 +26679,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ぽろり状態』の立ち絵を閲覧できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\!誰を表示しますか？"
+                                "You can view the illustration of Embarrassed State. Who would you\nlike to display?"
                             ]
                         },
                         {
@@ -27317,7 +26834,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゲームの進行により開放されます。"
+                                "It will be unlocked as the game progresses."
                             ]
                         },
                         {
@@ -27501,14 +27018,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イラストを追加しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>（右クリックでウィンドウを非表示に出来ます。）"
+                                "Do you want to add an illustration? > (You can hide the window by\nright-clicking.)"
                             ]
                         },
                         {
@@ -27536,14 +27046,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ぽろり状態』の立ち絵を閲覧できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\!誰を表示しますか？"
+                                "You can view the standing illustration of Polori State. Who would\nyou like to display?"
                             ]
                         },
                         {
@@ -27887,7 +27390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームの進行により開放されます。"
+                                "Unlocked as the game progresses."
                             ]
                         },
                         {
@@ -27970,14 +27473,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イラストを追加しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>（右クリックでウィンドウを非表示に出来ます。）"
+                                "Do you want to add an illustration? > (You can hide the window by\nright-clicking.)"
                             ]
                         },
                         {
@@ -28005,14 +27501,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『ぽろり状態』の立ち絵を閲覧できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\!誰を表示しますか？"
+                                "You can view the illustration of Embarrassed State. Who would you\nlike to display?"
                             ]
                         },
                         {
@@ -28351,14 +27840,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "このイラストにしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>（終了で変更されます。）"
+                                "Do you want to use this illustration? \\> (It will be changed if\nyou choose to end.)"
                             ]
                         },
                         {
@@ -28386,14 +27868,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヴィタの『ちんちん』をサイズ変更できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\.どの大きさが好きですか？"
+                                "Vita's penis can be resized. What size do you like?"
                             ]
                         },
                         {
@@ -29431,14 +28906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アイシャ回想　『特別』なあなた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Aisha Flashback: 'Special' You. Would you like to replay this\nscene?"
                             ]
                         },
                         {
@@ -29649,14 +29117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -29874,14 +29335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レベッカ回想　肉食少女の献身奉仕。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Rebecca's Flashback: Devotion of the Carnivorous Girl. Would you\nlike to replay this scene?"
                             ]
                         },
                         {
@@ -30085,14 +29539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -33293,14 +32740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ回想　優等生のトイレトラブル。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Vega Flashback - The Model Student's Toilet Trouble. \\.Would you\nlike to replay this scene?\\!"
                             ]
                         },
                         {
@@ -33520,14 +32960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -33745,14 +33178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティータ回想　百合少女の感度開発。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Tita's Flashback: Sensitivity Development of the Yuri Girl.\n\\.Would you like to play this scene?\\!"
                             ]
                         },
                         {
@@ -33956,14 +33382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -34181,14 +33600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ回想　ドキドキ百合マッサージ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Vega Flashback - Exciting Yuri Massage! .Would you like to replay\nthis scene?!"
                             ]
                         },
                         {
@@ -34392,14 +33804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -34627,14 +34032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -34792,14 +34190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ニキータ回想　被告、乳しぼりの刑に処す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Nikita Flashback: The defendant is sentenced to the punishment of\nbreast milking. . Would you like to replay this scene? !"
                             ]
                         },
                         {
@@ -35003,14 +34394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -35166,14 +34550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -35331,14 +34708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ニキータ回想　性欲を持て余して。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Nikita Flashback - Overwhelmed by Sexual Desire. \\.Would you like\nto replay this scene?\\!"
                             ]
                         },
                         {
@@ -35542,14 +34912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -35767,14 +35130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ニキータ回想　メイドの逆調教。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Nikita Flashback - Maid's Reverse Training. \\.Would you like to\nplay this scene?\\!"
                             ]
                         },
                         {
@@ -35978,14 +35334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -36203,14 +35552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メリッサ、ロノア回想　メリロノ、危険な金策。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Melissa, Ronoa Flashback - Merirono, Dangerous Money-Making\nScheme. \\.Would you like to replay this scene?\\!"
                             ]
                         },
                         {
@@ -36414,14 +35756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -36639,14 +35974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メリッサ、ロノア回想　メリロノ、危険な洗礼。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Melissa, Ronoa Flashback - Merirono, Dangerous Baptism. \\.Would\nyou like to replay this scene?\\!"
                             ]
                         },
                         {
@@ -36850,14 +36178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -37075,14 +36396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メリッサ、ロノア回想　メリロノ、危険な売春。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Melissa, Ronoa Flashback - Melirono, Dangerous Prostitution.\n\\.Would you like to replay this scene?\\!"
                             ]
                         },
                         {
@@ -37286,14 +36600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -37511,14 +36818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロア回想　あなたを『おかず』に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Lunaroa Flashback - Making You the Side Dish. \\.Would you like to\nreplay this scene?\\!"
                             ]
                         },
                         {
@@ -37722,14 +37022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -37873,14 +37166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『都会』では一般流通している『洋式トイレ』だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.しかし今はまだ、『その時』ではない……。"
+                                "In the 'city,' there are commonly used 'Western-style\ntoilets'.... However, it is not 'that time' yet...."
                             ]
                         },
                         {
@@ -38021,14 +37307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーン最新のトイレだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自動で水が流れるので、いつも綺麗。\\!トイレする？\\!"
+                                "This is the latest toilet in Ulyssean. It automatically flushes,\nso it's always clean. Do you need to use the toilet?"
                             ]
                         },
                         {
@@ -38203,14 +37482,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\SE[70]いや、\\.今はその時ではないな…！"
+                                "\\SE[70]No, now is not the time...!"
                             ]
                         },
                         {
@@ -38261,14 +37540,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\SE[102]いや、\\.今はその時ではないな…！"
+                                "\\SE[102]No, now is not the time...!"
                             ]
                         },
                         {
@@ -39986,14 +39265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴィタ回想　ヴィタ搾り。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Vita Flashback - Vita Squeeze. \\.Would you like to play this\nscene?\\!"
                             ]
                         },
                         {
@@ -40211,14 +39483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {
@@ -40834,14 +40099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロア回想　あなたを『おかず』に。アンコール。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このシーンを再生しますか？\\!"
+                                "Lunaroa Flashback - You as the Side Dish. Encore. \\.Would you\nlike to replay this scene?\\!"
                             ]
                         },
                         {
@@ -41045,14 +40303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このシーンは『ロック』されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!閲覧可能にしますか？\\.(元には戻せません。)\\!"
+                                "This scene is locked. Would you like to make it viewable? (It\ncannot be undone.)"
                             ]
                         },
                         {

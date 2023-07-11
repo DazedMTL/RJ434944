@@ -10332,21 +10332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "崩れた橋の代わりに『飛び石』を設置しておきました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.修繕予算が降りるまでの代用にご使用ください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!飛び石に向かって『決定ボタン』でジャンプ出来ます。"
+                                "We have installed stepping stones as a substitute for the\ncollapsed bridge. Please use them as a temporary measure until\nthe repair budget is approved. You can jump towards the stepping\nstones by pressing the confirm button."
                             ]
                         },
                         {
@@ -10364,14 +10350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎりぎり読めるくらいに文字が、かすれている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.……橋が修繕されることはなさそうだ。"
+                                "The text is barely readable, it's blurry... It seems like the\nbridge won't be repaired."
                             ]
                         },
                         {
@@ -12175,7 +12154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life Alpha! $"
                             ]
                         },
                         {
@@ -12306,14 +12285,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]（…くやしいけど、\\.ちょっと楽しかったな。）"
+                                "\\SE[51] (...It's frustrating, but it was a little fun.)"
                             ]
                         },
                         {
@@ -12324,21 +12303,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒制服の少女"
+                                "Girl in a black uniform"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]ずいぶん気に入ったみたいね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.もう一回遊んできてもいいわよ？"
+                                "\\SE[7]It seems like you really liked it, huh? \\.You can come play\nagain if you want."
                             ]
                         },
                         {
@@ -12405,21 +12377,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]た、楽しんでないよ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]それに、こうしてる間にもルナは捕まったままなのに…。"
+                                "\\SE[102]I-I'm not enjoying it, okay!? \\!\\SE[51]Besides, while I'm\nhere like this, Lunaroa is still captured...."
                             ]
                         },
                         {
@@ -12430,21 +12395,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒制服の少女"
+                                "Girl in a black uniform"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…捕まったまま？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]何？ \\.あなたも知り合いが捕まっているの？"
+                                "\\SE[2]...Still captured? \\SE[3]What? Do you also have someone you\nknow who's been captured?"
                             ]
                         },
                         {
@@ -12455,28 +12413,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あ、うん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あなたと同じ服…？\\.を着てたせい？\\. で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.入国の時に知り合いが捕まっちゃって…。"
+                                "\\SE[2]Ah, yeah.... \\!Is it because we're wearing the same\nuniform?\\. When I entered the country, someone I knew got\ncaptured...."
                             ]
                         },
                         {
@@ -12494,14 +12438,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒制服の少女"
+                                "Girl in a black uniform"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3](あっ…\\.そういうこと…。)"
+                                "\\SE[3](Ah... I see...)"
                             ]
                         },
                         {
@@ -12512,21 +12456,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒制服の少女"
+                                "Girl in a black uniform"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]なら、さっさと進みましょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.手間が省けていいじゃない。"
+                                "\\SE[7]Then let's hurry up and move forward. \\.It's good to save\ntime."
                             ]
                         },
                         {
@@ -12553,14 +12490,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]う、うん…？"
+                                "\\SE[2]Uh, um...?"
                             ]
                         },
                         {
@@ -15143,7 +15080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[543]そまつな棍棒を手に入れた！\\$"
+                                "\\i[543]I obtained a sturdy club! $"
                             ]
                         },
                         {
@@ -15862,7 +15799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[388]ケアキュアαを手に入れた！\\$"
+                                "\\i[388]I obtained the Care Cure Alpha! \\$"
                             ]
                         },
                         {

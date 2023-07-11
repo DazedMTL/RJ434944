@@ -7390,28 +7390,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]さて見たところ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]レベッカは『雷属性』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ロノアは『水属性』に適性があるみたいね"
+                                "\\SE[2]Now let's see.... \\!\\SE[3]Rebecca has an affinity for\nThunder element, while Lunaroa seems to have an affinity for\nWater element."
                             ]
                         },
                         {
@@ -7492,28 +7478,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[double]\\SE[3]よかった…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]『雷』なら、かっこいいよね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]それに、『お姉さま』とお揃いだなんて…！"
+                                "\\SM[double]\\SE[3]That's great...! \\SE[15]If it's Thunder, it's so\ncool, right?! \\SE[3]And to think we have the same affinity as\nOnee-sama...!"
                             ]
                         },
                         {
@@ -7524,35 +7496,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そうね。教えやすいから都合がいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『水属性』は私は苦手だから…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ルナロア。あんたが見てやって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]普段見ないけど、どうせ使えるんでしょう？"
+                                "\\SE\\SE[3]I see. That's convenient because it's easy to teach.\n\\!\\SE[0]I'm not good with the Water element.... Lunaroa, can you\ntake a look? \\!\\SE[3]I don't usually see it, but I'm sure you can\nuse it, right?"
                             ]
                         },
                         {
@@ -7563,21 +7514,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]ロノアは簡単な魔法は使えるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.少し先の目標になるようなものがいいわね。"
+                                "\\SE[7]Since Lunaroa can use simple magic, it would be good to\nhave something that can be a little more challenging as a future\ngoal."
                             ]
                         },
                         {
@@ -7604,28 +7548,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『水属性』かぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そういえば、あんまり使ってなかったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]ちょ、\\.ちょっと練習していいかしら…。"
+                                "\\SE[2]Water element, huh.... Come to think of it, I haven't\nreally used it much. \\SE[13]Um, um, can I practice a little...?"
                             ]
                         },
                         {
@@ -7819,21 +7749,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]よ、よかった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.案外、覚えているものね…。"
+                                "\\SE[21]Oh, I'm glad.... Surprisingly, I remember it...."
                             ]
                         },
                         {
@@ -8021,21 +7944,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ロノアもやる気になってるみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]『どう』やったら、あんな魔法が撃てるんですか？"
+                                "\\SE\\SE[2]It seems like Lunaroa is also getting motivated.\n\\!\\SE[2]How can she cast such magic?"
                             ]
                         },
                         {
@@ -8046,21 +7962,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『どう』やったら…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]うーん…そうね。\\.それはやっぱり…。"
+                                "\\SE[2] How can I...? \\SE[0] Hmm... well, that's..."
                             ]
                         },
                         {
@@ -8199,14 +8108,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]『こう』！！"
+                                "\\SE[14]Like this!!"
                             ]
                         },
                         {
@@ -8345,21 +8254,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[10]『こんな感じ』ね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[11]さぁ \\.ロノアちゃんもやってみよう！"
+                                "\\SE[10]Like this! \\SE[11]Now, let's give it a try, Ronoa-chan!"
                             ]
                         },
                         {
@@ -8370,14 +8272,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]おぉんっ…！？"
+                                "\\SE[14]Ohh...!?"
                             ]
                         },
                         {
@@ -8512,28 +8414,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]『こう』…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[18]じゃないわよ！\\. ばか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そんな乱暴な教え方ある…！？"
+                                "\\SE[22]Like this...! \\SE[18]Not like that! Stupid! \\SE[22]Is that\nhow you teach someone...?!?"
                             ]
                         },
                         {
@@ -8553,21 +8441,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]そ、そんなこと言われても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は『こう』やって覚えたしぃ…。"
+                                "\\SE[52]E-even if you say that, I learned it by doing it like\nthis..."
                             ]
                         },
                         {
@@ -8585,28 +8466,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]（そうだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[18]こいつは一目見たら、工程を無視して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　なんでも覚えてしまう…\\.『やべぇ』やつだったわ。）"
+                                "\\SE[75] (That's right. \\SE[18] This person, at first glance,\nignores the process and remembers everything... What a dangerous\nperson.)"
                             ]
                         },
                         {
@@ -8640,28 +8507,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[18]ルナロア…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あんたを見ていて気づいたことがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[19]ずっと不思議だった『謎』が一つとけたの。\\!\\SE[66]それは…。"
+                                "\\SE[18]Lunaroa.... I've noticed something while watching you.\n\\SE[19]One of the mysteries that has always puzzled me has been\nsolved. \\SE[66]That is...."
                             ]
                         },
                         {
@@ -8693,21 +8546,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[pop]\\SE[22]『天才』は人に物を教えるのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.絶望的に『へたくそ』な奴が多い！！"
+                                "\\SM[pop]\\SE[22]Many geniuses are hopelessly incompetent when it\ncomes to teaching others!!"
                             ]
                         },
                         {
@@ -8727,14 +8573,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]へ、へたくそ……！！？"
+                                "\\SE[14]C-Clumsy...!!?"
                             ]
                         },
                         {
@@ -8745,35 +8591,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[18]多くの『天才』は『工程を省略』して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.一足飛びで技術の体得をしていることが多い…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[19]つまり、一般に必要な『工程』を経ていないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.その、必要性も本質的に『理解できない』のよ。"
+                                "\\SE[18]Many geniuses often skip the necessary steps and quickly\nacquire skills... \\SE[19]In other words, they haven't gone\nthrough the usual process that is generally required, and they\nfundamentally can't understand the necessity of it."
                             ]
                         },
                         {
@@ -8784,28 +8609,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]しかし、そんな『天才』は『優秀』だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.必然的に『人の上に立つ』人物になっていき…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]人に物を教える『立場』になっていく…。"
+                                "\\SE[50]However, such geniuses become excellent individuals and\ninevitably become people who stand above others.... \\SE[51]They\nend up in a position of teaching others...."
                             ]
                         },
                         {
@@ -8816,28 +8627,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]そして！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そのへたくそな『指導力』を存分に発揮して…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[19]『天才』が集団を腐敗させていく…！！"
+                                "\\SE[22]And! \\.They fully demonstrate their clumsy leadership\nskills...! \\!\\SE[19]The geniuses corrupt the group...!!"
                             ]
                         },
                         {
@@ -8864,14 +8661,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]集団を…\\.腐敗っ…！？"
+                                "\\SE[14]The group... \\.Corrupted...?!"
                             ]
                         },
                         {
@@ -8891,21 +8688,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]悲しい結果よね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『優秀さ』故に誰かを傷つけてしまうのだから。"
+                                "\\SE[76] It's a sad outcome.... Because of their excellence, they\nend up hurting someone."
                             ]
                         },
                         {
@@ -8916,14 +8706,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[54]そんな…\\.そんなっ…！！"
+                                "\\SE[54]No way...\\.No way...!!"
                             ]
                         },
                         {
@@ -8941,21 +8731,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]もう、\\.帰りなさい。\\.ルナロア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[18]あなたに出来ることは、ここには…\\.『何もないわ』"
+                                "\\SE[19]Enough, go home, Lunaroa. \\SE[18]There is nothing you can\ndo here... There is nothing."
                             ]
                         },
                         {
@@ -9064,21 +8847,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]そ、そんな…\\.私だって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[8]誰かの役に立ちたいのに……。"
+                                "\\SE[9]S-So, that's... Even I... \\SE[8]I want to be able to help\nsomeone..."
                             ]
                         },
                         {
@@ -9147,21 +8923,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]私がいるだけで…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[23]みんなの足を引っ張ってしまうの…？"
+                                "\\SE[7]Just by being here... \\!\\SE[23]Am I holding everyone\nback...?"
                             ]
                         },
                         {
@@ -9796,21 +9565,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ルナロア様ぁー！！！"
+                                "Kyaa!! Lunaroa-samaaa!!"
                             ]
                         },
                         {
@@ -9875,21 +9637,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[54]ううっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ご迷惑をおかけしました…。"
+                                "\\SE[54]Uu... I'm sorry for causing trouble..."
                             ]
                         },
                         {
@@ -9909,28 +9664,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]げ、元気を出してください…\\.ルナロア様…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]結果を出して『証明』しちゃえばいいんです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]ロノアちゃんが『成長』出来ればいいんです！"
+                                "\\SE[9]P-Please cheer up... Lunaroa-sama...! \\SE[13]If you can\nshow results and prove yourself...! \\SE[14]It would be great if\nLunaroa-chan can grow!"
                             ]
                         },
                         {
@@ -9950,28 +9691,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]それはそうだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私なんかに教わっていいのかな…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[54]ロノアちゃんの迷惑にならないかな…！？"
+                                "\\SE[52]That may be true, but... \\.Is it okay for me to teach\nyou...? \\!\\SE[54]I hope I'm not causing any trouble for you,\nLunaroa-chan...!?"
                             ]
                         },
                         {
@@ -10007,28 +9734,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]ろ、ロノアちゃんならいけます…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.真面目だし…！ \\.才能もセンスあるし…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]私は彼女を…\\.信じてます…！！"
+                                "\\SE[12]I-I believe in you, Lunaroa-chan...! You're diligent...!\nYou have talent and sense...!! \\SE[13]I trust her...!!"
                             ]
                         },
                         {
@@ -10046,21 +9759,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]\\{そうだよね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\{ロノアちゃん…！！"
+                                "\\SE[14] That's right! \\.Lunaroa-chan...!!"
                             ]
                         },
                         {
@@ -10141,14 +9847,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[double]\\SE[14]う、うえおーー！！！"
+                                "\\SM[double]\\SE[14]U-Ueoo!!!"
                             ]
                         },
                         {
@@ -10236,28 +9942,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]み、見てください！\\. ルナロア様…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]ロノアちゃんの『やる気』がこっちまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.伝わってくるようでは、ありませんか…！？"
+                                "\\SE[13]P-Please look! Lunaroa-sama...!! \\SE[1]Isn't it clear that\nRonoa-chan's 'motivation' is contagious...!?"
                             ]
                         },
                         {
@@ -10268,21 +9960,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[54]ロノアちゃん…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[38]ティータちゃん…！！"
+                                "\\SE[54]Ronoa-chan...! \\!\\SE[38]Tita-chan...!!"
                             ]
                         },
                         {
@@ -10316,28 +10001,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[43]そうよね…\\.私がしっかりしないと…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]ロノアちゃん…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私が責任をもって、貴方を『成長』させてみせるわ…！"
+                                "\\SE[43]That's right... If I don't get myself together...!\n\\SE[12]Ronoa-chan...! I will take responsibility and make you\ngrow...!"
                             ]
                         },
                         {
@@ -10348,28 +10019,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]よし…！ \\.その意気です…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]ルナロア様は『へたくそ』なんかじゃないって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.証明しましょう…！ \\.ロノアちゃんで…！！"
+                                "\\SE[12]Alright...! That's the spirit...! \\SE[14]Let's prove that\nLunaroa-sama is not incompetent...! With Ronoa-chan...!!"
                             ]
                         },
                         {
@@ -10380,28 +10037,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[43]そうよね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]私は『へたくそ』なんかじゃない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.証明するわ…！ \\!\\SM[nod]\\SE[14]ロノアちゃんで…！！"
+                                "\\SE[43]That's right...! \\!\\SE[12]I'm not incompetent.... \\.I will\nprove it...! \\!\\SM[nod]\\SE[14]With Ronoa-chan...!!"
                             ]
                         },
                         {
@@ -10428,14 +10071,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]おっ、おぉ…？"
+                                "\\SE[12]Oh, oh...?"
                             ]
                         },
                         {
@@ -10476,14 +10119,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[20]（なんて不純な動機なの…。）"
+                                "\\SE[20] (What impure motives...)"
                             ]
                         },
                         {

@@ -4737,21 +4737,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]この子が今見ている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『メリアちゃん』です。"
+                                "『Teacher』: \\SE[2]This child is looking at... \\!\\SE[3]It's 'Melia-\nchan'."
                             ]
                         },
                         {
@@ -4771,21 +4764,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『専門家』が見ても難しいのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『素人』が手伝って、\\.\\SE[3]何か役に立てるの？"
+                                "\\SE[2]Even experts find it difficult to understand, so can\namateurs be of any help? \\SE[3]"
                             ]
                         },
                         {
@@ -4850,28 +4836,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]これから私はこの子の『夢』に入って…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.病巣を『直接』取り除きます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]ラウラさんにはその『お手伝い』をお願いします。"
+                                "'Teacher: \\SE[12]From now on, I will enter this child's dream....\n\\.I will directly remove the lesion. \\!\\SE[13]I ask for Laura-\nsan's assistance in this.'"
                             ]
                         },
                         {
@@ -4939,28 +4911,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[20]『医者』の口ぶりではないわね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私たちのような『魔法使い』でもない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あなたは、何者なの…？"
+                                "\\SE[20]This doesn't sound like the words of a doctor.... \\.We're\nnot magicians like us either. \\!\\SE[3]Who are you...?"
                             ]
                         },
                         {
@@ -4987,28 +4945,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[37]信じていただけるか分からないのですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[38]私は『この世界』の人間ではなくて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]３年前に、気づいたら『この世界』にいたんです。"
+                                "'Teacher': \\SE[37]I'm not sure if you'll believe me... but...\n\\SE[38]I'm not a human from this world... \\SE[9]Three years ago,\nI found myself in this world without realizing it."
                             ]
                         },
                         {
@@ -5053,28 +4997,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『元の世界』では医療の勉強をしていて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]『こちらの世界』でお役に立てればと思っていたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.いつのまにか『魔女の医者』と呼ばれるようになって…。"
+                                "'Teacher': \\SE[2] 'In the original world', I was studying\nmedicine.... \\!\\SE[7] I thought I could be of help in 'this\nworld', and before I knew it, I became known as the 'witch\ndoctor'...."
                             ]
                         },
                         {
@@ -5115,21 +5045,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]なんか私たちと恰好が違うと思ってたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そうだったんだぁ…。"
+                                "\\SE[4]I thought you looked different from us, but I guess that's\nwhy...."
                             ]
                         },
                         {
@@ -5154,21 +5077,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]文字通り『次元が違う』医療だったと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なるほどね…\\.\\SE[3]それなら納得だわ。"
+                                "\\SE[4]So it was literally a different dimension of medicine....\n\\.I see...\\.\\SE[3]That makes sense then."
                             ]
                         },
                         {
@@ -5193,14 +5109,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]へぇ…\\.すごいなぁ…。"
+                                "\\SE[4]Wow... That's amazing..."
                             ]
                         },
                         {
@@ -5227,21 +5143,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]あ、あれっ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]すんなり信じてもらえるんですね…。"
+                                "'Teacher': \\SE[5]Ah, ah...? \\!\\SE[21]You believe me so easily..."
                             ]
                         },
                         {
@@ -5252,21 +5161,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]まぁ…\\.それっぽいもの見てきたしね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[75]『そういうこと』もあるわよね…。"
+                                "\\SE[76]Well... I've seen something similar before....\n\\SE[75]There are things like that, right..."
                             ]
                         },
                         {
@@ -5307,21 +5209,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]『先生』はラウラと同い年くらい…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]なんていう名前なの？"
+                                "\\SE[4]Is the Teacher around the same age as Laura...? \\SE[3]What\nis their name?"
                             ]
                         },
                         {
@@ -5341,28 +5236,14 @@
                                 0,
                                 0,
                                 2,
-                                "凪"
+                                "Nagi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]えっと、私の名前は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.中卵 凪（なかう なぎ）\\.と申します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]みなさんには、馴染みのない響きだと思いますが…。"
+                                "\\SE[4]Um, my name is Nagi Nakatamago. \\SE[21]I think it's a name\nthat you're not familiar with..."
                             ]
                         },
                         {
@@ -5396,21 +5277,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ううん…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私は可愛い名前だと思うよ。"
+                                "\\SE[1]No...! \\.I think my name is cute."
                             ]
                         },
                         {
@@ -5444,28 +5318,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]なかうなぎ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]ちょっと長いから、\\.『うなぎ』だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]よろしくね。\\.『うなぎちゃん』"
+                                "\\SE[16]Nakau-nagi.... \\!\\SE[15]It's a bit long, so let's go with\nUnagi. \\!\\SE[1]Nice to meet you, Unagi-chan."
                             ]
                         },
                         {
@@ -5508,28 +5368,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[10]わわっ…そんな、失礼だよ…\\.ヴィタ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[44]ご、ごめんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この子、結構ぶっこんでくるから…。"
+                                "\\SE[10]W-Wow... That's, um, rude... Vita! \\SE[44]S-Sorry. This\ngirl tends to be quite blunt..."
                             ]
                         },
                         {
@@ -5556,28 +5402,14 @@
                                 0,
                                 0,
                                 2,
-                                "凪"
+                                "Nagi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]『元の世界』でもそう呼ばれていたので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ちょっと、びっくりしたんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]ぜひ、そう呼んでください。"
+                                "\\SE[0]I was called that in the original world too, so I was a\nlittle surprised. \\SE[16]Please, call me that."
                             ]
                         },
                         {
@@ -5597,21 +5429,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]そ、そうなの…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.じゃあよろしくね？ \\.\\SE[3]『うなぎちゃん』"
+                                "\\SE[16]I-Is that so...!? \\.Well then, nice to meet you?\n\\SE[3]Unagi-chan."
                             ]
                         },
                         {
@@ -5631,28 +5456,14 @@
                                 0,
                                 0,
                                 2,
-                                "凪"
+                                "Nagi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]ふふ、よろしくね。\\.『ラウラちゃん』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.準備が出来たら声をかけて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]私はここで待っているから。"
+                                "\\SE[15]Hehe, nice to meet you. Laura-chan. Let me know when\nyou're ready. \\SE[1]I'll be waiting here."
                             ]
                         },
                         {

@@ -12043,7 +12043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[531]割れたつぼを手に入れた！\\$"
+                                "\\i[531] Obtained a broken pot! \\$"
                             ]
                         },
                         {
@@ -12762,7 +12762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[531]割れたつぼを手に入れた！\\$"
+                                "\\i[531] Obtained a broken pot! \\$"
                             ]
                         },
                         {
@@ -13481,7 +13481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[475]レアアースの大欠片を手に入れた！\\$"
+                                "\\i[475] Obtained a large fragment of Rare Earth! $"
                             ]
                         },
                         {
@@ -14171,28 +14171,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やあっ、少し近いけど『焚火』を置いてみたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.でも使ってしまうと『ぽろり！』は直ってしまうんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!それだとまた『ぽろり！』しなおさないといけない…。"
+                                "Hey, I placed a Bonfire a little closer. But if you use it, the\nPoro-ri! will be fixed. If that happens, we'll have to do the\nPoro- ri! all over again..."
                             ]
                         },
                         {
@@ -14210,14 +14196,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君は、\\.どうする……？"
+                                "What will you do...?"
                             ]
                         },
                         {

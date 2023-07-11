@@ -5786,14 +5786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体力が全回復した！"
+                                "HP has been fully restored!"
                             ]
                         },
                         {
@@ -5898,21 +5891,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちわ。にんげんの人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにかご用事？"
+                                "Hello. Are you a human? Do you have any business?"
                             ]
                         },
                         {
@@ -5945,7 +5931,7 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
@@ -6204,28 +6190,14 @@
                                 0,
                                 0,
                                 2,
-                                "風の精霊"
+                                "Spirit of the Wind"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見事だよ…\\.ラウラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『風の試練』を…\\.君たちは乗り越えた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!私の力…受け取って欲しい。"
+                                "Well done... Laura! You have overcome the Trial of the Wind. I\nwant you to receive my power."
                             ]
                         },
                         {
@@ -6252,21 +6224,14 @@
                                 0,
                                 0,
                                 2,
-                                "風の精霊"
+                                "Spirit of the Wind"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "き、期待に答えられるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自信ないけど…！"
+                                "C-Can I live up to your expectations? I'm not confident, but...!"
                             ]
                         },
                         {
@@ -6350,21 +6315,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]大丈夫…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]私、どんな力でも…\\.『大切』にするから…！"
+                                "\\SE\\SE[21] It's alright...! \\SE[21] I will cherish any power...\nbecause it's important to me...!"
                             ]
                         },
                         {
@@ -6389,21 +6347,14 @@
                                 0,
                                 0,
                                 2,
-                                "風の精霊"
+                                "Spirit of the Wind"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう…\\.ラウラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!これが私の…\\.『風の精霊』の力…！！"
+                                "Thank you... Laura. This is my... Spirit of the Wind's power...!!"
                             ]
                         },
                         {
@@ -6486,14 +6437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラは\\i[97]月華の太刀を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!奥義 \\i[402]月華・疾一閃を習得した！"
+                                "Laura obtained the Moonflower Sword! She learned the secret\ntechnique, Moonflower Flash!"
                             ]
                         },
                         {
@@ -6522,21 +6466,14 @@
                                 0,
                                 0,
                                 2,
-                                "風の精霊"
+                                "Spirit of the Wind"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（今の閃光…\\.私の力だけじゃない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!ラウラの、この『先』の光…？）"
+                                "(That flash just now... It's not just my power... It's the light\nof Laura's future?)"
                             ]
                         },
                         {
@@ -6547,28 +6484,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[123]えっ…！ \\.えっ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんかすごいの貰ってない…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[102]い、いいのかな…！"
+                                "\\SE[123]Huh...! \\.Huh...!! \\.Did I not receive something\namazing...!? \\!\\SE[102]I-Is it okay...!?"
                             ]
                         },
                         {
@@ -6588,28 +6511,14 @@
                                 0,
                                 0,
                                 2,
-                                "風の精霊"
+                                "Spirit of the Wind"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "喜んでもらえて良かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.きみの『先』を守るための力になれたら嬉しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!会えてよかった。\\.ラウラ。"
+                                "I'm glad you're happy. I would be happy if I could become the\npower to protect your future. I'm glad I could meet you, Laura."
                             ]
                         },
                         {

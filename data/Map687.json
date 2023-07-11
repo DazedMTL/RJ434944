@@ -30085,21 +30085,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]帰りたい時は私に話しかけてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『マイホーム』に帰還する？\\!"
+                                "\\SE\\SE[0]When you want to go home, talk to me. \\!\\SE[0]Do you\nwant to return to My Home?\\!"
                             ]
                         },
                         {
@@ -30132,28 +30125,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[25]えへへー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.そんなに見たいのー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\SE[24]仕方ないなぁ…。"
+                                "\\SE[25]Ehehe... Do you really want to see that much? \\SE[24]I\nguess I can't help it..."
                             ]
                         },
                         {
@@ -30193,21 +30172,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[13]『帰還』だね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\SE[17]消え去りなさーい！！"
+                                "\\SE[13]Return huh! \\SE[17]Disappear, vanish!!"
                             ]
                         },
                         {
@@ -30279,14 +30251,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[12]…よし！"
+                                "\\SE[12]...Alright!"
                             ]
                         },
                         {

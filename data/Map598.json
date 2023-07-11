@@ -1517,14 +1517,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]もう少し屋敷を探索してみましょう…。"
+                                "\\SE[2]Let's continue exploring the mansion a little longer..."
                             ]
                         },
                         {
@@ -2335,28 +2335,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あっ お疲れ様です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『業務』をしながら色々探っていましたが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.怪しい所はないですねぇ…。"
+                                "\\SE[2]Ah, welcome back. \\!\\SE[3]While you were working, I was\ninvestigating various things... but I couldn't find anything\nsuspicious, you know..."
                             ]
                         },
                         {
@@ -2428,28 +2414,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あと、残っているのは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『ご主人様』の『寝室』くらいですね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]基本ずっといるみたいで、立ち入れないのですよ。"
+                                "\\SE[2]And what's left is... your bedroom, Master... \\SE[3]It\nseems like she's always there, so I can't go in."
                             ]
                         },
                         {
@@ -2491,21 +2463,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]こっちでも探ってみるんで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か分かったら『作戦会議』しましょう。"
+                                "\\SE[0]I'll investigate here as well, and if I find anything,\nlet's have a strategy meeting."
                             ]
                         },
                         {
@@ -2809,21 +2774,14 @@
                                 0,
                                 0,
                                 2,
-                                "メイドさん"
+                                "Maid-san"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…水やりを忘れてたわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…バレてないよね？"
+                                "Ah... I forgot to water the plants.... I hope no one noticed?"
                             ]
                         },
                         {
@@ -2901,21 +2859,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ここはドンヨクの『寝室』よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[75]入ったらさすがに目立ちすぎるわね…。"
+                                "\\SE[2]This is Donyoku's bedroom. \\!\\SE[75]If you enter, you'll\ndefinitely stand out too much..."
                             ]
                         },
                         {

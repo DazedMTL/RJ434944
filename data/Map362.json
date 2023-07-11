@@ -4490,14 +4490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "階下から人の気配がする…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "進みますか？"
+                                "I sense someone's presence from downstairs.... Shall we proceed?"
                             ]
                         },
                         {
@@ -4632,14 +4625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "階下から人の気配がする…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "進みますか？"
+                                "I sense someone's presence from downstairs.... Shall we proceed?"
                             ]
                         },
                         {
@@ -4774,14 +4760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "階下から人の気配がする…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "進みますか？"
+                                "I sense someone's presence from downstairs.... Shall we proceed?"
                             ]
                         },
                         {
@@ -5268,14 +5247,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]うわっ…見るからに。\\.ってやつがいるね…。"
+                                "\\SE[14]Oh... There's someone who looks... perverted."
                             ]
                         },
                         {
@@ -5293,21 +5272,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]理事長の使い魔でしょうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]…戦う準備は出来ているかしら。\\!"
+                                "\\SE[2]I suppose you're the chairman's familiar. \\!\\SE[3]...I\nwonder if you're ready to fight.\\!"
                             ]
                         },
                         {
@@ -5364,14 +5336,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[17]覚悟しろー！！"
+                                "\\SE[17]Prepare yourself!!"
                             ]
                         },
                         {
@@ -5601,14 +5573,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]うわっ…見るからに。\\.ってやつがいるね…。"
+                                "\\SE[14]Oh... There's someone who looks... perverted."
                             ]
                         },
                         {
@@ -5626,21 +5598,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]理事長の使い魔でしょうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]…戦う準備は出来ているかしら。\\!"
+                                "\\SE[2]I suppose you're the chairman's familiar. \\!\\SE[3]...I\nwonder if you're ready to fight.\\!"
                             ]
                         },
                         {
@@ -5697,14 +5662,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[17]覚悟しろー！！"
+                                "\\SE[17]Prepare yourself!!"
                             ]
                         },
                         {

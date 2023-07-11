@@ -11539,28 +11539,14 @@
                                 0,
                                 1,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]『ルナロアＣＡＴＣＨ！！』へようこそ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]この『クソゲー』は『ルナロア』になって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『ラウラ』をたくさん集める『ゲーム』だよ！"
+                                "\\SE[13] Welcome to 'Lunaroa CATCH!!'! \\!\\SE[12] This shitty game\nhas become Lunaroa and it's a game where you collect a lot of\nLauras!"
                             ]
                         },
                         {
@@ -11578,21 +11564,14 @@
                                 0,
                                 1,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ルールは分かったね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]それじゃ、よーい…\\.スタート！！"
+                                "\\SE\\SE[14]Do you understand the rules? \\SE[14]Alright then,\nready... Start!!"
                             ]
                         },
                         {
@@ -11831,14 +11810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームクリアおめでとう！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!マイホームに帰還します！！"
+                                "Congratulations on clearing the game!! \\! I will return to my\nhome!!"
                             ]
                         },
                         {
@@ -11868,7 +11840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "景品として\\i[386]ユリチャージβをもらった！"
+                                "I received \\i[386] Yuri Charge β as a prize!"
                             ]
                         },
                         {

@@ -2875,21 +2875,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリア"
+                                "Meria"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…！おねえちゃんのこと知ってるよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!私を助けてくれた『零月の』ラウラでしょ…！"
+                                "Ah...! I know about you, big sister!! You're Laura from Zero\nTsuki, the one who saved me, right...?!"
                             ]
                         },
                         {
@@ -2907,21 +2900,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]はい…『零月の』ラウラです……はい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]元気になったんだね…\\.よかった！"
+                                "\\SE[24]Yes... I am Laura from Zero Tsuki... Yes... I'm glad\nyou've recovered... That's great!"
                             ]
                         },
                         {
@@ -2993,28 +2979,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリア"
+                                "Meria"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私、『零月ファンクラブ』に入ったんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!だからおねえちゃんの情報は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.常に最新の『モノ』が回ってくるよ！"
+                                "I joined the Zero Tsuki Fan Club! So I always receive the latest\ninformation about big sister!"
                             ]
                         },
                         {
@@ -3025,14 +2997,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]『零月ファンクラブ』…！？"
+                                "\\SE[16]Zero Tsuki Fan Club...!?"
                             ]
                         },
                         {
@@ -3206,7 +3178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[497]あぶない劇毒を手に入れた！\\$"
+                                "\\i[497] Obtained dangerous poison! \\$"
                             ]
                         },
                         {

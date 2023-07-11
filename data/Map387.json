@@ -2296,28 +2296,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[27]…報告は以上です。\\.すべて私の失態…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[24]如何様な処分も受けさせて頂きます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[36]…コーダイン王。"
+                                "\\SE[27]...That's all for the report. It's all my fault....\n\\SE[24]I will accept any punishment. \\SE[36]...King Cordin."
                             ]
                         },
                         {
@@ -2337,28 +2323,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]いや、いいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.君が２度も、しくじるなんて始めて見たからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]噂以上ということか、\\!\\SE[14]『あの』ルナロアは。"
+                                "\\SE\\SE[13]No, it's fine. \\SE[13]It's the first time I've seen you\nmake a mistake twice. \\SE[14]So, the rumors were true about that\nLunaroa."
                             ]
                         },
                         {
@@ -2369,14 +2341,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]王の温情…\\.恐悦至極に存じます。"
+                                "\\SE[24]The king's mercy... I am extremely grateful."
                             ]
                         },
                         {
@@ -2387,28 +2359,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]ふふっ…そんな堅苦しい言い回しやめてよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.僕と君の仲じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]…それで、今後をどう思う？"
+                                "\\SE[5]Hehe... Stop using such formal language. We're not that\nformal with each other. \\SE[0]... So, what do you think about the\nfuture?"
                             ]
                         },
                         {
@@ -2435,28 +2393,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]まず、間違いなく…\\.行先は『ユリシーン』ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[44]ただ…追跡は無理。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.相当練られた逃走ルートを使ってる。"
+                                "\\SE[3]First of all, without a doubt... The destination is\nUlyssean, right? \\SE[44]However... It's impossible to pursue.\nThey are using a highly planned escape route."
                             ]
                         },
                         {
@@ -2467,21 +2411,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]これで、思惑は筒抜け…\\.か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]平和主義者のユリシーン王も日和見はしないよね。"
+                                "\\SE[3]With this, our intentions are exposed... \\.ka. \\SE[0]The\npacifist King of Ulyssean wouldn't be wishy-washy, right?"
                             ]
                         },
                         {
@@ -2515,28 +2452,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]それにしても…\\.対抗主力は君の所の生徒だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自分の教え子と敵対するなんて、\\.因果なものだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]君も複雑な心境なんじゃない？"
+                                "\\SE\\SE[14]By the way... The main force opposing us is your\nstudent, right? It's quite ironic to be in opposition with your\nown disciple. \\SE[14]I imagine you must have mixed feelings as\nwell, don't you?"
                             ]
                         },
                         {
@@ -2556,21 +2479,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]まったく…\\.てこずらせてくれる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[24]我が校のカリキュラムが優秀過ぎたみたいだわ。"
+                                "\\SE[47]Good grief... You're really giving me a hard time....\n\\SE[24]It seems like our school's curriculum was too excellent."
                             ]
                         },
                         {
@@ -2590,21 +2506,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]ははっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]でも、僕は嬉しいけどね。"
+                                "Hahaha... \\SE[5]But, I'm happy though."
                             ]
                         },
                         {
@@ -2638,28 +2547,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]いつだって最後に勝った方が正しいからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.より多くの『障害』を乗り越えてこそ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]それを推し量れる…\\.そんな気がしてね。"
+                                "\\SE[13]Because the one who wins in the end is always right. It's\nonly by overcoming more obstacles that we can truly understand...\n\\SE[14]At least, that's how I feel."
                             ]
                         },
                         {
@@ -2679,14 +2574,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]悪い癖…出てるわよ？\\. 王さま？"
+                                "\\SE[38]Bad habit... It's showing, isn't it? Your Majesty?"
                             ]
                         },
                         {
@@ -2697,28 +2592,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]……いいじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どうせやることは変わらない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]心持ちがどうあっても…\\.さ。"
+                                "\\SE[5]... It's fine, isn't it? After all, the things we have to\ndo won't change. \\SE[2] No matter how we feel... Well."
                             ]
                         },
                         {
@@ -2752,21 +2633,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]さて…密談はここまでにしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]僕は君と、もっと秘密の密談がしたいな。"
+                                "\\SE\\SE[14]Well... let's end the secret discussion here. \\SE[14]I\nwant to have more secret discussions with you."
                             ]
                         },
                         {
@@ -2784,21 +2658,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン王"
+                                "King Cordin"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]そうだな…君への罰はこうしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]僕の上で乱れ狂う君が見たい。\\.満足させてくれ。"
+                                "\\SE[3]I've decided on your punishment. \\SE[14]I want to see you\ngo wild on top of me. \\SE[14]Please satisfy me."
                             ]
                         },
                         {
@@ -2818,14 +2685,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]ふふっ…\\.いじわるな人…。"
+                                "\\SE[38]Hehe... What a mischievous person..."
                             ]
                         },
                         {

@@ -2201,14 +2201,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…どうぞ。"
+                                "\\SE[2]...Here you go."
                             ]
                         },
                         {
@@ -2233,14 +2233,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]失礼いたしますね。"
+                                "\\SE[1]Excuse me."
                             ]
                         },
                         {
@@ -2530,21 +2530,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…コーヒーを淹れました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]進捗はいかがですか？"
+                                "\\SE[2]...I made some coffee. \\!\\SE[0]How is the progress?"
                             ]
                         },
                         {
@@ -2564,21 +2557,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]とりあえず、財産の分配と雇用の整理は終わって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あとは、家の売却手続きね。"
+                                "\\SE[2]For now, the distribution of assets and the organization of\nemployment are done.... \\SE[3]The only thing left is the\nprocedure for selling the house."
                             ]
                         },
                         {
@@ -2589,28 +2575,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[92]…『ワケあり物件』だとか難癖つけてきたから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『市場価値』を説明して、ボコボコに論破してやったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[55]それなりの値段にはなってくれそうよ。"
+                                "\\SE[92]...Because they were nitpicking about the problematic\nproperty, I explained the market value and completely demolished\ntheir arguments. \\SE[55] It seems like it will fetch a decent\nprice."
                             ]
                         },
                         {
@@ -2644,14 +2616,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21](それは担当の方が、不憫ですね…。)"
+                                "\\SE[21](That must be tough for the person in charge...)"
                             ]
                         },
                         {
@@ -2671,28 +2643,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[37]ワタクシがそっちに明るかったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.お嬢様のお手伝いが出来たのですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[38]むむっ…\\.すいません…。"
+                                "\\SE[37]If I were more knowledgeable about that, I could have\nhelped the young lady.... \\SE[38]Hmm... I'm sorry...."
                             ]
                         },
                         {
@@ -2703,28 +2661,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]いいわよ、そんなこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…っていうか、あなたも帰ったら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[75]これ以上いても、給料なんて出ないわよ。"
+                                "\\SE[74]It's fine, don't worry about it. \\...By the way, when are\nyou going home? \\!\\SE[75]You won't get paid if you stay any\nlonger."
                             ]
                         },
                         {
@@ -2735,21 +2679,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]そこはまぁ…\\.愛社精神もあるので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.多少の『サービス残業』くらい、\\.へっちゃらです。"
+                                "\\SE[51]Well, you know... I have a sense of loyalty to the\ncompany, so a little bit of overtime service is no big deal."
                             ]
                         },
                         {
@@ -2767,21 +2704,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]…あっそ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.じゃあ、勝手にすれば…？"
+                                "\\SE[50]...Oh, I see. \\. Well, if you want to do it on your\nown...?"
                             ]
                         },
                         {
@@ -2813,21 +2743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "旦那様亡き後も…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お嬢様は強く\\.、ありました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!望まれた理想を変わらず…\\.追い求めているようでした。"
+                                "After the master's passing... the young lady remained strong. She\ncontinued to pursue the desired ideals without wavering."
                             ]
                         },
                         {
@@ -2861,14 +2777,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]お忙しいところに、変なお願いがあるのですが…。"
+                                "\\SE[47]I have a strange request, even though you're busy..."
                             ]
                         },
                         {
@@ -2879,14 +2795,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…お願い？"
+                                "\\SE[2]...Please?"
                             ]
                         },
                         {
@@ -2897,28 +2813,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]もしよかったら、また…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ワタクシに『ピアノ』を弾いていただけないでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]…久しぶりに、聞きたくなったんです。"
+                                "\\SE[2]If it's alright with you, could you please play the piano\nfor me? \\SE[16]...I suddenly felt like listening to it after a\nlong time."
                             ]
                         },
                         {
@@ -2974,21 +2876,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[92]いや、なんでよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あんた、私の邪魔しにきたの？"
+                                "\\SE[92]No, why? Did you come here to bother me?"
                             ]
                         },
                         {
@@ -3006,35 +2901,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]そういう訳じゃないのですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ほらっ、お嬢様も気分転換になるかもしれませんし…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]指先の繊細な作業は頭の体操にいいですからね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.案外、効率化に繋がるかもしれませんよ？"
+                                "\\SE[21]It's not like that... But, you know, it might be a good\nchange of pace for the young lady...? \\SE[0]Delicate finger work\nis good for exercising the mind, so it might actually lead to\nincreased efficiency, you know?"
                             ]
                         },
                         {
@@ -3045,28 +2919,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]お願いしますよー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どうしても、今聞きたいんですー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[11]弾かないと『こちょこちょ』\\.しちゃいますよー？"
+                                "\\SE[24]Please, I'm begging you. I really want to hear it now.\n\\SE[11]If you don't play, I'll start tickling you, you know?"
                             ]
                         },
                         {
@@ -3086,28 +2946,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[94]う、うっとおしい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[59]…ったく。分かったわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.終わったら、その口閉じなさいよ？"
+                                "\\SE[94]Ugh, how annoying... \\!\\SE[59]...Geez, I got it. \\.Shut up\nabout it once you're done, okay?"
                             ]
                         },
                         {
@@ -3303,21 +3149,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]…何年ぶりかしらね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]ずっと、昔のように感じるわ。"
+                                "\\SE[74]...I wonder how many years it has been. \\SE[51]It feels\njust like old times."
                             ]
                         },
                         {
@@ -3441,14 +3280,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]さて、指が覚えてるといいけど…。"
+                                "\\SE[74]Well, I hope my fingers remember..."
                             ]
                         },
                         {
@@ -3569,21 +3408,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]…ふふっ、懐かしいです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ここに『面接』を来た日を思い出します。"
+                                "\\SE[16]...Hehe, it brings back memories. \\.I remember the day I\ncame here for the interview."
                             ]
                         },
                         {
@@ -3601,14 +3433,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[91]……\\.……\\.……。"
+                                "\\SE[91]......\\.......\\........"
                             ]
                         },
                         {
@@ -3619,14 +3451,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あれっ…\\.どうしました？"
+                                "\\SE[2]Huh... What's wrong?"
                             ]
                         },
                         {
@@ -3646,21 +3478,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[92]…気が散るから、話しかけないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[91]どうにか思い出しながら…\\.やってんだから。"
+                                "\\SE[92]...Don't bother me, it's distracting. \\!\\SE[91]I'm trying\nto remember...\\.so just leave me alone."
                             ]
                         },
                         {
@@ -3694,28 +3519,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あらら…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.昔は話しながらでも余裕って感じでしたけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[39]はぁ…お嬢様といえども、\\.錆びるものなんですねぇ…。"
+                                "\\SE\\SE[39]Oh my...? \\.In the past, I could easily talk while\ndoing this.... \\!\\SE[39]Sigh... Even though you're a young lady,\nit seems like you're getting rusty...."
                             ]
                         },
                         {
@@ -3726,28 +3537,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[94]当たり前でしょ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何年ぶりだと思ってるの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[91]…ったく。\\.自分で弾けって言ったくせに。"
+                                "\\SE[94]Of course! How many years do you think it's been?!\n\\SE[91]...Geez. You told me to play it myself and yet..."
                             ]
                         },
                         {
@@ -3788,28 +3585,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[45]（…やっぱり。私にとってこれは『言語』です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[30]　どれだけ時間が過ぎ去っていっても…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　帰るべき場所を教えてくれる。）"
+                                "\\SE[45] (...As I thought, this is my language. \\!\\SE[30] No\nmatter how much time passes... \\. It tells me where I belong.)"
                             ]
                         },
                         {
@@ -3827,14 +3610,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]（…私の『家』は、\\.ここだったのですね。）"
+                                "\\SE[38] (...So this is where my home was.)"
                             ]
                         },
                         {
@@ -3866,14 +3649,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]私の『夢』は…。"
+                                "\\SE[74]My dream is..."
                             ]
                         },
                         {
@@ -3891,28 +3674,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]全部…\\.終わってしまったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]お父様もいなくなって、\\.努力も無駄になって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[74]これまで、私が生きてきた意味はなんだったのでしょうね。"
+                                "\\SE[50]It's all over... My father is gone, and all my efforts\nhave been in vain... \\SE[51]What was the meaning of my life up\nuntil now?"
                             ]
                         },
                         {
@@ -3932,28 +3701,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]自分の『夢』のために…\\.ピアノを辞めて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[74]必死に勉強して、\\.周りを蹴落として…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]嫉妬され、\\.疎まれ、\\.憎まれて…。"
+                                "\\SE[75]For the sake of my dream... I quit playing the piano,\n\\SE[74]studied desperately, \\SE[51]pushed others away... \\SE[51]I\nwas envied, \\SE[51]hated, \\SE[51]despised..."
                             ]
                         },
                         {
@@ -3971,28 +3726,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[82]…その結果がこれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[59]結局、全部なくして…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.今まで、私は何のために…。"
+                                "\\SE[82]... And this is the result. \\!\\SE[59] In the end, I lost\neverything.... What was it all for until now...."
                             ]
                         },
                         {
@@ -4010,14 +3751,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]……\\.……\\.……。"
+                                "\\SE[38]......\\.......\\........"
                             ]
                         },
                         {
@@ -4028,28 +3769,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[32]私は…これからどうしたらいいと思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[72]家族も…\\.夢も、\\.なくなったら……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[32]なんのために、生きればいいと思う？"
+                                "\\SE[32]What do you think I should do from now on? \\SE[72]If I\nhave no family... no dreams... \\SE[32]What do you think I should\nlive for?"
                             ]
                         },
                         {
@@ -4090,21 +3817,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]…難しい質問です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]私では、『綺麗な答え』を出すことは出来ないでしょう。"
+                                "\\SE[47]...That's a difficult question. \\!\\SE[3]I don't think I\ncan give you a beautiful answer."
                             ]
                         },
                         {
@@ -4115,14 +3835,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]……。"
+                                "\\SE[75]......."
                             ]
                         },
                         {
@@ -4133,14 +3853,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[32]ですが…\\.『汚い答え』なら出せます。"
+                                "\\SE[32] However... I can give you a dirty answer."
                             ]
                         },
                         {
@@ -4158,14 +3878,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]……\\.『汚い答え』？"
+                                "\\SE[74]......\\. A dirty answer?"
                             ]
                         },
                         {
@@ -4185,28 +3905,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[32]…やっと、『覚悟』が出来ました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]少し、ワタクシに暇をください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.お嬢様に『汚い答え』を提示してみせます。"
+                                "\\SE[32]...Finally, I have made my resolve. \\!\\SE[3]Please give me\na little time. I will present the young lady with a dirty answer."
                             ]
                         },
                         {
@@ -4437,28 +4143,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]…出てっちゃったし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[59]自分から『ピアノ』を弾けとかいいだしたくせに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.まったく、本当にいつも自分勝手なんだから…。"
+                                "\\SE[90]... She just left. \\!\\SE[59] She's the one who told me to\nplay the piano. \\. Honestly, she's always so selfish..."
                             ]
                         },
                         {
@@ -4476,14 +4168,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]……でも。"
+                                "\\SE[74]......But."
                             ]
                         },
                         {
@@ -4517,21 +4209,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]今になって気が付いたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[72]私…『ピアノ』を弾くのが、\\.好きだったのね。"
+                                "\\SE[75]I realized it just now, but... \\!\\SE[72]I... I actually\nloved playing the piano."
                             ]
                         },
                         {

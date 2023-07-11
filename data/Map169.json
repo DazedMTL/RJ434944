@@ -4400,7 +4400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先から恐ろしい気配を感じる…進みますか？"
+                                "I feel a terrifying presence ahead... Shall we proceed?"
                             ]
                         },
                         {
@@ -4853,14 +4853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『とても恐ろしい気配』を感じる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!この先に、\\.進みますか？\\!"
+                                "I feel a very ominous presence... Should I proceed ahead?"
                             ]
                         },
                         {
@@ -5414,7 +5407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[445]すっごい裁縫セットを手に入れた！\\$"
+                                "\\i[445]I got an amazing sewing set! $"
                             ]
                         },
                         {

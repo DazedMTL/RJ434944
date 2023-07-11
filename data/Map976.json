@@ -2222,28 +2222,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]ねえ、お父様？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どうして、この一帯の地域を支援してるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]この辺って生活水準も低いし、回収は難しくないですか？"
+                                "\\SE[4]Hey, Father? Why are you supporting this area? \\SE[0]The\nliving standards here are low, and isn't it difficult to collect\nresources?"
                             ]
                         },
                         {
@@ -2263,35 +2249,14 @@
                                 0,
                                 0,
                                 2,
-                                "旦那様"
+                                "Husband"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、それは『先』の投資だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!これ自体には、まだ意味を持たないけれど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.３年もすれば確実に、『転換期』を向かえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!エネルギーの構造が一段階、\\.進化するんだ。"
+                                "Ah, that's an investment for the future. It doesn't have much\nmeaning on its own... But in about three years, we will\ndefinitely reach a turning point. The energy structure will\nevolve to the next level."
                             ]
                         },
                         {
@@ -2302,28 +2267,14 @@
                                 0,
                                 0,
                                 2,
-                                "旦那様"
+                                "Husband"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなると…\\.事情が反転する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!今は『石ころ』くらいの価値しかないものが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.まるで『宝石』のように取引される時代がくる。"
+                                "When that happens... the situation will be reversed. Now, things\nthat are only worth as much as pebbles will be traded like gems."
                             ]
                         },
                         {
@@ -2334,28 +2285,14 @@
                                 0,
                                 0,
                                 2,
-                                "旦那様"
+                                "Husband"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…これは、その為の『下準備』だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そのときに円滑に進められるように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.地域住民との『交流』を優先しているんだ。"
+                                "...This is the preparation for that. In order to smoothly proceed\nat that time, we are prioritizing interaction with the local\nresidents."
                             ]
                         },
                         {
@@ -2375,14 +2312,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]な、なるほどっ…？"
+                                "\\SE[13]I see...?"
                             ]
                         },
                         {
@@ -2416,28 +2353,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]（旦那様、ぼかしてはいますが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『レアアース』の価値の高騰を読んでるんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!　…機密に近い内容なのに、\\.こうも正確に…。）"
+                                "\\SE[2](Master, I've been keeping it a secret, but... \\SE[3]You're\npredicting the soaring value of Rare Earth, aren't you?\n\\SE[3]...Even though it's such confidential information,\n\\SE[3]you're so accurate...)"
                             ]
                         },
                         {
@@ -2448,21 +2371,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[37]（これは、報告しなくてはいけない内容なのですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[38]　心がどっちつかずです…\\.困りました。）"
+                                "\\SE[37](I have something to report... My heart is torn... I'm\ntroubled.)"
                             ]
                         },
                         {
@@ -2555,21 +2471,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]こ、こっちの『取引』はどういうものなのでしょう！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]将来性に期待してのものなのでしょうかっ…？"
+                                "\\SE[13]W-What kind of transaction is happening here!? \\SE[10]Is\nit because they have high expectations for the future...?"
                             ]
                         },
                         {
@@ -2589,14 +2498,14 @@
                                 0,
                                 0,
                                 2,
-                                "旦那様"
+                                "Husband"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、\\.それはねっ……。"
+                                "Ah, well..."
                             ]
                         },
                         {

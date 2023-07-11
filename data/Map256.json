@@ -8120,7 +8120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クヌギの枝を手に入れた！\\$"
+                                "I obtained a branch of the Knugi tree! $"
                             ]
                         },
                         {
@@ -8138,14 +8138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "都会の方ではめずらしいみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この辺にはいっぱい落ちてるよ。"
+                                "It seems rare in the city. There are plenty of them falling\naround here."
                             ]
                         },
                         {
@@ -8290,7 +8283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "湿った枝を手に入れた！\\$"
+                                "I obtained a wet branch! $"
                             ]
                         },
                         {
@@ -8308,14 +8301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつは燃えない使えないやつだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犬にでも投げて遊んでやろう。"
+                                "This is a useless piece of wood that won't burn. Let's throw it\nto a dog or something and have some fun."
                             ]
                         },
                         {
@@ -8916,14 +8902,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あれ？行かないの？"
+                                "\\SE[2]Huh? Aren't you going?"
                             ]
                         },
                         {
@@ -9002,21 +8988,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラに戦い方を教えるべきか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ちょっと迷っているのよね。"
+                                "Should I teach Laura how to fight...? I'm a little hesitant."
                             ]
                         },
                         {
@@ -9027,21 +9006,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[48]身を守るために教えることで…、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[33]かえって危険が増えてしまうかもしれないし…。"
+                                "\\SE[48]By teaching her to protect herself... \\!\\SE[33]it might\nactually increase the danger instead..."
                             ]
                         },
                         {
@@ -9120,21 +9092,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[jump]\\SE[102]教えて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[17]私もルナみたいに、強くなりたいの…！"
+                                "\\SM[jump]\\SE[102]Please teach me! \\SE[17]I also want to become\nstrong like Lunaroa...!"
                             ]
                         },
                         {
@@ -9175,21 +9140,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私なんかが、手本でいいのか分からないけど…。"
+                                "Hehe... I'm not sure if I'm a good role model or anything..."
                             ]
                         },
                         {
@@ -9261,14 +9219,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]うん、ちょうどいい相手もいるみたいだし…。"
+                                "\\SM[nod]Yeah, it seems like there's a suitable opponent..."
                             ]
                         },
                         {
@@ -9692,21 +9650,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[95]えっ…えっ、えっ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]これで、\\.練習するの…？"
+                                "\\SE[95]Huh... Huh, huh...? \\SE[7]Are we going to practice with\nthis...?"
                             ]
                         },
                         {
@@ -9778,21 +9729,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]大丈夫！\\.ラウラならやれる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]がんばれ！\\. がんばれー！"
+                                "\\SM[nod]Don't worry! Laura can do it! \\SE[16]Do your best! Do\nyour best!"
                             ]
                         },
                         {
@@ -10485,14 +10429,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[rock]\\SE[95]うう…左右からの『圧』がすごい…。"
+                                "\\SM[rock]\\SE[95]Ugh... The pressure from both sides is intense..."
                             ]
                         },
                         {
@@ -10512,21 +10456,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[40]ええい…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なるように、\\.なれー！！"
+                                "\\SM[nod]\\SE[40]Eeii...! Let it be, let it be!!"
                             ]
                         },
                         {
@@ -10553,14 +10490,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[100]（もう倒したことあるのは隠しておこう。）"
+                                "\\SE[100] (I should keep it a secret that I've already defeated\nit.)"
                             ]
                         },
                         {
@@ -10904,7 +10841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "濡れた枝を手に入れた！\\$"
+                                "I obtained a wet branch! $"
                             ]
                         },
                         {
@@ -10915,14 +10852,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ…汚っ…。"
+                                "Eww... It's dirty..."
                             ]
                         },
                         {
@@ -11060,21 +10997,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちわ。にんげんの人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにかご用事？"
+                                "Hello. Are you a human? Do you have any business?"
                             ]
                         },
                         {
@@ -11109,14 +11039,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "森の入口までワープするね。いい？"
+                                "I'll warp you to the entrance of the forest, okay?"
                             ]
                         },
                         {
@@ -11174,14 +11104,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "また遊んでね。"
+                                "Come and play again, okay?"
                             ]
                         },
                         {
@@ -11215,28 +11145,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "梯子の上に赤くて強そうなモンスターがいるでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あれは『ユニークモンスター』といって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この辺り一帯のヌシみたいなものなんだ。"
+                                "There's a red and strong-looking monster on the ladder, right?\nThat's called a Unique Monster, and it's like the boss of this\nwhole area."
                             ]
                         },
                         {
@@ -11247,28 +11163,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "倒すと何かいいものがもらえるかも…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "負けてもゲームオーバーにはならないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気軽に挑んでもいいかも…？HPは減っちゃうけど。"
+                                "If you defeat it, you might get something good...? Even if you\nlose, it won't be game over, so you can feel free to challenge\nit...? Your HP will decrease though."
                             ]
                         },
                         {
@@ -11317,14 +11219,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また遊んでね。"
+                                "Come and play again, okay?"
                             ]
                         },
                         {

@@ -8808,21 +8808,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いルナロア"
+                                "Young Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[56]ごめんなさい…\\.ラウラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[42]私は…\\.もう、あなたのそばにいられないの…。"
+                                "\\SE[56] I'm sorry... Laura. \\SE[42] I... I can no longer be by\nyour side..."
                             ]
                         },
                         {
@@ -8842,28 +8835,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]えっ…\\.えっ……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]『学園』に行くんでしょ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[57]たった５年くらい…！\\. わたしは、全然…！！"
+                                "\\SE[4]Huh... Huh...!? \\SE[14]You're going to the school...?\n\\SE[57]Just for five years...! I... I won't be...!!"
                             ]
                         },
                         {
@@ -8881,21 +8860,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いルナロア"
+                                "Young Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[41]違うの…\\.ラウラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]私は……。"
+                                "\\SE[41]No... Laura. \\SE[12]I..."
                             ]
                         },
                         {
@@ -8927,7 +8899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私たちの『ママ』になってくれるんだよ。"
+                                "You'll become our 'mom'."
                             ]
                         },
                         {
@@ -9022,14 +8994,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[59]あなたは…\\.だぁれ……？"
+                                "\\SE[59]Who are you...?"
                             ]
                         },
                         {
@@ -9047,21 +9019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう教えてあげたでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私達は『アリス』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『知識』と\\.『破滅』のアリス。"
+                                "I already told you, didn't I? We are 'Alice.' The 'Alice' of\n'Knowledge' and 'Destruction'."
                             ]
                         },
                         {
@@ -9142,14 +9100,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[54]あ、\\.あなた達は……。"
+                                "\\SE[54]Ah, you all are..."
                             ]
                         },
                         {
@@ -9167,35 +9125,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]えっとね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私たちが『ママ』を連れていったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[0]あなたが少しだけ可哀そうだから…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]『最後』に会わせてあげようって思ったの！"
+                                "\\SE\\SE[0]Um, you see... We thought that since you looked a little\npitiful when we took away your mom... \\SE[0]We wanted to let you\nmeet her one last time!"
                             ]
                         },
                         {
@@ -9213,14 +9150,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]さいご…？\\!\\SE[59]　最後って、\\.何…？"
+                                "\\SE[57]Last...? \\SE[59]What do you mean by last...?"
                             ]
                         },
                         {
@@ -9420,28 +9357,14 @@
                                 0,
                                 0,
                                 2,
-                                "知識のアリス"
+                                "Alice of Knowledge"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]はい、\\.もう終わり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]ここまで『お疲れ様』…\\.ラウラちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[23]『ママ』を連れてきてくれて、\\.『ありがとう』"
+                                "\\SE[5]Yes, it's over now. \\SE[1]Good job up until here... Laura-\nchan? \\SE[23]Thank you for bringing Mom with you. Thank you."
                             ]
                         },
                         {
@@ -9459,14 +9382,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[59]えっ…\\.えっ……？"
+                                "\\SE[59]Huh... Huh...?"
                             ]
                         },
                         {
@@ -9833,21 +9756,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]ルナー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]このお花ならどうかなぁ？"
+                                "\\SE[]Lunaroa? \\!\\SE[]What do you think about this flower?"
                             ]
                         },
                         {
@@ -9867,21 +9783,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いルナロア"
+                                "Young Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]うん…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]これならばっちりだよ！"
+                                "\\SE[]Yeah...! \\!\\SE[]This one is perfect!"
                             ]
                         },
                         {
@@ -9892,21 +9801,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]だよねっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]これなら最高の『花かんむり』が出来ちゃうよね…！"
+                                "\\SE Right?! \\SE With this, we can make the perfect Flower Crown!"
                             ]
                         },
                         {
@@ -9947,21 +9849,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]あ、あのね…？ \\.わたし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]ルナに聞いてみたいことがあって…。"
+                                "\\SE[]Um, um...? I, um... \\SE[]I have something I want to ask\nLunaroa..."
                             ]
                         },
                         {
@@ -9981,14 +9876,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いルナロア"
+                                "Young Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]なぁにー？"
+                                "\\SE What is it?"
                             ]
                         },
                         {
@@ -10006,21 +9901,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]あのね…？ \\.えっと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]お、おとなになったら…。"
+                                "\\SE Um, um...? Well... \\SE When we grow up..."
                             ]
                         },
                         {
@@ -10040,14 +9928,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]おとなに、なったら。\\.だよ…？"
+                                "\\SE When we grow up..."
                             ]
                         },
                         {
@@ -10065,14 +9953,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]ルナはわたしと…\\.けっこんしてくれる？"
+                                "\\SE[]Will you marry me, Lunaroa?"
                             ]
                         },
                         {
@@ -10090,14 +9978,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いルナロア"
+                                "Young Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]けっこん…？"
+                                "\\SEMarriage...?"
                             ]
                         },
                         {
@@ -10185,21 +10073,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いルナロア"
+                                "Young Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]\\SM[double]いいよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もラウラと結婚したい！"
+                                "\\SE[]\\SM[double]Sure! I want to marry Laura too!"
                             ]
                         },
                         {
@@ -10219,21 +10100,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いルナロア"
+                                "Young Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]でもほーりつで男の人と女の人じゃないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結婚出来ないってパパがゆってたけど…"
+                                "\\SE[]But my dad said that you can only get married if it's\nbetween a man and a woman..."
                             ]
                         },
                         {
@@ -10319,28 +10193,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]たびの詩人さんにね！\\.きいたの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]『ゆりしーん』って国で女の子どうしでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "けっこんできるようになったんだって！"
+                                "\\SE[]I heard from the traveling poet! \\.In a country called\nYurishin, girls can get married to each other now!"
                             ]
                         },
                         {
@@ -10360,21 +10220,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いルナロア"
+                                "Young Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]そうなんだ！じゃあ大丈夫だね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]\\SM[nod]うん！ラウラと結婚する！"
+                                "\\SE[]Is that so? Then it's okay! \\!\\SE[]\\SM[nod]Yes! I will marry\nLaura!"
                             ]
                         },
                         {
@@ -10446,28 +10299,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]\\SM[pop]やった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあどっちがお嫁さんになる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]ルナはどっちがいい？"
+                                "\\SE[]\\SM[pop]Yay! So, which one of us will be the bride?\n\\!\\SE[]Luna, which one do you prefer?"
                             ]
                         },
                         {
@@ -10478,28 +10317,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いルナロア"
+                                "Young Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]ラウラが選んでいいよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]…あっ！身長おっきくなった方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちいさいほうをお嫁さんにするのはどう？"
+                                "\\SE[]Laura can choose! \\!\\SE[]...Ah! How about the taller one\nbecomes the bride and the smaller one becomes the wife?"
                             ]
                         },
                         {
@@ -10653,21 +10478,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]わわっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぜんぜん伸びなかったらどうしよう…？"
+                                "\\SE[]Oh no...! What if I don't grow at all...?"
                             ]
                         },
                         {
@@ -10694,14 +10512,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いルナロア"
+                                "Young Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]でも…。"
+                                "\\SE[]But..."
                             ]
                         },
                         {
@@ -10721,21 +10539,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いルナロア"
+                                "Young Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]ごめんなさい…\\.ラウラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]私は…\\.もう、あなたのそばにいられないかも…。"
+                                "\\SE[]I'm sorry... Laura. \\SE[]I might not be able to stay by your\nside anymore..."
                             ]
                         },
                         {
@@ -10755,28 +10566,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]えっ…\\.えっ……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]『学園』に行くんでしょ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]たった５年くらい…！\\. わたしは、全然…！！"
+                                "\\SE[]Huh... Huh...!? \\SE[]You're going to school...? \\SE[]Just\nfor about five years...! I... I'm not... at all!!"
                             ]
                         },
                         {
@@ -10794,21 +10591,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いルナロア"
+                                "Young Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]違うの…\\.ラウラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]私は……。"
+                                "\\SE[]No... Laura. \\SE[]I..."
                             ]
                         },
                         {
@@ -10840,7 +10630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私たちの『ママ』になってくれるんだよ。"
+                                "You'll become our 'mom'."
                             ]
                         },
                         {
@@ -10928,14 +10718,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]あなたは…\\.だれ……？"
+                                "\\SE[]Who are you...?"
                             ]
                         },
                         {
@@ -10953,21 +10743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう教えてあげたでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達は『アリス』。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『知識』と\\.『破滅』のアリス。"
+                                "I already told you, didn't I? We are 'Alice'. The 'Alice' of\n'Knowledge' and 'Destruction'."
                             ]
                         },
                         {
@@ -11041,14 +10817,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]あ、\\.あなた達は……。"
+                                "\\SE[]Ah, you all are..."
                             ]
                         },
                         {
@@ -11066,28 +10842,14 @@
                                 0,
                                 0,
                                 2,
-                                "金髪のアリス"
+                                "Blonde Alice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]えっとね。\\!\\SE[]私たちが『ママ』を連れていったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたが少しだけ可哀そうだから…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]『最後』に会わせてあげようって思ったの！"
+                                "\\SE[]Um, you see... \\!\\SE[]We thought that if we took away your\nmom, you would be a little bit sad... \\!\\SE[]So we decided to let\nyou meet her one last time!"
                             ]
                         },
                         {
@@ -11105,14 +10867,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]さいご…？\\!\\SE[]　最後って、\\.何…？"
+                                "\\SE[]Last...? What do you mean by 'last'...?"
                             ]
                         },
                         {
@@ -11319,28 +11081,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒髪のアリス"
+                                "Alice with black hair"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]はい、\\.もう終わり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]ここまで『お疲れ様』…\\.ラウラちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[]『ママ』を連れてきてくれて、\\.『ありがとう』。"
+                                "\\SE Yes, it's over now. \\SE Thank you for bringing Mom here,\nLaura-chan. \\SE Thank you for everything you've done."
                             ]
                         },
                         {
@@ -11358,14 +11106,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]えっ…\\.えっ……？"
+                                "\\SE[]Huh... Huh...!?"
                             ]
                         },
                         {

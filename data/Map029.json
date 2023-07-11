@@ -3732,14 +3732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "焚火を見るとなぜか心が落ち着いてくる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラウラはHPとMPが全回復した！"
+                                "Looking at the bonfire somehow calms my heart... Laura's HP and\nMP have been fully restored!"
                             ]
                         },
                         {
@@ -4226,21 +4219,14 @@
                                 0,
                                 0,
                                 2,
-                                "リーダー格の男"
+                                "Leader-type man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…まだ生き残りがいたか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!向こうから来てくれるとは、手間が省けていい…。"
+                                "...So there were still survivors. It's convenient that you came\nto us... it saves us some trouble..."
                             ]
                         },
                         {
@@ -4546,21 +4532,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[95]ひっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ルナ…ど、\\.どうしよう…。"
+                                "\\SE[95]Ah...! Lunaroa... w-what should we do..."
                             ]
                         },
                         {
@@ -4587,21 +4566,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あなたたちは何者なの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]なんのために、\\.こんな事をしたのかしら？"
+                                "\\SE[2]Who are you all? \\SE[3]And why did you do something like\nthis?"
                             ]
                         },
                         {
@@ -4628,21 +4600,14 @@
                                 0,
                                 0,
                                 2,
-                                "リーダー格の男"
+                                "Leader-type man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪いが、お前たちに名乗る名はねぇ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!俺たちはさっさと『仕事』をこなして終わりだ。"
+                                "Sorry, but we don't have names to introduce ourselves to you...\nWe're just here to quickly finish our job."
                             ]
                         },
                         {
@@ -4662,14 +4627,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]それは少し『無作法』じゃないかしら。"
+                                "\\SE[2]Isn't that a little rude?"
                             ]
                         },
                         {
@@ -4680,28 +4645,14 @@
                                 0,
                                 0,
                                 2,
-                                "リーダー格の男"
+                                "Leader-type man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちも忙しいんでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!くっちゃべってる時間はねぇんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!悪いが全部諦めて…\\.死んでくれ。"
+                                "We're busy here too. We don't have time to chat. Sorry, but give\nup on everything... and die."
                             ]
                         },
                         {
@@ -4712,14 +4663,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]……。"
+                                "\\SE[3]......."
                             ]
                         },
                         {
@@ -4746,21 +4697,14 @@
                                 0,
                                 0,
                                 2,
-                                "リーダー格の男"
+                                "Leader-type man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…野郎ども。仕上げだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!さっさと片付けちまいな。"
+                                "...You bastards. It's time to finish this. \\!Clean up quickly."
                             ]
                         },
                         {
@@ -5256,14 +5200,14 @@
                                 0,
                                 0,
                                 2,
-                                "野盗たち"
+                                "Bandits"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "...."
                             ]
                         },
                         {
@@ -5283,14 +5227,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[93]……っ。"
+                                "\\SE[93]......"
                             ]
                         },
                         {
@@ -5315,21 +5259,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[1]心配しないで。\\.ラウラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]全部やっつけちゃうって、言ったでしょ？"
+                                "\\SM[nod]\\SE\\SE[0]Don't worry. Laura, \\SE[0]I said we'll take care\nof all of them, right?"
                             ]
                         },
                         {
@@ -5347,14 +5284,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[93]ルナ…。"
+                                "\\SE[93]Luna..."
                             ]
                         },
                         {
@@ -5365,14 +5302,14 @@
                                 0,
                                 0,
                                 2,
-                                "リーダー格の男"
+                                "Leader-type man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "......."
                             ]
                         },
                         {
@@ -5413,28 +5350,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]大切なものをたくさん奪われて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[48]私、ちょっと怒ってるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]…だから。"
+                                "\\SE[47]I've had many important things taken from me... \\SE[48]I'm\na little angry. \\SE[2]...That's why."
                             ]
                         },
                         {
@@ -5545,21 +5468,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]あなた達は全員、殺すことにするわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『覚悟』は出来ているわよね？"
+                                "\\SE[4]I've decided to kill all of you. \\SE[0]Are you prepared for\nthat?"
                             ]
                         },
                         {
@@ -5577,14 +5493,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]…死んでくれる？"
+                                "\\SE[1]...Will you die for me?"
                             ]
                         },
                         {

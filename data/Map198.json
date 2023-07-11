@@ -4130,7 +4130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーンに帰還しますか？\\!"
+                                "Are you returning to Ulyssean?"
                             ]
                         },
                         {
@@ -4317,7 +4317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーンに帰還しますか？\\!"
+                                "Are you returning to Ulyssean?"
                             ]
                         },
                         {
@@ -4504,7 +4504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーンに帰還しますか？\\!"
+                                "Are you returning to Ulyssean?"
                             ]
                         },
                         {
@@ -5189,14 +5189,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]ここが…\\!\\SE[17]『風の試練』…！"
+                                "\\SE[102]This is...! \\SE[17]Trial of the Wind...!"
                             ]
                         },
                         {
@@ -5359,21 +5359,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ここは『ラウラの場所』…\\.みたいだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]強くなれるよ。\\.嬉しい？"
+                                "\\SE[2]This is Laura's place... It seems like it. \\SE[0]You can\nbecome stronger here. Are you happy?"
                             ]
                         },
                         {
@@ -5402,21 +5395,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]わ、私でも強く…\\.なれるかな…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]もし試練をクリア出来なかったらどうしよう…。"
+                                "\\SE[19]I wonder if even I can become strong...? \\SE[51]What\nshould I do if I can't clear the trial...?"
                             ]
                         },
                         {
@@ -5436,28 +5422,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]大丈夫。あなたなら出来るわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.今までの『努力』を信じて…『いつも通り』行きましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]それに、もし万が一…\\.……。"
+                                "\\SE\\SE[0]Don't worry. You can do it. \\.Believe in the efforts\nyou've made so far... Let's go as usual. \\!\\SE[0]And if by any\nchance...\\........"
                             ]
                         },
                         {
@@ -5468,35 +5440,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『私の』ラウラを認めないなんてことをしたら…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]相手が『精霊』だろうが、\\.何をしてでも、\\.従わせるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]だから、\\.あなたが、\\.不安に思うようなことは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]何一つとして、\\.ないわ。"
+                                "\\SE\\SE[1] If someone were to deny my Laura... \\SE[0] Whether they\nare a spirit or not, I will make them obey, no matter what it\ntakes. \\SE[1] So, there is absolutely nothing that you should be\nworried about."
                             ]
                         },
                         {
@@ -5532,14 +5483,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]（こいつが一番の『不安要素』でしょ。）"
+                                "\\SE[75] (This is the biggest source of anxiety, isn't it?)"
                             ]
                         },
                         {
@@ -5618,21 +5569,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ありがとう…！ \\.でも、大丈夫！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]私、自分の力で精霊さんに認めてもらいたいから…！"
+                                "\\SE\\SE[14]Thank you...! But, it's okay! \\SE[14]I want to earn the\nrecognition of the spirits with my own power...!"
                             ]
                         },
                         {
@@ -5652,28 +5596,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[54]ラウラ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.こんなに立派になって…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[23]私は…自分が恥ずかしいわ……！"
+                                "\\SE[54]Laura...! You've become so splendid...! \\SE[23]I... I'm\nembarrassed about myself...!"
                             ]
                         },
                         {
@@ -5723,35 +5653,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]今日の『イチャイチャノルマ』は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.これくらいでいいんじゃないかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]そろそろ行こ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.精霊さんも待ちくたびれてる…\\.かもしれないし。"
+                                "\\SE[4]Today's Flirting Quota is probably enough, don't you think?\n\\SE[3]Shall we go soon? The spirits might be getting tired of\nwaiting... or so I think."
                             ]
                         },
                         {
@@ -5933,7 +5842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送の結晶石に『風の試練』が追加された！"
+                                "The 'Trial of the Wind' has been added to the teleportation\ncrystal!"
                             ]
                         },
                         {
@@ -6559,21 +6468,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]ここには珍しい生物が多い…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[58]毛皮を剥いで売れば、\\.あるいは…？"
+                                "\\SE[57]There are many rare creatures here.... \\!\\SE[58]If I were\nto sell their fur, perhaps...?"
                             ]
                         },
                         {

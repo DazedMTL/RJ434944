@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ステップ～進捗８１％～",
+    "displayName": "Step ~ Progress 81% ~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5115,21 +5115,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]独特な雰囲気ね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ここはどんな所なの？"
+                                "\\SE[0]What a unique atmosphere... \\!\\SE[3]What kind of place is\nthis?"
                             ]
                         },
                         {
@@ -5140,21 +5133,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]『ステップ』だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]遊牧民たちが独自の生活様式で暮らしているよ。"
+                                "\\SE\\SE[0]It's a 'step', isn't it? \\SE[0]The nomads here live in\ntheir own unique way of life."
                             ]
                         },
                         {
@@ -5227,28 +5213,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]『お金』や『強化イベント』は、そんなにないんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.民族性を活かした特殊な『スキル』を得られるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]生き抜く術に長けた『キャラメイク』が出来るよ。"
+                                "\\SE[4]There isn't much money or strengthening events here, but\nyou can obtain special skills that make use of the ethnic\ncharacteristics. \\SE[0]You can excel in the art of survival and\ncreate unique characters."
                             ]
                         },
                         {
@@ -5280,14 +5252,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]ほえー…。"
+                                "\\SE[4]Huh..."
                             ]
                         },
                         {
@@ -5298,21 +5270,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]なんだか難しそうね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]私にはちょっと、自信がないわ。"
+                                "\\SE[8]It seems a bit difficult... \\SE[9]I don't have much\nconfidence in myself."
                             ]
                         },
                         {
@@ -5330,28 +5295,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[25]『コア層』向けに作った『出身』だからね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]ステータスの暴力じゃなくて、スキルの多様性で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.効果的に戦いたい人って結構いるみたいで…。"
+                                "\\SE[25]I was created for the 'Core' layer, you know...\n\\!\\SE[2]There are quite a few people who want to fight\neffectively not through the violence of their stats, but through\nthe diversity of their skills."
                             ]
                         },
                         {
@@ -5369,14 +5320,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]ふーん…？"
+                                "\\SE[3]Hmm...?"
                             ]
                         },
                         {
@@ -5387,35 +5338,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あっ、戦闘とかそんなに興味がなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『町づくり』や『お店屋さん』がやりたいとかなら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ここを『出身』に選ぶといいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]伝統技術があるから、『一味』違うんだ。"
+                                "\\SE\\SE[0]Oh, if you're not really interested in battles and\nstuff, but rather in town building or running a shop, then it's a\ngood idea to choose this place as your hometown. \\SE[0]Because we\nhave traditional techniques, it's a bit different and unique."
                             ]
                         },
                         {
@@ -5433,14 +5363,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]そんなことも出来るの…！？"
+                                "\\SE[16]You can do that too...!?"
                             ]
                         },
                         {
@@ -5460,14 +5390,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[27]（本当に気になってきた…\\.くやしい…。）"
+                                "\\SE[27] (I'm really starting to get curious... It's\nfrustrating...)"
                             ]
                         },
                         {
@@ -5501,28 +5431,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ちょっと気になったんだけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『町の人』ってどういう風に作ってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]一人一人に細かく設定してる…\\.みたいな？"
+                                "\\SE[2]I'm a little curious. How do you create the townspeople?\n\\SE[3]Do you set detailed settings for each individual... like\nthat?"
                             ]
                         },
                         {
@@ -5554,28 +5470,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]基本的にはそうなんだけど、ここは特殊で…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ランダムイベントが偶発的に発生するように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.有志の『自由AI』を搭載してみたんだ。"
+                                "\\SE[2]Basically, that's how it is, but here it's special...\n\\!\\SE[3]We tried installing voluntary free AI to make random\nevents occur spontaneously."
                             ]
                         },
                         {
@@ -5586,14 +5488,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]自由AI…！？"
+                                "\\SE[12]Free AI...!?"
                             ]
                         },
                         {
@@ -5604,14 +5506,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]人類は、すでにそこまで…。"
+                                "\\SE[14]Humans have already reached that point..."
                             ]
                         },
                         {
@@ -5689,14 +5591,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]何か音がした…？"
+                                "\\SE[0]Did you hear something...?"
                             ]
                         },
                         {
@@ -5714,21 +5616,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]これは『自由AI』の突発イベントみたい…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]私も初めてだから、何が始まるか分からないぞ…！！"
+                                "\\SE[13]This seems like a spontaneous event of Free AI...!\n\\!\\SE[15]Since it's my first time too, I don't know what will\nbegin...!!"
                             ]
                         },
                         {
@@ -6963,21 +6858,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]ぐおっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.急に『クソガキ』が大量に生成されたぞ…！？"
+                                "\\SE[17]Grrr...! Suddenly, a large number of brats have been\ngenerated...!?"
                             ]
                         },
                         {
@@ -7049,28 +6937,14 @@
                                 0,
                                 0,
                                 2,
-                                "くそがき３"
+                                "Shithead３"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねーちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.僕たちみんな『成人』になったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これから代々伝わる『割礼』の儀式を始めるよ！"
+                                "Shithead 3: Hey sis! Now that we've all become adults, we're\ngoing to start the ritual of circumcision that has been passed\ndown through generations!"
                             ]
                         },
                         {
@@ -7121,21 +6995,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]『割礼の儀式』…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[17]知らないぞ、なんだそれは！？"
+                                "\\SE[16]Ritual of circumcision...? \\!\\SE[17]I don't know, what is\nthat!?"
                             ]
                         },
                         {
@@ -7153,28 +7020,14 @@
                                 0,
                                 0,
                                 2,
-                                "くそがき５"
+                                "Shithead５"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兄弟の『ちんちん』をぶつけあっていくんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『大人の姿』にするのは一番上の兄弟の仕事だよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!だから、ねーちゃんの『ちんちん』の出番だよ！！"
+                                "Shithead 5: We're going to clash our dicks as brothers! It's the\nresponsibility of the oldest brother to turn us into adults! So,\nit's time for your dick to make an appearance, big sis!!"
                             ]
                         },
                         {
@@ -7185,28 +7038,14 @@
                                 0,
                                 0,
                                 2,
-                                "くそがき２"
+                                "Shithead２"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ちんちんフェンシング』で弟たちを倒すんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その中で『大人の姿』になる弟が生まれる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『蟲毒な割礼の儀式』でもあるんだ！"
+                                "Shithead 2: We're going to defeat our brothers in Dick Fencing!\nThe brother who becomes the adult in the process will be born!\nIt's also a ritual called the Insect Poison Circumcision!"
                             ]
                         },
                         {
@@ -7226,28 +7065,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]弟たちと『ちんちんフェンシング』…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんだその、インモラルな伝統はっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[17]っていうか、おまえら全員私の弟だったのか…！？"
+                                "\\SE[16]Dick Fencing with my brothers...!? What kind of immoral\ntradition is that!! \\SE[17]Wait, are all of you my brothers...!?"
                             ]
                         },
                         {
@@ -7319,21 +7144,14 @@
                                 0,
                                 0,
                                 2,
-                                "くそがき１"
+                                "Shithead１"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントスタートだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ねーちゃんをテントに運べー！！"
+                                "Shithead 1: The event has started!! \\ Carry the big sister to the\ntent!!"
                             ]
                         },
                         {
@@ -7389,21 +7207,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]うおっ、胴上げみたいに運ぶな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]ちょっと恥ずかしいじゃないか…！！"
+                                "\\SE[17]Whoa, don't carry me like that!! \\!\\SE[14]It's a little\nembarrassing, isn't it...!!"
                             ]
                         },
                         {
@@ -7421,28 +7232,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[32]ぐぬぬ…なんてイベントだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とんでもない『爆弾AI』じゃないか！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]しかし『テストプレイ』も開発者の勤め…！！"
+                                "\\SE[32]Grrr... What kind of event is this! It's an outrageous\nbomb AI!! \\!\\SE[15]But test play is also the duty of the\ndevelopers...!!"
                             ]
                         },
                         {
@@ -7493,21 +7290,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]かかってこい！くそがき共…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]ねーちゃんとして、貴様らに『姉の力』を見せつけてやる！！"
+                                "\\SE[17]Come at me! You bastards...!! \\!\\SE[15]As your big sister,\nI'll show you the power of sister!!"
                             ]
                         },
                         {
@@ -7697,28 +7487,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[35]はぁ…はぁ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんとか、これで全員倒したけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[46]私も、もう……\\.くぅ…！！"
+                                "\\SE[35]Haa... haa...!! I managed to defeat everyone somehow...\n\\SE[46]But even I... kuuh...!!"
                             ]
                         },
                         {
@@ -7769,14 +7545,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[44]あ、うっ…。"
+                                "\\SE[44]Ah, ugh..."
                             ]
                         },
                         {
@@ -7787,14 +7563,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]ヴィタぁ…！！！"
+                                "Vita...!!!"
                             ]
                         },
                         {
@@ -7819,14 +7595,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[60]いや、そうはならないでしょ。"
+                                "\\SE[60]No, it won't turn out like that."
                             ]
                         },
                         {

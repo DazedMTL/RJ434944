@@ -4783,14 +4783,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]（今更、引き返す道なんてないわ。）"
+                                "\\SE[19] (There's no turning back now.)"
                             ]
                         },
                         {
@@ -5260,14 +5260,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]おぉ…ほんとうに安全な侵入ルートだ…。"
+                                "\\SE[14]Oh... this is truly a safe infiltration route..."
                             ]
                         },
                         {
@@ -5339,21 +5339,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[10]もちろんです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]この先は礼拝堂を経由して、大広間にでます！"
+                                "\\SE[10]Of course! \\!\\SE[1]After this, we'll pass through the\nchapel and arrive at the grand hall!"
                             ]
                         },
                         {
@@ -5364,28 +5357,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]その先は戦闘は避けられないかと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なので、そこからはお二人にお任せしたく…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]ワタクシ、戦闘はイマイチですので！"
+                                "\\SE[12]I'm afraid we can't avoid battles ahead! So, I'll leave it\nto you two from there...! \\SE[15]I'm not very good at fighting,\nyou see!"
                             ]
                         },
                         {
@@ -5396,21 +5375,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]了解よ。\\.ごくろうさま。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[7]ヴィタ あなたも頼りにしてるわ。"
+                                "\\SE[2]Understood. Good job. \\SE[7]Vita, I'm counting on you too."
                             ]
                         },
                         {
@@ -5421,14 +5393,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]…ん。 頼りにされる…。"
+                                "\\SE[3]...Hmm. I'm being relied on..."
                             ]
                         },
                         {
@@ -5967,7 +5939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[531]割れたつぼを手に入れた！\\$"
+                                "\\i[531] Obtained a broken pot! \\$"
                             ]
                         },
                         {

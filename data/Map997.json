@@ -4919,28 +4919,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "画面効果の『ON,OFF』の切り替えが出来ます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!環境に自信がない場合、動作が不安定な場合は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『OFF』に設定してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!現在の設定は『ON』です。\\!"
+                                "You can switch the screen effect between 'ON' and 'OFF'. If you\nare not confident in your environment or if the operation is\nunstable, please set it to 'OFF'. The current setting is 'ON'."
                             ]
                         },
                         {
@@ -4990,7 +4969,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "…『ON』ですってば。"
+                                "...It's set to 'ON', you know."
                             ]
                         },
                         {
@@ -5087,14 +5066,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "『FPS』 が 『\\V[1]』 になりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!問題なさそうです…！ \\.『つよつよ環境』ですね。"
+                                "The 'FPS' has become '\\V[1]'. It seems to be fine...! It's a\n'strong environment', huh."
                             ]
                         },
                         {
@@ -5133,14 +5105,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "『FPS』 が 『\\V[1]』 になりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\!多分、おそらく大丈夫…\\.かな？"
+                                "The 'FPS' has become '\\V[1]'. Maybe, probably it's fine... I\nwonder?"
                             ]
                         },
                         {
@@ -5168,14 +5133,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "『FPS』 が 『\\V[1]』 になりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\!ちょっと厳しいかも…\\.『off』がいいかもです。"
+                                "The 'FPS' has become '\\V[1]'. It might be a bit tough... It might\nbe better to set it to 'off'."
                             ]
                         },
                         {
@@ -5260,28 +5218,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "画面効果の『ON,OFF』の切り替えが出来ます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!環境に自信がない場合、動作が不安定な場合は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『OFF』に設定してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!現在の設定は『OFF』です。\\!"
+                                "You can switch the screen effect between 'ON' and 'OFF'. If you\nare not confident in your environment or if the operation is\nunstable, please set it to 'OFF'. The current setting is 'OFF'."
                             ]
                         },
                         {
@@ -5343,7 +5280,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "…大丈夫そうです？"
+                                "...Are you okay?"
                             ]
                         },
                         {
@@ -5388,7 +5325,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "…『OFF』ですってば。"
+                                "...It's set to 'OFF', you know."
                             ]
                         },
                         {
@@ -5446,14 +5383,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "『FPS』 が 『\\V[1]』 になりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!問題なさそうです…！ \\.『つよつよ環境』ですね。"
+                                "The 'FPS' has become '\\V[1]'. It seems to be fine...! It's a\n'strong environment', huh."
                             ]
                         },
                         {
@@ -5492,14 +5422,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "『FPS』 が 『\\V[1]』 になりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\!多分、おそらく大丈夫…\\.かな？"
+                                "The 'FPS' has become '\\V[1]'. Maybe, probably it's fine... I\nwonder?"
                             ]
                         },
                         {
@@ -5527,14 +5450,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "『FPS』 が 『\\V[1]』 になりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\!『OFF』…なんですよね。\\.動いてます…？"
+                                "The 'FPS' has become '\\V[1]'. Oh, it's set to 'OFF'... I wonder\nif it's working...?"
                             ]
                         },
                         {
@@ -5679,28 +5595,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ｈシーンが必要ない場合は『見ない』に設定してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.該当シーンは『カット』され、控えめな表現になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『回想部屋』では、いつでも見ることが出来ます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!現在は『見る』になっています。\\!"
+                                "If you don't need the H scene, please set it to Don't watch. The\ncorresponding scene will be cut and will have a more modest\ndepiction. In the Recollection Room, you can watch it anytime.\nCurrently, it is set to Watch."
                             ]
                         },
                         {
@@ -5749,14 +5644,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "『見る』になっています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\.…さては、心配性ですね？"
+                                "It is set to Watch. ...Well, you're quite the worrier, aren't\nyou?"
                             ]
                         },
                         {
@@ -5808,7 +5696,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "まじですか。"
+                                "Is that so?"
                             ]
                         },
                         {
@@ -5868,21 +5756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ｈシーンが必要ない場合は『見ない』に設定してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.該当シーンは『カット』され、控えめな表現になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!現在は『見ない』になっています。\\!"
+                                "If you don't need the H scene, please set it to Don't watch. The\ncorresponding scene will be cut and will have a more modest\ndepiction. Currently, it is set to Don't watch."
                             ]
                         },
                         {
@@ -5943,7 +5817,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やっぱりですか。"
+                                "Is that so?"
                             ]
                         },
                         {
@@ -5983,7 +5857,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "まじですか。"
+                                "Is that so?"
                             ]
                         },
                         {
@@ -6085,14 +5959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらでは『そういうシーン』を省略するか設定できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…『先行体験版』なので関係のないことです！"
+                                "Here, you can choose to skip or configure those kinds of scenes.\n\\!... It's unrelated since this is a pre-release demo!"
                             ]
                         },
                         {
@@ -6246,14 +6113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『環境構築』ありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!先程の設定はこちらのアイテムで、いつでも変更できます。"
+                                "Thank you for the 'environment setup'. The settings earlier can\nbe changed at any time with this item."
                             ]
                         },
                         {
@@ -6271,21 +6131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…復旧不可能な『バグ』に遭遇してしまった場合。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!大変ご迷惑をおかけしてしまいますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.作者Twitter『Piyo_595en』まで、ご連絡お願いします。"
+                                "If you encounter an irreparable bug, we apologize for the\ninconvenience, but please contact the author's Twitter account\nPiyo_595en for assistance."
                             ]
                         },
                         {
@@ -6329,14 +6175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "初期設定は以上になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!本編、お楽しみ頂けましたら幸いです。"
+                                "That concludes the initial setup. We hope you enjoy the main\nstory!"
                             ]
                         },
                         {
@@ -6601,21 +6440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらは『初期設定』になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!左右の『光』に触れることで、変更できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ご自身の環境に合わせて、調整してみてください。"
+                                "This is the Initial Settings. You can change it by touching the\nlights on the left and right. Please adjust it according to your\nown environment."
                             ]
                         },
                         {

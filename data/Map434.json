@@ -7092,14 +7092,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[109]えっ…\\.なに、これ……？"
+                                "\\SE[109] Huh... What is this...?"
                             ]
                         },
                         {
@@ -7119,21 +7119,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]なにか…\\.あったみたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[58]穏やかじゃないことが…。"
+                                "\\SE[57]It seems like something happened. \\SE[58]It doesn't seem\ncalm..."
                             ]
                         },
                         {
@@ -7292,14 +7285,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]（これは…\\!\\SE[53]そういうこと…？）"
+                                "\\SE[2] (Is this... \\SE[53] what I think it is...?)"
                             ]
                         },
                         {
@@ -7319,14 +7312,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なにか分かった…？"
+                                "\\SE[2]Did you figure something out...?"
                             ]
                         },
                         {
@@ -7368,21 +7361,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[tremble]\\SE[2]あっ…ううん。もうすこし調べてみないと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]でも…そうね。"
+                                "\\SM[tremble]\\SE[2]Ah... No, I need to investigate a little\nmore... \\!\\SE[3]But... yes, you're right."
                             ]
                         },
                         {
@@ -7567,28 +7553,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[1]うん、これで大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『毒』を無効化する魔法をかけたから…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]これなら安全に進めると思う。"
+                                "\\SM[nod]\\SE\\SE[0]Yes, it's okay now. I cast a magic spell to\nnullify the poison.... \\SE[0]I think we can proceed safely with\nthis."
                             ]
                         },
                         {
@@ -7599,21 +7571,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あ、ありがとう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]すごいんだね。\\.魔法って。"
+                                "\\SE\\SE[3]Ah, thank you.... \\!\\SE[3]It's amazing, isn't it? Magic."
                             ]
                         },
                         {
@@ -7640,21 +7605,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[86]（ちゅーされるのかと思って…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[tremble]\\SE[58]　ドキドキしちゃったじゃん…。）"
+                                "\\SE[86] (I thought I was going to be kissed...\n\\SM[tremble]\\SE[58] My heart skipped a beat...)"
                             ]
                         },
                         {
@@ -7902,14 +7860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -7987,14 +7938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8072,14 +8016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8157,14 +8094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8242,14 +8172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8327,14 +8250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8412,14 +8328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8497,14 +8406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8582,14 +8484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8667,14 +8562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8752,14 +8640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8837,14 +8718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8922,14 +8796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9007,14 +8874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9092,14 +8952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9177,14 +9030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9262,14 +9108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9347,14 +9186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9432,14 +9264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9517,14 +9342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9602,14 +9420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9687,14 +9498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9772,14 +9576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9857,14 +9654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9942,14 +9732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10027,14 +9810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10112,14 +9888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10197,14 +9966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10282,14 +10044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10367,14 +10122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10452,14 +10200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10537,14 +10278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10622,14 +10356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10707,14 +10434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10792,14 +10512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10877,14 +10590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10962,14 +10668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -11047,14 +10746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -11132,14 +10824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -11236,14 +10921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "首輪が付いている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰かの飼い犬だったようだ。"
+                                "It has a collar... It seems like someone's pet dog."
                             ]
                         },
                         {
@@ -11261,14 +10939,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[92]この子のご主人様はどこにいったんだろう…。"
+                                "\\SE[92]I wonder where this child's master went..."
                             ]
                         },
                         {

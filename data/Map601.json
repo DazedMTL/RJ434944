@@ -2903,14 +2903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから帰れるみたいだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『コーダイン』に帰還しますか？\\!"
+                                "It seems like we can return from here.... Shall we return to\nCodain?"
                             ]
                         },
                         {
@@ -3095,14 +3088,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]まだ戻れないわね…。"
+                                "\\SE[74]I still can't go back..."
                             ]
                         },
                         {
@@ -3211,28 +3204,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤード"
+                                "Yard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドンヨク様にとって庭園など見栄でしかない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!はぁ…『リラ家』にお仕えさせて頂いていた、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あの頃が懐かしい…。"
+                                "To Donyoku-sama, the garden is nothing more than a showy\ndisplay... *sigh* I miss the time when I served at the Lira\nHouse..."
                             ]
                         },
                         {
@@ -3257,14 +3236,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[20]もしかして…\\.ヤード…？"
+                                "\\SE[20]Could it be... Yard...?"
                             ]
                         },
                         {
@@ -3349,21 +3328,14 @@
                                 0,
                                 0,
                                 2,
-                                "ウエキ"
+                                "Ueki"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしや、『ベガお嬢様』…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!何故ここに…？\\. まさか…？"
+                                "Could it be, Miss Vega...! Why are you here...? Could it be...?"
                             ]
                         },
                         {
@@ -3374,14 +3346,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]しっ…！ \\.今、『潜入中』なの…！"
+                                "\\SE[90]Shh...! Right now, I'm infiltrating...!"
                             ]
                         },
                         {
@@ -3408,28 +3380,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤード"
+                                "Yard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なにか、ご事情があるのですね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!力になれることがあればお声がけください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!微力ですが、お嬢様のお役に立たせて頂きます。"
+                                "So, you have some circumstances... If there's anything I can do\nto help, please let me know. I may not be much, but I'll do my\nbest to be of service to you, Miss."
                             ]
                         },
                         {
@@ -3447,21 +3405,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]その時は頼らせてもらうわ。"
+                                "\\SE[72]Thank you. \\!\\SE[7]I'll rely on you at that time."
                             ]
                         },
                         {
@@ -3540,21 +3491,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤード"
+                                "Yard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドンヨク様にはお気をつけください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もしもお嬢様の身に何かあったら、\\!私は…\\.ううっ…。"
+                                "Please be careful, Donyoku-sama. If anything were to happen to\nthe young lady, I... Ugh..."
                             ]
                         },
                         {
@@ -3697,21 +3641,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤード"
+                                "Yard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっと、忘れておりました…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お嬢様にこちらをお渡ししておきませんと…。"
+                                "Oh, I forgot...!! I must give this to the young lady..."
                             ]
                         },
                         {
@@ -3741,14 +3678,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…これは？"
+                                "\\SE[2]... What is this?"
                             ]
                         },
                         {
@@ -3759,28 +3696,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤード"
+                                "Yard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実は私とお嬢様の父君とは古い『戦友』でしてね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!退役の際に互いの『ドックタグ』を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "友好の証として、交換していたのですよ。"
+                                "Actually, the young lady's father and I were old comrades- in-\narms... When we retired, we exchanged each other's dog tags as a\nsymbol of friendship."
                             ]
                         },
                         {
@@ -3791,21 +3714,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]…えっ。\\. そんな間柄だったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]そんな素振り、全然見せてなかったけど。"
+                                "\\SE[90]...Huh? We were that close? \\SE[3]I never showed any signs\nof that at all."
                             ]
                         },
                         {
@@ -3816,21 +3732,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤード"
+                                "Yard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が父君の『上官』だったからですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.こちらの体裁を慮って、伏せていたのでしょう。"
+                                "It's because I was your father's superior officer. I suppose I\nkept it hidden to maintain appearances."
                             ]
                         },
                         {
@@ -3841,28 +3750,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤード"
+                                "Yard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "退役後は部下の方がぐんぐん頭角を現して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その下で雇われているなど、\\.本来は『恥』ですから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…もちろん、\\.私はそう思っていませんが。"
+                                "After retiring, my subordinates quickly rose in rank and I ended\nup working under them. It's actually quite embarrassing... Of\ncourse, I don't feel that way myself."
                             ]
                         },
                         {
@@ -3880,21 +3775,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]それは…\\.わからないでもないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[4]でも、どうして私に？"
+                                "\\SE[90]I... I can't say I don't understand. \\SE[4]But why me?"
                             ]
                         },
                         {
@@ -3905,28 +3793,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤード"
+                                "Yard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ドックタグ』は身元確認の識別証でしかありませんが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.兵士たちに不思議と『勇気』を与えてもいました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…今の私よりも、お嬢様が持つにふさわしいと思いまして。"
+                                "The 'dog tags' are just identification tags, but strangely, they\nalso gave the soldiers 'courage'. I thought that the young lady\nis more deserving of having them than I am now."
                             ]
                         },
                         {
@@ -3944,21 +3818,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]なるほど…ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あなたの好意を受け取っておくわ。"
+                                "\\SE[72]I see... I understand. \\.I will accept your kindness."
                             ]
                         },
                         {
@@ -3988,7 +3855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[611]古びたドックタグを手に入れた！\\$"
+                                "\\i[611]I obtained an old dog tag! \\$"
                             ]
                         },
                         {
@@ -4069,28 +3936,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤード"
+                                "Yard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "屋敷は『売り』に出されるようです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なので、現状維持のため仕事は続けられるみたいです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!次の主は庭を大切にして下さる方だと、いいのですが…。"
+                                "It seems that the mansion is being put up for sale. Therefore, it\nseems that work will continue to maintain the current situation.\nI hope the next owner will value the garden..."
                             ]
                         },
                         {
@@ -4108,21 +3961,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヤード"
+                                "Yard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…本音を言ってしまえば、お嬢様の手に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戻るのが私の願いではありますがね…。"
+                                "...To be honest, my wish is for it to return to the hands of the\nyoung lady..."
                             ]
                         },
                         {
@@ -4193,21 +4039,14 @@
                                 0,
                                 0,
                                 2,
-                                "メイドさん"
+                                "Maid-san"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "石像の手入れは大変だわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.わたし…ちんちくりんだし…。"
+                                "Taking care of the statues is tough... And I... I'm small and\npetite..."
                             ]
                         },
                         {
@@ -4278,28 +4117,14 @@
                                 0,
                                 0,
                                 2,
-                                "メイドさん"
+                                "Maid-san"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "らん、らーん～…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お花のお世話をしてるときが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.一番、幸せだわぁ…。"
+                                "La~la~.... Taking care of flowers is the happiest moment for\nme...."
                             ]
                         },
                         {

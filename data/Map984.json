@@ -2276,21 +2276,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あっ、おかえりなさい。\\.お嬢様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]…紅茶でも淹れましょうか？"
+                                "\\SE[2]Ah, welcome back, my lady. \\SE[0]...Shall I make some tea\nfor you?"
                             ]
                         },
                         {
@@ -2310,28 +2303,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]…ええっ、\\.お願い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]それと少し、一人にしてもらえる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.集中して勉強を進めたいから…。"
+                                "\\SE[74]...Oh, please. \\SE[3] Could you leave me alone for a\nwhile? I want to concentrate and make progress with my studies..."
                             ]
                         },
                         {
@@ -2342,28 +2321,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]ええっ、かしこまりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それなら甘い物も、ご用意いたしますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]…糖分は脳の働きを活性化しますから。"
+                                "\\SE[46]Oh, I understand. In that case, I will also prepare\nsomething sweet for you. \\SE[45]...Sugar helps activate the brain\nfunction."
                             ]
                         },
                         {
@@ -2407,21 +2372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先は…あまり、\\.思い出したくありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ただ、お嬢様はひたむきに、健気に…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自身と、家族のために\\.闘っておりました。"
+                                "I don't want to remember much from here on... However, the young\nlady fought diligently and bravely... For herself and her family."
                             ]
                         },
                         {
@@ -2439,14 +2390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワタクシはただ無力なだけ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!支える程度のことしか、\\.出来ませんでした。"
+                                "I am just powerless... I could only do things to support [you]."
                             ]
                         },
                         {

@@ -15631,7 +15631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life Alpha! $"
                             ]
                         },
                         {
@@ -16350,7 +16350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[543]そまつな棍棒を手に入れた！\\$"
+                                "\\i[543]I obtained a sturdy club! $"
                             ]
                         },
                         {
@@ -17593,28 +17593,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[0]うん…\\.獲物の気配がする…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[11]今日は大漁かも、『イノシシ』でも『クマ』でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『ドラゴン』でも狩っちゃうもんね…！！"
+                                "\\SM[nod]\\SE[0]Hmm... I sense the presence of prey...!\n\\SE[11]Today might be a big catch, whether it's a wild boar, a\nbear, or even a dragon... I'll hunt them all...!!"
                             ]
                         },
                         {
@@ -17634,14 +17620,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]『ドラゴン』はちょっと…困るかな…。"
+                                "\\SE[6] A 'dragon' might be a bit... troublesome...."
                             ]
                         },
                         {
@@ -17727,21 +17713,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[double]\\SE[16]いける、いける！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたし達、二人なら楽勝でしょ…！"
+                                "\\SM[double]\\SE[16]We can do it, we can do it! The two of us will\ndefinitely win easily...!"
                             ]
                         },
                         {
@@ -17761,21 +17740,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そうだね…いけるいける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[12]私たち『無敵のコンビ』だし…。"
+                                "\\SE[2]Yeah... we can do it, we can do it. \\!\\SM[nod]\\SE[12]After\nall, we're the Invincible Duo...."
                             ]
                         },
                         {
@@ -17970,14 +17942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『狩り』を頑張って、お肉をいっぱい集めよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『イノシシの群れ』は多分、\\.森の奥にいるはず…！!"
+                                "Let's do our best to hunt and gather lots of meat! The 'wild boar\nherd' is probably deep in the forest...!"
                             ]
                         },
                         {
@@ -18526,21 +18491,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]おっ…あんな所にイノシシの群れ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[0]ヴィタ。\\.準備は出来てる？\\!"
+                                "\\SE[12]Oh... a herd of wild boars in a place like that...!\n\\SM[nod]\\SE[0]Vita, are you ready?"
                             ]
                         },
                         {
@@ -18991,7 +18949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『イノシシの肉』をたくさん手に入れた！！"
+                                "I obtained a lot of wild boar meat!!"
                             ]
                         },
                         {
@@ -19032,21 +18990,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]うん…これだけあれば大丈夫…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やったね！\\.『相棒』！！"
+                                "\\SE[16] Yeah... With this much, we'll be fine...! We did it!\nPartner!!"
                             ]
                         },
                         {
@@ -19057,21 +19008,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]私たち『無敵のコンビ』に敵はいないのだー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]良かった。\\.これなら、おとうさんも喜んでくれそう。"
+                                "\\SE[4]There's no enemy for us, the Invincible Duo....\n\\!\\SE[0]That's good.\\.With this, it seems like Dad will be happy\ntoo."
                             ]
                         },
                         {
@@ -19082,21 +19026,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]お母さんもびっくりするよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えへへ…\\.早く帰ろー。"
+                                "\\SE[1]Mom will be surprised too, right? Hehehe... Let's hurry\nback."
                             ]
                         },
                         {
@@ -19497,14 +19434,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に獲物はあんまりいないよ。"
+                                "There aren't many prey ahead."
                             ]
                         },
                         {
@@ -19606,14 +19543,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に獲物はあんまりいないよ。"
+                                "There aren't many prey ahead."
                             ]
                         },
                         {
@@ -19715,14 +19652,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に獲物はあんまりいないよ。"
+                                "There aren't many prey ahead."
                             ]
                         },
                         {
@@ -19824,14 +19761,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に獲物はあんまりいないよ。"
+                                "There aren't many prey ahead."
                             ]
                         },
                         {
@@ -20475,7 +20412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life Alpha! $"
                             ]
                         },
                         {
@@ -21194,7 +21131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[389]キュアミストαを手に入れた！\\$"
+                                "\\i[389]I obtained Cure Mist Alpha! \\$"
                             ]
                         },
                         {

@@ -6183,21 +6183,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[31]失礼致します。\\.『ご主人様』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『面接』をご希望のお二方をお連れ致しました。"
+                                "\\SE[31] Excuse me. I have brought two individuals who wish to\nhave an interview with you, Master. \\SE[0]"
                             ]
                         },
                         {
@@ -6208,14 +6201,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ、\\.入っていいぞ。"
+                                "Very well, you may enter."
                             ]
                         },
                         {
@@ -6852,28 +6845,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]こちらが、ベガ様とキャット様です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.コーダインから『通い』でご希望だそうです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]では、私は『通常業務』に戻らせて頂きます。"
+                                "\\SE[2]These are Vega-sama and Cat-sama. They seem to have\nrequested an interview through Koudain's services. \\SE[1]Well\nthen, I will return to my regular duties."
                             ]
                         },
                         {
@@ -6922,28 +6901,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まて、戻るな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!今日の『特別業務』はお前に決めた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そこで待っていろ。"
+                                "Wait, don't leave. I have assigned you today's special task. Stay\nthere and wait."
                             ]
                         },
                         {
@@ -6961,14 +6926,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]……\\.はい、\\.分かりました。"
+                                "\\SE[47]... Yes, understood."
                             ]
                         },
                         {
@@ -7097,14 +7062,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]（『特別業務』…\\.ね。）"
+                                "\\SE[75] ('Special task'... I see...)"
                             ]
                         },
                         {
@@ -7124,28 +7089,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでは『面接』を始めさせてもらおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!仕事は先輩たちに教わればいいからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.今日は君たちの『心意気』を見せてもらえば大丈夫だ。"
+                                "Well then, let's begin the interview. You can learn about the job\nfrom your seniors. Today, I just want to see your determination."
                             ]
                         },
                         {
@@ -7165,14 +7116,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『心意気』…\\.ですか？"
+                                "\\SE[2] Determination... is it?"
                             ]
                         },
                         {
@@ -7183,28 +7134,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.常日頃の献身さの積み重ねがあるのならば…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『業務』での失敗なんて些細なことだと私は考える。"
+                                "Hmm. If you have accumulated dedication in your daily life... I\nbelieve that failures in work are trivial matters."
                             ]
                         },
                         {
@@ -7215,21 +7152,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういったものは個人の『本質』に依存するからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.少しでも、それを感じとりたいと思うんだ。"
+                                "Such things depend on an individual's essence. I want to feel\neven a little bit of that."
                             ]
                         },
                         {
@@ -7247,21 +7177,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]なるほど…\\.よく分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ありがとうございます。"
+                                "\\SE[50]I see... I understand it well now. \\!\\SE[3]Thank you very\nmuch."
                             ]
                         },
                         {
@@ -7288,21 +7211,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]（汚職で成り上がった貴族のくせに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[75]生意気にもご立派な『信条』を持ってんのね。）"
+                                "\\SE[51] (Even though you've risen through corruption, you have\nquite an impressive code of conduct for someone so arrogant.)"
                             ]
                         },
                         {
@@ -7385,21 +7301,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ君から。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ここで、『どんな事』をして、僕の役に立てるかな？"
+                                "Well then, from you. What kind of things can you do here to be of\nuse to me?"
                             ]
                         },
                         {
@@ -7417,28 +7326,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]前職は『似たような仕事』をしていたことがあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.必ずやご期待に答えられるかと思います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]…それに。"
+                                "\\SE\\SE[45]I have had experience in a similar line of work before.\nI believe I can meet your expectations without fail.\n\\SE[45]...And also."
                             ]
                         },
                         {
@@ -7514,28 +7409,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]（ご主人様がお望みでしたら…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[47]どんな\\.『ご要望』にも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[45]如何様にもお答えできるかと思います…♥）"
+                                "\\SE[46] (If it is what Master desires... \\!\\SE[47]I believe I can\nfulfill any requests you have, \\!\\SE[45]in any way you\ndesire...♥)"
                             ]
                         },
                         {
@@ -7609,14 +7490,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ど、\\.どんな\\.『ご要望』にも…！"
+                                "I-I will fulfill any requests...!"
                             ]
                         },
                         {
@@ -7634,14 +7515,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[91]（い、意外とやるのね…\\.キャット…。)"
+                                "\\SE[91] (S-So you're unexpectedly capable... Cat...)"
                             ]
                         },
                         {
@@ -7661,21 +7542,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君…\\.いいね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!うん！\\.『採用』だ…！！"
+                                "You... That's great! Yes! It's a hiring...!!"
                             ]
                         },
                         {
@@ -7695,21 +7569,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]（…えっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[91]あいつもう『採用』されちゃったんだけど。）"
+                                "\\SE[2] (...Huh. \\!\\SE[91]That guy already got hired.)"
                             ]
                         },
                         {
@@ -7772,14 +7639,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ君は、\\!僕に何を\\.シテくれるのかな…？"
+                                "So, what will you do for me...?"
                             ]
                         },
                         {
@@ -7836,14 +7703,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[91]（うわっ。\\.顔近っ…。）"
+                                "\\SE[91] (Uwah... Your face is so close...)"
                             ]
                         },
                         {
@@ -7863,21 +7730,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[20]あっ…\\.えっと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[19]私は…\\.その…。"
+                                "\\SE[20]Ah... um... \\SE[19]I... well..."
                             ]
                         },
                         {
@@ -7904,21 +7764,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[67]（やばっ…。\\.ショックで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　完っ全にセリフ飛んじゃったわ…。）"
+                                "\\SE[67] (Oh no... I completely skipped my lines due to shock...)"
                             ]
                         },
                         {
@@ -7947,28 +7800,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ…\\.初々しい恥じらい…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!君もなかなかいいねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!僕の『ストライクゾーン』だよぉ…！"
+                                "Ohh... Such innocent shyness...! You're quite good too! You're in\nmy strike zone...!"
                             ]
                         },
                         {
@@ -7986,14 +7825,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]……\\.えっ？"
+                                "\\SE[2]......Huh?"
                             ]
                         },
                         {
@@ -8065,21 +7904,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあこのセリフを言ってみるんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!上手に言えたら、\\.君も『採用』にしてあげよう！"
+                                "Then try saying this line! If you can say it well, I'll also hire\nyou!"
                             ]
                         },
                         {
@@ -8090,14 +7922,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]…は、\\.はぁ。"
+                                "\\SE[74]...Um, uh..."
                             ]
                         },
                         {
@@ -8176,35 +8008,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『至らぬ私ですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.  ご主人様にご満足頂けるよう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　誠心誠意尽くさせていただきます』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…はいっ！"
+                                "I may not be perfect, but I will wholeheartedly do my best to\nsatisfy you, my master. ...Yes!"
                             ]
                         },
                         {
@@ -8229,14 +8040,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[91]（…まじか。）"
+                                "\\SE[91] (...Seriously?)"
                             ]
                         },
                         {
@@ -8308,28 +8119,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んん～\\.恥ずかしくて言えないかなぁ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!でも僕は君のかわゆいお声で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.言ってみて欲しいんだよなぁ～？"
+                                "Mmm... I wonder if it's too embarrassing to say...? But I really\nwant to hear it in your cute voice, you know...?"
                             ]
                         },
                         {
@@ -8358,21 +8155,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[92]（こいつ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[67]ぐっ…\\.だけど、言いさえすれば\\.『採用』…。）"
+                                "\\SE[92] (This person...! \\!\\SE[67]Guh...\\. But if I just say it,\nit's hired....)"
                             ]
                         },
                         {
@@ -8383,21 +8173,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]（メリッサ達もニキータに会いたがってる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[19]この程度の『恥』が何だって言うの！）"
+                                "(Melissa and the others also want to meet Nikita... What's the\nbig deal about a little embarrassment!)"
                             ]
                         },
                         {
@@ -8415,14 +8198,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[92]わ、\\.分かりました…\\!\\SE[91]言います…。"
+                                "\\SE[92]F-Fine... I understand...\\SE[91] I'll say it..."
                             ]
                         },
                         {
@@ -8517,28 +8300,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[66]『い、\\.至らぬ私ですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[67]ご主人様にご満足頂けるよう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[82]誠心誠意尽くさせて…\\.いただきます…。』"
+                                "\\SE[66]I-I may not be perfect.... B-but... I will do my best...\nwith all my heart and soul... to satisfy you, my master...."
                             ]
                         },
                         {
@@ -8659,28 +8428,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『採用』…\\.『採用』だよ……！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!まだ、粗削りだが将来性に期待したい…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今後ともよろしくね…！"
+                                "Hired... It's hired!! \\!It's still rough, but I have high hopes\nfor your potential...! Please continue to do your best in the\nfuture...!"
                             ]
                         },
                         {
@@ -8700,21 +8455,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE12]あっ…\\.えっと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[90]ありがとうございます…？"
+                                "\\SEAh... um. \\SE[90]Thank you...?"
                             ]
                         },
                         {
@@ -8725,28 +8473,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐふふ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.きみとの\\.『特別業務』も…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!楽しみだねぇ…？"
+                                "Hehehe... I'm looking forward to our special assignment\ntogether... Are you excited too...?"
                             ]
                         },
                         {
@@ -8773,14 +8507,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]（もし、そうなったら殺してやるわ。）"
+                                "\\SE[75] (If it comes to that, I'll kill you.)"
                             ]
                         },
                         {
@@ -8791,28 +8525,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっそくだが『研修』をしていこうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!君たちさえよければ、メイドの先輩たちに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『業務』の指導を受けるといい。"
+                                "Shall we start the training right away? If you're okay with it,\nit would be good for you to receive guidance on the duties from\nthe senior maids."
                             ]
                         },
                         {
@@ -8844,21 +8564,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]はい、よろこんで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]そのようにさせて頂きます。"
+                                "\\SE\\SE[0]Yes, gladly. \\!\\SE[0]I will do as you wish."
                             ]
                         },
                         {
@@ -8883,14 +8596,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]私の方も、\\.問題ありません。"
+                                "\\SE[4]I have no problem with it either."
                             ]
                         },
                         {
@@ -8908,28 +8621,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、やる気があっていいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!じゃあ休憩室で待っていてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰かに割り振りを頼んでおくよ。"
+                                "Yeah, it's good that you're motivated. \\!Then wait for me in the\nbreak room. I'll ask someone to assign you tasks."
                             ]
                         },
                         {
@@ -8947,21 +8646,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]かしこまりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]では、これにて失礼いたします。"
+                                "\\SE\\SE[0]Understood. \\SE[0]Then, I will take my leave here."
                             ]
                         },
                         {
@@ -9283,21 +8975,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んふふ～…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『いい子達』を拾っちゃったな～。"
+                                "Nfufu~.... I've picked up some good kids~."
                             ]
                         },
                         {
@@ -9393,28 +9078,14 @@
                                 0,
                                 0,
                                 2,
-                                "ゴウヨク"
+                                "Gouyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらっ『特別業務』だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.今日は…\\.そうだな。\\.『いつものやつ』をやれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『初めて売られた日』のときみたいにな。"
+                                "Hey, it's a special assignment. Today... Yeah, let's do the usual\nthing. Make it like the day you were first sold."
                             ]
                         },
                         {
@@ -9441,14 +9112,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[33]はい……。"
+                                "\\SE[33]Yes......."
                             ]
                         },
                         {

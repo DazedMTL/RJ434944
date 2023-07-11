@@ -3636,28 +3636,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]見てましたよー！ \\.お姉さん強いんですねぇ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]命の恩人ですよぉー…\\.ほんとぉ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]あっ、物資が入用です？（有料ですけど！）"
+                                "\\SE[12]I was watching! Wow, big sister is strong.... \\SE[21]She's\nmy savior, you know... Really.... \\SE[1]Oh, do you need supplies?\n(It's not free, though!)"
                             ]
                         },
                         {
@@ -4302,7 +4288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[531]割れたつぼを手に入れた！\\$"
+                                "\\i[531] Obtained a broken pot! \\$"
                             ]
                         },
                         {

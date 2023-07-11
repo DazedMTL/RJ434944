@@ -3220,14 +3220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "炎の揺らめきに心が落ち着いていく…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!パーティの体力が全回復した！"
+                                "The heart calms down in the flickering of flames.... \\! The\nparty's health has been fully restored!"
                             ]
                         },
                         {
@@ -3802,28 +3795,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヒダリィ"
+                                "Hidarii"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お待たせいたしました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『ヒダリィ』と申します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!粉骨砕身の覚悟で皆様にお力添えさせて頂きます。"
+                                "I apologize for the wait. My name is Hidarii. I will do my best\nto assist everyone with unwavering determination."
                             ]
                         },
                         {
@@ -3834,28 +3813,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミギィ"
+                                "Migii"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ミギィ』と申します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ユリシーン騎士団の名に賭けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みなさまを全力でサポートさせて頂きます。"
+                                "My name is Migii. I swear upon the name of the Elysian Knights to\nsupport everyone with all my might."
                             ]
                         },
                         {
@@ -3882,21 +3847,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[68]えっと…全然、頭に入らなかったかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]どっちがだれだったっけ…。"
+                                "\\SE[68]Um... I'm sorry, but I didn't really remember at all.\n\\SE[15]Which one was who again..."
                             ]
                         },
                         {
@@ -3932,21 +3890,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミギィ"
+                                "Migii"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "失礼しました…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.こうすれば、\\.きっと分かるはず…！"
+                                "I apologize...! If I do this, I'm sure you'll understand...!"
                             ]
                         },
                         {
@@ -4030,14 +3981,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヒダリィ"
+                                "Hidarii"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ヒダリィ』です！"
+                                "I'm Hidarii!"
                             ]
                         },
                         {
@@ -4087,14 +4038,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミギィ"
+                                "Migii"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ミギィ』です！"
+                                "I'm Migii!"
                             ]
                         },
                         {
@@ -4121,21 +4072,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]いきなり分かるようになったぞ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自己紹介が上手すぎかっ…！！"
+                                "\\SE[17]I suddenly understood...! My self-introduction skills are\ntoo good...!!"
                             ]
                         },
                         {
@@ -4185,21 +4129,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『あちらの戦い』は、どうなりました？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.被害が出ていないといいのだけれど…。"
+                                "\\SE[2] How did the battle over there go? I hope there were no\ncasualties..."
                             ]
                         },
                         {
@@ -4271,35 +4208,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミギィ"
+                                "Migii"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "形勢はやや不利な状況で進行していましたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『姫様』と『理事長』の一騎打ちで幕引きとなりました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!少々、手傷を負いましたが『姫様』は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バリバリ元気にお休みであられます！"
+                                "The situation was slightly unfavorable, but it ended with a one-\non-one duel between the Princess and the Chairman! \\!I suffered a\nlittle injury, but the Princess will be resting in high spirits!"
                             ]
                         },
                         {
@@ -4333,14 +4249,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[58]無茶するのね…。"
+                                "\\SE[58]She's being reckless..."
                             ]
                         },
                         {
@@ -4419,28 +4335,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヒダリィ"
+                                "Hidarii"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ですが、キャット殿の『閃光弾』で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "状況を『うやむや』にしてやりました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あちらの『体勢』を崩すことには成功したと思われます！"
+                                "However, with Lord Cat's Flash Bullet, I managed to make the\nsituation ambiguous! It seems that I was successful in disrupting\ntheir position over there!"
                             ]
                         },
                         {
@@ -4467,21 +4369,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]だけど『理事長』相手に無事に帰還するとは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あの『お姫様』もなかなかやるわね…。"
+                                "\\SE[72]But to safely return from facing the Chairman, that\nPrincess is quite impressive..."
                             ]
                         },
                         {
@@ -4555,21 +4450,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]さて…顔見せはこれくらいでいいわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ここから先は、チームを『二つ』に分けるわ。"
+                                "\\SE[76]Well... this should be enough for an introduction.\n\\SE[3]From here on, we will split the team into two groups."
                             ]
                         },
                         {
@@ -4580,21 +4468,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]まずバランスを考えて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『私』と『ルナロア』にそれぞれに割り振る。"
+                                "\\SE[2]First, let's consider the balance... Allocate it to 'me'\nand 'Lunaroa' respectively."
                             ]
                         },
                         {
@@ -4605,28 +4486,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]『私のチーム』は理事長を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]『ルナロアのチーム』はコーダイン王を…\\.討つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]…ここまでで意見はある？"
+                                "\\SE[52] My team will take on the Chairman. \\SE[51] Lunaroa's team\nwill go after King Codaen... to defeat him. \\SE[2]... Does anyone\nhave any objections so far?"
                             ]
                         },
                         {
@@ -4644,28 +4511,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]…大丈夫そうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ルートの都合上、キャットは私の方に入ってもらうわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ミギィ、ヒダリィはルナロアのほうに。"
+                                "\\SE[50]... It seems fine. \\!\\SE[3]Due to the route's\ncircumstances, Cat will join me. Migii and Hidarii will go with\nLunaroa."
                             ]
                         },
                         {
@@ -4676,21 +4529,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ラウラ、ヴィタはフリー枠なんだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]希望はあるかしら？"
+                                "\\SE[2]Laura, Vita are free slots, but... \\SE[3]Do you have any\npreferences?"
                             ]
                         },
                         {
@@ -4717,14 +4563,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]わ、\\.わたしは…！"
+                                "\\SE[102]I, I...!"
                             ]
                         },
                         {
@@ -4825,14 +4671,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]わたしが…\\.役に立てそうな方に……。"
+                                "\\SE[50]I... I want to be useful to someone who seems..."
                             ]
                         },
                         {
@@ -4852,28 +4698,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[60]いや、変な遠慮しなくていいわよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ルナロアのチームに入りなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その方が、この『変態』もやる気がでるでしょ。"
+                                "\\SE[60]No, you don't have to be so awkward... \\SE[3]Join\nLunaroa's team. That way, even this pervert will feel motivated."
                             ]
                         },
                         {
@@ -4893,14 +4725,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]本当に！？ \\.いいの…！？"
+                                "\\SE[1]Really!? Is it okay...!?"
                             ]
                         },
                         {
@@ -4980,21 +4812,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]同じチームで嬉しいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]私のこと、しっかり守ってね？"
+                                "\\SE\\SE[15]I'm glad we're on the same team. \\SE[15]Please protect\nme properly, okay?"
                             ]
                         },
                         {
@@ -5005,14 +4830,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]えへへー…\\.守るー…。"
+                                "\\SE[22]Ehehe... I'll protect..."
                             ]
                         },
                         {
@@ -5084,21 +4909,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]ねぇ、ベガ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.さっき私のこと、『変態』って\\.言わなかった？"
+                                "\\SE[57]Hey, Vega...? Didn't you call me a pervert earlier?"
                             ]
                         },
                         {
@@ -5109,28 +4927,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]いや、言ってないわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]こんな真面目な場面で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなこと言うわけないでしょ。"
+                                "\\SE[2]No, I didn't say that. \\!\\SE[3]I wouldn't say something\nlike that in such a serious situation."
                             ]
                         },
                         {
@@ -5222,21 +5026,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[42]ほんとかなぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[43]絶対に言ったと思うんだけどなぁ…。"
+                                "\\SE[42]I wonder if that's true... \\!\\SE[43]I'm pretty sure you\nsaid it for sure..."
                             ]
                         },
                         {
@@ -5261,28 +5058,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]…ってことで、\\.ヴィタはこっちでお願いね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]キャットは正直、頼りないからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あなたのことはアテにしているわ。"
+                                "\\SE[72]...So, Vita, I'll leave it to you over here.\n\\SE[7]Honestly, I can't rely on Cat, so I'm counting on you. I'm\ncounting on you."
                             ]
                         },
                         {
@@ -5363,21 +5146,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]仕方ないな…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部、\\.私に任せてくれていいぞ！"
+                                "\\SE[1]I guess there's no other choice...! Leave everything to me!"
                             ]
                         },
                         {
@@ -5796,14 +5572,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]あっ、今度は…\\.イカダ？"
+                                "\\SE[5]Ah, this time... a raft?"
                             ]
                         },
                         {
@@ -5913,28 +5689,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]侵入には今は亡き『自動ボートくん』の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.恋人である『スイスイちゃん』を使います！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]その先は引き返せないので、注意してください。"
+                                "\\SE\\SE[3]For the infiltration, I will use Auto Boat-kun, who is\nnow deceased, and his lover, Swishy-chan! \\SE[3]Once we go ahead,\nthere's no turning back, so please be careful."
                             ]
                         },
                         {
@@ -5945,14 +5707,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]おー……！"
+                                "\\SE[14]Oh...!"
                             ]
                         },
                         {
@@ -5970,14 +5732,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[100]（こっちは女の子なんだ。）"
+                                "\\SE[100] (I'm a girl here.)"
                             ]
                         },
                         {
@@ -5988,21 +5750,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]（恋人と離れ離れになってしまって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[48]　悲哀のカップルなのね…。）"
+                                "\\SE[47] (We've been separated from our lovers... \\SE[48] We're\nsuch a tragic couple...)"
                             ]
                         },
                         {
@@ -6253,28 +6008,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミギィ"
+                                "Migii"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…っと。そうでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユリシーン姫から激励の餞別を預かっておりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『ぜひ、役に立てて欲しいぞ！\\. ラウラ！！』\\!…だそうです。"
+                                "...Ah, that's right. I was entrusted with a farewell gift of\nencouragement from Princess Yurisine. She said, I hope you can\nmake good use of it, Laura!... apparently."
                             ]
                         },
                         {
@@ -6317,14 +6058,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]…なんで、名指し！？"
+                                "\\SE[12]...Why are you calling me out by name!?"
                             ]
                         },
                         {
@@ -6354,7 +6095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラは\\i[467]百合姫の勲章をもらった！\\$"
+                                "Laura received the Yuri Princess Medal! $"
                             ]
                         },
                         {

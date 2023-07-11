@@ -1663,21 +1663,14 @@
                                 0,
                                 0,
                                 2,
-                                "宿屋の店主"
+                                "Innkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな辺境にようこそ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一泊10Gになりますが、\\.泊っていきますか？\\!"
+                                "Welcome to this remote place. It will be 10G per night, how many\nnights will you be staying?"
                             ]
                         },
                         {
@@ -1817,14 +1810,14 @@
                                 0,
                                 0,
                                 2,
-                                "宿屋の店主"
+                                "Innkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お、お金が足りないです…。"
+                                "Oh, I don't have enough money..."
                             ]
                         },
                         {
@@ -1919,21 +1912,14 @@
                                 0,
                                 0,
                                 2,
-                                "宿屋の店主"
+                                "Innkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村長さんから『お代』は頂いています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.今夜は泊っていきますか？\\!"
+                                "I have received the payment from the village chief. Will you be\nstaying overnight tonight?"
                             ]
                         },
                         {
@@ -2093,7 +2079,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ラウラ！ \\.起きてっ！！"
+                                "Laura! Wake up!!"
                             ]
                         },
                         {
@@ -2253,7 +2239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "10G 手に入れた！\\$"
+                                "Acquired 10G! \\$"
                             ]
                         },
                         {

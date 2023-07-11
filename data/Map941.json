@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "都会 ～進捗４９％～",
+    "displayName": "Urban Area ~Progress 49%~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9305,21 +9305,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]ここは…結構、華やかなのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[63]人が多くて…ちょっと、\\.酔う…。"
+                                "\\SE[0]This place... is quite glamorous, isn't it? \\SE[63]There\nare so many people... it's a bit overwhelming..."
                             ]
                         },
                         {
@@ -9330,21 +9323,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]一番『都会』の設定だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]北の方に行くと、お城に入ることもできるよ。"
+                                "\\SE\\SE[0]Because it's set in the city after all. \\!\\SE[0]If you\ngo north, you can even enter the castle."
                             ]
                         },
                         {
@@ -9495,28 +9481,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]なんだか『ユリシーン』に雰囲気が似てるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私、この町が気になるかもー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]ここを『出身』に選んだらどうなるの？"
+                                "\\SE\\SE[2]This place feels similar to Ulyssean, doesn't it? \\.I\nmight be interested in this town. \\!\\SE[2]What would happen if I\nchose this as my hometown?"
                             ]
                         },
                         {
@@ -9534,28 +9506,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]ここでは『お金になる仕事』がいっぱいあるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]資金や人脈の選択肢も多く用意してあるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『魔法』を使いたいなら『都会』スタートがおすすめ。"
+                                "\\SE[4]There are plenty of money-making jobs here. \\SE[0]There are\nalso many options for funds and connections, so if you want to\nuse magic, starting in the city is recommended."
                             ]
                         },
                         {
@@ -9573,21 +9531,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]なるほど、『資本主義経済』なのね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]愉快な遊びが出来てしまうと…。"
+                                "\\SE\\SE[13]I see, it's a capitalist economy! \\SE[13]It seems like\nI can have some fun..."
                             ]
                         },
                         {
@@ -9607,14 +9558,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[44]ただちょっと、問題もあって…。"
+                                "\\SE[44]However, there is a little problem..."
                             ]
                         },
                         {
@@ -9824,14 +9775,14 @@
                                 0,
                                 0,
                                 2,
-                                "おじさん"
+                                "Uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（くんくん…。）"
+                                "*sniff sniff...*"
                             ]
                         },
                         {
@@ -9849,14 +9800,14 @@
                                 0,
                                 0,
                                 2,
-                                "おじさん"
+                                "Uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}（うん、\\.いいな…。）"
+                                "\\} (Hmm, sounds nice...)"
                             ]
                         },
                         {
@@ -9874,14 +9825,14 @@
                                 0,
                                 0,
                                 2,
-                                "おじさん"
+                                "Uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねぇ、そこのきみ…。"
+                                "Hey, you there..."
                             ]
                         },
                         {
@@ -10049,21 +10000,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[64]びっ\\.\\.っっくりしたぁ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]あの、私が何か…？"
+                                "\\SE[64]I-I'm surprised!! \\SE[2]Um, did I do something...?"
                             ]
                         },
                         {
@@ -10097,28 +10041,14 @@
                                 0,
                                 0,
                                 2,
-                                "おじさん"
+                                "Uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やばっ…ときめいた……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ねぇきみ、『お金』欲しくない…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『いいこと』したら『お金』\\.たくさんあげるけど…。"
+                                "Oh no... I'm feeling excited... Hey, do you want some money? If\nyou do something good, I'll give you a lot of money..."
                             ]
                         },
                         {
@@ -10145,14 +10075,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『いいこと』って\\.『幸せなこと』？"
+                                "\\SE[2]Doing something 'good'... is it something that brings\nhappiness?"
                             ]
                         },
                         {
@@ -10163,21 +10093,14 @@
                                 0,
                                 0,
                                 2,
-                                "おじさん"
+                                "Uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうとも…\\.\\いえるね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!特におじさんは『幸せ』に\\.なっちゃうかな…。"
+                                "That's right... Well, I guess... Especially for me, I might\nbecome 'happy'..."
                             ]
                         },
                         {
@@ -10197,28 +10120,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]なんて素敵なことなの…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]それは迷うことなんてないわ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私でよければいくらでも『いいこと』してあげる！"
+                                "\\SE[16]How wonderful...! \\SE[15]There's no hesitation for me...!\nIf it's me, I'll do as many good things as you want!"
                             ]
                         },
                         {
@@ -10245,21 +10154,14 @@
                                 0,
                                 0,
                                 2,
-                                "おじさん"
+                                "Uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃ、じゃあ…さっそくそこの『宿』で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.癒してもらおっかな…？"
+                                "Well then... how about you heal me at that inn over there...?"
                             ]
                         },
                         {
@@ -10557,21 +10459,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]ちょ、ちょっと大丈夫なの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]あれは明らかにやばいやつでしょ…？"
+                                "\\SE[12]Hey, hey, are you okay? \\SE[9]That's clearly a dangerous\nperson, right...?"
                             ]
                         },
                         {
@@ -10582,28 +10477,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]こうなってしまったら、天に祈るのみ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]ここから『セックスバトル』が始まって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝てば『大金』、\\.負けると『妊娠』するよ。"
+                                "\\SE[14]If it has come to this, all we can do is pray to the\nheavens... \\!\\SE[15]From here on, the Sex Battle begins, and if\nyou win, you'll receive a large sum of money, but if you lose,\nyou'll become pregnant."
                             ]
                         },
                         {
@@ -10623,21 +10504,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[82]に、『妊娠』…！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]それはリスクが高すぎるでしょ…！？"
+                                "\\SE[82]Pregnancy...!!? \\SE[9]That's too risky...!"
                             ]
                         },
                         {
@@ -10655,28 +10529,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[44]やっぱりそうか…『ナーフ』しないとな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この辺りのさじ加減が難しいなぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]…あっ。始まったみたい。"
+                                "\\SE[44]As I thought... I'll have to nerf it. \\.Finding the right\nbalance around here is difficult.... \\!\\SE[3]...Oh, it seems to\nhave started."
                             ]
                         },
                         {
@@ -10728,21 +10588,14 @@
                                 0,
                                 0,
                                 2,
-                                "おじさん"
+                                "Uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きみ、やるねぇ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.おじさんが『本気』を出すことになるなんてねぇ…！"
+                                "You're quite something...! I never thought I'd have to bring out\nmy serious side...!"
                             ]
                         },
                         {
@@ -10760,21 +10613,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]遠慮せずにいらっしゃって…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]私、リードしてくれるお方が好みですから。"
+                                "\\SE[46]Please don't hold back and come on in...? \\SE[15]I prefer\nsomeone who takes the lead, you know."
                             ]
                         },
                         {
@@ -10785,14 +10631,14 @@
                                 0,
                                 0,
                                 2,
-                                "おじさん"
+                                "Uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこまで言われたら、引けないねぇ…！"
+                                "If you put it that way, I can't back down...!"
                             ]
                         },
                         {
@@ -10889,21 +10735,14 @@
                                 0,
                                 0,
                                 2,
-                                "おじさん"
+                                "Uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐあっ…！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ばかな、この私が…こんな子供に…！？"
+                                "Guah...!!! How foolish of me... to be defeated by a child like\nthis...!?"
                             ]
                         },
                         {
@@ -10921,28 +10760,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]私の勝ち…\\.ですね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]『いいこと』…したいんですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.嫌になるほど、たくさんあげますわ…♥"
+                                "\\SE\\SE[45]I won... right? \\SE[45]You want to do some good things,\ndon't you? I'll give you so many that you'll get sick of it... ♥"
                             ]
                         },
                         {
@@ -10953,21 +10778,14 @@
                                 0,
                                 0,
                                 2,
-                                "おじさん"
+                                "Uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、まって…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!せめて、やすませっ…！！"
+                                "W-Wait...! At least let me rest...!!"
                             ]
                         },
                         {
@@ -11004,35 +10822,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]だめです♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]もう『弱点』は全部分かりましたから…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おじさまの体なんて、『イチコロ』です♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]ねっ…ここがいいんでしょう…？"
+                                "\\SE[15]No good ♥ \\!\\SE[16]I already know all of your weak\npoints...♥ Your body, Uncle, is a piece of cake ♥♥♥\n\\!\\SE[15]Right... this place is good, isn't it...?"
                             ]
                         },
                         {
@@ -11050,21 +10847,14 @@
                                 0,
                                 0,
                                 2,
-                                "おじさん"
+                                "Uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そんなに、したら…\\.もう…！！"
+                                "Guh...!! If you do that... anymore... I...!!"
                             ]
                         },
                         {
@@ -11089,35 +10879,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]あらあら、はしたない…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[50]でも、まだ物足りないでしょう…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.いくらでも『いいこと』\\.してさしあげます…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]いいんですよ。何度、\\.逝ってしまっても…♥"
+                                "\\SE[51]Oh my, how indecent...♥ \\SE[50]But, it's still not enough,\nis it...? I'll give you as much good things as you want...♥\n\\SE[16]It's fine. No matter how many times you... climax...♥"
                             ]
                         },
                         {
@@ -11147,21 +10916,14 @@
                                 0,
                                 0,
                                 2,
-                                "おじさん"
+                                "Uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぃ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.だれか、助けっ…！！！"
+                                "Eek...!! Someone, help...!!!"
                             ]
                         },
                         {
@@ -11195,28 +10957,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]あのおじさんを倒すとは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]所見では対応が難しい設定にしてたのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乗り越えてしまうとは、なかなかやるな…。"
+                                "\\SE[16]To defeat that uncle... \\!\\SE[15]I had set up a difficult\nscenario to handle, but you managed to overcome it. You're quite\nimpressive..."
                             ]
                         },
                         {
@@ -11236,14 +10984,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]うん、私は『都会』はやめておくわ。"
+                                "\\SE[3]Yes, I'll pass on the city life."
                             ]
                         },
                         {
@@ -11299,7 +11047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[809]アリスのぱんつを手に入れた！"
+                                "\\i[809] Obtained Alice's panties!"
                             ]
                         },
                         {

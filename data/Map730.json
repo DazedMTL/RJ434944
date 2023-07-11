@@ -5835,14 +5835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…返事がない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げられたのか…手遅れなのか…。"
+                                "...No response. Did they escape... or is it too late..."
                             ]
                         },
                         {
@@ -5920,14 +5913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそハタヤキ村へ！…と書いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この村はこれからどうなってしまうのだろう。"
+                                "Welcome to Hatayaki Village!... That's what it says. I wonder\nwhat will happen to this village from now on."
                             ]
                         },
                         {
@@ -6110,21 +6096,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]お願い…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.間に合って…！！"
+                                "\\SE[9]Please...! Make it in time...!!"
                             ]
                         },
                         {
@@ -6393,14 +6372,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[82]そ、そんな…！"
+                                "\\SE[82]S-Such...!"
                             ]
                         },
                         {
@@ -6470,21 +6449,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[84]あの…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.大丈夫ですか…！？"
+                                "\\SE[84]Um...! Are you okay...!?"
                             ]
                         },
                         {
@@ -6502,14 +6474,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[28]……っ！"
+                                "\\SE[28]......!"
                             ]
                         },
                         {
@@ -6642,14 +6614,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]この人も…。"
+                                "\\SE[52]This person too..."
                             ]
                         },
                         {
@@ -6829,21 +6801,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]（この人はまだ息がある…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[38]だけど、これは\\.『もう』…。）"
+                                "\\SE[52] (This person is still breathing... \\!\\SE[38] but this is\nalready... over...)"
                             ]
                         },
                         {
@@ -6861,14 +6826,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[58]くっ…！"
+                                "\\SE[58]Kuh...!"
                             ]
                         },
                         {
@@ -6964,21 +6929,14 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
+                                "Villager"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、まってくれ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.助け…\\.助けてくれよ…！"
+                                "W-Wait... H-Help... Please... Help me...!"
                             ]
                         },
                         {
@@ -7027,21 +6985,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]（ど、どうしよう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[53]あの人は、もう\\.『助からない。』）"
+                                "\\SE[52](W-What should I do... \\!\\SE[53]That person... they're\nalready \\.beyond saving.)"
                             ]
                         },
                         {
@@ -7059,21 +7010,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]（私に出来ることは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[38]もう、\\.『何もない。』）"
+                                "\\SE[38](There is nothing... \\!\\SE[38]I can do anymore.])"
                             ]
                         },
                         {
@@ -7093,21 +7037,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[59]（さ、先を急がないと…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[58]お父さんも、お母さんも…\\.ラウラも…！）"
+                                "\\SE[59](I-I need to hurry...! My father, my mother... Laura\ntoo...)"
                             ]
                         },
                         {
@@ -7185,21 +7122,14 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
+                                "Villager"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだよ…\\.見捨てるのかよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!じゃあ、\\.『代わり』に……。"
+                                "What... are you just going to abandon me...? Then, as a\nreplacement..."
                             ]
                         },
                         {
@@ -7217,28 +7147,14 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
+                                "Villager"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "代わりに、俺を\\.『殺して』くれよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もう、\\.寒くて、\\.目が見えなくて…\\.怖いんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『もうだめ』なのは…\\.自分でも分かるんだ……。"
+                                "Please... kill me instead... I'm already... so cold, I can't\nsee... I'm scared. I know... that I'm already... beyond help..."
                             ]
                         },
                         {
@@ -7258,28 +7174,14 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
+                                "Villager"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その制服…知ってるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『黒制服』…ってやつなんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あんた…なら、\\.簡単にできる…はず…\\.だろ？"
+                                "I know that uniform. It's the Black Uniform, right? If it's you,\nyou should be able to do it easily... right?"
                             ]
                         },
                         {
@@ -7290,28 +7192,14 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
+                                "Villager"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たのむ…\\.『楽に』してくれ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!死ぬのをただ待つのは…こわいんだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!頼む…\\.頼むよ……。"
+                                "Please... make it easier for me... I'm scared of just waiting to\ndie... Please... I'm begging you... I'm begging you..."
                             ]
                         },
                         {
@@ -7348,14 +7236,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[77]（ど、どうしよう…！？）\\!"
+                                "\\SE[77] (W-What should I do...!?)"
                             ]
                         },
                         {
@@ -7409,14 +7297,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[38]分かり、\\.ました…。"
+                                "\\SE[38]I understand..."
                             ]
                         },
                         {
@@ -7496,21 +7384,14 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
+                                "Villager"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あがっ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!あ、ありが…\\.とう…。"
+                                "Ahh...!! Th-thank... you..."
                             ]
                         },
                         {
@@ -7558,14 +7439,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[28]…………っ！"
+                                "\\SE[28]............!"
                             ]
                         },
                         {
@@ -7990,21 +7871,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[52]ご、ごめんなさい…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\SE[23]そんなこと、\\.私には…！！"
+                                "\\SE[52]I-I'm sorry...! \\!\\SE[23]I can't... do something like\nthat...!!"
                             ]
                         },
                         {
@@ -8322,21 +8196,14 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
+                                "Villager"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…！ \\.なぁ…どこ行くんだよ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!なんで、\\.助けてくれないんだよ…！！！"
+                                "...! Hey... where are you going...!! Why won't you help me...!!!"
                             ]
                         },
                         {
@@ -8354,14 +8221,14 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
+                                "Villager"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{…どうして、\\.行っちまうんだよぉ……。"
+                                "\\{...Why are you leaving me..."
                             ]
                         },
                         {
@@ -8401,21 +8268,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どいてっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私の邪魔をしないで…！！！"
+                                "Get out of the way...! Don't interfere with me...!!!"
                             ]
                         },
                         {
@@ -8748,14 +8608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "楽しい豚はこちら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "↓でぬくもりに触れて幸せになろう！"
+                                "Here is a fun pig! Let's touch it and become happy with its\nwarmth!"
                             ]
                         },
                         {
@@ -8833,21 +8686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "豚飼育用のとうもろこしを育てています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "窃盗は犯罪です。絶対にやってはいけません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛い豚がお腹を空かせるのは可哀そうだと思いませんか？"
+                                "I am growing corn for pig farming. Theft is a crime. You should\nnever do it. Don't you think it's pitiful to see cute pigs go\nhungry?"
                             ]
                         },
                         {
@@ -8925,14 +8764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作物が荒らされている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "食用としてはもう無理だろう。"
+                                "The crops have been destroyed... It's probably impossible to use\nthem as food anymore."
                             ]
                         },
                         {
@@ -9095,14 +8927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハタヤキ村一番の焚火はまだ消えていないようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し元気が湧いてくる。体力が全回復した。"
+                                "The bonfire in Hatayaki Village's number one spot doesn't seem to\nhave gone out yet. I feel a little energized. My stamina has\nfully recovered."
                             ]
                         },
                         {

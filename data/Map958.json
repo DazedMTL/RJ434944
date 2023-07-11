@@ -3646,28 +3646,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]…ねぇ、ラウラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.張り切るのもいいんだけど、\\.少し休んだら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]そりゃ、なんでもしてくれて助かりはするけど…。"
+                                "\\SE[3]...Hey, Laura. It's great that you're so enthusiastic, but\nhow about taking a little break? \\SE[1]Sure, I appreciate that\nyou're willing to do anything for me, but..."
                             ]
                         },
                         {
@@ -3694,21 +3680,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ううん、\\.気にしないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[5]なんだか体を動かしてないと、落ち着かなくて…。"
+                                "\\SE[2]No, don't worry about it. \\SE[5]I just can't seem to calm\ndown if I don't move my body a bit..."
                             ]
                         },
                         {
@@ -3719,28 +3698,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]それにね。\\.環境が少し変わったから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.早めに慣れておきたいなぁ…っていうのもあって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あっ、\\.今日の『晩御飯』は何が食べたい？"
+                                "\\SE\\SE[3]And also, you know... Since the environment has changed\na bit, I want to get used to it as soon as possible... That's\nanother reason. \\SE[3]Oh, by the way... What do you want to eat\nfor tonight's dinner?"
                             ]
                         },
                         {
@@ -3774,14 +3739,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]じゃあ…\\.『カレーライス』がいい。"
+                                "\\SE[11]Well then... I want curry rice."
                             ]
                         },
                         {
@@ -3860,35 +3825,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[13]んっ…！ \\.任せてっ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]じゃあ、『スパイス』から作っちゃおうかな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ヴィタならその辺り詳しそうだし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]気合入れて作っちゃうから、楽しみにしてて…！"
+                                "\\SM[nod]\\SE[13]Hmm...! Leave it to me...!! \\SE[3]Then, should I\nmake it with spices! Vita seems to know a lot about that kind of\nthing! \\SE[1]I'll put my heart into making it, so look forward to\nit...!"
                             ]
                         },
                         {
@@ -3906,14 +3850,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]う、うん…\\.ありがと。"
+                                "\\SE[2]Uh, yeah... Thanks."
                             ]
                         },
                         {
@@ -4111,21 +4055,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[56]完全に『躁状態』よね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[37]変に『目標』がある分、状況的に仕方ないかもだけど。"
+                                "\\SE[56]She's completely in a manic state, isn't she...\n\\!\\SE[37]It might be unavoidable given the circumstances with her\nhaving a strange goal."
                             ]
                         },
                         {
@@ -4143,28 +4080,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]とは言っても『情報待ち』しか出来ることはないし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[36]おいしい『カレーライス』が作られるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それは、それでいいのかなぁ…\\.\\SE[37]うーん…。"
+                                "\\SE[51]Even though all I can do is wait for information...\n\\SE[36]If delicious curry rice is being made, \\SE[37]I guess\nthat's fine... Hmm..."
                             ]
                         },
                         {
@@ -4331,14 +4254,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]あっ、おかえりなさい。\\.『お姉さま』…。"
+                                "\\SE[3]Ah, welcome back... 'Onee-sama'..."
                             ]
                         },
                         {
@@ -4358,21 +4281,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あら、珍しく浮かない顔ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何か気にかかることでもあった？"
+                                "\\SE[2]Oh, you have an unusual expression. Is there something\nbothering you?"
                             ]
                         },
                         {
@@ -4383,21 +4299,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[23]あはは…\\.すぐばれちゃいますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]でも、私のことじゃなくて…。"
+                                "\\SE[23]Ahaha... It's easy to see through, huh. But it's not about\nme..."
                             ]
                         },
                         {
@@ -4666,14 +4575,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]あぁ…。"
+                                "\\SE[74]Ah..."
                             ]
                         },
                         {
@@ -4807,21 +4716,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]私の目から見ても、明らかに無理してるし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[37]このままでいいのかな…\\.って"
+                                "\\SE[51]Even from my perspective, it's clear that she's forcing\nherself... \\!\\SE[37]Is it really okay like this..."
                             ]
                         },
                         {
@@ -4841,28 +4743,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]まぁ…いいんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.人生に『目的』があるのはいいことだと思うわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]たとえ、それが暗いものであったとしても。"
+                                "\\SE[2]Well... isn't it fine? I think it's a good thing to have a\npurpose in life. \\SE[3]Even if that purpose is something dark."
                             ]
                         },
                         {
@@ -4882,14 +4770,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]ポジティブですね…。"
+                                "\\SE[11]You're positive, aren't you..."
                             ]
                         },
                         {
@@ -4907,35 +4795,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あの子とも『長い付き合い』だけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]不器用なりに、基本的になんでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.まっすぐ一生懸命に向き合うタイプじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[50]反面、『軸』を持てなかったところがあったんだけど…。"
+                                "\\SE\\SE[50]I've known that girl for a long time, but... \\SE[3]In\nher own clumsy way, she's the type who wholeheartedly faces\nanything straightforwardly, right? \\SE[50]On the other hand,\nthere was a part of her that couldn't establish a core."
                             ]
                         },
                         {
@@ -4946,28 +4813,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]そんな人間が一つのことに目を向けて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『強く』生きようとしてる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]なら、それはそれでいいんじゃないかしら。"
+                                "\\SE[74]If someone like that is focusing on one thing... trying to\nlive strongly... \\SE[3]Then, isn't that fine?"
                             ]
                         },
                         {
@@ -4987,28 +4840,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]（そうだった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[56]『お姉さま』は『求道者』みたいに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\.精神力がバグってるんだった…。）"
+                                "\\SE[12] (That's right... \\SE[56] 'Onee-sama' is like a 'seeker of\nenlightenment' with a messed up mental strength...)"
                             ]
                         },
                         {
@@ -5292,21 +5131,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[double]\\SE[16]『キャットちゃんニュース』\\.です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[0]新しい情報が入ってきましたよー！！"
+                                "\\SM[double]\\SE[16] Cat-chan News is here! \\SE[0] We have received\nsome new information!"
                             ]
                         },
                         {
@@ -5433,14 +5265,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]何かわかったの！？"
+                                "\\SE[16]Did you figure something out!?"
                             ]
                         },
                         {
@@ -5460,21 +5292,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]あっ…\\.ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[37]『魔女さん』のほうはもう少し時間がかかりそうで…。"
+                                "\\SE[52]Ah... I'm sorry. \\SE[37]It seems like it will take a\nlittle more time for the witch part..."
                             ]
                         },
                         {
@@ -5494,14 +5319,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[65]そ、そうなの…。"
+                                "\\SE[65]I-Is that so..."
                             ]
                         },
                         {
@@ -5542,21 +5367,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]んで、なんなの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.その新しい『情報』っていうのは。"
+                                "\\SE[1]So, what is it? That new information you mentioned."
                             ]
                         },
                         {
@@ -5628,28 +5446,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]こ、こっちも重要な『情報』なんですよ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[37]頼まれたのは『３年以上前』なので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.かなり遅くなってしまったんですけど…！！"
+                                "\\SE[4]Th-this is also important information...! \\SE[37]I was\nasked to do it over 3 years ago, so it's quite late...!!"
                             ]
                         },
                         {
@@ -5667,14 +5471,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『ニキータ』さんって…\\.女性の方なのですが。"
+                                "\\SE[2] Nikita is... a woman."
                             ]
                         },
                         {

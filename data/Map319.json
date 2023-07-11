@@ -2293,14 +2293,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]あらっ…\\.こんな所に宿があったのね。"
+                                "\\SE[4]Oh my... There's an inn in a place like this."
                             ]
                         },
                         {
@@ -2334,21 +2334,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]少し早いけど、今日はここまでにして休んでいく？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[20]みんな、ここまで強行軍だったし…。"
+                                "\\SE[2]It's a little early, but are we going to rest here for\ntoday? \\SE[20]We've all been pushing ourselves this far..."
                             ]
                         },
                         {
@@ -2406,21 +2399,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]キャット。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ここは、立地的には…\\.どう？"
+                                "\\SE[4]Cat. \\.In terms of location...\\.What do you think?"
                             ]
                         },
                         {
@@ -2499,21 +2485,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]すでに『ユリシーン領内』ですし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[15]追手も撒けたと判断していいかと思います！"
+                                "\\SE\\SE[15]We are already within the Yuriseen territory, so\n\\SE[15]I think we can assume that we have lost our pursuers!"
                             ]
                         },
                         {
@@ -2562,21 +2541,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あんたがそういうなら…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ラウラ、\\.ヴィタ。\\.あなたたちはどう？"
+                                "\\SE[2]If you say so... \\SE[3]Laura, Vita, what do you think?"
                             ]
                         },
                         {
@@ -2619,14 +2591,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[44]正直なところ…。"
+                                "\\SE[44]To be honest..."
                             ]
                         },
                         {
@@ -2651,14 +2623,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]今すぐにでもベッドで寝たい…。"
+                                "\\SE[51]I want to sleep in a bed right now..."
                             ]
                         },
                         {
@@ -2669,21 +2641,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]決まりね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.正直、私も休みたくて仕方なかったわ…。"
+                                "\\SE[72]That's settled. To be honest, I was really looking forward\nto taking a break too..."
                             ]
                         },
                         {
@@ -3899,14 +3864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　ユリシーン方面↑"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "←コーダイン方面"
+                                "Ulyssean Area ↑: ← Caudine Area"
                             ]
                         },
                         {
@@ -4524,7 +4482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[531]割れたつぼを手に入れた！\\$"
+                                "\\i[531] Obtained a broken pot! \\$"
                             ]
                         },
                         {
@@ -5221,14 +5179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "年季の入った『犬小屋』だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.大切に育てられているみたい…。"
+                                "It's an old doghouse. It seems to be well taken care of..."
                             ]
                         },
                         {

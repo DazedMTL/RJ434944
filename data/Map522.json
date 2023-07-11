@@ -41628,14 +41628,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あらっ…ここは開かないわ。"
+                                "\\SE[2]Oh my... This won't open."
                             ]
                         },
                         {
@@ -41646,21 +41646,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]壊れているみたいね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]別の所を探索してみましょう。"
+                                "\\SE[2]It seems to be broken... \\!\\SE[3]Let's try exploring\nsomewhere else."
                             ]
                         },
                         {
@@ -41830,14 +41823,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]少し…雰囲気が変わったね。"
+                                "\\SE[2]It feels like... something has changed a little."
                             ]
                         },
                         {
@@ -41848,21 +41841,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]深い階層は老朽化が進んでると聞いたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[5]そのせいで、魔物の住処になったのかもね。"
+                                "\\SE[4]I heard that the deeper levels have been deteriorating.\n\\SE[5]Because of that, it might have become a habitat for\nmonsters."
                             ]
                         },
                         {
@@ -41873,14 +41859,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]なるほどねー……。"
+                                "\\SE[4]I see..."
                             ]
                         },
                         {
@@ -42149,7 +42135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "2500\\G 手に入れた！\\$"
+                                "2500\\G Acquired! \\$"
                             ]
                         },
                         {
@@ -43674,7 +43660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[414]天使のつのぶえを手に入れた！\\$"
+                                "\\i[414] I obtained the horn of an angel! $"
                             ]
                         },
                         {
@@ -44497,7 +44483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[388]ケアキュアβを手に入れた！\\$"
+                                "\\i[388] I obtained the Care Cure β! \\$"
                             ]
                         },
                         {
@@ -44729,7 +44715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[531]割れたつぼを手に入れた！\\$"
+                                "\\i[531] Obtained a broken pot! \\$"
                             ]
                         },
                         {
@@ -45448,7 +45434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life Alpha! $"
                             ]
                         },
                         {
@@ -46167,7 +46153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフβを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life β! \\$"
                             ]
                         },
                         {

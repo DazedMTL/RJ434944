@@ -3220,14 +3220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "炎の揺らめきに心が落ち着いていく…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!パーティの体力が全回復した！"
+                                "The heart calms down in the flickering of flames.... \\! The\nparty's health has been fully restored!"
                             ]
                         },
                         {
@@ -3804,14 +3797,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]わっ…\\.こんな場所があったのね。"
+                                "\\SE[2]Oh... I didn't know there was a place like this."
                             ]
                         },
                         {
@@ -3822,28 +3815,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]ここで一旦、体勢を整えつつ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユリシーンに援軍の要請を送って…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]然る後に敵の本丸に突撃…！\\!\\SE[15]の予定です！"
+                                "\\SE[12]For now, let's regroup here and send a request for\nreinforcements to Yurisine... \\!\\SE[13]After that, we'll launch a\ndirect assault on the enemy's main base...!\\!\\SE[15] That's the\nplan!"
                             ]
                         },
                         {
@@ -3901,21 +3880,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]援軍の人たちにはどうやって伝えるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]結構遠かったし、道は隠れてるし。"
+                                "\\SE[4]How are we going to communicate with the reinforcements?\n\\SE[3]It's quite far and the path is hidden."
                             ]
                         },
                         {
@@ -3987,21 +3959,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]よくぞ聞いてくれました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.このための仕込みがあるんです…！"
+                                "\\SE[1]Thank you for asking! There is a preparation for this...!"
                             ]
                         },
                         {
@@ -4290,14 +4255,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あっ、可愛い…\\.小舟？"
+                                "\\SE[1]Ah, how cute... A small boat?"
                             ]
                         },
                         {
@@ -4400,21 +4365,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]夜なべして作った『自動ボートくん』です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]彼に『メッセンジャー』を務めてもらいます！"
+                                "\\SE[14]This is the Auto Boat-kun that I stayed up all night to\nmake! \\SE[10]He will serve as our Messenger!"
                             ]
                         },
                         {
@@ -4425,14 +4383,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]おー…なんか、\\.すごそう…？"
+                                "\\SE[16]Oh... It looks impressive...?"
                             ]
                         },
                         {
@@ -4450,14 +4408,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]（男の子なんだ。）"
+                                "\\SE[17] (He's a boy.)"
                             ]
                         },
                         {
@@ -4535,21 +4493,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]さっ！\\.旅立ちの時です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]己の役割をこなす時がきましたよ…！"
+                                "\\SE[16]Alright! It's time to set off on our journey! \\SE[10]The\ntime has come for each of us to fulfill our roles...!"
                             ]
                         },
                         {
@@ -5199,21 +5150,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]なにィ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そっちに行くのか…！？"
+                                "\\SE[17]What?! Are we going over there...!?"
                             ]
                         },
                         {
@@ -5233,21 +5177,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]まっすぐ行くと思ったでしょう…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]違うんです、水門の開閉を利用してあっちに流すんです！"
+                                "\\SE[11]You thought we were going straight...!? \\SE[15]No, we're\nactually going to use the opening and closing of the floodgate to\ndivert the flow over there!"
                             ]
                         },
                         {
@@ -5258,14 +5195,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[100]（まっすぐ行くと思った…。）"
+                                "\\SE[100] (I thought we were going straight...)"
                             ]
                         },
                         {
@@ -5276,14 +5213,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]（まっすぐ行くと思ったのに…。）"
+                                "\\SE[57] (I thought we were going straight...)"
                             ]
                         },
                         {
@@ -5370,28 +5307,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]まぁ…これで手筈通りなのね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それなら、少し休みましょうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]本番は、これからだものね。"
+                                "\\SE[76]Well... so this is going according to plan? \\.In that\ncase, shall we take a little break? \\!\\SE[3]The real thing starts\nfrom now on, after all."
                             ]
                         },
                         {

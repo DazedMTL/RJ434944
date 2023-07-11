@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "ワールドマップ 進捗６３％",
+    "displayName": "World Map Progress 63%",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -10633,28 +10633,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]島が浮いている…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何か不思議な雰囲気ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あそこはどうやって行くのかしら…？"
+                                "\\SE[0]The island is floating...? It has such a mysterious\natmosphere. \\SE[3]I wonder how we can get there...?"
                             ]
                         },
                         {
@@ -10665,21 +10651,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なにか『アイテム』が必要そう…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]むむっ…\\.気になる…。"
+                                "\\SE[2]It seems like we need some kind of item...? \\SE[13]Hmm...\nIt's intriguing..."
                             ]
                         },
                         {
@@ -10704,21 +10683,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]（興味しんしんみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　やっぱりこういう配置が燃えるんだな…。）"
+                                "\\SE[14] (Seems like you're really interested. \\. As expected,\nthis kind of setup really gets you fired up...)"
                             ]
                         },
                         {
@@ -10736,14 +10708,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]（まぁ、道は作ってないから行く方法はないんだけど。）"
+                                "\\SE[15] (Well, there's no way to get there since there's no\npath.)"
                             ]
                         },
                         {
@@ -11079,14 +11051,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]…っ！？"
+                                "\\SE[16]...!?"
                             ]
                         },
                         {
@@ -11104,21 +11076,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]なんなのこの世界…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]まるで、わくわくが『無限』に広がっていくような…。"
+                                "\\SE[14]What is this world... \\!\\SE[13]It's as if excitement is\nspreading 'infinitely'..."
                             ]
                         },
                         {
@@ -11143,28 +11108,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[25]ぜ、全然作り途中なんだけどね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[6]未完成なところを見られるのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.結構、恥ずかしいんだけど…。"
+                                "\\SE[25]W-Well, it's still a work in progress... \\!\\SE[6]It's\nquite embarrassing to have my unfinished parts seen..."
                             ]
                         },
                         {
@@ -11184,14 +11135,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]（もしかしてヴィタって…\\.すごい子？）"
+                                "\\SE[12] (Could it be that Vita is... an amazing girl?)"
                             ]
                         },
                         {
@@ -11284,14 +11235,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ちょっと上を見てみて。"
+                                "\\SE[1]Look up for a moment."
                             ]
                         },
                         {
@@ -11344,28 +11295,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]今回の『クソゲー』は『フリーシナリオシステム』なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.プレイヤーごとに自由な遊びが出来るようになっていて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]規模が大きいせいで、時間がかかってる感じ…。"
+                                "\\SE[4]This time's shitty game has a free scenario system. \\.It\nallows players to have free play... \\!\\SE[3]Because of its large\nscale, it feels like it's taking a lot of time..."
                             ]
                         },
                         {
@@ -11376,28 +11313,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]町が３つ見えるでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]そこから『出身』と\\.『職業』を\\.選べるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]それぞれ違った『メリット』を得られるよ。"
+                                "\\SE[4]Can you see the three towns? \\SE[0]You can choose your\nhometown and occupation from there. \\SE[1]Each one offers\ndifferent benefits."
                             ]
                         },
                         {
@@ -11429,14 +11352,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]『出身』と、\\.『職業』…。"
+                                "\\SE[0] Hometown and occupation...."
                             ]
                         },
                         {
@@ -11447,14 +11370,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『生まれ方』を選べるんだ…。"
+                                "\\SE[2]You can choose your birth...."
                             ]
                         },
                         {
@@ -11520,21 +11443,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『デバッグ』の前にちょっと町を見てみる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]何を作ろうとしてるか分かった方がやる気になるかも…。"
+                                "\\SE[2]Before debugging, would you like to take a look at the\ntown? \\!\\SE[0]You might feel more motivated if you understand\nwhat we're trying to create..."
                             ]
                         },
                         {
@@ -11613,21 +11529,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]やった。見れるの…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]ドキドキしちゃう…！"
+                                "\\SE\\SE[15]Yay. I can see it...!? \\!\\SE[15]My heart is\npounding...!"
                             ]
                         },
                         {
@@ -11647,21 +11556,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]（くっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　不覚にも一瞬『わくわく』\\.しかけたわ…。）"
+                                "\\SE[15] (Ku... I... for a moment, I felt a brief sense of\nexcitement...)"
                             ]
                         },
                         {
@@ -11679,14 +11581,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]んっ。それじゃ行こっか。"
+                                "\\SE[0]Hmm. Shall we go then?"
                             ]
                         },
                         {
@@ -12030,14 +11932,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]ずっと気になってたんだけど、これは何？"
+                                "\\SE[4]I've been curious about this for a while, but what is this?"
                             ]
                         },
                         {
@@ -12048,28 +11950,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あぁ、『ラスダン』だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ここにいる『魔王』を倒すのが、\\SE[0]最終目標なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]（まだ作ってないけど。）"
+                                "\\SE\\SE[0]Ah, it's Rasudan. \\.The ultimate goal is to defeat the\nDemon Lord here. \\!\\SE[14](But I haven't made it yet.)"
                             ]
                         },
                         {
@@ -12087,21 +11975,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]こんな近くにそんなものがあっていいの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]普通、もっと遠くにあるんじゃ…。"
+                                "\\SE[0]Is it okay to have something like that so close by?\n\\SE[3]Normally, wouldn't it be located further away..."
                             ]
                         },
                         {
@@ -12112,35 +11993,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あえてね。あえて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]プレイヤーに『最終目標』を視覚的に早く伝えたいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ゴールが分かってたら、やる気も出てくるでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[18]成長した自分なら倒せそうな『ボス』がいたらさ。"
+                                "\\SE\\SE[0]Intentionally, you know. Intentionally. \\SE[0]I want to\nvisually convey the ultimate goal to the player quickly. If you\nknow the goal, your motivation will increase, right? \\SE[18]If\nthere's a boss that you think you can defeat as you grow\nstronger."
                             ]
                         },
                         {
@@ -12158,14 +12018,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]なるほど。 \\.そういうものなのね。"
+                                "\\SE[12]I see. So that's how it is."
                             ]
                         },
                         {
@@ -12183,21 +12043,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ちなみに『ラスボス』はねぇ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんと…。\\SE[17]"
+                                "\\SE[2]By the way, the final boss is...\\.surprisingly...\\SE[17]"
                             ]
                         },
                         {
@@ -12208,14 +12061,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[29]『ネタバレ』はやめて！"
+                                "\\SE[29] Stop with the spoilers!"
                             ]
                         },
                         {
@@ -12331,14 +12184,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]ずっと気になってたんだけど、これは何？"
+                                "\\SE[4]I've been curious about this for a while, but what is this?"
                             ]
                         },
                         {
@@ -12349,28 +12202,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あぁ、『ラスダン』だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ここにいる『魔王』を倒すのが、\\SE[0]最終目標なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]（まだ作ってないけど。）"
+                                "\\SE\\SE[0]Ah, it's Rasudan. \\.The ultimate goal is to defeat the\nDemon Lord here. \\!\\SE[14](But I haven't made it yet.)"
                             ]
                         },
                         {
@@ -12388,21 +12227,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]こんな近くにそんなものがあっていいの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]普通、もっと遠くにあるんじゃ…。"
+                                "\\SE[0]Is it okay to have something like that so close by?\n\\SE[3]Normally, wouldn't it be located further away..."
                             ]
                         },
                         {
@@ -12413,35 +12245,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あえてね。あえて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]プレイヤーに『最終目標』を視覚的に早く伝えたいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ゴールが分かってたら、やる気も出てくるでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[18]成長した自分なら倒せそうな『ボス』がいたらさ。"
+                                "\\SE\\SE[0]Intentionally, you know. Intentionally. \\SE[0]I want to\nvisually convey the ultimate goal to the player quickly. If you\nknow the goal, your motivation will increase, right? \\SE[18]If\nthere's a boss that you think you can defeat as you grow\nstronger."
                             ]
                         },
                         {
@@ -12459,14 +12270,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]なるほど。 \\.そういうものなのね。"
+                                "\\SE[12]I see. So that's how it is."
                             ]
                         },
                         {
@@ -12484,21 +12295,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ちなみに『ラスボス』はねぇ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんと…。\\SE[17]"
+                                "\\SE[2]By the way, the final boss is... well... \\SE[17]"
                             ]
                         },
                         {
@@ -12509,14 +12313,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[29]『ネタバレ』はやめて！"
+                                "\\SE[29] Stop with the spoilers!"
                             ]
                         },
                         {
@@ -12625,28 +12429,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]島が浮いている…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何か不思議な雰囲気ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あそこはどうやって行くのかしら…？"
+                                "\\SE[0]The island is floating...? It has such a mysterious\natmosphere. \\SE[3]I wonder how we can get there...?"
                             ]
                         },
                         {
@@ -12657,21 +12447,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なにか『アイテム』が必要そう…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]むむっ…\\.気になる…。"
+                                "\\SE[2]It seems like we need some kind of item...? \\SE[13]Hmm...\nIt's intriguing..."
                             ]
                         },
                         {
@@ -12696,21 +12479,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]（興味しんしんみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　やっぱりこういう配置が燃えるんだな…。）"
+                                "\\SE[14] (Seems like you're really interested. \\. As expected,\nthis kind of setup really gets you fired up...)"
                             ]
                         },
                         {
@@ -12728,14 +12504,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]（まぁ、道は作ってないから行く方法はないんだけど。）"
+                                "\\SE[15] (Well, there's no way to get there since there's no\npath.)"
                             ]
                         },
                         {
@@ -12813,28 +12589,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]島が浮いている…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何か不思議な雰囲気ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あそこはどうやって行くのかしら…？"
+                                "\\SE[0]The island is floating...? It has such a mysterious\natmosphere. \\SE[3]I wonder how we can get there...?"
                             ]
                         },
                         {
@@ -12845,21 +12607,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なにか『アイテム』が必要そう…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]むむっ…\\.気になる…。"
+                                "\\SE[2]It seems like we need some kind of item...? \\SE[13]Hmm...\nIt's intriguing..."
                             ]
                         },
                         {
@@ -12884,21 +12639,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]（興味しんしんみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　やっぱりこういう配置が燃えるんだな…。）"
+                                "\\SE[14] (Seems like you're really interested. \\. As expected,\nthis kind of setup really gets you fired up...)"
                             ]
                         },
                         {
@@ -12916,14 +12664,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]（まぁ、道は作ってないから行く方法はないんだけど。）"
+                                "\\SE[15] (Well, there's no way to get there since there's no\npath.)"
                             ]
                         },
                         {
@@ -13001,28 +12749,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]島が浮いている…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何か不思議な雰囲気ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あそこはどうやって行くのかしら…？"
+                                "\\SE[0]The island is floating...? It has such a mysterious\natmosphere. \\SE[3]I wonder how we can get there...?"
                             ]
                         },
                         {
@@ -13033,21 +12767,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なにか『アイテム』が必要そう…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]むむっ…\\.気になる…。"
+                                "\\SE[2]It seems like we need some kind of item...? \\SE[13]Hmm...\nIt's intriguing..."
                             ]
                         },
                         {
@@ -13072,21 +12799,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]（興味しんしんみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　やっぱりこういう配置が燃えるんだな…。）"
+                                "\\SE[14] (Seems like you're really interested. \\. As expected,\nthis kind of setup really gets you fired up...)"
                             ]
                         },
                         {
@@ -13104,14 +12824,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]（まぁ、道は作ってないから行く方法はないんだけど。）"
+                                "\\SE[15] (Well, there's no way to get there since there's no\npath.)"
                             ]
                         },
                         {
@@ -13189,28 +12909,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]島が浮いている…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何か不思議な雰囲気ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あそこはどうやって行くのかしら…？"
+                                "\\SE[0]The island is floating...? It has such a mysterious\natmosphere. \\SE[3]I wonder how we can get there...?"
                             ]
                         },
                         {
@@ -13221,21 +12927,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なにか『アイテム』が必要そう…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]むむっ…\\.気になる…。"
+                                "\\SE[2]It seems like we need some kind of item...? \\SE[13]Hmm...\nIt's intriguing..."
                             ]
                         },
                         {
@@ -13260,21 +12959,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]（興味しんしんみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　やっぱりこういう配置が燃えるんだな…。）"
+                                "\\SE[14] (Seems like you're really interested. \\. As expected,\nthis kind of setup really gets you fired up...)"
                             ]
                         },
                         {
@@ -13292,14 +12984,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]（まぁ、道は作ってないから行く方法はないんだけど。）"
+                                "\\SE[15] (Well, there's no way to get there since there's no\npath.)"
                             ]
                         },
                         {
@@ -13377,28 +13069,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]島が浮いている…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何か不思議な雰囲気ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あそこはどうやって行くのかしら…？"
+                                "\\SE[0]The island is floating...? It has such a mysterious\natmosphere. \\SE[3]I wonder how we can get there...?"
                             ]
                         },
                         {
@@ -13409,21 +13087,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なにか『アイテム』が必要そう…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]むむっ…\\.気になる…。"
+                                "\\SE[2]It seems like we need some kind of item...? \\SE[13]Hmm...\nIt's intriguing..."
                             ]
                         },
                         {
@@ -13448,21 +13119,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]（興味しんしんみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　やっぱりこういう配置が燃えるんだな…。）"
+                                "\\SE[14] (Seems like you're really interested. \\. As expected,\nthis kind of setup really gets you fired up...)"
                             ]
                         },
                         {
@@ -13480,14 +13144,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]（まぁ、道は作ってないから行く方法はないんだけど。）"
+                                "\\SE[15] (Well, there's no way to get there since there's no\npath.)"
                             ]
                         },
                         {
@@ -13565,28 +13229,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]島が浮いている…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何か不思議な雰囲気ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あそこはどうやって行くのかしら…？"
+                                "\\SE[0]The island is floating...? It has such a mysterious\natmosphere. \\SE[3]I wonder how we can get there...?"
                             ]
                         },
                         {
@@ -13597,21 +13247,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なにか『アイテム』が必要そう…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]むむっ…\\.気になる…。"
+                                "\\SE[2]It seems like we need some kind of item...? \\SE[13]Hmm...\nIt's intriguing..."
                             ]
                         },
                         {
@@ -13636,21 +13279,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]（興味しんしんみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　やっぱりこういう配置が燃えるんだな…。）"
+                                "\\SE[14] (Seems like you're really interested. \\. As expected,\nthis kind of setup really gets you fired up...)"
                             ]
                         },
                         {
@@ -13668,14 +13304,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]（まぁ、道は作ってないから行く方法はないんだけど。）"
+                                "\\SE[15] (Well, there's no way to get there since there's no\npath.)"
                             ]
                         },
                         {
@@ -13753,21 +13389,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あら、ここは何かしら…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]どこかで見たような形をしてるような…？"
+                                "\\SE[2]Oh, what is this place...? \\SE[3]It seems to have a shape\nthat I've seen somewhere before...?"
                             ]
                         },
                         {
@@ -13778,28 +13407,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ここは『学園』だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ルナロア達の話を聞いてたら、作ってみたくなって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]色々、試行錯誤してる最中なんだ。"
+                                "\\SE\\SE[0]This is a school. \\.After hearing Lunaroa's story, I\nfelt like making one myself. \\!\\SE[0]I'm currently in the midst\nof trial and error."
                             ]
                         },
                         {
@@ -13810,28 +13425,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]中盤まで進むと『学生編』が始まってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]限られた時間の中でキャラを強化していって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番になると『学園の秘宝』が手に入るよ。"
+                                "\\SE[4]Once you progress to the middle part, the Student Arc\nbegins. \\SE[12]Within the limited time, strengthen your character\nand become the number one to obtain the School's Treasure."
                             ]
                         },
                         {
@@ -13898,14 +13499,14 @@
                                 0,
                                 0,
                                 2,
-                                "ふたり"
+                                "Two"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ…。"
+                                "Oh..."
                             ]
                         },
                         {
@@ -13937,28 +13538,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]ただ、私が『学園』に行ったことないからね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[4]リアリティを出すために、後でルナロアやベガに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意見をもらったりして…\\!\\SE[24]うん、色々考え中。"
+                                "\\SE[7]However, I've never been to a school before... \\!\\SE[4]To\nmake it more realistic, I'll ask Lunaroa and Vega for their\nopinions later...\\!\\SE[24]Yes, I'm still thinking about various\nthings."
                             ]
                         },
                         {
@@ -13976,14 +13563,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]（『クソゲー』を作るのも大変なのね…。）"
+                                "\\SE[3] (Making a shitty game is also quite difficult...)"
                             ]
                         },
                         {
@@ -14008,21 +13595,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]私も『学園』には少し興味があったから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういう形で体験出来るなんて、\\.素敵ね。"
+                                "\\SE[16]I was also a little interested in school, so being able to\nexperience it in this way is wonderful."
                             ]
                         },
                         {
@@ -14131,28 +13711,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]島が浮いている…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何か不思議な雰囲気ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あそこはどうやって行くのかしら…？"
+                                "\\SE[0]The island is floating...? It has such a mysterious\natmosphere. \\SE[3]I wonder how we can get there...?"
                             ]
                         },
                         {
@@ -14163,21 +13729,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なにか『アイテム』が必要そう…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]むむっ…\\.気になる…。"
+                                "\\SE[2]It seems like we need some kind of item...? \\SE[13]Hmm...\nIt's intriguing..."
                             ]
                         },
                         {
@@ -14202,21 +13761,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]（興味しんしんみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　やっぱりこういう配置が燃えるんだな…。）"
+                                "\\SE[14] (Seems like you're really interested. \\. As expected,\nthis kind of setup really gets you fired up...)"
                             ]
                         },
                         {
@@ -14234,14 +13786,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]（まぁ、道は作ってないから行く方法はないんだけど。）"
+                                "\\SE[15] (Well, there's no way to get there since there's no\npath.)"
                             ]
                         },
                         {
@@ -14319,21 +13871,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あら、ここは何かしら…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]どこかで見たような形をしてるような…？"
+                                "\\SE[2]Oh, what is this place...? \\SE[3]It seems to have a shape\nthat I've seen somewhere before...?"
                             ]
                         },
                         {
@@ -14344,28 +13889,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ここは『学園』だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ルナロア達の話を聞いてたら、作ってみたくなって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]色々、試行錯誤してる最中なんだ。"
+                                "\\SE\\SE[0]This is a school. \\.After hearing Lunaroa's story, I\nfelt like making one myself. \\!\\SE[0]I'm currently in the midst\nof trial and error."
                             ]
                         },
                         {
@@ -14376,28 +13907,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]中盤まで進むと『学生編』が始まってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]限られた時間の中でキャラを強化していって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番になると『学園の秘宝』が手に入るよ。"
+                                "\\SE[4]Once you progress to the middle part, the Student Arc\nbegins. \\SE[12]Within the limited time, strengthen your character\nand become the number one to obtain the School's Treasure."
                             ]
                         },
                         {
@@ -14464,14 +13981,14 @@
                                 0,
                                 0,
                                 2,
-                                "ふたり"
+                                "Two"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ…。"
+                                "Oh..."
                             ]
                         },
                         {
@@ -14503,28 +14020,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]ただ、私が『学園』に行ったことないからね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[4]リアリティを出すために、後でルナロアやベガに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意見をもらったりして…\\!\\SE[24]うん、色々考え中。"
+                                "\\SE[7]However, I've never been to a school before... \\!\\SE[4]To\nmake it more realistic, I'll ask Lunaroa and Vega for their\nopinions later...\\!\\SE[24]Yes, I'm still thinking about various\nthings."
                             ]
                         },
                         {
@@ -14542,14 +14045,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]（『クソゲー』を作るのも大変なのね…。）"
+                                "\\SE[3] (Making a shitty game is also quite difficult...)"
                             ]
                         },
                         {
@@ -14574,21 +14077,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]私も『学園』には少し興味があったから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういう形で体験出来るなんて、\\.素敵ね。"
+                                "\\SE[16]I was also a little interested in school, so being able to\nexperience it in this way is wonderful."
                             ]
                         },
                         {
@@ -14772,21 +14268,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]『都会』は刺激的だったわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]他にはどんなイベントがあるのかしら…？"
+                                "\\SE[51] The city was exciting.... I wonder what other events\nthere are...?"
                             ]
                         },
                         {
@@ -14895,14 +14384,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]この塔は、なあに？"
+                                "\\SE[4]What is this tower?"
                             ]
                         },
                         {
@@ -14913,28 +14402,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]ここは『キマシタワー』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]お姫様と『親密な仲』になると入れる、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特別なダンジョンなのだ。"
+                                "\\SE[16]This is the Kimashita Tower. \\!\\SE[15]It's a special\ndungeon that you can enter when you become intimate with the\nprincess."
                             ]
                         },
                         {
@@ -14945,14 +14420,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]へー！！"
+                                "\\SE[16]Oh!!"
                             ]
                         },
                         {
@@ -15136,21 +14611,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[30]うぐっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この村を見てるとお尻が痛くなる…。"
+                                "\\SE[30]Ugh.... My butt hurts when I look at this village...."
                             ]
                         },
                         {
@@ -15334,21 +14802,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]『都会』は刺激的だったわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]他にはどんなイベントがあるのかしら…？"
+                                "\\SE[51] The city was exciting.... I wonder what other events\nthere are...?"
                             ]
                         },
                         {
@@ -15532,21 +14993,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[30]うぐっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この村を見てるとお尻が痛くなる…。"
+                                "\\SE[30]Ugh.... My butt hurts when I look at this village...."
                             ]
                         },
                         {
@@ -15730,21 +15184,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[71]この『ステップ』は恐ろしい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]デバッグの優先度をあげよう…。"
+                                "\\SE[71]This step is terrifying.... \\!\\SE[45]Let's prioritize\ndebugging...."
                             ]
                         },
                         {
@@ -16133,21 +15580,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]ここが最後の目的地だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]準備は出来てる？\\!"
+                                "\\SE[4]This is the final destination. \\SE[0]Are you ready?"
                             ]
                         },
                         {
@@ -16402,21 +15842,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]ここが最後の目的地だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]準備は出来てる？\\!"
+                                "\\SE[4]This is the final destination. \\SE[0]Are you ready?"
                             ]
                         },
                         {
@@ -16655,14 +16088,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あれは…？"
+                                "\\SE[2]What is that...?"
                             ]
                         },
                         {
@@ -16680,21 +16113,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]今回『デバッグ』が必要なダンジョンだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]仕掛けが正常に動作するか確認したいんだ。"
+                                "\\SE\\SE[0]This time it's a dungeon that requires debugging.\n\\!\\SE[0]I want to make sure the traps are functioning properly."
                             ]
                         },
                         {
@@ -16705,21 +16131,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]次で最後ね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]任せて！\\. 絶対に役割をこなしてみせるわ！"
+                                "\\SE[12]This is the last one...! \\SE[16]Leave it to me! I will\ndefinitely fulfill my role!"
                             ]
                         },
                         {
@@ -16737,21 +16156,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]（……\\.……\\.……\\.くやしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!　\\SE[45]やる気の原動力を少しだけ理解できてしまう…。）"
+                                "\\SE[12] (...frustrating... I can understand the source of\nmotivation a little bit...)"
                             ]
                         },
                         {

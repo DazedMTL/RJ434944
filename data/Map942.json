@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "お楽しみ部屋～進捗９５％～",
+    "displayName": "Fun Room ~Progress 95%~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -2713,14 +2713,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]うわっ…。"
+                                "\\SE[12]Uwah..."
                             ]
                         },
                         {
@@ -2731,14 +2731,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]まるで、生き物の体の中にいるみたい…。"
+                                "\\SE[2]It's like being inside the body of a living creature..."
                             ]
                         },
                         {
@@ -2756,28 +2756,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]んー…トラップを作りたいんだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]バランスの塩梅が難しいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "難しすぎてもいけないし、『バグ』が出ることもあるし…。"
+                                "\\SE[2]Hmm... I want to create a trap, but... \\!\\SE[3]Finding the\nright balance is difficult. It shouldn't be too difficult, and\nthere's also the possibility of encountering bugs as well..."
                             ]
                         },
                         {
@@ -2795,28 +2781,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[40]一応、完成はしてるから、ちゃんと動作するか確認して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "問題があったら、その度に修正していって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[57]あとは忌憚のない意見も聞きたいなぁ…\\.みたいな。"
+                                "\\SE[40]For now, it's completed, so I'll make sure it functions\nproperly. If there are any issues, I'll fix them as they come\nup... \\SE[57]I also want to hear honest opinions... something\nlike that."
                             ]
                         },
                         {
@@ -2902,21 +2874,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]なるほど、まかせて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]そんなの『お茶の子さいさい』だわ…！"
+                                "\\SE[14]I see, leave it to me! \\!\\SE[10]That's a piece of cake for\nme...!"
                             ]
                         },
                         {
@@ -2936,14 +2901,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[42]なんだか嫌な予感しかしない場所だけど…。"
+                                "\\SE[42]This place gives me a bad feeling..."
                             ]
                         },
                         {
@@ -2975,21 +2940,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]よし、それならさっそくスタートだ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[17]『ミスト発生装置』起動…！！"
+                                "\\SE[15]Alright, in that case, let's start right away...!\n\\!\\SE[17]Activating the Mist Generation Device...!!"
                             ]
                         },
                         {
@@ -3111,21 +3069,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]けほっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]なに、この煙…？"
+                                "\\SE[22]Cough... \\!\\SE[7]What is this smoke...?"
                             ]
                         },
                         {
@@ -3143,21 +3094,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]なんだか、頭の芯が痺れる…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[56]気分も少し、ふわふわするような…。"
+                                "\\SE[6]Somehow, the core of my head feels numb...? \\SE[56]My mood\nalso feels a bit light and fluffy..."
                             ]
                         },
                         {
@@ -3201,21 +3145,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]ふふっ…どうやらバッチリ効いているようだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]上手くいってるみたいでよかった！"
+                                "\\SE[13]Hehe... It seems to be working perfectly. \\!\\SE[12]I'm\nglad it's going well!"
                             ]
                         },
                         {
@@ -3235,21 +3172,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[23]はっ、んっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[52]こ、この煙は一体…？"
+                                "\\SE[23]Hah, ngh.... \\!\\SE[52]Wh-what is this smoke...?"
                             ]
                         },
                         {
@@ -3260,28 +3190,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]何を隠そう『催淫ガス』だよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは『エロトラップダンジョン』だからね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[18]たっぷり、気持ちよくなってもらおうっていうね！"
+                                "\\SE[19]To be honest, it's an aphrodisiac gas! Because this is the\nErotic Trap Dungeon! \\SE[18]I want you to enjoy it to the fullest\nand feel good!"
                             ]
                         },
                         {
@@ -3324,14 +3240,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[60]んんっ…なんでそんなものを…！？"
+                                "\\SE[60]Hmm... Why would you have something like that...!?"
                             ]
                         },
                         {
@@ -3351,21 +3267,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[54]こ、これらめっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.わらひ、『幸せ』になっちゃうぅ…。"
+                                "\\SE[54]Th-this is... I-I'm going to become... happy...."
                             ]
                         },
                         {
@@ -3383,28 +3292,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]くくっ…\\.『デバック』は成功しそうだねぇ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[30]君たちの淫らな姿も見せてもらおうか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[56]さて、このまま、次の…？\\!\\SE[57] 段階に……？"
+                                "\\SE[13]Hehe... It seems like the debug is going well...!\n\\SE[30]Shall I show you your lewd figures...? \\SE[56]Now then,\nshould we proceed to the next...? \\SE[57]Stage...?"
                             ]
                         },
                         {
@@ -3422,14 +3317,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[60]………？"
+                                "\\SE[60].........？"
                             ]
                         },
                         {
@@ -3449,14 +3344,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[68]（あれっ？急にアリス達が『魅力的』に見えてきたぞ…？）"
+                                "\\SE[68] (Huh? Suddenly Alice and the others are looking\ncharming...?)"
                             ]
                         },
                         {
@@ -3474,28 +3369,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]（これ、もしかして…私にも、\\.効いちゃってる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[45]おかしい、『ゲームマスター』は効かないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　設定したはずなのに…\\!\\SE[64]まさ、か…。）"
+                                "\\SE[46] (Could it be... I'm also affected by it? \\SE[45] Strange,\nI thought I had set it so that the Game Master wouldn't be\naffected... \\SE[64] Could it be true...)"
                             ]
                         },
                         {
@@ -4051,21 +3932,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[54]やだ、こんなに太くてたくましいの…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]私の中に全部はいるかしら…♥"
+                                "\\SE[54]Oh no, it's so thick and strong...♥ \\!\\SE[21]I wonder if\nit will fit inside me...♥"
                             ]
                         },
                         {
@@ -4092,21 +3966,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[70]ヴィ、\\.ヴィタ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この馬鹿げた装置を早く止めなさい！"
+                                "\\SE[70]V-Vita...!! Please stop this ridiculous device quickly!"
                             ]
                         },
                         {
@@ -4126,28 +3993,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[44]『システム』はもう、\\.止まらない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.すでに、私の手を離れてしまった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[63]創造主である私でさえ、彼らの『エサ』\\.でしかない…。"
+                                "\\SE[44] The 'system' can no longer be stopped.... It has already\nslipped from my hands.... \\SE[63] Even as the creator, I am\nnothing more than their 'prey'...."
                             ]
                         },
                         {
@@ -4158,14 +4011,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[44]きみも、\\.覚悟を決めたまえ…。"
+                                "\\SE[44]You too, prepare yourself..."
                             ]
                         },
                         {
@@ -4183,14 +4036,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[60]う、うそでしょ…？"
+                                "\\SE[60]No way... is this a lie...?"
                             ]
                         },
                         {
@@ -4224,14 +4077,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]つかぬことをお聞きするが……。"
+                                "\\SE[14]May I ask you something...?"
                             ]
                         },
                         {
@@ -4251,21 +4104,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[68]クローディアは『処女』だったりする？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.センシティブな質問で恐縮なんだけど。\\SE[69]"
+                                "\\SE[68]Is Claudia a virgin by any chance? Sorry for the sensitive\nquestion.\\SE[69]"
                             ]
                         },
                         {
@@ -4283,21 +4129,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]……\\.……\\.……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[68]えっ、\\.『処女』ってなに…？"
+                                "\\SE[3]......\\.......\\........ \\!\\SE[68]Huh, what does virgin\nmean...?"
                             ]
                         },
                         {
@@ -4331,28 +4170,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[71]いや、知らないのっ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『知識の』\\.とか言ってなかったか、お前っ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[69]しかし、\\.そういうのが好きな人もいるしな……。"
+                                "\\SE[71]No, I don't know...!! Didn't I say something about\nknowledge? You! \\SE[69]However, there are people who like that\nkind of thing..."
                             ]
                         },
                         {
@@ -4363,14 +4188,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[66]……？"
+                                "\\SE[66]......？"
                             ]
                         },
                         {
@@ -4388,35 +4213,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]単刀直入にいうと、『ちんちん』を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『まんまん』に挿入れたことがある？\\.って聞いてるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]これから起きるイベントを考えると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確認しておいた方がいいと思って。"
+                                "\\SE[16]To put it bluntly, have you ever inserted a penis into a\nvagina? That's what I'm asking. \\!\\SE[15]Considering the events\nthat are about to unfold, I think it's better to confirm."
                             ]
                         },
                         {
@@ -4461,28 +4265,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[28]そんなことある訳ないでしょ…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[66]えっと、\\.『ちんちん』を『まんまん』に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.い、\\.挿入れるだなんて…！！"
+                                "\\SE[28]There's no way something like that would happen...!? Um,\ninserting a penis into a vagina...!!"
                             ]
                         },
                         {
@@ -4502,28 +4292,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]そうか！\\. まぁ、気にすることはないぞ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.誰だって『未経験』な事は必ずあるからな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]かくいう私も『処女』だし。"
+                                "\\SE[19]I see! Well, there's no need to worry...! Everyone has\nsomething they haven't experienced before! \\SE[15]Speaking of\nwhich, I'm also a virgin."
                             ]
                         },
                         {
@@ -4541,21 +4317,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[68]そ、\\.それで私が『処女』だったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんだっていうの……？"
+                                "\\SE[68]S-So, if I were a virgin, what would that mean...?"
                             ]
                         },
                         {
@@ -4589,28 +4358,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]私たちはこれから『えっちな目』に合うわけだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『現実』ではないから『処女喪失』はしないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]その辺りは安心してくれていい。"
+                                "\\SE[4]From now on, we will encounter lewd situations, but since\nthis is not reality, there won't be any loss of virginity.\n\\SE[0]You can rest assured about that."
                             ]
                         },
                         {
@@ -4621,14 +4376,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[66]『処女喪失』をしない安心……。"
+                                "\\SE[66] Reassurance that there won't be 'loss of virginity'..."
                             ]
                         },
                         {
@@ -4646,28 +4401,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[68]とは言っても『性経験』は脳裏にこびりつくからね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[69]君は性経験のない綺麗な『処女』のまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『淫乱』に改造されるのは避けられないと思う。"
+                                "\\SE[68]Even if I say that sexual experience sticks in your\nmind... \\!\\SE[69]I think it's inevitable for you, a beautiful\nvirgin without any sexual experience, to be transformed into a\nlewd person."
                             ]
                         },
                         {
@@ -4678,28 +4419,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]その結末だけはもう変えられないからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『淫乱処女』のまま、この先の人生を生きてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]もう、そこは先にあやまっておこう。\\.ごめん。"
+                                "\\SE[13]Because we can't change the outcome anymore. Please\ncontinue living your life as a lewd virgin. \\SE[45]I apologize in\nadvance for that. I'm sorry."
                             ]
                         },
                         {
@@ -4717,21 +4444,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]つまり『触手』に\\.『身体』を改造されて……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[69]『処女』のまま『淫乱』に……？"
+                                "\\SE[0]So, you're saying I'll be transformed by tentacles and\nbecome... \\SE[69]A lewd person while still being a virgin...?"
                             ]
                         },
                         {
@@ -4789,28 +4509,14 @@
                                 0,
                                 0,
                                 2,
-                                "クローディア"
+                                "Claudia"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひっ…！\\.こっちにこないで！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.だれか、助けっ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!やだ！\\. 私は『淫乱』なんかになりたくないっ…！"
+                                "Hii...! Don't come near me!! Someone, help...!! No! I don't want\nto become lewd...!"
                             ]
                         },
                         {
@@ -4842,7 +4548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………………。"
+                                "..............................."
                             ]
                         },
                         {
@@ -4874,7 +4580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………。"
+                                "......................"
                             ]
                         },
                         {
@@ -4892,7 +4598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………。"
+                                "............."
                             ]
                         },
                         {

@@ -5713,14 +5713,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]おとうさんにキノコを食べさせてあげないと…。"
+                                "\\SE[3]I have to feed mushrooms to my dad..."
                             ]
                         },
                         {
@@ -5829,14 +5829,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]おとうさんにキノコを食べさせてあげないと…。"
+                                "\\SE[3]I have to feed mushrooms to my dad..."
                             ]
                         },
                         {
@@ -5945,14 +5945,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]おとうさんにキノコを食べさせてあげないと…。"
+                                "\\SE[3]I have to feed mushrooms to my dad..."
                             ]
                         },
                         {
@@ -6498,21 +6498,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]うーん…また一人か……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]さすがに、\\.ちょっとさみしいな…。"
+                                "\\SE[4]Hmm... Another person, huh... \\SE[9]As expected, it's a\nlittle lonely..."
                             ]
                         },
                         {
@@ -6652,21 +6645,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]ううん…こんなときこそ、私が頑張らなきゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]美味しいご飯で、みんなに元気になってもらおう。"
+                                "\\SE[15]No... This is the time when I have to do my best.\n\\!\\SE[13]I'll make delicious food to cheer everyone up."
                             ]
                         },
                         {
@@ -6677,21 +6663,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]次の目的地は『メルクル草』があった先…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]鍾乳洞なら、きっといいキノコがあるはず…。"
+                                "\\SE[3]The next destination is where the Merukuru Grass is\nlocated... \\SE[0]If it's a cave, there should be some good\nmushrooms there..."
                             ]
                         },
                         {
@@ -6995,7 +6974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[388]ケアキュアαを手に入れた！\\$"
+                                "\\i[388]I obtained the Care Cure Alpha! \\$"
                             ]
                         },
                         {
@@ -7714,7 +7693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[498]スライムの粘液を手に入れた！\\$"
+                                "\\i[498] Obtained slime slime! \\$"
                             ]
                         },
                         {

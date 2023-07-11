@@ -2287,21 +2287,14 @@
                                 0,
                                 0,
                                 2,
-                                "宿のおかみさん"
+                                "Innkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遠方から疲れたでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!一泊10\\Gですよー。\\.泊まっちゃいます？\\."
+                                "You must be tired from your long journey, right? It's 10\\G per\nnight. Will you be staying?"
                             ]
                         },
                         {
@@ -2431,14 +2424,14 @@
                                 0,
                                 0,
                                 2,
-                                "宿のおかみさん"
+                                "Innkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "えっ…10Gも持ってないの…！？"
+                                "Huh... You don't even have 10G...!?"
                             ]
                         },
                         {
@@ -2698,7 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[513]世界の真実を手に入れた！\\$"
+                                "\\i[513] Obtained the truth of the world! \\$"
                             ]
                         },
                         {

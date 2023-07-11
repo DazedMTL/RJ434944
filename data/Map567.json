@@ -5736,28 +5736,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]…って、\\.逃げてきたけど！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]行き止まりじゃないのよ…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それに、ラウラを置いてきちゃったし…！"
+                                "\\SE[14]... Wait, she ran away!! And this isn't a dead end,\nright...!? Plus, I left Laura behind...!"
                             ]
                         },
                         {
@@ -5843,21 +5829,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ラウラさんなら(多分)\\.大丈夫っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]それに、行き止まりじゃありません！！"
+                                "\\SE\\SE[10]If it's Laura-san (probably), it'll be fine!\n\\!\\SE[10]And besides, it's not a dead end!!"
                             ]
                         },
                         {
@@ -5868,28 +5847,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]見えるでしょう！\\.美しい外の景色が！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]真ん中の窓からジャンプです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんと、びっくり！ \\.そうすると…。"
+                                "\\SE[16]You can see it, right?! The beautiful scenery outside!!\n\\!\\SE[12]Jump from the middle window! \\.Surprise! \\.And then..."
                             ]
                         },
                         {
@@ -5909,21 +5874,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[29]どうせ、川に落ちるっていうんでしょ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]あんたの手の内なんて、\\.もう割れてるんだから！！"
+                                "\\SE[29]You're planning to push me into the river, aren't you...!!\n\\SE[12]I can already see through your intentions!!"
                             ]
                         },
                         {
@@ -5943,28 +5901,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]なんで分かったんですか…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]でも、話は早いですね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.さっ！\\.\\SE[16]準備の出来た方からどうぞ！！"
+                                "\\SE[14]How did you know...!! \\SE[15]But, let's get straight to\nthe point! \\.Alright!\\.\\SE[16]Those who are ready, please go\nahead!!"
                             ]
                         },
                         {
@@ -6065,14 +6009,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]よし…\\.じゃあ、私からいくよ。"
+                                "\\SE[1]Alright...\\.Then, I'll go first."
                             ]
                         },
                         {
@@ -6169,21 +6113,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ロノアも行く…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]うん、\\.じゃあ一緒に行きましょうか。"
+                                "\\SE[2]Lunaroa is going too...? \\SE[0]Yeah, let's go together\nthen."
                             ]
                         },
                         {
@@ -6630,21 +6567,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]ほ、ほんとに飛んだし…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[27]その『決断力』はどこからくるのよ…！？"
+                                "\\SE[14]H-He really jumped...!! \\!\\SE[27]Where does he get that\ndetermination from...!?"
                             ]
                         },
                         {
@@ -6716,28 +6646,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]ライアンさん！ \\.どうしますか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]『男の意地』を見せますか…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]それとも、\\.『レディファースト』しちゃいますか…！？"
+                                "\\SE[14]Ryan-san! What will you do!? \\SE[13]Will you show your\nmanly spirit...!? \\SE[16]Or will you go with ladies first...!?"
                             ]
                         },
                         {
@@ -6757,14 +6673,14 @@
                                 0,
                                 0,
                                 2,
-                                "ライアン"
+                                "Ryan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]そう言われたら、行くしかなくなるだろ…！"
+                                "\\SE[14]If you say that, then there's no choice but to go...!"
                             ]
                         },
                         {
@@ -6968,14 +6884,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]ら、ライアン……。"
+                                "\\SE[6]R-Ryan..."
                             ]
                         },
                         {
@@ -7024,28 +6940,14 @@
                                 0,
                                 0,
                                 2,
-                                "ライアン"
+                                "Ryan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]お前、高い所苦手だったんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]まっ、心配すんなって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なにかあったら、\\.下で俺が受け止めてやるからさ。"
+                                "\\SE[2]So you're not good with heights, huh? \\!\\SE[0]Well, don't\nworry. \\.If anything happens, \\.I'll catch you down below."
                             ]
                         },
                         {
@@ -7099,21 +7001,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]（やだっ…\\.ライアンさんったら…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[20]意外と『すけこまし』…\\.ですねぇ。）"
+                                "\\SE[14] (Oh no... Ryan-san, you're quite mischievous... \\SE[20]\nSurprisingly, you're a bit of a trickster...)"
                             ]
                         },
                         {
@@ -7155,21 +7050,14 @@
                                 0,
                                 0,
                                 2,
-                                "ライアン"
+                                "Ryan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]レベッカ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]先に行って待ってるからな！"
+                                "\\SE[14]Rebecca! \\SE[13]Go ahead and wait for me!"
                             ]
                         },
                         {
@@ -7399,14 +7287,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]い、\\.行っちゃった…！！"
+                                "\\SE[14]H-He went...!!"
                             ]
                         },
                         {
@@ -7478,28 +7366,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]さっ！\\. レベッカさん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]追手がくる前に覚悟を決めてジャンプをっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]ライアンさんも待ってますよー！！"
+                                "\\SE[14]Alright! Rebecca-san!! \\SE[13]Decide your resolve and jump\nbefore the pursuers come!! \\SE[16]Ryan-san is waiting too!!"
                             ]
                         },
                         {
@@ -7519,21 +7393,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]わかってるわよ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]と、飛べばいいんでしょ…！ \\.飛べば…！！"
+                                "\\SE[11]I understand...! \\!\\SE[12]I just have to jump, right...!\nIf I jump...!!"
                             ]
                         },
                         {
@@ -7553,21 +7420,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]（おっ…\\.この感じ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[0]なんだか懐かしいですねぇ…。）"
+                                "\\SE[2] (Oh... This feeling... \\!\\SE[0]It's somehow nostalgic...)"
                             ]
                         },
                         {
@@ -7672,21 +7532,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[56]気合を入れなさい…\\.レベッカ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[42]私はやれば出来る子…\\.頑張るの…！"
+                                "\\SE[56]Get ready... Rebecca... \\!\\SE[42]I'm a capable girl...\nI'll do my best...!"
                             ]
                         },
                         {
@@ -7781,14 +7634,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[29]と、\\.飛ぶわよーーー！！"
+                                "\\SE[29]And... I'm jumping!!"
                             ]
                         },
                         {

@@ -8566,14 +8566,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]んっ…あった。"
+                                "\\SE[4]Hmm... I found it."
                             ]
                         },
                         {
@@ -8603,7 +8603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤドリキングシイタケを手に入れた！\\$"
+                                "I obtained the Parasol Mushroom! \\$"
                             ]
                         },
                         {
@@ -8614,28 +8614,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]この辺りのキノコは『毒』をもってないんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]私たちだけが知っている、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.秘密の『穴場スポット』なのだー。"
+                                "\\SE[2]The mushrooms around here don't have any poison. \\SE[1]It's\na secret hidden spot that only we know about."
                             ]
                         },
                         {
@@ -8655,14 +8641,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[36]教えてくれたのは…\\!\\SE[0]アイシャだったな。"
+                                "\\SE[36]The one who told me... \\SE[0]was Aisha."
                             ]
                         },
                         {
@@ -8682,14 +8668,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]やっぱり…\\!\\SE[6]二人で来たかったな…。"
+                                "\\SE[2]As I thought... \\SE[6]I wanted to come with the two of\nus..."
                             ]
                         },
                         {
@@ -8826,21 +8812,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]アイシャの分も…採っていこ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[4]キノコは好きだった…かな？\\!\\SE[6] 自信ない…。"
+                                "\\SE[0]I'll gather Aisha's share too... \\!\\SE[4]I wonder if she\nliked mushrooms... \\!\\SE[6]I'm not sure..."
                             ]
                         },
                         {
@@ -8860,21 +8839,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ん…。これだけあれば、十分かな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[3]…帰ろう。"
+                                "\\SE\\SM[nod]\\SE[3]Hmm... With just this, it should be enough.\n\\SM[nod]\\SE[3]... Let's go back."
                             ]
                         },
                         {
@@ -9115,21 +9087,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]だめだめ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そんな奥に行く必要はないよ。"
+                                "\\SE[4] No, no... There's no need to go that far inside."
                             ]
                         },
                         {

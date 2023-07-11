@@ -10160,14 +10160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "焚火の暖かさに安らぎを覚える…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体力が全回復した！"
+                                "I feel a sense of peace in the warmth of the bonfire.... My\nstamina has fully recovered!"
                             ]
                         },
                         {
@@ -10272,21 +10265,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君はこんな所にまで来るんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "焚火を用意するのも一苦労だよ…。"
+                                "So you've come all the way here. It was quite a task to prepare\nthe bonfire..."
                             ]
                         },
                         {
@@ -10319,21 +10305,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここのボスは…\\!って過剰戦力じゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!私から言えることが何かあるとは思えないんだけど。"
+                                "The boss here... isn't it too overpowered?! I don't think there's\nanything I can say from my perspective."
                             ]
                         },
                         {
@@ -10357,14 +10336,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はい、お気をつけて、"
+                                "Yes, please be careful."
                             ]
                         },
                         {
@@ -10934,14 +10913,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]このモンスターは…。"
+                                "\\SE[12]This monster is..."
                             ]
                         },
                         {
@@ -10959,21 +10938,14 @@
                                 0,
                                 0,
                                 2,
-                                "凪"
+                                "Nagi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]…『あれ』が病床の原因です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]排除してしまえばメリアちゃんを治せるはず…。"
+                                "\\SE[14]... That thing is the cause of her illness. \\!\\SE[13] If\nwe eliminate it, we should be able to cure Meria-chan..."
                             ]
                         },
                         {
@@ -10991,21 +10963,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]たしか…\\.前に戦ったときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]復活されて、倒しきれなかった覚えが…。"
+                                "\\SE[5]I remember... When we fought before, \\SE[0]it was revived\nand we couldn't defeat it completely..."
                             ]
                         },
                         {
@@ -11030,28 +10995,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そっか。『あれ』の駆除は人間には難しいのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]じゃあ私が消し去ってあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]ねっ 私を『サポート』して？\\. ラウラ？"
+                                "\\SE\\SE[16]I see. It seems that exterminating that is difficult\nfor humans. \\!\\SE[0]Then I will erase it for you. \\!\\SE[16]Hey,\nwill you support me? Laura?"
                             ]
                         },
                         {
@@ -11078,21 +11029,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[71]ぐぬぬ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんとも、複雑な心境…。"
+                                "\\SE[71]Grrr.... It's such a complicated feeling...."
                             ]
                         },
                         {
@@ -11162,21 +11106,14 @@
                                 0,
                                 0,
                                 2,
-                                "凪"
+                                "Nagi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]『やる気まんまん』みたいです…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.き、来ますよ…！\\SE[13]"
+                                "\\SE[14]She seems to be full of motivation...! W-Watch out...!\n\\SE[13]"
                             ]
                         },
                         {
@@ -11199,28 +11136,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]あはっ…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.逃げてたくせに…\\.いい度胸してるじゃない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[60]引き千切って、\\.この世から消し去ってあげる……！！"
+                                "\\SE[16]Ahaha...♥ Even though you were running away... You have\nquite the courage, don't you? \\SE[60]I'll tear you apart and\nerase you from this world...!!"
                             ]
                         },
                         {

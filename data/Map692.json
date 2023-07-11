@@ -1383,21 +1383,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]い、いや…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[24]こっちは入っちゃまずいよ…。"
+                                "\\SE[11]N-No... I-I can't go in there... It's not good..."
                             ]
                         },
                         {
@@ -1767,21 +1760,14 @@
                                 0,
                                 0,
                                 2,
-                                "ナースさん"
+                                "Nurse-san"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふうっ…少し、\\.一服…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!このひと時が癒しよね…。"
+                                "*sigh*... A little break... This moment is so healing..."
                             ]
                         },
                         {
@@ -1810,28 +1796,14 @@
                                 0,
                                 0,
                                 2,
-                                "ナースさん"
+                                "Nurse-san"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっと、\\.すいません…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.閉めてもらっていいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!用を足しているので…。"
+                                "Um, excuse me... Could you close it for me? I'm using the\nrestroom..."
                             ]
                         },
                         {
@@ -1909,14 +1881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くるくるを回すと、綺麗な水が出てくる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どういう仕組みになっているのだろう。"
+                                "When you turn it round and round, beautiful water comes out... I\nwonder how it works."
                             ]
                         },
                         {
@@ -2167,7 +2132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[498]スライムの粘液を手に入れた！\\$"
+                                "\\i[498] Obtained slime slime! \\$"
                             ]
                         },
                         {

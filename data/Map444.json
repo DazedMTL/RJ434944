@@ -6777,28 +6777,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]楽しかったね。明日はどこに行こっか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[double]\\SE[12]もう少し道を外れると、『クマ』が出るらしくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのうち狩ってみたいなって思ってるんだけど。"
+                                "\\SE\\SM[double]\\SE[12]That was fun, right? Where should we go\ntomorrow? \\!\\SM[double]\\SE[12]I heard that if we go a little off\nthe beaten path, there are bears that appear. I've been thinking\nabout wanting to hunt them sometime."
                             ]
                         },
                         {
@@ -6818,21 +6804,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]しばらく…\\!狩りは無理かも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[8]噂の新しい仕事、結構忙しいみたいで…。"
+                                "\\SE[7]Hmm...! Hunting might be impossible for a while. \\SE[8]It\nseems like the rumored new job is quite busy..."
                             ]
                         },
                         {
@@ -6843,21 +6822,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]もしかしたら、私も手伝う必要があるかもって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お母さんが今朝言ってたの…。"
+                                "\\SE[2]Maybe I also need to help out, that's what my mother said\nthis morning..."
                             ]
                         },
                         {
@@ -6868,14 +6840,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]えっ……。"
+                                "\\SE[2]Huh..."
                             ]
                         },
                         {
@@ -6895,21 +6867,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]それなら…仕方ないか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[0]うん、お仕事の手伝い…頑張ってね。"
+                                "\\SE[9]If that's the case... I guess there's no helping it...\n\\SM[nod]\\SE[0]Yeah, I'll help with your work... Do your best."
                             ]
                         },
                         {
@@ -6920,14 +6885,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]うん、\\.…ありがとう。"
+                                "\\SE[0]Yes, thank you."
                             ]
                         },
                         {
@@ -6947,14 +6912,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]その…さ。"
+                                "\\SE[3]Um... well."
                             ]
                         },
                         {
@@ -6979,21 +6944,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]ぜ、全然関係ないんだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヴィタはさ…\\!\\SE[52]『誰でも好きな人』…\\.なんでしょ？"
+                                "\\SE[7]U-um, this is completely unrelated but... Vita, um...\n\\SE[52]Is it true that you're someone who can like anyone...?"
                             ]
                         },
                         {
@@ -7013,21 +6971,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]うん、そうだよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.生まれつきの…\\.体のせいだと、思うけど…。"
+                                "\\SE[2]Yeah, that's right? I think it's because of my...\\.physical\ncondition since birth, but..."
                             ]
                         },
                         {
@@ -7038,21 +6989,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そ、そうだよね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[8]『女の子』だし\\.『男の子』…なんだもんね。"
+                                "\\SE[2]Y-yeah... \\!\\SE[8]Because I'm a girl and you're a boy after\nall."
                             ]
                         },
                         {
@@ -7063,28 +7007,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お母さんは『選ばなくてもいい』し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『一番好きな人の為に選んでもいい』って\\.言ってた。"
+                                "\\SE[3]Yeah. My mom said, You don't have to choose and It's okay\nto choose someone you love the most."
                             ]
                         },
                         {
@@ -7116,21 +7046,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]あれっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイシャはそんなこと知ってるよね？"
+                                "\\SE[4]Huh? Aisha, you know about that, right?"
                             ]
                         },
                         {
@@ -7150,21 +7073,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[43]し、知ってる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[48]一応ね、確認っていうか…。"
+                                "\\SE[43]I-I know... \\!\\SE[48]Well, just to confirm..."
                             ]
                         },
                         {
@@ -7175,14 +7091,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]あの…\\.それでさ。"
+                                "\\SE[7]Um... So, about that."
                             ]
                         },
                         {
@@ -7276,14 +7192,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]アイシャ…\\.どうかした…？"
+                                "\\SE[4]Aisha... Is something wrong...?"
                             ]
                         },
                         {
@@ -7303,21 +7219,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]ヴィタはさ…\\.その…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[52]えっと…\\.あの…\\.……\\.……。"
+                                "\\SE[7]Um, about Vita... That... \\SE[52]Well... um..."
                             ]
                         },
                         {
@@ -7328,14 +7237,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]えっ……？"
+                                "\\SE[2]Huh...?"
                             ]
                         },
                         {
@@ -7369,14 +7278,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[71]あっ……！"
+                                "\\SE[71]Ah...!"
                             ]
                         },
                         {
@@ -7396,21 +7305,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]えっ、何…？\\. どうかした……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[37]…って、\\.あぁ……。"
+                                "\\SE[12]Huh, what...? Is something... wrong? \\SE[37]...Oh, um..."
                             ]
                         },
                         {
@@ -7421,21 +7323,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[44]また固くなっちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[64]『いつもの』…\\.頼める？"
+                                "\\SE[44]I've become stiff again... \\!\\SE[64]Can I rely on you for\nthe usual...?"
                             ]
                         },
                         {
@@ -7476,28 +7371,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[42]も、もう…仕方ないなぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]じゃあ、木陰でしましょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.誰かに見られたら困っ……\\!\\SE[42]いや、\\.涼しいから。"
+                                "\\SE[42]Well, well... I guess there's no other choice...!\n\\!\\SE[1]Then, let's do it in the shade. \\.It would be troublesome\nif someone saw us... \\!\\SE[42]No, it's because it's cool."
                             ]
                         },
                         {
@@ -7508,14 +7389,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]\\SM[pop]んっ……。"
+                                "\\SE[0]\\SM[pop]Hmm..."
                             ]
                         },
                         {
@@ -7794,14 +7675,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]……私以外と『して』たりしないよね？"
+                                "\\SE[12]... You wouldn't 'do it' with anyone other than me, right?"
                             ]
                         },
                         {
@@ -7812,21 +7693,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]\\SM[nod]うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]だってアイシャの側以外だと、そんなに勃たないもん。"
+                                "\\SE[3]\\SM[nod]Yeah. \\!\\SE[2]Because, you know, I don't get that\nexcited unless I'm with Aisha."
                             ]
                         },
                         {
@@ -7844,21 +7718,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[42]そ、そうだよね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[43]それなら、いいんですけど……。"
+                                "\\SE[42]Y-Yes, that's right... \\!\\SE[43]If that's the case, then\nit's fine..."
                             ]
                         },
                         {

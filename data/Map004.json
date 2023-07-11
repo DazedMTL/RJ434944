@@ -3391,21 +3391,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン兵"
+                                "Cordin Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この村が襲撃を受けたと報告を受けている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.安全の確認がとれるまで、立ち入り禁止だ。"
+                                "We have received a report that this village has been attacked.\nUntil safety is confirmed, entry is prohibited."
                             ]
                         },
                         {
@@ -3467,21 +3460,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン兵"
+                                "Ulyssean Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お疲れ様です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.……この村の復興は当分無理みたいなんです。"
+                                "Good work. It seems like the reconstruction of this village will\nbe impossible for a while."
                             ]
                         },
                         {
@@ -3636,21 +3622,14 @@
                                 0,
                                 0,
                                 2,
-                                "コーダイン兵"
+                                "Cordin Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この村が襲撃を受けたと報告を受けている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.安全の確認がとれるまで、立ち入り禁止だ。"
+                                "We have received a report that this village has been attacked.\nUntil safety is confirmed, entry is prohibited."
                             ]
                         },
                         {
@@ -3712,21 +3691,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン兵"
+                                "Ulyssean Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "掘削の跡がひどくて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この土地はもう……。"
+                                "The excavation marks are severe, this land is already..."
                             ]
                         },
                         {
@@ -3797,14 +3769,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]裏山はこっちじゃないよ。\\.\\SM[double]上。上。"
+                                "\\SE[2] The back mountain is not this way. \\SM[double] Up. Up."
                             ]
                         },
                         {
@@ -3962,14 +3934,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そろそろ帰らないと…。"
+                                "\\SE[2]I should go home soon..."
                             ]
                         },
                         {
@@ -4288,14 +4260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　↑キンリーンの森"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "←ユリシーンへ"
+                                "↑Kinreen Forest: ←To Yurisine"
                             ]
                         },
                         {
@@ -4373,21 +4338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちの『タックル』にも、びくともしない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私も『Ｑボタン』で『クイックタックル』をしてみよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…ちょっと、恥ずかしいけど。"
+                                "I don't even flinch at the children's tackles... I'll try doing a\nquick tackle with the Q button too. Well... it's a little\nembarrassing though."
                             ]
                         },
                         {
@@ -4564,14 +4515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "訓練用の『かかし』だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…使う人は、みんないなくなっちゃった。"
+                                "It's a training scarecrow. But... everyone who used it is gone."
                             ]
                         },
                         {
@@ -4642,14 +4586,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]裏山はこっちじゃないよ。\\.\\SM[double]上。上。"
+                                "\\SE[2] The back mountain is not this way. \\SM[double] Up. Up."
                             ]
                         },
                         {
@@ -4807,14 +4751,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そろそろ帰らないと…。"
+                                "\\SE[2]I should go home soon..."
                             ]
                         },
                         {
@@ -5049,21 +4993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちの『タックル』にも、びくともしない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私も『Ｑボタン』で『クイックタックル』をしてみよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…ちょっと、恥ずかしいけど。"
+                                "I don't even flinch at the children's tackles... I'll try doing a\nquick tackle with the Q button too. Well... it's a little\nembarrassing though."
                             ]
                         },
                         {
@@ -5240,14 +5170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "訓練用の『かかし』だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…使う人は、みんないなくなっちゃった。"
+                                "It's a training scarecrow. \\!... Everyone who used it is gone."
                             ]
                         },
                         {
@@ -5385,28 +5308,14 @@
                                 0,
                                 0,
                                 2,
-                                "焚火好きなレーベ"
+                                "Fire-loving Leve"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "焚火があって良かったわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦闘不能一歩手前だったもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あんたも気を付けることね。"
+                                "I'm glad there was a bonfire.... I was just one step away from\nbeing incapacitated in battle. You should be careful too!"
                             ]
                         },
                         {
@@ -5477,21 +5386,14 @@
                                 0,
                                 0,
                                 2,
-                                "焚火初心者のドレッタ"
+                                "Doretta, a beginner in bonfires"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ…魔法職はＭＰが生命線だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぎりぎりだと、\\.ドキドキしちゃうわ…。"
+                                "Phew... As a magic user, MP is my lifeline, so when it's running\nlow, I get really nervous..."
                             ]
                         },
                         {
@@ -5569,14 +5471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "動物除けの『かかし』だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!子供の頃から、ずっと村を守ってくれている。"
+                                "It's a scarecrow to keep away animals. It has been protecting the\nvillage since I was a child."
                             ]
                         },
                         {
@@ -5654,14 +5549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまりにも冷たい反応…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!この『かかし』は『タックル』に興味がないようだ…。"
+                                "The response is too cold... It seems that this scarecrow is not\ninterested in a tackle...."
                             ]
                         },
                         {
@@ -6366,21 +6254,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]子供が『タックル』してる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[17]だ、大丈夫かな？\\. どうしちゃったんだろう…？"
+                                "\\SE[19]The child is tackling.... I hope \\SE[17] they're okay. I\nwonder what happened...?"
                             ]
                         },
                         {
@@ -6497,28 +6378,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉ、ラウラか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "都会で新しい『技術』が生み出されての。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!広めるために子供たちに教えておったんじゃ。"
+                                "Oh, it's Laura. I was teaching the children in order to spread\nthe new technology that was created in the city."
                             ]
                         },
                         {
@@ -6529,21 +6396,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これから必須になる『必殺技』じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『クイックタックル』というんじゃが、もう知っておるか？"
+                                "This is a special move that will become essential from now on.\nIt's called the Quick Tackle, do you already know about it?"
                             ]
                         },
                         {
@@ -6554,21 +6414,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]都会の『必殺技』…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[19]必須となる『クイックタックル』…！？\\!"
+                                "\\SE[17]The special move from the city...! \\SE[19]The essential\nQuick Tackle...!?"
                             ]
                         },
                         {
@@ -6617,28 +6470,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぉふぉっ、そうじゃろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ラウラにも、わしから伝授してやろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!あまりにも強いから、びっくりすると思うぞ！"
+                                "Hoho, that's right! I'll teach it to Laura too! It's so strong\nthat I think you'll be surprised!"
                             ]
                         },
                         {
@@ -6687,28 +6526,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぉふぉ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『知ったかぶり』はいかんぞっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ラウラにも、わしから伝授してやろう！"
+                                "Hoho...! It's no good to pretend to know everything! I will teach\nit to Laura too, straight from me!"
                             ]
                         },
                         {
@@ -6806,21 +6631,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "して、ラウラやっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦闘で『一番強い行動』は、なんだと思う！"
+                                "Alright, Laura!! What do you think is the strongest action in\nbattle?"
                             ]
                         },
                         {
@@ -6831,14 +6649,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]戦闘で『一番強い行動』…！？\\!"
+                                "\\SE[19]The strongest action in battle...!?"
                             ]
                         },
                         {
@@ -6880,28 +6698,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ、『脳筋』じゃな…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大きい数字を見るとココロオドルのは仕方のないこと…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!…今回は、違うのじゃが！"
+                                "Hmm, it's not about brute force!! It's natural to get excited\nwhen you see big numbers...! But this time, it's different!"
                             ]
                         },
                         {
@@ -6932,28 +6736,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『粘着質』じゃな…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちまちま一時間くらい、戦闘するタイプかっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!…『現代人』じゃな！\\. 今回は違うのじゃが！"
+                                "Not the 'sticky' type...!! Are you the type to fight for about an\nhour, little by little...! \\!... You're not a 'modern person'!\nBut this time, it's different!"
                             ]
                         },
                         {
@@ -6984,28 +6774,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "むむっ、『短気』じゃな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "後ろから殴れば『戦闘』さえ必要ないよねっ！\\.ってことか…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!もしや、変身中に殴りかかるタイプか…？"
+                                "Hmmm, not 'impatient'!! If you attack from behind, there won't\neven be a need for 'battle', right?! ...Could it be, you're the\ntype to attack while transforming...?"
                             ]
                         },
                         {
@@ -7036,28 +6812,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ、素直が一番っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "分からないときは誰かを頼ると良いぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!…教えるのが上手な奴にな！"
+                                "Yes, being honest is the best!! When you don't understand, it's\ngood to rely on someone else!! \\!...Become someone who is good at\nteaching!"
                             ]
                         },
                         {
@@ -7087,28 +6849,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、『ケースバイケース』じゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別に正解なんてないぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『柔軟さ』と『勤勉さ』が大切じゃ！　"
+                                "Well, it's a case-by-case basis! There's no right answer, you\nknow!! Flexibility and diligence are important!"
                             ]
                         },
                         {
@@ -7189,28 +6937,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今回は『超速攻で薙ぎ倒す』じゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!殴られる前に、殴れば最強というテーマ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そんなときは『クイックタックル』の出番！"
+                                "This time, it's all about mowing down with super fast attacks!\n\\!The theme is to strike before getting struck, and that's the\nstrongest move! \\!In times like that, it's the perfect moment for\nthe Quick Tackle!"
                             ]
                         },
                         {
@@ -7221,35 +6955,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "森には徘徊してる『モンスター』がおるじゃろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そいつらに『Ｑボタン』で『クイックタックル』！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!成功すれば『先制攻撃』をすることが出来る！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!めちゃくちゃ有利になるから、積極的に使っていくのじゃ！"
+                                "There are monsters wandering in the forest, you know? Use the Q\nbutton to perform a Quick Tackle on them! If you succeed, you'll\nbe able to launch a preemptive attack! It will give you a huge\nadvantage, so make sure to use it actively!"
                             ]
                         },
                         {
@@ -7260,21 +6973,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]『Ｑボタン』で『クイックタックル』…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]『先制』して『一方的に殴る』…\\.ですね！"
+                                "\\SE[15] Quick Tackle with the [Q button]... \\SE[14] To\n[preemptively] and [unilaterally attack]... I see!"
                             ]
                         },
                         {
@@ -7301,28 +7007,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ、たしかに伝授したぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『設定』や『端末』が違う場合は…\\!わしには、分からんっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!最悪なくてもどうにかなるから、どうにかするのじゃ！"
+                                "Yes, I have certainly imparted my knowledge!! \\.If the 'settings'\nor 'devices' are different...!\\I won't understand, for sure!!\n\\!Even if it's not ideal, we'll manage somehow, so let's figure\nit out!"
                             ]
                         },
                         {
@@ -7333,14 +7025,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]はい、分かりました！！"
+                                "Yes, I understand!!"
                             ]
                         },
                         {
@@ -7370,7 +7062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラは\\i[91]クイックタックル！！を習得した！"
+                                "Laura has learned Quick Tackle!! \\i[91]!"
                             ]
                         },
                         {
@@ -8077,28 +7769,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よいか、ラウラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『Ｑボタン』で『クイックタックル』じゃぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!忘れやすいから、手のひらに書いておくのじゃ！"
+                                "Listen up, Laura. Use the Q button to perform a Quick Tackle.\nSince you tend to forget, I'll write it on the palm of your hand!"
                             ]
                         },
                         {
@@ -8109,35 +7787,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこの『かかし』で練習していくといい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『成功』したときだけ、戦闘になるからの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『びゅーん！！』となって『一回休み！！』と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なったら『成功』じゃ…！！"
+                                "It's good to practice with that scarecrow over there. Only when\nyou succeed will it turn into a battle. When it goes whoosh!! and\nsays one turn break!!, that means you've succeeded...!!"
                             ]
                         },
                         {
@@ -8353,21 +8010,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]子供が『タックル』してる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[17]だ、大丈夫かな？\\. どうしちゃったんだろう…？"
+                                "\\SE[19]The child is tackling.... I hope \\SE[17] they're okay. I\nwonder what happened...?"
                             ]
                         },
                         {
@@ -8484,28 +8134,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉ、ラウラか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "都会で新しい『技術』が生み出されての。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!広めるために子供たちに教えておったんじゃ。"
+                                "Oh, it's Laura. I was teaching the children in order to spread\nthe new technology that was created in the city."
                             ]
                         },
                         {
@@ -8516,21 +8152,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これから必須になる『必殺技』じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『クイックタックル』というんじゃが、もう知っておるか？"
+                                "This is a special move that will become essential from now on.\nIt's called the Quick Tackle, do you already know about it?"
                             ]
                         },
                         {
@@ -8541,21 +8170,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]都会の『必殺技』…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[19]必須となる『クイックタックル』…！？\\!"
+                                "\\SE[17]The special move from the city...! \\SE[19]The essential\nQuick Tackle...!?"
                             ]
                         },
                         {
@@ -8604,28 +8226,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぉふぉっ、そうじゃろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ラウラにも、わしから伝授してやろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!あまりにも強いから、びっくりすると思うぞ！"
+                                "Hoho, that's right! I'll teach it to Laura too! It's so strong\nthat I think you'll be surprised!"
                             ]
                         },
                         {
@@ -8674,28 +8282,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぉふぉ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『知ったかぶり』はいかんぞっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ラウラにも、わしから伝授してやろう！"
+                                "Hoho...! It's no good to pretend to know everything! I will teach\nit to Laura too, straight from me!"
                             ]
                         },
                         {
@@ -8793,21 +8387,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "して、ラウラやっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦闘で『一番強い行動』は、なんだと思う！"
+                                "Alright, Laura!! What do you think is the strongest action in\nbattle?"
                             ]
                         },
                         {
@@ -8818,14 +8405,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]戦闘で『一番強い行動』…！？\\!"
+                                "\\SE[19]The strongest action in battle...!?"
                             ]
                         },
                         {
@@ -8867,28 +8454,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ、『脳筋』じゃな…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大きい数字を見るとココロオドルのは仕方のないこと…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!…今回は、違うのじゃが！"
+                                "Hmm, it's not about brute force!! It's natural to get excited\nwhen you see big numbers...! But this time, it's different!"
                             ]
                         },
                         {
@@ -8919,28 +8492,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『粘着質』じゃな…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちまちま一時間くらい、戦闘するタイプかっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!…『現代人』じゃな！\\. 今回は違うのじゃが！"
+                                "Not the 'sticky' type...!! Are you the type to fight for about an\nhour, little by little...! \\!... You're not a 'modern person'!\nBut this time, it's different!"
                             ]
                         },
                         {
@@ -8971,28 +8530,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "むむっ、『短気』じゃな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "後ろから殴れば『戦闘』さえ必要ないよねっ！\\.ってことか…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!もしや、変身中に殴りかかるタイプか…？"
+                                "Hmmm, not 'impatient'!! If you attack from behind, there won't\neven be a need for 'battle', right?! ...Could it be, you're the\ntype to attack while transforming...?"
                             ]
                         },
                         {
@@ -9023,28 +8568,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ、素直が一番っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "分からないときは誰かを頼ると良いぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!…教えるのが上手な奴にな！"
+                                "Yes, being honest is the best!! When you don't understand, it's\ngood to rely on someone else!! \\!...Become someone who is good at\nteaching!"
                             ]
                         },
                         {
@@ -9074,28 +8605,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、『ケースバイケース』じゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別に正解なんてないぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『柔軟さ』と『勤勉さ』が大切じゃ！　"
+                                "Well, it's a case-by-case basis! There's no right answer, you\nknow!! Flexibility and diligence are important!"
                             ]
                         },
                         {
@@ -9176,28 +8693,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今回は『超速攻で薙ぎ倒す』じゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!殴られる前に、殴れば最強というテーマ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そんなときは『クイックタックル』の出番！"
+                                "This time, it's all about mowing down with super fast attacks!\n\\!The theme is to strike before getting struck, and that's the\nstrongest move! \\!In times like that, it's the perfect moment for\nthe Quick Tackle!"
                             ]
                         },
                         {
@@ -9208,35 +8711,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "森には徘徊してる『モンスター』がおるじゃろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そいつらに『Ｑボタン』で『クイックタックル』！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!成功すれば『先制攻撃』をすることが出来る！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!めちゃくちゃ有利になるから、積極的に使っていくのじゃ！"
+                                "There are monsters wandering in the forest, you know? Use the Q\nbutton to perform a Quick Tackle on them! If you succeed, you'll\nbe able to launch a preemptive attack! It will give you a huge\nadvantage, so make sure to use it actively!"
                             ]
                         },
                         {
@@ -9247,21 +8729,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]『Ｑボタン』で『クイックタックル』…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]『先制』して『一方的に殴る』…\\.ですね！"
+                                "\\SE[15] Quick Tackle with the [Q button]... \\SE[14] To\n[preemptively] and [unilaterally attack]... I see!"
                             ]
                         },
                         {
@@ -9288,28 +8763,14 @@
                                 0,
                                 0,
                                 2,
-                                "じじい"
+                                "Old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ、たしかに伝授したぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『設定』や『端末』が違う場合は…\\!わしには、分からんっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!最悪なくてもどうにかなるから、どうにかするのじゃ！"
+                                "Yes, I have certainly imparted it!! If the 'settings' or\n'devices' are different...! I wouldn't know!! Even if it's not\nideal, we'll manage somehow, so let's figure it out!"
                             ]
                         },
                         {
@@ -9320,14 +8781,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]はい、分かりました！！"
+                                "Yes, understood!!"
                             ]
                         },
                         {
@@ -9357,7 +8818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラは\\i[91]クイックタックル！！を習得した！"
+                                "Laura has learned the Quick Tackle!! \\i[91]"
                             ]
                         },
                         {
@@ -9771,7 +9232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life Alpha! $"
                             ]
                         },
                         {

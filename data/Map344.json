@@ -1069,21 +1069,14 @@
                                 0,
                                 0,
                                 2,
-                                "宿屋さん"
+                                "Innkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は客入りが悪いわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.もう、閉店しちゃおうかなぁ…。"
+                                "It's been a slow day with few customers... Maybe I should just\nclose up shop..."
                             ]
                         },
                         {
@@ -1103,21 +1096,14 @@
                                 0,
                                 0,
                                 2,
-                                "宿屋さん"
+                                "Innkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\$お、お客さんですか…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.一泊10\\Gですけど、お泊まりになりますか！？\\!"
+                                "O-Oh, customers...!! It's 10\\G per night, would you like to\nstay?!"
                             ]
                         },
                         {
@@ -1247,14 +1233,14 @@
                                 0,
                                 0,
                                 2,
-                                "宿屋さん"
+                                "Innkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ぜひ、またいらしてくださいねっ！"
+                                "Please come again!"
                             ]
                         },
                         {
@@ -1284,21 +1270,14 @@
                                 0,
                                 0,
                                 2,
-                                "宿屋さん"
+                                "Innkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "これは『サービス品』です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\.よかったら、また来てくださいね…！！"
+                                "This is a service item! If you'd like, please come again...!!"
                             ]
                         },
                         {
@@ -1338,7 +1317,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\i[389]キュアミストαをもらった！\\$"
+                                "\\i[389]Received Cure Mist α! \\$"
                             ]
                         },
                         {
@@ -1387,14 +1366,14 @@
                                 0,
                                 0,
                                 2,
-                                "宿屋さん"
+                                "Innkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お代が足りませんよぉ……。"
+                                "You don't have enough money..."
                             ]
                         },
                         {

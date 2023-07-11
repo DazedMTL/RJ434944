@@ -404,14 +404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…わたしだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.よし、今日も頑張ろう…！"
+                                "...It's me. Alright, let's do our best today...!"
                             ]
                         },
                         {
@@ -591,14 +584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーン最新のトイレだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.水洗式でいつも綺麗。"
+                                "This is Ulyssean's latest toilet. It's always clean because it's\na flush toilet."
                             ]
                         },
                         {
@@ -815,14 +801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーン最新のトイレだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自動で水が流れるので、いつも綺麗。\\!トイレする？\\!"
+                                "This is the latest toilet in Ulyssean. It automatically flushes,\nso it's always clean. Do you need to use the toilet?"
                             ]
                         },
                         {
@@ -988,14 +967,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\SE[70]いや、\\.今はその時ではないな…！"
+                                "\\SE[70]No, now is not the time...!"
                             ]
                         },
                         {
@@ -1046,14 +1025,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\SE[102]いや、\\.今はその時ではないな…！"
+                                "\\SE[102]No, now is not the time...!"
                             ]
                         },
                         {
@@ -1170,14 +1149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーン最新のトイレだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自動で水が流れるので、いつも綺麗。\\!トイレする？\\!"
+                                "This is the latest toilet in Ulyssean. It automatically flushes,\nso it's always clean. Do you need to use the toilet?"
                             ]
                         },
                         {
@@ -1226,14 +1198,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[24]そういう気分じゃないかなぁ…。"
+                                "\\SE[24]I don't really feel like it..."
                             ]
                         },
                         {
@@ -1353,14 +1325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーン最新のトイレだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自動で水が流れるので、いつも綺麗。\\!トイレする？\\!"
+                                "This is the latest toilet in Ulyssean. It automatically flushes,\nso it's always clean. Do you need to use the toilet?"
                             ]
                         },
                         {
@@ -1510,14 +1475,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\SE[70]いや、\\.今はその時ではないな…！"
+                                "\\SE[70]No, now is not the time...!"
                             ]
                         },
                         {
@@ -1568,14 +1533,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\SE[102]いや、\\.今はその時ではないな…！"
+                                "\\SE[102]No, now is not the time...!"
                             ]
                         },
                         {
@@ -1745,21 +1710,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[116]る、\\.ルナロアさんっ…！！？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どうしてここに！！？"
+                                "\\SE[116]Lu-Lunaroa-san...!!?? Why are you here!?"
                             ]
                         },
                         {
@@ -1770,28 +1728,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]どうって…\\.私はあなたの『恋人』だもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.すこしでも長い時間、一緒に過ごしたいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[53]あれっ…？ \\.そう思うのは、私だけだった…？"
+                                "\\SE[2]What's wrong... I am your lover after all. I want to spend\nas much time together as possible. \\SE[53]Huh...? Was I the only\none who thought that...?"
                             ]
                         },
                         {
@@ -1811,21 +1755,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]い、\\.いやっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それは私も同じ気持ちですが……。"
+                                "\\SE[50]I-I... I feel the same way but..."
                             ]
                         },
                         {
@@ -1836,28 +1773,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]そう、\\.よかった…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それならラウラは少し休むといいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『トイレ』をして、\\.疲れちゃったでしょう？"
+                                "\\SE[16]I'm glad...! In that case, Laura, you should take a little\nrest. \\SE[0]Go to the bathroom and relax, you must be tired,\nright?"
                             ]
                         },
                         {
@@ -1875,14 +1798,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[95]そ、それは…\\.あのっ、その……。"
+                                "\\SE[95]Th-That is... Umm, well..."
                             ]
                         },
                         {
@@ -1893,21 +1816,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]\\SM[pop]ここは私に任せて…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]もう少しここで『ゆっくり』するから…！"
+                                "\\SE[11]\\SM[pop]Leave it to me...!! \\!\\SE[10]I'll take a little\nmore time to relax here...!"
                             ]
                         },
                         {
@@ -1993,21 +1909,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]うっ…\\.ラウラ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.はぁ、はぁ…。"
+                                "\\SE[24]Ugh... Laura... Haa, haa..."
                             ]
                         },
                         {
@@ -2027,28 +1936,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]あぁ…\\.気にしないで？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[55]私はもう少しトイレで頑張るあなたのイメージを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さらに研鑽していくつもりだから…。"
+                                "\\SE[46]Ah... Don't worry about it, okay? \\SE[55]I'm planning to\nfurther refine the image of you working hard in the bathroom..."
                             ]
                         },
                         {
@@ -2133,21 +2028,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[29]る、\\.ルナロアさん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[64]さすがにトイレを覗かれるのは恥ずかしいのですが…。"
+                                "\\SE[29]Um, Lunaroa-san... \\SE[64]It's really embarrassing to be\npeeped on in the bathroom..."
                             ]
                         },
                         {
@@ -2158,28 +2046,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[59]あなたが恥じるようなことは何もないわ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[35]今の私を見て…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.とっても『幸せ』そうでしょう…？"
+                                "\\SE[59]There's nothing for you to be embarrassed about...!\n\\SE[35]Looking at me right now...? I look so happy, don't I...?"
                             ]
                         },
                         {
@@ -2190,28 +2064,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]どれだけ時が経っても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私の想いが変わることはないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]あなたを愛している。\\.ラウラ"
+                                "\\SE[46]No matter how much time passes, my feelings will never\nchange. \\SE[45]I love you, Laura."
                             ]
                         },
                         {
@@ -2231,21 +2091,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[62]い、\\.いやっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それはよく伝わっているのですが…。"
+                                "\\SE[62]I-I... I understand that well enough..."
                             ]
                         },
                         {
@@ -2256,28 +2109,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]そう、\\.よかった…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それならラウラは少し休むといいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『トイレ』をして、\\.疲れちゃったでしょう？"
+                                "\\SE[16]I'm glad...! In that case, Laura, you should take a little\nrest. \\SE[0]You must be tired from using the bathroom, right?"
                             ]
                         },
                         {
@@ -2295,14 +2134,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[29]そ、それは…\\.あのっ、その……。"
+                                "\\SE[29]U-Um, that is... Umm, well..."
                             ]
                         },
                         {
@@ -2313,21 +2152,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]\\SM[pop]ここは私に任せて…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]もう少しここで『ゆっくり』するから…！"
+                                "\\SE[11]\\SM[pop]Leave it to me...!! \\!\\SE[10]I'll take a little\nmore time to relax here...!"
                             ]
                         },
                         {
@@ -2413,21 +2245,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]うっ…\\.ラウラ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.はぁ、はぁ…。"
+                                "\\SE[24]Ugh... Laura... Haa, haa..."
                             ]
                         },
                         {
@@ -2447,28 +2272,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]あぁ…\\.気にしないで？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[55]私はもう少しトイレで頑張るあなたのイメージを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さらに研鑽していくつもりだから…。"
+                                "\\SE[46]Ah... Don't worry about it, okay? \\SE[55]I'm planning to\nfurther refine the image of you working hard in the bathroom..."
                             ]
                         },
                         {

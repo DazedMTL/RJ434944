@@ -19485,21 +19485,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[10]うわっ…\\.開かない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[24]もしかして、めんどくさいやつ…？"
+                                "\\SE[10]Ugh... It won't open... \\SE[24]Could it be a troublesome\none...?"
                             ]
                         },
                         {
@@ -19529,7 +19522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなにめんどくさくないやつです。"
+                                "It's not that troublesome."
                             ]
                         },
                         {
@@ -21045,28 +21038,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]ここには『仕掛け』があるみたいです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.一通り散策する必要があるかもですねぇ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]あっ、ワタクシは『戦力外』なので…。"
+                                "\\SE[12]It seems there are some traps here. We might need to\nexplore thoroughly.... \\SE[16]Oh, as for me, I am not combat-\nready...."
                             ]
                         },
                         {
@@ -21077,21 +21056,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]出張キャットちゃんですよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[56]アイテムとか必要でしょうか！？\\.（有料ですけど！）"
+                                "\\SE[14]I'm the traveling Cat-chan!! \\SE[56]Do you need any\nitems!? (It's not free though!)"
                             ]
                         },
                         {

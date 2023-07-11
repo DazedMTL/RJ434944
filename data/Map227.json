@@ -4550,28 +4550,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]ありゃ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと危なそうな先客がいらっしゃる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]一緒にお花摘みは…\\.ちょっと難しいよね。"
+                                "\\SE[6]Oh my... There seems to be a rather dangerous guest here...\n\\SE[3]It might be a bit difficult to pick flowers together..."
                             ]
                         },
                         {
@@ -4608,14 +4594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このゲームに『敗北イベント』はありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!遠慮なくボコボコにしましょう。"
+                                "There are no 'defeat events' in this game. Feel free to beat them\nup without hesitation."
                             ]
                         },
                         {
@@ -4649,21 +4628,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]ええい…！これもルナのため！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[17]申し訳ないけどここは譲ってね…！"
+                                "\\SE[19]Eei...! This is also for Lunaroa! \\SE[17]I'm sorry, but\nplease let me handle this...!"
                             ]
                         },
                         {
@@ -4881,14 +4853,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[19]でぇーい！！"
+                                "\\SE[19]Hey!!"
                             ]
                         },
                         {
@@ -5462,21 +5434,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]\\SM[nod]うーん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだかちょっと罪悪感。"
+                                "\\SE[17]\\SM[nod]Hmm... I feel a bit guilty for some reason."
                             ]
                         },
                         {
@@ -5487,21 +5452,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………\\SE[1]まっ！弱肉強食だよね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さて、目当てのお花は多分この辺りに…。"
+                                ".........\\SE[1]Well! It's survival of the fittest, right? Now,\nthe flowers I'm looking for should be around here..."
                             ]
                         },
                         {
@@ -5669,21 +5627,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]よかったーあったー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは、さっそく…。"
+                                "\\SE[22]Oh, I'm glad! I found it. Well then, let's get started..."
                             ]
                         },
                         {
@@ -5732,7 +5683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………………。"
+                                "..............................."
                             ]
                         },
                         {
@@ -5750,7 +5701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………。"
+                                "................"
                             ]
                         },
                         {
@@ -5768,7 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                ".........."
                             ]
                         },
                         {
@@ -5807,21 +5758,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]\\SM[jump]出来たー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやぁ…我ながら素晴らしいものを手がけてしまった…。"
+                                "\\SE[22]\\SM[jump]I did it! Oh my... I've really created something\namazing..."
                             ]
                         },
                         {
@@ -5858,7 +5802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[182]スズランの髪飾りが出来上がった！"
+                                "\\i[182] The Suzuran hair ornament is complete!"
                             ]
                         },
                         {
@@ -5878,21 +5822,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]思ったより時間かかっちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰ったら、お母さんにも見てもらおうかな。"
+                                "\\SE[0]It took longer than I thought. Maybe when I get home, I'll\nshow it to my mom too."
                             ]
                         },
                         {
@@ -5925,7 +5862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "裏山の入口まで移動しますか？\\!"
+                                "Do you want to move to the entrance of the back mountain?\\!"
                             ]
                         },
                         {
@@ -6056,14 +5993,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[0]散歩は健康にいいもんね。"
+                                "\\SE[0]Walking is good for your health, you know."
                             ]
                         },
                         {
@@ -6678,7 +6615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life Alpha! $"
                             ]
                         },
                         {

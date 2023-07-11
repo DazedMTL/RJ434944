@@ -13755,14 +13755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリスタルは『輝き』を失っている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.動力を起動しますか？\\!"
+                                "The crystal has lost its radiance.... Shall we activate the\npower?"
                             ]
                         },
                         {
@@ -13906,14 +13899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "権利者以外でのアクセスが検知されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自動防衛システムを起動します。"
+                                "Unauthorized access has been detected. Activating automatic\ndefense system."
                             ]
                         },
                         {
@@ -14023,7 +14009,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "入口の扉が開いたのかな…？"
+                                "I wonder if the entrance door has opened...?"
                             ]
                         },
                         {
@@ -14102,7 +14088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…クリスタルは起動したようだ。"
+                                "...It seems that the crystal has been activated."
                             ]
                         },
                         {
@@ -14772,7 +14758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[389]キュアミストαを手に入れた！\\$"
+                                "\\i[389]I obtained Cure Mist Alpha! \\$"
                             ]
                         },
                         {
@@ -15491,7 +15477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[476]レアアースの欠片を手に入れた！\\$"
+                                "\\i[476] Obtained a rare earth fragment! $"
                             ]
                         },
                         {

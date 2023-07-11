@@ -1923,21 +1923,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]おはよー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]なんだか、すごく寝てしまった…。"
+                                "\\SE[38]Good morning.... \\!\\SE[21]I somehow ended up sleeping a\nlot...."
                             ]
                         },
                         {
@@ -2101,21 +2094,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]おはよっ \\.ヴィタ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]色々あったもの、寝ててもよかったのに。"
+                                "\\SE\\SE[2]Good morning, Vita. \\SE[2]You had a lot going on, so it\nwould have been fine for you to keep sleeping."
                             ]
                         },
                         {
@@ -2126,21 +2112,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]そうだよ。\\.まだ疲れてるでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[84]お昼寝してても全然大丈夫だよ？"
+                                "\\SE[5]That's right. \\.You're still tired, right? \\!\\SE[84]It's\ntotally fine to take a nap, you know?"
                             ]
                         },
                         {
@@ -2181,28 +2160,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あっ、ううん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そんな気を使わなくて大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]私は『最強』だし。\\.『無敵』だから。"
+                                "\\SE[2]Ah, no. You don't have to worry about that. \\SE[0]I am the\nstrongest after all. And invincible."
                             ]
                         },
                         {
@@ -2306,35 +2271,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]私たちは、これからギルドの依頼を受けにいくけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ヴィタはどうする？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]ユリシーンに『保護』してもらうっていう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "選択肢もあるけど…。"
+                                "\\SE\\SE[1]We're going to take on a guild request from now on...\n\\SE[3]What about Vita? \\SE[1]There's also the option of having\nYurisine protect her..."
                             ]
                         },
                         {
@@ -2345,21 +2289,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]んっ…\\.そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[4]二人は仕事で集落に来たんだもんね。"
+                                "\\SE[3]Hmm... I see. \\SE[4]So you two came to the village for\nwork."
                             ]
                         },
                         {
@@ -2400,28 +2337,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]二人の手伝いを…\\.しちゃだめかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]自分の分は自分で働きたいけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この辺で『狩り』して生活する訳にもいかないし…。"
+                                "\\SE[2]I wonder if it's not okay for me to help the two of you...\n\\SE[3]I want to work for my own share, but I can't just rely on\nhunting around here for a living..."
                             ]
                         },
                         {
@@ -2441,28 +2364,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あなたがそれを望むのなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちに断る理由なんてないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]一緒に、行きましょう。"
+                                "\\SE\\SE[15]If you wish for it, there's no reason for us to refuse.\n\\SE[15]Let's go together."
                             ]
                         },
                         {
@@ -2550,21 +2459,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[83]うん、うん…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[22]じゃあ私たちは『ファミリー』だね！"
+                                "\\SE[83]Yeah, yeah...! \\!\\SE[22]Then we are a family!"
                             ]
                         },
                         {
@@ -2584,28 +2486,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]おぉ…\\.『ファミリー』……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]ルナロアが『ママ』で…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]ラウラが『おねえちゃん』…？"
+                                "\\SE[4]Oh... Family.... \\SE[14]Lunaroa as Mom.... \\SE[15]Laura as\nBig Sister...?"
                             ]
                         },
                         {
@@ -2684,28 +2572,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[95]あ、あれっ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私の位置はそこ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[90]いや、\\.そこでも全然いいけど…！"
+                                "\\SE[95]Ah, ah...? Is that... my position...? \\SE[90]No, well...\nthat's totally fine too...!"
                             ]
                         },
                         {
@@ -2860,21 +2734,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ふふっ…\\.いいじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]お仕事がんばろうね。\\.『おねえちゃん』"
+                                "\\SE\\SE[16]Hehe... It's fine, isn't it? \\SE[16]Let's do our best\nat work, Big Sister."
                             ]
                         },
                         {
@@ -3014,21 +2881,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]おねえちゃ…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[33]うぐっ…！ \\!\\SE[94]なにこの甘美な響き…！？"
+                                "\\SE[16]Big sister...!? \\!\\SE[33]Ugh...! \\!\\SE[94]What is this\nsweet sound...!?"
                             ]
                         },
                         {
@@ -3087,28 +2947,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[70]あれっ…\\.もしかして…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[68]私は『バカップル』を『介護』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しなきゃいけない方の立ち位置…？"
+                                "\\SE[70]Huh... Could it be...? \\SE[68]Am I in the position of\nhaving to take care of this stupid couple...?"
                             ]
                         },
                         {

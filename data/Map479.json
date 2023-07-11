@@ -15510,7 +15510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『イノシシの肉』をたくさん手に入れた！！"
+                                "I obtained a lot of wild boar meat!!"
                             ]
                         },
                         {
@@ -15528,14 +15528,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[34]はぁ…はぁ…！！"
+                                "\\SE[34]Haa... haa...!!"
                             ]
                         },
                         {
@@ -15555,21 +15555,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]アイシャ…やったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]私たち二人の…\\.勝ちだよ。"
+                                "\\SE\\SE[0]Aisha... We did it. \\SE[0]It's our victory, just the two\nof us."
                             ]
                         },
                         {
@@ -15611,28 +15604,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[37]ふうっ…\\.…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[46]そ、\\.そうなのね…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[47]あたし、全然余裕なくて…\\.ずっと…。"
+                                "\\SE[37]Phew... \\SE[46]I-Is that so...? \\SE[47]I, I was completely\noverwhelmed... I've been..."
                             ]
                         },
                         {
@@ -15666,21 +15645,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[32]ねぇ ヴィタ。教えて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[52]今日、私たちは\\.何を討ち取ったの？"
+                                "\\SE[32]Hey Vita, tell me... \\SE[52]What did we defeat today?"
                             ]
                         },
                         {
@@ -15691,21 +15663,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[45]もう、遠くがあんまり…\\!見えてなくて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[50]何と戦ってたのか…\\.よく、分かってなかったの。"
+                                "\\SE[45]I couldn't see very far... I didn't really know what we\nwere fighting against..."
                             ]
                         },
                         {
@@ -15793,14 +15758,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[39]…今日、\\.私たちは。"
+                                "\\SE[39]...Today, we..."
                             ]
                         },
                         {
@@ -15927,14 +15892,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[55]『ドラゴン』を…\\.討ち取ったんだ。"
+                                "\\SE[55]We... defeated the Dragon."
                             ]
                         },
                         {
@@ -15945,28 +15910,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[56]アイシャの撃った矢が…『ドラゴン』の額をとらえて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[38]怯んだ隙に、私がとどめをさせたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[61]私たち二人の…\\.勝利だよ。"
+                                "\\SE[56]Aisha's arrow hit... and struck the forehead of the\nDragon... \\SE[38]Taking advantage of its moment of weakness, I\ndelivered the finishing blow. \\SE[61]It's our victory... just the\ntwo of us."
                             ]
                         },
                         {
@@ -15984,14 +15935,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]あはっ…\\.あははっ…。"
+                                "\\SE[46]Ahaha... Ahahaha..."
                             ]
                         },
                         {
@@ -16009,21 +15960,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[30]すごいじゃん私たち…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]『天下無敵のコンビ』に改名したほうがいいかもね…。"
+                                "\\SE[30]We're amazing, aren't we... Maybe we should change our\nname to The Invincible Duo or something..."
                             ]
                         },
                         {
@@ -16043,14 +15987,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[55]うん…私たちより強い人なんて、\\.いないよ。"
+                                "\\SE[55]Yeah... There's no one stronger than us."
                             ]
                         },
                         {
@@ -16061,14 +16005,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[45]ほんとに…\\.あなたと一緒で、\\.良かった…。"
+                                "\\SE[45]I'm really... glad... to be with you..."
                             ]
                         },
                         {
@@ -16126,21 +16070,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]ごほっ…\\.ごほっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.げほっ……！！！"
+                                "\\SE[24]Cough... Cough...! Cough...!!!"
                             ]
                         },
                         {
@@ -16313,21 +16250,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[62]山を、降りよう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.もう少し、落ち着ける場所に…。"
+                                "\\SE[62]Let's descend the mountain... to a place where we can calm\ndown a little more..."
                             ]
                         },
                         {

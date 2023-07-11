@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "宿屋",
+    "displayName": "Inn",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -3489,14 +3489,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[98]\\{\\{っ！！！！！！！！！"
+                                "\\SE[98] Huh?!"
                             ]
                         },
                         {
@@ -3542,14 +3542,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]……\\.……\\.……\\!\\SE[60]はぁ。"
+                                "\\SE[75]......\\.......\\.......\\!\\SE[60] Haa."
                             ]
                         },
                         {
@@ -3567,14 +3567,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]この夢を見るのも…\\.久しぶりね。"
+                                "\\SE[75]It's been a while since I had a dream like this..."
                             ]
                         },
                         {
@@ -3592,21 +3592,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]まったく…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.少し油断すると、これなんだから…。"
+                                "\\SE[50]Honestly... If I let my guard down even a little, this\nhappens..."
                             ]
                         },
                         {
@@ -3624,14 +3617,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]さすがに…\\.落ち着いてきた…\\!\\SE[75]かしらね。"
+                                "\\SE[74]Finally... I'm starting to calm down...\\SE[75] I wonder\nwhy."
                             ]
                         },
                         {
@@ -3658,21 +3651,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]…少し、\\.外の風を浴びようかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[75]誰も起こさないようにしないと…。"
+                                "\\SE[74]...I wonder if I should go outside and feel the breeze for\na bit. \\SE[75]I need to make sure not to wake anyone up..."
                             ]
                         },
                         {

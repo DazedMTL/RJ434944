@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "国境 ユリシーン領",
+    "displayName": "Borderland Ulysian Territory",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1165,28 +1165,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン兵"
+                                "Ulyssean Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご苦労様です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この先はコーダインとの国境になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お話は伺っていますので、ご自由にお通り下さい。"
+                                "Thank you for your hard work. This is the border with Caudine\nahead. I have heard about you, so please feel free to pass\nthrough."
                             ]
                         },
                         {
@@ -1424,14 +1410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テントの中には毛布や保存食が入っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.泊まり込みで警備してるみたい…。"
+                                "Inside the tent, there are blankets and preserved food. It seems\nlike they are staying overnight to guard it..."
                             ]
                         },
                         {
@@ -1605,7 +1584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送の結晶石に『国境の大橋』が追加された！"
+                                "The crystal stone of teleportation has been added with the 'Great\nBridge of Borders'!"
                             ]
                         },
                         {

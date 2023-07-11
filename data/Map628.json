@@ -4018,14 +4018,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]それで…\\.首尾の方はどう？"
+                                "\\SE[4] So... How did things go?"
                             ]
                         },
                         {
@@ -4082,28 +4082,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]バッチリです！\\!\\SE[2]…といいたいのですが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[48]『現物』は見つかりませんでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.目ぼしいのは『これ』くらいです。"
+                                "\\SE[11]It went perfectly! \\SE\\SE[48]...or so I'd like to say.\n\\SE[48]I couldn't find the actual item. This is the only thing\nthat caught my eye."
                             ]
                         },
                         {
@@ -4217,28 +4203,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]これは…『鍵』？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]大きいわね…\\.扉に使うものではなさそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]一体、どこに使うものかしら…？"
+                                "\\SE[4]Is this... a key? \\SE[3]It's quite big... It doesn't seem\nlike something you would use for a door. \\SE[2]I wonder where\nthis is used...?"
                             ]
                         },
                         {
@@ -4256,28 +4228,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]姐さんにも分からないですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]じゃあ、新しく作られたものでしょうかね…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]ニキータさんは心当たりあります？"
+                                "\\SE\\SE[1]Don't you know either, sis? \\SE[3]Then, could it be\nsomething newly created...? \\SE[1]Do you have any idea, Nikita-\nsan?"
                             ]
                         },
                         {
@@ -4311,28 +4269,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『鍵』…ですか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[4]普段、私たちが使う物ではないですね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[52]ごめんなさい…\\.ちょっと分からないです…。"
+                                "\\SE\\SE[52]A key...? \\SE[4]It's not something we usually use....\n\\SE[52]I'm sorry... I don't really know...."
                             ]
                         },
                         {
@@ -4359,21 +4303,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]うーん…\\.手掛かりはあれど手詰まり…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]どうしたものでしょう。"
+                                "\\SE[2]Hmm... I have some clues, but I'm at a dead end... \\SE[3]I\nwonder what to do."
                             ]
                         },
                         {
@@ -4400,21 +4337,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]私やキャットが知らなくて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ニキータにも分からないもの。\\.となると…。"
+                                "\\SE[2]If neither Cat nor I know... \\!\\SE[3]And even Nikita\ndoesn't know..."
                             ]
                         },
                         {
@@ -4425,28 +4355,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]ニキータが知っている『新しい』ものでもなくて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]私たちが知っている『古い』ものでもない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[74]その、どちらでもないなら…。"
+                                "\\SE[50]It's not something new that Nikita knows... \\!\\SE[51]And\nit's not something old that we know... \\!\\SE[74]If it's neither\nof those..."
                             ]
                         },
                         {
@@ -4520,14 +4436,14 @@
                                 0,
                                 0,
                                 2,
-                                "ふたり"
+                                "Two"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……\\.……\\.……。"
+                                "......\\.......\\........"
                             ]
                         },
                         {
@@ -4575,21 +4491,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]『もっと古いもの』…\\.じゃないかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]それこそ屋敷が建てられる前の…。"
+                                "\\SE[4]Something even older... I wonder. \\SE[3]Perhaps it's\nsomething from before the mansion was built..."
                             ]
                         },
                         {
@@ -4625,21 +4534,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そこまでの年代モノとなると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.すでに知っていそうな人は…\\!\\SE[4]あっ。"
+                                "\\SE[2]When it comes to something from that era, someone who\nalready knows... \\.\\SE[4]Ah."
                             ]
                         },
                         {
@@ -4657,21 +4559,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]庭師の『ヤード』に話を聞いてみましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]何か知っているかもしれないわ。"
+                                "\\SE[4]Let's go ask the gardener, Yard. \\!\\SE[3]They might know\nsomething."
                             ]
                         },
                         {
@@ -4744,28 +4639,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ニキータも一緒に来て。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.場合によってはそのまま脱出するわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]大丈夫。\\.あなたの安全は私が保証する。"
+                                "\\SE[2]Nikita, come with us. Depending on the situation, we might\nescape together. \\SE[3]Don't worry. I will guarantee your safety."
                             ]
                         },
                         {
@@ -4790,14 +4671,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[45]ベガちゃん…。"
+                                "\\SE[45]Vega-chan...."
                             ]
                         },
                         {
@@ -4838,28 +4719,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]（なんでしょう…\\.この二人…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[13]いつの間にか『親密』になっているような…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[45]これは匂う…\\.匂いますねぇ…。）"
+                                "\\SE\\SE[45] (I wonder... these two... \\SE[13] They seem to have\nbecome close without me noticing... \\SE[45] I can smell it...\nYes, I can definitely smell it...)"
                             ]
                         },
                         {

@@ -4548,21 +4548,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]あれ…\\.ベガ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[46]私の部屋にくるなんて、珍しいね…\\!\\SE[45]どうしたの？"
+                                "\\SE[47]Huh... Vega? \\SE[46]It's rare for you to come to my\nroom... \\SE[45]What's up?"
                             ]
                         },
                         {
@@ -4591,28 +4584,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[20]どうしたの…？ \\.じゃないわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]今日は王宮から勅命の任務を受けていた日でしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]いつまでも起きてこないから、起こしにきたの。"
+                                "\\SE[20]What's wrong...? \\.It's not like that. \\!\\SE[3]Today was\nthe day I received a royal decree mission from the palace.\n\\!\\SE[2]You kept sleeping and didn't come out, so I came to wake\nyou up."
                             ]
                         },
                         {
@@ -4623,14 +4602,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]ちょくめい……。"
+                                "\\SE[57]What's wrong...?"
                             ]
                         },
                         {
@@ -4815,21 +4794,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]そ、そうだったわ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]今、何時！？ \\.まだ、間に合うかしら…！"
+                                "\\SE[9]Oh, that's right...! \\SE[14]What time is it now!? \\.I\nwonder if I can still make it...!"
                             ]
                         },
                         {
@@ -4849,21 +4821,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]急げば、ぎりぎり間に合うわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[75]私の監督責任にもなりそうだから、\\.さっさと支度してね。"
+                                "\\SE[76]If you hurry, you'll just make it in time. \\SE[75]It might\nreflect on my supervisory responsibility, so hurry up and get\nready."
                             ]
                         },
                         {
@@ -5067,21 +5032,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]まっ 私としては、パニクるあんたとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.珍しいものを見れたから満足だけどね。"
+                                "\\SE[72]Well, for me, seeing you panic is quite rare and\nsatisfying."
                             ]
                         },
                         {
@@ -5338,14 +5296,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]ううっ…\\.急いで準備しないと…！"
+                                "\\SE[9]Ugh... I need to hurry and get ready...!"
                             ]
                         },
                         {
@@ -5356,28 +5314,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]お、落ち着くのよ…\\.ルナロア…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[43]こういうときこそ冷静に…\\.効率よく進めるのよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[44]落ち着いて…\\.深呼吸…\\.深呼吸……。"
+                                "\\SE[12]Oh, calm down... Lunaroa... \\SE[43]In times like this,\nit's important to stay calm... and proceed efficiently...\n\\SE[44]Take a deep breath... and calm down... deep breath... deep\nbreath..."
                             ]
                         },
                         {
@@ -5395,28 +5339,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]うん、大丈夫…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.頭も大分、起きてきたわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]手も無駄なく、動いてる……。"
+                                "\\SE[57]Yes, I'm fine... My head is awake now... \\SE[0]My hands\nare moving efficiently too..."
                             ]
                         },
                         {
@@ -5434,28 +5364,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]そうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.忘れないうちに『ぱんつ』を履いておきましょう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[58]もしまた忘れたら、一大事だものね……。"
+                                "\\SE[57]That's right. \\.Before I forget, let's put on some\npanties.... \\!\\SE[58]If I forget again, it'll be a big\nproblem...."
                             ]
                         },
                         {
@@ -5485,7 +5401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[804]ルナロアのぱんつを手に入れた！\\$"
+                                "\\i[804]Obtained Lunaroa's panties! \\$"
                             ]
                         },
                         {
@@ -5631,21 +5547,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ねぇ、ベガ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]さっき私のこと、\\!\\SE[57]『変態』って言わなかった？"
+                                "\\SE\\SE[57]Hey, Vega...? \\SE[3]Did you just call me a pervert\nearlier?"
                             ]
                         },
                         {
@@ -5656,14 +5565,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガの声"
+                                "Vega's voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなこと、言ってないわよー。"
+                                "I didn't say anything like that, you know~."
                             ]
                         },
                         {
@@ -5800,21 +5709,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]ほんとかなぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[8]絶対に言ったと思うんだけどなぁ…。"
+                                "\\SE[7]I wonder if that's true... \\!\\SE[8]I'm pretty sure I said\nit..."
                             ]
                         },
                         {
@@ -5963,7 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロアは\\i[17]ブラッドブレッシングを習得した！"
+                                "Lunaroa has learned \\i[17] Blood Blessing!"
                             ]
                         },
                         {

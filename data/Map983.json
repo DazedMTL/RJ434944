@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ハタヤキ村",
+    "displayName": "Hatayaki Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 33,
@@ -7367,14 +7367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんのへんてつもない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこにでもあるただの井戸だ。"
+                                "It's just an ordinary well that can be found anywhere."
                             ]
                         },
                         {
@@ -7411,21 +7404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…この井戸には悲しいお話がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.その昔…子供たちがかくれんぼをしていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ある一人の少女はどうしても最後まで見つかりたくなかった。"
+                                "...There is a sad story about this well. Long ago... children\nwere playing hide and seek. One girl in particular didn't want to\nbe found until the very end."
                             ]
                         },
                         {
@@ -7443,21 +7422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "色々隠れ場所を試した少女はこの井戸に行きついた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!とても危ないからと、大人に厳しく躾けられている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.村の子供たちは絶対に井戸には近づかないからだ。"
+                                "The girl who tried various hiding places ended up at this well.\nShe was strictly disciplined by the adults because it was very\ndangerous. The village children were forbidden from approaching\nthe well under any circumstances."
                             ]
                         },
                         {
@@ -7475,21 +7440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてやはり…悲劇は起きる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.下層まで降りる途中でロープが切れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!少女は井戸の底に落ちてしまったのだ。"
+                                "And as expected... tragedy struck. While descending to the lower\nlevel, the rope snapped. The girl ended up falling to the bottom\nof the well."
                             ]
                         },
                         {
@@ -7507,21 +7458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "井戸の底は凍てつくような寒さで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女の体温を容赦なく奪った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!必死に助けを呼ぶ声は誰にも届かない。"
+                                "The bottom of the well was freezing cold, mercilessly stealing\naway the girl's body heat. Her desperate cries for help did not\nreach anyone."
                             ]
                         },
                         {
@@ -7539,21 +7476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やがて声をあげる力を失い、冷たさも感じなくなる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!薄れゆく意識の中、幼いながらも死を覚悟していた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そして驚くべきことにその少女は…"
+                                "Eventually, she lost the strength to cry out and stopped feeling\nthe cold. Fading in and out of consciousness, she had already\nresigned herself to death, despite being so young. And\nsurprisingly, that girl..."
                             ]
                         },
                         {
@@ -7583,14 +7506,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]この私だったのだ…！"
+                                "\\SE[14]It was me...!"
                             ]
                         },
                         {
@@ -7601,21 +7524,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]いやぁ！あのときはルナが助けてくれなかったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほんとに死んじゃってたかも…！"
+                                "\\SE[0]Oh my! If Lunaroa hadn't saved me back then, I might have\nreally died...!"
                             ]
                         },
                         {
@@ -7626,14 +7542,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[29]お父さんにもすっごく怒られたなぁ…\\.ははっ…。"
+                                "\\SM[nod]\\SE[29]I got scolded by my father a lot... Haha..."
                             ]
                         },
                         {
@@ -7891,14 +7807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人に懐かないつまらない豚です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しい豚は左手の牧場まで！"
+                                "You're a boring pig who doesn't get along with people. The fun\npigs are at the ranch on the left!"
                             ]
                         },
                         {
@@ -7976,28 +7885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラのおうち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…子供のころに建てた看板だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!今はもう恥ずかしいから外したいのだけれど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.お父さんがものすごく寂しそうな顔をする。"
+                                "Laura's house! ... It's a sign that was built when I was a child.\nNow I feel embarrassed about it and want to take it down. But my\nfather looks really lonely."
                             ]
                         },
                         {
@@ -8075,28 +7963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナロアのおうち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…子供のころ二人で作った看板だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!なくなったらとても寂しいから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お父さんの気持ちもすこしは分かる。"
+                                "Lunaroa's house! ... This sign was made by the two of us when we\nwere children. If it were to disappear, it would be very lonely,\nso I can understand my father's feelings a little."
                             ]
                         },
                         {
@@ -8174,21 +8041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手入れの届かない池は害虫発生の原因になります！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなで寄付金を集めて埋め立てを決行しましょう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　詳しいことは倉庫のディーボまで"
+                                "The untended pond can become a breeding ground for pests! Let's\ngather donations and proceed with filling it up together! For\nmore details, please contact Debo in the warehouse."
                             ]
                         },
                         {
@@ -8199,14 +8052,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]私は別にどうなってもいいかな。"
+                                "\\SE[2] I don't really mind either way."
                             ]
                         },
                         {
@@ -8286,14 +8139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『いど』はきけんがいっぱい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おとなのひとといっしょにつかいましょう！"
+                                "『いど』is full of danger! Let's use it together with adults!"
                             ]
                         },
                         {
@@ -8424,28 +8270,14 @@
                                 0,
                                 0,
                                 2,
-                                "ボルトー"
+                                "Bolto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ　ラウラちゃん！聞いてくれよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!親父がそろそろ結婚しろってうるさくてよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.気が早すぎるって思うよな？"
+                                "Oh, Laura-chan! Listen to this! My old man keeps bugging me to\nget married soon! Can you believe how impatient he is?"
                             ]
                         },
                         {
@@ -8456,21 +8288,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]いいじゃないですか結婚！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ボルトーさんなら素敵なパパになりそう。"
+                                "\\SE[15]Isn't it great to get married! If it's Bolt-san, he seems\nlike he would make a wonderful dad."
                             ]
                         },
                         {
@@ -8481,28 +8306,14 @@
                                 0,
                                 0,
                                 2,
-                                "ボルトー"
+                                "Bolto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、えへへ…そうかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お袋もラウラちゃんとかいいんじゃねえか、\\.とかぬかしてよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そんなこと言われても、\\.困っちまうよな…？"
+                                "Eh, eh hehe... Is that so? My old man was saying something like\nWouldn't it be nice if it was someone like Laura-chan? Even if he\nsays something like that, it's kind of troubling, isn't it...?"
                             ]
                         },
                         {
@@ -8522,21 +8333,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]私とボルトーさんが？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[36]いやーそれはないでしょー？"
+                                "\\SE[2]Me and Bolt-san? \\!\\SE[36]No way, right?"
                             ]
                         },
                         {
@@ -8556,28 +8360,14 @@
                                 0,
                                 0,
                                 2,
-                                "ボルトー"
+                                "Bolto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうだよな！\\.そんなことありえないよな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!まったくうちの両親にも困ったもんだぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ははっ…。"
+                                "Y-Yeah, that's right! S-Something like that would never happen,\nright?! It's really troublesome with my parents too! Haha..."
                             ]
                         },
                         {
@@ -8699,21 +8489,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[100]むむっ…。この二人の戦いを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見届けなければいけない気がする…。"
+                                "\\SE[100]Hmm... I feel like I have to witness the battle between\nthese two..."
                             ]
                         },
                         {
@@ -8878,14 +8661,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒猫"
+                                "Black Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にゃーん"
+                                "Meow"
                             ]
                         },
                         {
@@ -8896,14 +8679,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[25]かわいいよー。"
+                                "\\SE[25]You're so cute!"
                             ]
                         },
                         {
@@ -8974,28 +8757,14 @@
                                 0,
                                 0,
                                 2,
-                                "不発のトビー"
+                                "Failed Toby"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラさんのお父さんだ…\\.よし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!まずはご両親…地固めをするんだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!しっかり周りから攻めていけ…。"
+                                "It's Laura-san's father... Alright... First, I need to establish\na solid foundation with her parents... I'll make sure to attack\nfrom all sides..."
                             ]
                         },
                         {
@@ -9006,28 +8775,14 @@
                                 0,
                                 0,
                                 2,
-                                "不発のトビー"
+                                "Failed Toby"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ…足が動かない…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.今こそ奮い立てよ自分……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!くそっ…どうして…\\.くそっ…\\.くそっ…！"
+                                "Ugh... I can't move my legs...! Now is the time to gather my\nstrength...! Dammit... Why...? Dammit... Dammit...!"
                             ]
                         },
                         {
@@ -9098,28 +8853,14 @@
                                 0,
                                 0,
                                 2,
-                                "親方のヤブーン"
+                                "Master Yaboon"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっラウラちゃんか！今日も元気だね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お父さんはまじめに働いてるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心してくれていいよ！"
+                                "Oh, it's Laura-chan! You're energetic as always today! Your\nfather is working diligently, so you can rest assured!"
                             ]
                         },
                         {
@@ -9191,14 +8932,14 @@
                                 0,
                                 0,
                                 2,
-                                "おとうさん"
+                                "Father"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勘弁してくださいよ！親方ぁ！"
+                                "Please spare me! Boss!"
                             ]
                         },
                         {
@@ -9218,28 +8959,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]あははっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]情けないお父さんですけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにとぞ、\\SM[nod]よろしくお願いします。"
+                                "\\SE[22]Ahaha. \\SE[0]My father may be pathetic, but please take\ncare of me \\SM[nod]and treat me well."
                             ]
                         },
                         {
@@ -9318,14 +9045,14 @@
                                 0,
                                 0,
                                 2,
-                                "おとうさん"
+                                "Father"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そんなぁ…。"
+                                "S-So, that's not fair..."
                             ]
                         },
                         {
@@ -9345,21 +9072,14 @@
                                 0,
                                 0,
                                 2,
-                                "親方のヤブーン"
+                                "Master Yaboon"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "がははっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!娘に一本とられたな！"
+                                "Hahaha!! Looks like I've been beaten by my daughter!"
                             ]
                         },
                         {
@@ -9608,21 +9328,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[48]あはっ…♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.すごい良かったね…？\\. ライアン…？"
+                                "\\SE[48]Ahaha...♡ Was it really good...? Ryan...?"
                             ]
                         },
                         {
@@ -9649,14 +9362,14 @@
                                 0,
                                 0,
                                 2,
-                                "ライアン"
+                                "Ryan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[53]ううっ…///"
+                                "\\SE[53]Uuuh...///"
                             ]
                         },
                         {
@@ -10176,28 +9889,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]のんびりしていて、いい所ですね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.老後はこういった場所でひっそり。…も、\\.いいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]…私が住むには少し、田舎過ぎますが。"
+                                "\\SE\\SE[0] It's such a relaxing and nice place.... It would be\nnice to spend my retirement in a quiet place like this.... Well,\n\\SE[0]... It's a bit too rural for me to live here though."
                             ]
                         },
                         {
@@ -10217,28 +9916,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]さて、探し人見つからず…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.仕方ない。現地民に聞いてみましょっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]…詳しそうな人…\\.ひと…。"
+                                "\\SE[2] Well, since I couldn't find the person I was looking\nfor.... \\.I guess I have no choice. Let's try asking the locals.\n\\!\\SE[3]...That person seems knowledgeable...\\.Excuse me...."
                             ]
                         },
                         {
@@ -10434,21 +10119,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]こんにちは。可憐なお嬢さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]少し、お伺いしてもよろしいです…？"
+                                "\\SE\\SE[0]Hello, lovely young lady. \\SE[0]May I ask you a\nquestion...?"
                             ]
                         },
                         {
@@ -10510,28 +10188,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]え、えっと、可憐というのは私のことでしょうか…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]そのっ、あまり褒められると…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.慣れていないので、照れてしまうのですが……。"
+                                "\\SE[4]U-um, are you referring to me when you say lovely...!?\n\\SE[7]I-I'm not used to receiving compliments... so I get\nembarrassed..."
                             ]
                         },
                         {
@@ -10551,21 +10215,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]あらら、素直な反応…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]お嬢様にも、こういう成分\\.ちょっと欲しいですね…。"
+                                "\\SE[46]Oh my, such a sincere reaction.... \\SE[45]I must say, I\nwouldn't mind having this kind of response from a young lady like\nyou...."
                             ]
                         },
                         {
@@ -10585,21 +10242,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]あ、えっと。\\.ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]私に、聞きたいことがあったんだよね？"
+                                "\\SE[4]Um, well... I'm sorry. \\SE[2]You wanted to ask me\nsomething, right?"
                             ]
                         },
                         {
@@ -10610,28 +10260,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…っと、そうでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]この辺に、『ルナロアちゃん』って住んでたりします？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.その子に会いに来たんですよね。"
+                                "\\SE[2]... Oh, that's right. \\!\\SE[1] Around here, does a girl\nnamed Lunaroa-chan live? I came to meet her."
                             ]
                         },
                         {
@@ -10651,21 +10287,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]ルナに会いにきたのっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.うんっ！\\.それなら…！"
+                                "\\SE[15]You came to meet Luna!? Uh-huh! In that case...!"
                             ]
                         },
                         {
@@ -10717,28 +10346,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]おとーさんが言ってた…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[8]『知らない人』に、ついていくなって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]『ゆーかい』されて、\\.売られちゃうんだって…！！"
+                                "\\SE[7]My dad told me... \\!\\SE[8]He said not to follow strangers.\n\\!\\SE[9]He said I might get kidnapped and sold...!!"
                             ]
                         },
                         {
@@ -10758,14 +10373,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]えっ！？ いや、\\.私はそんなっ！！？"
+                                "\\SE[9]Huh!? No, I'm not like that!!?"
                             ]
                         },
                         {
@@ -10776,14 +10391,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[53]じっーーー………。"
+                                "\\SE[53]Staring.........."
                             ]
                         },
                         {
@@ -10803,21 +10418,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[37]（意外と、情操教育が行き届いてますね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[38]　でもこっちも仕事です。\\.なんとかしましょう。）"
+                                "\\SE[37] (Surprisingly, you have good manners... \\!\\SE[38] But I\nhave a job to do too. Let's figure something out.)"
                             ]
                         },
                         {
@@ -10828,28 +10436,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]お嬢さん、知っていますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『知らない人』が『誘拐』するという認識は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.実は間違っているんです。"
+                                "\\SE\\SE[0]Young lady, do you know? The perception that strangers\nwill kidnap you is actually incorrect."
                             ]
                         },
                         {
@@ -10876,14 +10470,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]えっ、\\.そうなの…？"
+                                "\\SE[4]Eh, is that so...?"
                             ]
                         },
                         {
@@ -10894,28 +10488,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ええっ、統計的にも間違っています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『誘拐』の多くは『顔見知り』の犯行で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あることが多いんです。"
+                                "\\SE\\SE[0]Eh, statistically speaking, that's incorrect. \\SE[0]Many\ncases of kidnapping actually involve perpetrators who are\nfamiliar faces."
                             ]
                         },
                         {
@@ -10926,28 +10506,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]つまり『知らない人』だけが『誘拐』すると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.思い込んではいけない。\\.という事です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[58]『知ってる人』を疑うことを忘れてはいけないと。"
+                                "\\SE[57]In other words, you shouldn't assume that only strangers\nare the ones who kidnap you. \\SE[58]You must not forget to doubt\nthe people you know."
                             ]
                         },
                         {
@@ -10958,28 +10524,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]過去に誤った認知で『誘拐』の件数が増えたそうです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『思い込み』は良くない。\\.っということですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]…よく、覚えておいてください。\\.お姉さんとの約束ですよ？"
+                                "\\SE[2]It seems that the number of kidnapping cases has increased\nin the past due to incorrect perception. \\SE[0]...Please remember\nthis well. It's a promise with your older sister, okay?"
                             ]
                         },
                         {
@@ -11006,28 +10558,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[54]そうなんだ…\\.知らなかった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[53]今度から、ちゃんと『知ってる人』にも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『誘拐』されないようにしないといけないね…。"
+                                "\\SE[54]Is that so... I didn't know... \\SE[53]From now on, I have\nto make sure I don't get kidnapped by people I know too..."
                             ]
                         },
                         {
@@ -11047,28 +10585,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]ご理解いただけて、なによりです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]…ところで、『ルナロアちゃん』には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どこに行ったら、\\.会えます…？"
+                                "\\SE[16]I'm glad you understand! \\!\\SE[15]...By the way, where can\nI meet 'Lunaroa-chan'...?"
                             ]
                         },
                         {
@@ -11095,21 +10619,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]うん、\\.えっとね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[47]そこの…かどを、\\.曲がって……。"
+                                "\\SE[15]Um, well...! \\SE[47]Turn at that... corner..."
                             ]
                         },
                         {
@@ -11129,14 +10646,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]かどを曲がって…？"
+                                "\\SE[2]Turn at the corner...?"
                             ]
                         },
                         {
@@ -11172,28 +10689,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]『知らない人』が『誘拐』しないとは\\.言ってない…！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[24]…だめだっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.やっぱりお姉さんは『怪しいやつ』だっ！！"
+                                "\\SE[7]I didn't say that 'strangers' don't 'kidnap'...!!?\n\\SE[24]...No, that's not right!! \\SE[7]My older sister is\ndefinitely a 'suspicious person'!!"
                             ]
                         },
                         {
@@ -11213,21 +10716,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]…確かにっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]何一つ、潔白を証明出来ていませんでした…！！"
+                                "\\SE[14]...Indeed!! \\!\\SE[13]I haven't been able to prove my\ninnocence in any way...!!"
                             ]
                         },
                         {
@@ -11431,21 +10927,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いルナロア"
+                                "Young Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]…おはよっ。\\.ラウラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]どうかした？\\. 名前を呼ばれたような気がしたけど…。"
+                                "\\SE[3]...Good morning, Laura. \\SE[1]Is something wrong? I felt\nlike someone called my name..."
                             ]
                         },
                         {
@@ -11465,21 +10954,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]うん、おはよー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]ちょうど今、『知らない人』とお話しててー…。"
+                                "\\SE[15]Yeah, good morning! \\SE[16]I was just talking to a\nstranger right now..."
                             ]
                         },
                         {
@@ -11506,14 +10988,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あら、もしやこの子が『ルナロアちゃん』…？"
+                                "\\SE[1]Oh, could this child be Lunaroa-chan...?"
                             ]
                         },
                         {
@@ -11677,28 +11159,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いラウラ"
+                                "Young Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]だめっ！！\\.逃げてっ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[23]このままじゃ、みんな『誘拐』されちゃう！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[20]『悪いお姉さん』に連れて行かれちゃう！！"
+                                "\\SE[24]No!! Run away!! \\SE[23]If we stay like this, everyone will\nbe kidnapped!! \\SE[20]We'll be taken away by the bad older\nsister!!"
                             ]
                         },
                         {
@@ -11749,14 +11217,14 @@
                                 0,
                                 0,
                                 2,
-                                "幼いルナロア"
+                                "Young Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]えっと、\\.ええっ…？"
+                                "\\SE[13]Um, umm...?"
                             ]
                         },
                         {
@@ -11809,14 +11277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなことも…\\.ありましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!多分、二人とも忘れちゃってると思いますけど。"
+                                "There was also something like this... I think both of us have\nprobably forgotten though."
                             ]
                         },
                         {
@@ -11841,21 +11302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が、ここに来た理由は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.優秀な『才能』を辺境に埋もれさせないため…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!つまり『ルナロアさん』の視察、\\.スカウトにありました。"
+                                "The reason I came here... was to ensure that exceptional talent\ndoesn't go unnoticed in the frontier... In other words, it was\nfor the purpose of inspecting and scouting Lunaroa-san."
                             ]
                         },
                         {
@@ -11873,21 +11320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女の素質を見定めるように。\\.っと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そして、彼女の『資質』は…言うまでもなく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!隠し通すことが不可能なほど、\\.卓越したものでした。"
+                                "To assess her talent... and her 'aptitude'... Needless to say, it\nwas exceptionally outstanding, to the point where it was\nimpossible to hide."
                             ]
                         },
                         {
@@ -11926,21 +11359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幼いラウラさんは言いました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ワタクシがルナロアさんを『誘拐』してしまうと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…もちろん、そんなつもりは一切なかったのですが。"
+                                "Young Laura said, I didn't intend to 'kidnap' Lunaroa-san. Of\ncourse, I never had any such intention."
                             ]
                         },
                         {
@@ -11965,21 +11384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結果として、そうなってしまったかもしれません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!彼女は『特待生』として魔法学園に招かれることになります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…彼女から、『恋人』を\\.奪ってしまったのです。"
+                                "As a result, it may have turned out that way. She will be invited\nto the magic academy as a scholarship student. ... I ended up\ntaking away her lover from her."
                             ]
                         },
                         {
@@ -12004,21 +11409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワタクシのせいで『不幸』を増やしている気さえします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『立ち回り』には自信があったのですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…どうにも、うまくいきません。\\.困りました。"
+                                "I feel like I'm causing more unhappiness. I had confidence in my\nstrategy... but... it's not going well. I'm troubled."
                             ]
                         },
                         {
@@ -12043,7 +11434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それから、少しばかり…\\.時間が経ちまして。"
+                                "And then, a little while... time has passed."
                             ]
                         },
                         {

@@ -1606,21 +1606,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青いクリスタルを２つ起動すると先に進めるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!まぁ、言われなくても。\\.って感じだと思うけど…。"
+                                "If you activate two blue crystals, you can proceed. Well, I think\nyou can figure that out without being told..."
                             ]
                         },
                         {
@@ -1727,7 +1720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[409]輪廻の砂時計を手に入れた！\\$"
+                                "\\i[409] I obtained the hourglass of reincarnation! $"
                             ]
                         },
                         {

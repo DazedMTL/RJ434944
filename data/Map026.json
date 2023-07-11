@@ -6245,21 +6245,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]………\\!\\SE[93]この人が…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ティータの…\\.お父さん…。"
+                                "\\SE[51].........\\!\\SE[93]This person is....\n\\.Tita's...\\.father...."
                             ]
                         },
                         {
@@ -6270,14 +6263,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[53]……っ。"
+                                "\\SE[53]......"
                             ]
                         },
                         {
@@ -6499,14 +6492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそハタヤキ村へ！…と書いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この村はこれからどうなってしまうのだろう。"
+                                "Welcome to Hatayaki Village!... That's what it says. I wonder\nwhat will happen to this village from now on."
                             ]
                         },
                         {
@@ -6886,14 +6872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "楽しい豚はこちら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.↓でぬくもりに触れて幸せになろう！"
+                                "Here are the fun pigs! Let's touch them with warmth and become\nhappy!"
                             ]
                         },
                         {
@@ -6972,14 +6951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作物が荒らされている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "食用としてはもう無理だろう。"
+                                "The crops have been destroyed... It's probably impossible to use\nthem as food anymore."
                             ]
                         },
                         {
@@ -7143,28 +7115,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[39]ひぇぇ…こんなの聞いてないですよぉ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[28]もっと猶予はあったはずなのにぃ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!……\\.……\\.……\\.\\SE[58]それにしても。"
+                                "\\SE[39]Eek... I didn't ask for this! \\SE[28]There should have\nbeen more time...!! ... ... ... \\SE[58]By the way..."
                             ]
                         },
                         {
@@ -7175,35 +7133,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]思っていたより…\\.念入りですねぇ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!想定より大規模、\\.完全に囲まれちゃいましたし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[38]完全に見積もりをミスっちゃいました…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]果たして、ワタクシもここから生きて出られるかどうか…。"
+                                "\\SE[12]It's more... thorough than I thought.... \\SE[38]It's on a\nlarger scale than expected, and I'm completely surrounded.\n\\SE[3]I completely miscalculated the estimate.... [3]I wonder if\nI can make it out of here alive too...."
                             ]
                         },
                         {
@@ -7268,28 +7205,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あら…！無事だったんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『イケイケ』なお姉さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]ご入用でしたら、補給していきます？"
+                                "\\SE\\SE[0]Oh...! You're safe. You're quite the energetic older\nsister. \\!\\SE[0]If you need anything, shall I supply you?"
                             ]
                         },
                         {
@@ -7397,21 +7320,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]この地がワタクシの最期の地になるのでしょうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]覚悟だけは決めておきませんとね。"
+                                "\\SE[2]Will this place be my final resting place? \\!\\SE[0]I must\nprepare myself for that possibility."
                             ]
                         },
                         {
@@ -7623,21 +7539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "豚飼育用の『プリズムハーブ』を育てています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!窃盗は犯罪です。\\.絶対にやってはいけません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!可愛い豚がお腹を空かせるのは可哀そうだと思いませんか？"
+                                "I am growing Prism Herb for pig farming. Stealing is a crime. You\nshould never do it. Don't you think it's pitiful to see cute pigs\ngo hungry?"
                             ]
                         },
                         {

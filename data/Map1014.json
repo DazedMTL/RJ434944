@@ -1568,14 +1568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうなモンスターがいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦いますか？\\!"
+                                "There's a strong-looking monster.... Will you fight it?"
                             ]
                         },
                         {
@@ -1817,14 +1810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユニークモンスター討伐の記念碑だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『リザードナイト』と再戦しますか？\\!"
+                                "It's a monument to commemorate the defeat of a unique monster....\n\\! Lizard Knight, would you like to have a rematch? \\!"
                             ]
                         },
                         {
@@ -2111,35 +2097,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その人はマグナスさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ざっくりと全体を手伝ってくれたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "立ち絵の設定や、モンスターの配置…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ボスの数値調整とか…。 \\!いやぁ奇特だよね。"
+                                "That person is Mr. Magnus. He helped us with various things.\nSetting up character illustrations, arranging monsters...\nadjusting boss stats... It's really amazing, isn't it?"
                             ]
                         },
                         {
@@ -2150,28 +2115,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謎にやる気があって、休日を全部教えてくるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!めっちゃ頑張ってるので、労いの言葉をかけてあげて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\}ほらっ、コメントする所っ…！！"
+                                "He's mysteriously motivated and tells us all about his days off.\nHe's working really hard, so I want you to give him words of\nencouragement. Look, it's time to leave a comment...!!"
                             ]
                         },
                         {
@@ -2251,28 +2202,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あちしは『資本主義』だから、遠慮せずに説明するでち！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『参加企画』について、なにが知りたいでちか？\\!"
+                                "Welcome, dechi! Since I'm a capitalist, I'll explain without\nhesitation, dechi!! What would you like to know about the\nparticipation project, dechi?"
                             ]
                         },
                         {
@@ -2309,28 +2246,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゲーム中に行ける『VIPマップ』を制作予定でち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『喫茶店』か『カジノ』か、『メイド喫茶』か…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!何にするかは、まだ決まってないでち！"
+                                "We're planning to create a VIP Map that you can visit in the\ngame, dechi! Whether it will be a Café, a Casino, or a Maid\nCafé...! We haven't decided yet, dechi!"
                             ]
                         },
                         {
@@ -2341,35 +2264,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "みなしゃんには、そこの『ＮＰＣ』になってもらうでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ＤＬゲームは永久に形になるでちからね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "現代社会に『爪痕』を、『生きた証』を残すでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\}どれだけ売れるかしらんけど。"
+                                "Everyone, please become an NPC over there! DL games will become a\npermanent form, you know! Leave a mark and a proof of life in\nmodern society! I wonder how well it will sell."
                             ]
                         },
                         {
@@ -2380,28 +2282,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "別にそんな高額なもんでもないでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ガチャを『５連』くらい我慢するくらいでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!いっしょに晒し物になろう…！！\\! でち！！"
+                                "It's not really that expensive, dechi! Just endure not doing a\n5-pull gacha or something, dechi! Let's become an exhibition\ntogether...!! Dechi!!"
                             ]
                         },
                         {
@@ -2425,21 +2313,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もちろん選べるでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.複雑だから、一つずつ説明するでち！\\!"
+                                "Of course, you can choose, dechi! Since it's complicated, I'll\nexplain them one by one, dechi!"
                             ]
                         },
                         {
@@ -2479,35 +2360,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ざっくりと雰囲気を伝えてもらって、こっちで作りますの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!性別、服装、カラー…\\!大体その辺りでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!動物とかモンスターもおｋでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!その場合、雰囲気は限定されてしまうでちが…。"
+                                "Give me a rough idea of the atmosphere, and I'll create it over\nhere! Gender, clothing, color... Around that area, dechi! Animals\nor monsters are also okay, dechi! In that case, the atmosphere\nwill be limited, though, dechi..."
                             ]
                         },
                         {
@@ -2518,28 +2378,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "一番楽な反面、イメージと違う場合があるでち…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!『リテイク』は多分無理なので、自分の姿に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "そこまでこだわらない人向けでち。"
+                                "On the one hand, it's the easiest option, but there may be cases\nwhere it doesn't match your image... Since a retake is probably\nnot possible, it's more suitable for people who don't mind not\nbeing too particular about their appearance, dechi."
                             ]
                         },
                         {
@@ -2550,14 +2396,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "他に聞きたいことはあるでちか！？"
+                                "Is there anything else you want to ask, dechi!?"
                             ]
                         },
                         {
@@ -2581,35 +2427,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "著作権フリーの歩行素材を配布してる神がいるでち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!『ツクール』『歩行素材』で調べると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "いっぱい出てくるでち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!自分の魂を突っ込む理想の体を探すでち！"
+                                "There's a god who distributes copyright-free walking materials,\ndechi. If you search for RPG Maker and walking materials, you'll\nfind plenty, dechi. Find the ideal body to put your soul into,\ndechi!"
                             ]
                         },
                         {
@@ -2620,28 +2445,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "規格は『ＭＺ』か『ＭＶ』でち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\.それ以外は画像が荒れるので、おすすめしないでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!…メインと素材が被ったら、相談させて欲しいでち！"
+                                "The recommended specifications are MZ or MV, dechi! Using any\nother specifications may result in blurry images, so I don't\nrecommend it, dechi! If the main and material overlap, I'd like\nto consult with you, dechi!"
                             ]
                         },
                         {
@@ -2652,35 +2463,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "注意点はそれぞれ『利用規約』があることでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!『いかがわしいやつ』には禁止な場合があるので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "その場合は無理でち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!他版権のものも、出来たら避けたいでち！"
+                                "Each one has its own Terms of Service to be aware of, dechi! It\nmay be prohibited for questionable individuals, so in that case,\nit's not possible, dechi! If possible, it's also best to avoid\nusing copyrighted materials, dechi!"
                             ]
                         },
                         {
@@ -2691,14 +2481,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "他に聞きたいことはあるでちか！？"
+                                "Is there anything else you want to ask, dechi!?"
                             ]
                         },
                         {
@@ -2722,28 +2512,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "描ける人は、自分で描いちゃうのもおｋでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!ドットが描けなくても自分で作る方法があるでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "便利な時代になったもんでち！！"
+                                "It's okay if you can draw, you can draw it yourself, dechi! Even\nif you can't draw pixels, there are ways to create it yourself,\ndechi! It's become a convenient era, dechi!!"
                             ]
                         },
                         {
@@ -2754,28 +2530,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ツクールＭＶ、ツクールＭＺの『３０日無料体験版』でち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!これがあれば、絵が描けなくても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ドットキャラを簡単に作ることが出来るでち！"
+                                "You can use the 30-day free trial version of RPG Maker MV and RPG\nMaker MZ, dechi! With this, even if you can't draw, you can\neasily create pixel characters, dechi!"
                             ]
                         },
                         {
@@ -2786,28 +2548,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "問題点としては、パソコンを持ってないといけない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!ソフトの使い方がちょっとめんどくさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!３０日限定の制限がある！…辺りでち。"
+                                "The issues are that you need to have a computer! The software's\nusage is a bit troublesome! There's a 30-day limit!... Around\nthat area, dechi."
                             ]
                         },
                         {
@@ -2818,21 +2566,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ひと手間かかるけど、思い通りの姿になれるでち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\!ちな、子供の姿にしたいときは『ＭＺ』で頼むでち。"
+                                "It may take a little extra effort, but you can become the\nappearance you desire, dechi. Oh, by the way, if you want to\nbecome a child, please use MZ, dechi."
                             ]
                         },
                         {
@@ -2843,14 +2584,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "他に聞きたいことはあるでちか！？"
+                                "Is there anything else you want to ask, dechi!?"
                             ]
                         },
                         {
@@ -2874,14 +2615,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そうかっ！\\. でち！！"
+                                "I see! Dechi!!"
                             ]
                         },
                         {
@@ -2930,21 +2671,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もちの、\\.ろん！\\. でち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!名前、セリフ。好きなように喋れるでち！"
+                                "Of course, you can speak however you like, dechi! You can choose\nyour own name and lines, dechi!"
                             ]
                         },
                         {
@@ -2955,28 +2689,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "難しく考えることはないでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あちきの『べしゃり』を見本にするでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!先輩の背中を見て育つでち！"
+                                "Don't think too hard, dechi! Take my chatter as an example,\ndechi! Learn by watching the back of your senpai, dechi!"
                             ]
                         },
                         {
@@ -2987,35 +2707,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ただ、差別、中傷…そういった系は全部だめでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!縦読みとかでも、絶対だめでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『コンプライアンス』は大切でち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\}でも、えっちなのは大丈夫でち。\\!キャラにセクハラおｋでち。"
+                                "However, discrimination and slander... all of that is absolutely\nnot allowed, dechi! Even vertical reading is absolutely not\nallowed, dechi! Compliance is important, dechi! But, it's okay to\nhave adult content, dechi. It's okay to sexually harass the\ncharacters, dechi."
                             ]
                         },
                         {
@@ -3026,28 +2725,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あとは、長すぎるのは無理でち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ウィンドウ２つくらいで、まとめたいでち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!みなさまのご協力、お願いしますでち。"
+                                "It's impossible if it's too long, dechi. I want to summarize it\nin about two windows, dechi. Please help me with your\ncooperation, dechi."
                             ]
                         },
                         {
@@ -3058,21 +2743,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "都合上、改稿や推敲をする可能性があるでち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!その点もご容赦頂きたいでち。"
+                                "There may be revisions and proofreading due to circumstances.\nPlease also understand that point."
                             ]
                         },
                         {
@@ -3083,28 +2761,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あっ、逆に名前、セリフなしの『霊魂』とかもありでち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\}そういうのは楽でちね。\\!お互いに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!技術的な問題もあるので、あんまり難しいやつは無理でち！"
+                                "Ah, on the contrary, it's also fine to have spirits without names\nor lines, dechi. It's easier that way, dechi. For both of us.\nHowever, there are technical issues, so really difficult ones are\nimpossible, dechi!"
                             ]
                         },
                         {
@@ -3128,21 +2792,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "概要欄にリンクを貼っておいたでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!さらなる詳細はそちらをご確認ください！\\. でち！"
+                                "I've put a link in the summary section, dechi! Please check there\nfor further details! Dechi!"
                             ]
                         },
                         {
@@ -3166,28 +2823,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここを広くしたような『イメージ』でち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!あとは人数次第でち…！！ \\.これはあちきにも読めんでち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!少しだけ人がいるから『イメトレ』するでち！！"
+                                "Imagine this place being expanded, dechi! It depends on the\nnumber of people, dechi...!! I can't read this part either,\ndechi! We'll do some image training because there are a few\npeople, dechi!!"
                             ]
                         },
                         {
@@ -3211,14 +2854,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "じゃあな！\\. でち！！"
+                                "Well then, see you later! Dechi!!"
                             ]
                         },
                         {
@@ -3306,21 +2949,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "各キャラの細かい性能や、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おすすめの戦い方を説明するよ。\\!"
+                                "I will explain the detailed abilities of each character and\nrecommend the best way to fight."
                             ]
                         },
                         {
@@ -3356,21 +2992,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "状況に合わせて動きを変えられる『柔軟性』が売り！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!主人公らしく、多様な戦い方をしていこう！"
+                                "The selling point is the flexibility to change movements\naccording to the situation! Let's fight in various ways like a\ntrue protagonist!"
                             ]
                         },
                         {
@@ -3381,28 +3010,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おすすめは\\i[97]輝剣を使って攻撃力を維持しつつ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "必要なら、アイテムも含めてサポート！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ＳＰが少ないキャラに\\i[84]チアフルエール！！"
+                                "The recommended approach is to use the Radiant Sword to maintain\nattack power, and if necessary, provide support including items!\nFor characters with low SP, use the Cheerful Aile!"
                             ]
                         },
                         {
@@ -3413,28 +3028,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『奥義』は、なんとターン消費せずに行動できるんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!溢れたらもったいないので、いい感じに使っていこう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\i[97]かすみ三段でＳＰの回収も出来るぞ！"
+                                "You can use the Secret Technique without consuming any turns!\nDon't let it go to waste, so let's use it wisely! With the \\i[97]\nKasumi Sandan, you can also recover SP!"
                             ]
                         },
                         {
@@ -3445,21 +3046,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼女の立ち回り次第では、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぶっとんだ戦い方も出来ちまうと思うぞ…！"
+                                "Depending on her approach, she can even pull off some outrageous\nfighting styles...!"
                             ]
                         },
                         {
@@ -3493,14 +3087,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}本当に壊れてたら教えてください。"
+                                "\\}Please let me know if something is really broken."
                             ]
                         },
                         {
@@ -3524,28 +3118,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "行動回数を増やす『奥義』が超強いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!とりあえずなっとけ。\\.で、使ってみよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!使える『魔法』も増えるからね！"
+                                "The Secret Technique that increases the number of actions is\nsuper strong. \\! Keep it in mind for now. \\. Let's try using it!\n\\! You'll also gain more magic that you can use!"
                             ]
                         },
                         {
@@ -3556,28 +3136,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敵を弱体化させるのか、回復に回るのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!はたまた、攻撃に回るのか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!限られた『４回』を大切に使っていこう！"
+                                "Should we debuff the enemy, focus on healing, or go on the\noffensive...? Let's make the most of our limited 4 turns!"
                             ]
                         },
                         {
@@ -3611,14 +3177,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}ちょっと、強くしすぎたか…？"
+                                "\\}Hmm, did I make it too strong...?"
                             ]
                         },
                         {
@@ -3642,28 +3208,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『盾役』として、被ダメージを減らすことが出来るよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!敵の『弱体化』、自身の『かっちかち』…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!強敵相手にはヴィタを上手に使っていこう！"
+                                "As a tank, she can reduce the damage taken! \\! We can weaken the\nenemy, strengthen herself with Ironclad.... \\! Let's use Vita\neffectively against strong opponents!"
                             ]
                         },
                         {
@@ -3674,28 +3226,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "最初は『弱体化』から初めてみるといいと思うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!他キャラに比べると、とりあえず『奥義』！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.…っていうキャラではないかも。\\.それも強いけど。"
+                                "I think it's a good idea to start with debuffing at first. \\!\nUnlike other characters, she's not really a character who relies\non secret techniques for now. \\. But that's also strong."
                             ]
                         },
                         {
@@ -3706,21 +3244,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『物理』と『魔法』のどちらを弱体化させるか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!敵の見た目から、なんとなく判断しよう！"
+                                "Should we debuff 'physical' or 'magic' abilities...? \\! Let's try\nto judge based on the enemy's appearance!"
                             ]
                         },
                         {
@@ -3731,35 +3262,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あっ、『通常攻撃』が特徴的でもあるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『特大剣』だと味方の『追従攻撃』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『鉄球』だと『３回攻撃』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『弓』は範囲の『全体化』"
+                                "Ah, she also has a characteristic normal attack. \\! With the\nGiant Sword, it triggers follow-up attacks from allies. \\! With\nthe Iron Ball, it performs a 3-hit attack. \\! The Bow has an\narea-of-effect range."
                             ]
                         },
                         {
@@ -3770,28 +3280,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『奥義』を使うと『アルティメット』になって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『通常攻撃』に全ての要素を載せることが出来るんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!流れが安定したときに、ぶちこんでみよう！！"
+                                "When you use the Secret Technique, it becomes an Ultimate and you\ncan add all elements to your Normal Attacks! \\! When the flow is\nstable, let's give it a shot!!"
                             ]
                         },
                         {
@@ -3825,14 +3321,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}少し、盛り過ぎたか…？"
+                                "\\}Did I overdo it a little...?"
                             ]
                         },
                         {
@@ -3856,28 +3352,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まず、速度が早い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "速攻回復、他キャラのサポートなどなど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!先制で動いてくれるので、信頼出来るぞ！"
+                                "First of all, she's fast! She can quickly heal and support other\ncharacters... and more! \\! Since she moves first, you can rely on\nher!"
                             ]
                         },
                         {
@@ -3888,35 +3370,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑魚敵には豊富な全体攻撃をしつつ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "運が良ければ『状態異常』で足止め！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!快適な道中の頼れる味方！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『周回ゲーマー』もニッコリの性能だっ！"
+                                "While dealing abundant AoE damage to weak enemies, if you're\nlucky, you can also immobilize them with status ailments! \\! A\nreliable ally for a comfortable journey!! \\! The performance is\nalso a delight for loop gamers!"
                             ]
                         },
                         {
@@ -3927,35 +3388,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "強敵戦ではサポーターとして超強い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.『奥義』の火力バフで仲間を超強化出来るぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!他キャラの『奥義』に差し込むように使っていこう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『ソシャゲーマー』もニッコリの性能だっ！"
+                                "In tough battles, she's incredibly strong as a supporter! \\. With\nher special move's firepower buff, she can greatly enhance her\nallies! \\! Let's use it in sync with other characters' special\nmoves! \\! It's a performance that will make gacha gamers smile\ntoo!"
                             ]
                         },
                         {
@@ -3966,21 +3406,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼女の使い方が『腕』の出るところだと思うぞ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!まずは『奥義』を軽い気持ちで撃ってみよう！"
+                                "I think her usage is where her skills shine...! Let's start by\ncasually using her special move!"
                             ]
                         },
                         {
@@ -3991,14 +3424,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ、火力バフの倍率…？"
+                                "Huh, the firepower buff's multiplier...?"
                             ]
                         },
                         {
@@ -4032,14 +3465,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}今の所、２００％です…。"
+                                "\\}For now, it's 200%."
                             ]
                         },
                         {
@@ -4063,14 +3496,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか、良かった！！"
+                                "I see, that's great!!"
                             ]
                         },
                         {
@@ -4607,35 +4040,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『先行体験版』をプレイしていただき、ありがとね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!まぁ…こんな感じの話な訳ですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『てーきゅう』と雰囲気が違い過ぎたから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戸惑った人もいるかもしれないけど…。"
+                                "Thank you for playing the Demo Version! Well... this is the kind\nof story it is. Some people might have been confused because it's\nquite different from Teekyuu in terms of atmosphere..."
                             ]
                         },
                         {
@@ -4646,14 +4058,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この後の展開としてはね…。"
+                                "As for the development after this..."
                             ]
                         },
                         {
@@ -4685,28 +4097,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まず『ベガ』の話が始まっていくよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そして蠢く陰謀…\\.ラウラ達の運命やいかに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!こっちも、がっつり作ったよ。\\.作り過ぎちゃった。"
+                                "First, the story of Vega will begin. And there will be a sinister\nconspiracy... How will Laura and the others' fate unfold...? I\nput a lot of effort into this one too. Maybe a bit too much."
                             ]
                         },
                         {
@@ -4717,35 +4115,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ベガ』は体験版だと出せる場面が少なくて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがちょっと心残り…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!活躍するところは、いっぱいあるんだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\}『なすの先輩』が好きな人は好きそう。"
+                                "In the demo version of Vega, there weren't many scenes where she\ncould shine, and that's a little regrettable... There are plenty\nof moments where she can make a big impact though... People who\nlike Nasuno- senpai will probably like her."
                             ]
                         },
                         {
@@ -4763,21 +4140,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あとは…恋の獣になった『ティータ』も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見せられなくて、つらみ…。"
+                                "And... I couldn't show you Tita who became a love beast, and it's\npainful..."
                             ]
                         },
                         {
@@ -4802,35 +4172,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この子ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ルナロアに一目ぼれした彼女は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "百合の間に割り込んでいく『やべぇ女』になっていくぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ラウラの恋の行方や如何に…！？"
+                                "This girl, you know. She fell in love at first sight with Lunaroa\nand will become a troublesome girl who interrupts their yuri\nrelationship! What will happen to Laura's love...!?"
                             ]
                         },
                         {
@@ -4841,28 +4190,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ！ \\.一体どうなってしまうのか…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!……\\.……\\.……\\.いや、もったいぶるのはやめよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!せっかくだから見ていってくれ。\\!…てえぃ！！"
+                                "Ah! What on earth will happen...!! ...Well, let's not drag it\nout. Since you're here, why don't you take a look... Teehee!!"
                             ]
                         },
                         {
@@ -5013,21 +4348,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…よしっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!興味があったら、話かけてみてね。"
+                                "Alright! If you're interested, why don't you come talk to me?"
                             ]
                         },
                         {
@@ -5052,21 +4380,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あとはちょろっと言ってた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『ルナロア』の学園生活とか…。"
+                                "And I briefly mentioned... Lunaroa's school life and such..."
                             ]
                         },
                         {
@@ -5098,21 +4419,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして『ラウラ』は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!いや、これを言うのはやめておこう。"
+                                "And as for Laura... No, let's not say that."
                             ]
                         },
                         {
@@ -5153,21 +4467,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…まぁ、他にもあるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.大体そんな感じっ！"
+                                "...Well, there are other things too, but that's the general idea!"
                             ]
                         },
                         {
@@ -5185,28 +4492,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その前に…ちょっと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『自分語り』になってしまうんですけどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!少しだけお時間頂きたく…。"
+                                "Before that... umm. It's going to be a bit of a self- indulgence\nbut... if you could spare me a little time..."
                             ]
                         },
                         {
@@ -5217,28 +4510,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ある日、突然気が向いてですね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!人生で一回くらい集中して、ゲームを作ってみるかー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…って、軽い気持ちでこれを作り始めたんですよ。"
+                                "One day, I suddenly felt like it... Maybe I should try making a\ngame and really focus on it for once in my life! ...Well, I\nstarted making this with a light-hearted feeling."
                             ]
                         },
                         {
@@ -5249,35 +4528,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…まぁ、気持ちは分かるよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ゲーム好きな人なら一度は考えると思うし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.有名な『名作』も、いっぱいあるものね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!実際に作るかどうかは別にしても。"
+                                "...Well, I understand the feeling. If you're a fan of games, I\nthink you've probably considered it at least once, and there are\nplenty of famous masterpieces out there. Whether or not you\nactually make one is a different story though."
                             ]
                         },
                         {
@@ -5288,35 +4546,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…問題は膨大な『作業時間』がかかること。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!何かの合間で作業したら、４～５年かかることもある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ほとんどの人間は完成させることが出来ないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そして、頓挫することを『エターなる』\\.といわれている。"
+                                "...The problem is the enormous amount of working time it takes.\nIf you work on it in between other things, it can take 4 to 5\nyears. Most people are unable to complete it. And when it fails,\nit's called an Eternal."
                             ]
                         },
                         {
@@ -5327,35 +4564,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを予防…逃げ道を塞ぐ為に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "制作者は『仕事』をぶん投げたんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!つまり稼ぎもせずに、ずーっと作っていたと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そしたら『２０００時間』くらい、かかっちゃって…。"
+                                "To prevent that... in order to block the escape route, the\ncreator threw away their job. In other words, they kept making it\nwithout earning any money. And then it took about 2000 hours or\nso..."
                             ]
                         },
                         {
@@ -5366,21 +4582,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ、笑っちゃうよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.集中すりゃいいってもんじゃないよ。"
+                                "Hehe, it's not just about focusing, you know."
                             ]
                         },
                         {
@@ -5398,35 +4607,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、なんというか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.有償販売しても、果たして回収出来るかというと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!正直、超絶難しいなぁ。と思うわけで…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!最低時給で計算しても…\\.ねぇ？"
+                                "Well, how should I put it... Even if you sell it for a fee, I\nwonder if you can actually recover the costs... Honestly, it's\nextremely difficult. Even if you calculate it based on the\nminimum hourly wage... You know, right?"
                             ]
                         },
                         {
@@ -5451,21 +4639,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それで、ですね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!恥を承知でお願いするのですが…。"
+                                "And, well... umm. I know it's embarrassing, but..."
                             ]
                         },
                         {
@@ -5511,28 +4692,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{心優しい物好きな人っ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!助けると思って、『製品版』を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.買ってくれませんか！？"
+                                "\\{To kind-hearted people who love this kind of thing...!! \\!I was\nhoping you could help me by buying the full version! Would you be\nwilling to do that!?"
                             ]
                         },
                         {
@@ -5566,35 +4733,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ…自分でも分かっていますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!こいつ、汚ねぇ話してんな…\\.って思ってますよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!娯楽なんて『無料』で楽しめて当然なのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金の話とか、ちゃんちゃらおかしいですよね…。"
+                                "Well... I understand it myself. \\!I'm talking about something\ndirty...\\. You must be thinking that, right? It's only natural to\nenjoy entertainment for free, so talking about money is absurd..."
                             ]
                         },
                         {
@@ -5605,21 +4751,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも、大企業でさえ『クラファン』してる時代なんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!個人の方がもっと切実に決まってんじゃんよ…！！！"
+                                "But even big companies are doing crowdfunding these days!\nIndividuals are even more desperate, aren't they...!!!"
                             ]
                         },
                         {
@@ -5681,35 +4820,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ、そうだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『ストーリー』は本編を見たから分かると思うけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『戦闘』の感じは、説明が足りないかもしれないよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…っと、いうことでですね。"
+                                "Ah, that's right! I think you can understand the story since\nyou've seen the main part, but maybe the feeling of battles isn't\nexplained enough. So, umm... that's what I wanted to say."
                             ]
                         },
                         {
@@ -5895,28 +5013,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この『ユニークモンスター』と戦っていくといい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!戦闘の流れが伝わると思うからね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.遠慮せずに、ぶっとばしていいよ！！"
+                                "It's good to fight against these Unique Monsters!! \\!I think\nyou'll get a sense of the flow of battle! \\.Don't hold back, go\nall out and give it your all!!"
                             ]
                         },
                         {
@@ -5958,21 +5062,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘が苦手なら私が教えてあげる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…戦いたくなかったら、無視してもいいよ！"
+                                "If you're not good at battles, I'll teach you! \\!...But if you\ndon't want to fight, you can ignore me!"
                             ]
                         },
                         {
@@ -5983,21 +5080,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以上です！\\. ご清聴ありがとうございました！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!またのご来店をお待ちしております！！"
+                                "That's all! Thank you for listening!! \\!We look forward to your\nnext visit!!"
                             ]
                         },
                         {
@@ -6249,21 +5339,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ、帰る？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!それなら一つ頼み事があるんだけど…。"
+                                "Ah, are you leaving? If so, there's one favor I'd like to ask..."
                             ]
                         },
                         {
@@ -6321,21 +5404,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこから帰るとさ、『タイトル画面』に戻るんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!こう、よかったらさ…。"
+                                "When you go back from there, you'll return to the Title Screen.\nIf... if it's okay with you, could you..."
                             ]
                         },
                         {
@@ -6374,21 +5450,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{タイトル画面にいい感じの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『コメント』を残していってくれませんか！？"
+                                "Could you leave a nice comment on the title screen when you go\nback?"
                             ]
                         },
                         {
@@ -6431,21 +5500,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、分かるよ。\\.言いたいことは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『米乞食』かよって思ってるでしょ…？"
+                                "No, I understand. You're thinking something like Begging for\nlikes, right...?"
                             ]
                         },
                         {
@@ -6456,28 +5518,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも、やっぱ欲しいじゃん…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!タイトル画面が『面白かった！』みたいな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『コメント』で埋まってる景色をさ…！！"
+                                "But, I still want it...! A scenery where the title screen is\nfilled with comments like It was fun! or something...!!"
                             ]
                         },
                         {
@@ -6488,28 +5536,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ついでに『フィードバック』も、してくれると嬉しいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.投稿できる容量が増えるから、とっても助かるのだ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\}容量確保して『一般会員』に戻りたいし。"
+                                "By the way, I'd be happy if you could also give some feedback. It\nwould be really helpful because it increases the capacity for\nposting...! I want to secure the capacity and return to being a\nregular member."
                             ]
                         },
                         {
@@ -6520,21 +5554,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Twitterのフォローもしてくれると嬉しいな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.全然更新しないけども…！"
+                                "I'd be happy if you could follow me on Twitter too! Even though I\ndon't update it at all...!"
                             ]
                         },
                         {
@@ -6545,21 +5572,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ファンアートも大歓迎だぞ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.見つけたら問答無用でＲＴするからなっ！！"
+                                "Fan art is also very welcome...! If I find it, I'll retweet it\nwithout question!!"
                             ]
                         },
                         {
@@ -6570,21 +5590,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギフトとかも、もらえたら嬉しいな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.正直よく分かってないんだけど！"
+                                "I would be happy if I could receive gifts too! Honestly, I don't\nreally understand it well though!"
                             ]
                         },
                         {
@@ -6602,21 +5615,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…あぁ、引き留めて悪かったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!今度こそ帰る？\\!"
+                                "...Ah, sorry for keeping you. Are you finally leaving this time?"
                             ]
                         },
                         {
@@ -6708,14 +5714,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うん、じゃあね！！"
+                                "Okay, see you!!"
                             ]
                         },
                         {
@@ -7077,14 +6083,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ、今度こそ帰る？\\!"
+                                "Ah, are you finally going home this time?!"
                             ]
                         },
                         {
@@ -7168,14 +6174,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うん、じゃあね！！"
+                                "Yeah, see you later!!"
                             ]
                         },
                         {
@@ -7660,14 +6666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうなモンスターがいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦いますか？\\!"
+                                "There's a strong-looking monster.... Will you fight it?"
                             ]
                         },
                         {
@@ -7901,14 +6900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユニークモンスター討伐の記念碑だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『らぶらぶカップル』と再戦しますか？\\!"
+                                "It's a monument for defeating unique monsters.... \\! Lovey-dovey\nCouple, would you like to have a rematch? \\!"
                             ]
                         },
                         {
@@ -8182,21 +7174,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ、倒しちゃったの…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もっと苦戦する予定だったのに…。"
+                                "Oh no, you defeated me...? I was supposed to put up more of a\nfight..."
                             ]
                         },
                         {
@@ -8207,21 +7192,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ええいっ、仕方ないっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ならば『追加ボス』だっ！！\\. いでよっ！！"
+                                "...Fine, I have no choice! If that's the case, I'll become an\nadditional boss!! Come at me!!"
                             ]
                         },
                         {
@@ -8341,28 +7319,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふんっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.こいつなら絶対に勝てないでしょ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!さあ、やってしまえぇー！！"
+                                "Heheh! There's no way you can win against me...! Come on, bring\nit on!!"
                             ]
                         },
                         {
@@ -8541,35 +7505,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その人は〇〇さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!就職先が決まっていたのに、ゲームの進路に進みたくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『内定』を踏み倒した剛の者だよ。\\!ひぇー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!２体目のボスを作ったのは彼だぞ。"
+                                "That person is Mr./Ms. 〇〇. Even though they had a job offer, they\ndecided to pursue a career in gaming and turned down the job\noffer. They are a strong-willed individual. Oh my... They are the\none who created the second boss."
                             ]
                         },
                         {
@@ -8580,28 +7523,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "若い彼に必要なのは労わりよりも激励であろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!今後のために、声をかけてあげて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\}ここでっ、コメントしてっ…！！"
+                                "What the young person needs is not sympathy, but encouragement. I\nhope you can give them some words of support for the future. And\nnow, please leave a comment...!!"
                             ]
                         },
                         {
@@ -8679,14 +7608,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]わ、私の話が見たいんです…？\\!"
+                                "\\SE[4]W-Would you like to hear my story...?"
                             ]
                         },
                         {
@@ -8819,14 +7748,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[3]……\\.……\\.……\\!\\SE[2]どうして？"
+                                "\\SE[3]......\\.......\\.......\\!\\SE[2]Why?"
                             ]
                         },
                         {
@@ -8912,14 +7841,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]あぁ、\\.ルナロア様……。"
+                                "\\SE[6] Ah, Lady Lunaroa..."
                             ]
                         },
                         {
@@ -9004,35 +7933,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その人はAGNESさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ブラックな職場を辞めたての現代人だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『プログラミング』が、さっぱりな作者の代わりに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか色々とやってもらったぞ！"
+                                "That person is Ms. AGNES. She's a modern person who just quit a\nblack company! She helped out with various things in place of the\ncompletely clueless author of Programming!"
                             ]
                         },
                         {
@@ -9043,28 +7951,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現代社会の荒波にもまれる彼に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなの暖かな声をかけてあげて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\}ほらっ、気の利いたコメントしてっ…！！"
+                                "I want everyone to give warm words of encouragement to him, who\nis being tossed around by the rough waves of modern society. Come\non, give him some clever comments...!!"
                             ]
                         },
                         {
@@ -9209,21 +8103,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]気分転換に音楽を変えてみない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]あなたのお気に入りは、あるかしら？\\!"
+                                "\\SE[3]How about changing the music for a change of mood? \\SE[0]Do\nyou have any favorites, I wonder?"
                             ]
                         },
                         {
@@ -9417,14 +8304,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\SE[29]歌ってるでしょうがー！！！"
+                                "\\SE[29]I'm singing, you know!!!"
                             ]
                         },
                         {
@@ -9466,21 +8353,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\SE[14]は、\\.はぁ…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\!\\SE[41]こほん…。 \\.仕方ないわね…！！"
+                                "\\SE[14]Haa...!? \\SE[41]Ahem... Well, I guess there's no helping\nit...!!"
                             ]
                         },
                         {
@@ -9660,21 +8540,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっと、倒しちゃったの…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!それが私の『切り札』だったのに…？"
+                                "Um, did you defeat it...? That was my trump card...?"
                             ]
                         },
                         {
@@ -9762,28 +8635,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふ、ふーん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多少は『戦闘センス』があるんじゃん…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!か、勘違いしないでよね、多少だから！ \\.まだ認めてないから！！"
+                                "Huh? So you have some combat sense after all...? D-Don't get the\nwrong idea, just a little bit! I still haven't fully acknowledged\nyou yet!!"
                             ]
                         },
                         {
@@ -9794,21 +8653,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな目で見ても、もう『手駒』はないぞっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!くやしかったら『製品版』を買うんだな…！"
+                                "Even if you look at me like that, I don't have any more trump\ncards! If you're jealous, then go buy the full version...!"
                             ]
                         },
                         {
@@ -10096,28 +8948,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プレイヤーの皆様にＮＰＣとして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご希望があればゲーム内に参加してもらう企画…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…みたいなのを、\\.やりたいって考えてたんでちけど…。"
+                                "I was thinking about a plan to have players participate in the\ngame as NPCs if they have any requests... like, something along\nthose lines."
                             ]
                         },
                         {
@@ -10128,28 +8966,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精ちゃん"
+                                "Fairy-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不特定多数の人たちと効率よく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連絡する方法を思いつかなくて諦めたでち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!なにかいい方法あったらいいでち…。"
+                                "I couldn't come up with an efficient way to communicate with a\nlarge number of people, so I gave up. If there's any good method,\nit would be great..."
                             ]
                         },
                         {
@@ -10322,28 +9146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "皆さん初めまして。主にシステム関係を担当したAGNESです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『零月のラウラ』をプレイして頂き誠にありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲーム作成は初めてなので色々と至らない所もあると思いますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最後まで楽しんで頂けたら幸いです！"
+                                "Nice to meet everyone. I'm AGNES, mainly in charge of the system.\nThank you very much for playing Zero Moon Laura! Since this is my\nfirst time creating a game, there may be some areas that are not\nperfect, but I hope you enjoy it until the end!"
                             ]
                         },
                         {
@@ -10361,35 +9164,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その人は〇〇さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ブラックな職場を辞めたての現代人だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『プログラミング』が、さっぱりな作者の代わりに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか色々とやってもらったぞ！"
+                                "That person is Mr./Ms. 〇〇. They are a modern person who just quit\na black company! They helped out with various things in place of\nthe completely clueless author, like programming!"
                             ]
                         },
                         {
@@ -10400,28 +9182,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現代社会の荒波にもまれる彼に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなの暖かな声をかけてあげて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\}ほらっ、気の利いたコメントしてっ…！！"
+                                "I want everyone to give warm words of encouragement to him, who\nhas been tossed around by the rough waves of modern society. Come\non, give him a clever comment...!!"
                             ]
                         },
                         {
@@ -11038,35 +9806,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『先行体験版』をプレイしていただき、ありがとね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!まぁ…こんな感じの話な訳ですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『てーきゅう』と雰囲気が違い過ぎたから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戸惑った人もいるかもしれないけど…。"
+                                "Thank you for playing the Demo Version! Well... this is the kind\nof story it is. Some people might have been confused because it's\nquite different from Teekyuu in terms of atmosphere..."
                             ]
                         },
                         {
@@ -11077,14 +9824,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この後の展開としてはね…。"
+                                "As for the development after this..."
                             ]
                         },
                         {
@@ -11116,28 +9863,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まず『ベガ』の話が始まっていくよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.そして蠢く陰謀…\\.ラウラ達の運命やいかに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!こっちも、がっつり作ったよ。\\.作り過ぎちゃった。"
+                                "First, the story of Vega will begin. And there will be a sinister\nconspiracy... How will Laura and the others' fate unfold...? I\nput a lot of effort into this one too. Maybe a bit too much."
                             ]
                         },
                         {
@@ -11148,35 +9881,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『ベガ』は体験版だと出せる場面が少なくて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それがちょっと心残り…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!活躍するところは、いっぱいあるんだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\}『なすの先輩』が好きな人は好きそう。"
+                                "In the demo version of Vega, there weren't many scenes where she\ncould shine, and that's a little regrettable... There are plenty\nof moments where she can make a big impact though... People who\nlike Nasuno- senpai will probably like her."
                             ]
                         },
                         {
@@ -11194,21 +9906,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あとは…恋の獣になった『ティータ』も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見せられなくて、つらみ…。"
+                                "And... I couldn't show you Tita who became a love beast, and it's\npainful..."
                             ]
                         },
                         {
@@ -11233,35 +9938,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この子ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ルナロアに一目ぼれした彼女は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "百合の間に割り込んでいく『やべぇ女』になっていくぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ラウラの恋の行方や如何に…！？"
+                                "This girl, you know. She fell in love at first sight with Lunaroa\nand will become a troublesome girl who interrupts their yuri\nrelationship! What will happen to Laura's love...!?"
                             ]
                         },
                         {
@@ -11272,28 +9956,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁ！ \\.一体どうなってしまうのか…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!……\\.……\\.……\\.いや、もったいぶるのはやめよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!せっかくだから見ていってくれ。\\!…てえぃ！！"
+                                "Ah! What on earth will happen...!! ...Well, let's not drag it\nout. Since you're here, why don't you take a look... Teehee!!"
                             ]
                         },
                         {
@@ -11444,21 +10114,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…よしっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!興味があったら、話かけてみてね。"
+                                "Alright! If you're interested, why don't you come talk to me?"
                             ]
                         },
                         {
@@ -11483,21 +10146,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あとはちょろっと言ってた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.『ルナロア』の学園生活とか…。"
+                                "And I briefly mentioned... Lunaroa's school life and such..."
                             ]
                         },
                         {
@@ -11529,21 +10185,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして『ラウラ』は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!いや、これを言うのはやめておこう。"
+                                "And as for Laura... No, let's not say that."
                             ]
                         },
                         {
@@ -11584,21 +10233,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…まぁ、他にもあるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.大体そんな感じっ！"
+                                "...Well, there are other things too, but that's the general idea!"
                             ]
                         },
                         {
@@ -11626,21 +10268,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ、さっそくだけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『参加企画』の説明をさせてね。"
+                                "Well then, without further ado, let me explain the details of the\nParticipation Project."
                             ]
                         },
                         {
@@ -11651,28 +10286,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その前に…ちょっと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『自分語り』になってしまうんですけどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!少しだけお時間頂きたく…。"
+                                "Before that... umm, it's going to be a bit of a self- indulgent\nstory, but if you could spare me a little time..."
                             ]
                         },
                         {
@@ -11683,28 +10304,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ある日、突然気が向いてですね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!人生で一回くらい集中して、ゲームを作ってみるかー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…って、軽い気持ちでこれを作り始めたんですよ。"
+                                "One day, I suddenly felt like it... Maybe I should try making a\ngame with all my focus, just once in my life! ...Well, I started\nmaking this with a light-hearted feeling."
                             ]
                         },
                         {
@@ -11715,35 +10322,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…まぁ、気持ちは分かるよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ゲーム好きな人なら一度は考えると思うし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.有名な『名作』も、いっぱいあるものね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!実際に作るかどうかは別にしても。"
+                                "Well, I understand the feeling. If you're a fan of games, I think\nyou've probably thought about it at least once. There are so many\nfamous masterpieces out there, after all. Even if you don't\nactually end up making one."
                             ]
                         },
                         {
@@ -11754,35 +10340,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…問題は膨大な作業時間がかかること。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!何かの合間で作業したら、４～５年かかることもある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ほとんどの人間は完成させることが出来ないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そして、頓挫することを『エターなる』\\.といわれている。"
+                                "...The problem is the enormous amount of work time it takes. If\nyou work on it in between other things, it can take 4 to 5 years.\nMost people are unable to complete it. And when it fails, it's\ncalled an Eternal."
                             ]
                         },
                         {
@@ -11793,35 +10358,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを予防…逃げ道を塞ぐ為に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "制作者は『仕事』をぶん投げたんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!つまり稼ぎもせずに、ずーっと作っていたと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そしたら『２０００時間』くらい、かかっちゃって…。"
+                                "To prevent that... in order to block the escape route, the\ncreator threw away their job. In other words, they kept making it\nwithout earning any money. And then, it took about 2000 hours or\nso..."
                             ]
                         },
                         {
@@ -11832,21 +10376,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ、笑っちゃうよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.集中すりゃいいってもんじゃないよ。"
+                                "Hehe, it's not just about focusing, you know."
                             ]
                         },
                         {
@@ -11864,35 +10401,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、なんというか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.有償販売しても、果たして回収出来るかというと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!正直、超絶難しいなぁ。と思うわけで…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!最低時給で計算しても…\\.ねぇ？"
+                                "Well, how should I put it... Even if it's sold for a fee, I\nwonder if it can really be recovered... Honestly, it's extremely\ndifficult. Even if you calculate it at the minimum hourly wage...\nYou know?"
                             ]
                         },
                         {
@@ -11917,21 +10433,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それで、ですね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!恥を承知でお願いするのですが…。"
+                                "So, umm... I know it's embarrassing, but..."
                             ]
                         },
                         {
@@ -11977,28 +10486,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{心優しい物好きな人っ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!助けると思って、『ＮＰＣ権』を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.買ってくれませんか！？"
+                                "\\{To kind-hearted people who love this kind of thing...!! \\!I was\nthinking, would you buy the NPC Rights to help me!?"
                             ]
                         },
                         {
@@ -12032,35 +10527,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ…自分でも分かっていますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!こいつ、汚ねぇ話してんな…\\.って思ってますよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!娯楽なんて『無料』で楽しめて当然なのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金の話とか、ちゃんちゃらおかしいですよね…。"
+                                "Well... I understand it myself. \\!I'm talking about something\ndirty...\\. You must be thinking that, right? It's only natural to\nenjoy entertainment for free, so talking about money is absurd..."
                             ]
                         },
                         {
@@ -12071,21 +10545,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも、大企業でさえ『クラファン』してる時代なんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!個人の方がもっと切実に決まってんじゃんよ…！！！"
+                                "But even big companies are doing crowdfunding these days!\nIndividuals are even more desperate, aren't they...!!!"
                             ]
                         },
                         {
@@ -12119,28 +10586,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その…詳細が気になったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カウンターの『ピンクの妖精』に聞いてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!うん、気になったらでいいから…。"
+                                "Um... If you're curious about the details, ask the Pink Fairy at\nthe counter. Yeah, it's fine if you're curious..."
                             ]
                         },
                         {
@@ -12186,35 +10639,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ、そうだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『ストーリー』は本編を見れば分かると思うけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『戦闘』の感じは、説明が足りないかもしれないよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…っと、いうことでですね。"
+                                "Ah, that's right! \\!I think you'll understand the story if you\nwatch the main part, but the feeling of battle might not be\nexplained enough. \\!...So, that's what I wanted to say."
                             ]
                         },
                         {
@@ -12400,28 +10832,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この『ユニークモンスター』と戦っていくといい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!戦闘の流れが伝わると思うからね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!遠慮せずに、ぶっとばしていいよ！！"
+                                "It's good to fight against these Unique Monsters!! \\!I think\nyou'll understand the flow of battle this way! \\!Don't hold back,\ngo all out and give it your best!!"
                             ]
                         },
                         {
@@ -12463,21 +10881,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘が苦手なら私が教えてあげる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…戦いたくなかったら、無視してもいいよ！"
+                                "If you're not good at fighting, I'll teach you! \\!...But if you\ndon't want to fight, you can ignore me!"
                             ]
                         },
                         {
@@ -12488,21 +10899,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以上です！\\. ご清聴ありがとうございました！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!またのご来店をお待ちしております！！"
+                                "That's all! Thank you for listening!! We look forward to your\nnext visit!!"
                             ]
                         },
                         {
@@ -12795,35 +11199,14 @@
                                 0,
                                 0,
                                 2,
-                                "独身のおじさん"
+                                "Unmarried uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やぁ、ラウラちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ところでお金には困ってないかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そんなときはおじさんに相談しなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんたって私は『独身』で\\.『お金持ち』だからね。"
+                                " Hey, Laura-chan. By the way, are you having any financial\ntroubles? If you are, you should come and talk to your uncle.\nAfter all, I am unmarried and rich, you know."
                             ]
                         },
                         {
@@ -12834,21 +11217,14 @@
                                 0,
                                 0,
                                 2,
-                                "独身のおじさん"
+                                "Unmarried uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\$もし必要だったら『10000G』ほど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おじさんが援助してあげようと思うけど…\\.どうかな？\\!"
+                                "If you need it, I'm thinking of giving you around 10,000G as\nsupport, you know... What do you think?"
                             ]
                         },
                         {
@@ -12911,14 +11287,14 @@
                                 0,
                                 0,
                                 2,
-                                "独身のおじさん"
+                                "Unmarried uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\$大切に使ってね…！"
+                                "Please use it wisely...!"
                             ]
                         },
                         {
@@ -13061,28 +11437,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ、それはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この部屋から出たい人の為に追加で作ったんだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ユリシーンに戻れるように出来るよ。"
+                                "Ah, that's right. I made it as an addition for those who want to\nleave this room. It allows you to return to the Yuri scene."
                             ]
                         },
                         {
@@ -13093,21 +11455,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突貫工事で作ったから以降は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "デバッグのサポート外になっちゃうけど…\\!大丈夫？\\!"
+                                "I made it in a rush, so it won't be supported for debugging from\nnow on... Are you okay with that?\\!"
                             ]
                         },
                         {
@@ -13140,14 +11495,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ、それもいい…。"
+                                "Yes, that's fine..."
                             ]
                         },
                         {
@@ -13171,28 +11526,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なにかしらの不具合が出ても対応は無理かもなので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "セーブファイル分けるなどで、各自で対策をお願いね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!………\\.えいっ！！"
+                                "Even if there are any issues, it might be impossible to provide\nsupport, so please take measures on your own, such as separating\nsave files. ...Ei!!"
                             ]
                         },
                         {
@@ -13245,14 +11586,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『帰還の結晶石』が有効になった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『打ち上げ会場』が登録された！！"
+                                "The Crystal of Return has become active! The Launch Site has been\nregistered!!"
                             ]
                         },
                         {
@@ -13394,21 +11728,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そいつはもう『抜け殻』だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!労わってやってくれ…。"
+                                "That person is already a hollow shell. Please show them some\ncompassion..."
                             ]
                         },
                         {

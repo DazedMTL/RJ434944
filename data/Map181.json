@@ -25826,7 +25826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[389]キュアミストαを手に入れた！\\$"
+                                "\\i[389]I obtained Cure Mist Alpha! \\$"
                             ]
                         },
                         {
@@ -26334,7 +26334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[388]ケアキュアβを手に入れた！\\$"
+                                "\\i[388] I obtained the Care Cure β! \\$"
                             ]
                         },
                         {
@@ -26547,7 +26547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーンに帰還しますか？\\!"
+                                "Are you returning to Ulyssean?"
                             ]
                         },
                         {
@@ -26734,7 +26734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーンに帰還しますか？\\!"
+                                "Are you returning to Ulyssean?"
                             ]
                         },
                         {
@@ -26921,7 +26921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーンに帰還しますか？\\!"
+                                "Are you returning to Ulyssean?"
                             ]
                         },
                         {
@@ -27718,14 +27718,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ここが『炎の試練』…\\.ね。"
+                                "\\SE[2]This is the Trial of Flames... Right?"
                             ]
                         },
                         {
@@ -27745,14 +27745,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]『この世の地獄』みたいな場所にきちゃったね…。"
+                                "\\SE[16] Looks like we've ended up in a place like 'Hell on\nEarth'..."
                             ]
                         },
                         {
@@ -27825,21 +27825,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]本当にこんな場所で強くなれるのかしらね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[75]無駄足は御免被りたいのだけれど。"
+                                "\\SE[74]I wonder if we can truly become stronger in a place like\nthis. \\.\\SE[75]I would prefer not to waste our efforts."
                             ]
                         },
                         {
@@ -27909,21 +27902,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[29]あはは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.主張が激しいね…。"
+                                "\\SE[29]Ahaha... Your argument is intense, huh..."
                             ]
                         },
                         {
@@ -27934,21 +27920,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]この場所はベガと相性がいいみたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]どんな力を得られるのかしら？"
+                                "\\SE\\SE[0]It seems like this place is compatible with Vega.\n\\SE[0]I wonder what kind of power we can obtain here?"
                             ]
                         },
                         {
@@ -27959,14 +27938,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[62]はぁ…。\\.行くしかないか。"
+                                "\\SE[62]Sigh... I guess there's no choice but to go."
                             ]
                         },
                         {
@@ -27977,21 +27956,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]熱中症に気をつけようね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]さっ 灼熱の登山、\\.行ってみよー…。"
+                                "\\SE\\SE[16]Let's be careful of heatstroke. \\SE[16]Alright, let's\ngo try this scorching mountain climb..."
                             ]
                         },
                         {
@@ -28136,7 +28108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送の結晶石に『炎の試練』が追加された！"
+                                "The 'Trial of Flames' has been added to the teleportation\ncrystal!"
                             ]
                         },
                         {
@@ -30377,28 +30349,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[37]あ、熱いですねぇ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[57]でも、こんな所だからこそ『商機』が…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[38]…さすがにないかもしれません。"
+                                "\\SE[37]Ah, it's hot, isn't it...! \\!\\SE[57]But, it's precisely\nbecause of this kind of situation that there are business\nopportunities...!! \\!\\SE[38]...Though, it might not be the case\nafter all."
                             ]
                         },
                         {
@@ -30505,7 +30463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[476]レアアースの欠片を手に入れた！\\$"
+                                "\\i[476] Obtained a rare earth fragment! $"
                             ]
                         },
                         {
@@ -31224,7 +31182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[479]レアアースの塊を手に入れた！\\$"
+                                "\\i[479]I obtained a rare earth lump! $"
                             ]
                         },
                         {

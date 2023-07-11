@@ -7073,21 +7073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村の洞窟の先…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!森を越えた先にその人は住んでいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『私から』と伝えれば通じるかと…。"
+                                "The person lives beyond the forest, past the cave in the village.\nPerhaps they will understand if you tell them from me...."
                             ]
                         },
                         {
@@ -7511,14 +7497,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]まずは、目的を済ませないと…。"
+                                "\\SE First, we need to accomplish our objective..."
                             ]
                         },
                         {

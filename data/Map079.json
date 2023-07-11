@@ -8846,7 +8846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[385]マジカルケアβを手に入れた！\\$"
+                                "\\i[385] I obtained Magical Care β! \\$"
                             ]
                         },
                         {
@@ -9101,7 +9101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[414]天使のつのぶえを手に入れた！\\$"
+                                "\\i[414] I obtained an angel's feather! $"
                             ]
                         },
                         {
@@ -9230,14 +9230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうなモンスターがいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戦いますか？\\!"
+                                "There's a strong-looking monster.... Will you fight it?"
                             ]
                         },
                         {
@@ -9471,14 +9464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユニークモンスター討伐の記念碑だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『白金の剣士』と再戦しますか？\\!"
+                                "It's a monument for defeating a unique monster.... \\! The\nPlatinum Swordsman, would you like to have a rematch? \\!"
                             ]
                         },
                         {
@@ -11194,7 +11180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[395]プリズムハーブを手に入れた！\\$"
+                                "\\i[395] Obtained Prism Herb! $"
                             ]
                         },
                         {
@@ -11323,21 +11309,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やぁ、『ユニークボス』は倒してる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!チャレンジ的なアレだから、別に戦わなくてもいいけど…。"
+                                "Hey, have you defeated the Unique Boss? It's more of a challenge,\nso you don't have to fight it if you don't want to..."
                             ]
                         },
                         {
@@ -11348,28 +11327,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "右にいる『アレ』は基本に忠実なタイプだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バトルの練習相手にはちょうどいいかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…アドバイスとかいる？\\!"
+                                "The one on the right, Are, is a type that is faithful to the\nbasics, so it might be just right as a practice opponent. Do you\nneed any advice?"
                             ]
                         },
                         {
@@ -11402,28 +11367,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まずは『弱体化』を狙っていこう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.この辺りは『ヴィタ』に任せて安心だぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ちゃんと『二段階』さげるんだぞ！！"
+                                "First, let's aim for weakening! Leave it to Vita around here and\nrest assured! Make sure to lower it by two stages properly!!"
                             ]
                         },
                         {
@@ -11434,28 +11385,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あとは、ルナロアの『奥義』も使っていこう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.強敵相手が一番輝くからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『４回行動』でなにもかもぶっ壊せっ…！！"
+                                "And let's use Lunaroa's Secret Technique too! It shines the most\nagainst strong opponents. With 4 actions, we can destroy\neverything...!!"
                             ]
                         },
                         {
@@ -11466,28 +11403,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ラウラは『輝剣』で強化を維持しつつ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "攻撃をしたり、回復やサポートで支えていこう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『チアフルエール』もおすすめだぞっ！"
+                                "Laura will maintain her enhancement with Radiant Sword while\nattacking, providing support and healing! I also recommend using\nCheerful Ail!"
                             ]
                         },
                         {
@@ -11498,21 +11421,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "以上っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.各自、健闘を祈る…！！"
+                                "That's all!! Everyone, I pray for your success...!!"
                             ]
                         },
                         {
@@ -11620,28 +11536,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふ、ふーん？\\. 少しはやるじゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!私からみたら全然まだまだだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとだけ見てめてもいいよ？\\. ちょっとだけね。"
+                                "H-Hmm? Not bad, huh? From my perspective, you still have a long\nway to go, but would you like me to show you a little? Just a\nlittle bit, okay?"
                             ]
                         },
                         {
@@ -11675,21 +11577,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴィタの『カウンター』が連続で出ると笑えない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.初めて見たとき笑っちゃった。"
+                                "Isn't it funny when Vita's Counter keeps coming out in\nsuccession? I laughed the first time I saw it."
                             ]
                         },
                         {
@@ -11849,7 +11744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[445]すっごい裁縫セットを手に入れた！\\$"
+                                "\\i[445]I got an amazing sewing set! $"
                             ]
                         },
                         {

@@ -9380,14 +9380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "炎の揺らめきに心が落ち着いていく…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!パーティの体力が全回復した！"
+                                "The heart calms down in the flickering of flames.... \\! The\nparty's health has been fully restored!"
                             ]
                         },
                         {
@@ -9840,21 +9833,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]よかった。\\.ここの水は綺麗みたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]汲み置きしておけば、しばらく大丈夫だね。"
+                                "\\SE\\SE[0]That's good. The water here seems to be clean. \\SE[0]If\nwe store it, it should be fine for a while."
                             ]
                         },
                         {
@@ -9874,28 +9860,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ありがと。\\.メリッサ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『ユリシーン』も近いし、少し休みましょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[20]…あなたが働き者で、\\.とっても助かってはいるんだけど。"
+                                "\\SE\\SE[0]Thank you, Melissa. \\SE[0]Since the Yurisene is also\nclose, let's take a little break. \\SE[20]...You are hardworking\nand I really appreciate it, but..."
                             ]
                         },
                         {
@@ -10008,28 +9980,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]いやー、しかし…\\.山を越え、\\.谷を越え…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]ここまで、\\.長い道のりだったねー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]こんな『大冒険』になるとは思ってなかったよ。"
+                                "\\SE[21]Oh my, however... Crossing mountains, crossing valleys...\n\\SE[0]It was such a long journey to get here. \\SE[1]I never\nthought it would turn into such a great adventure."
                             ]
                         },
                         {
@@ -10049,28 +10007,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]うぁー…\\.ごめんなさいぃー……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[6]私の道案内が完璧だったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっくに『ユリシーン』に着いてたよねぇ…。"
+                                "\\SE[24]Ugh... I'm sorry... If my directions were perfect, we\nwould have already arrived at Yurisene a long time ago..."
                             ]
                         },
                         {
@@ -10090,21 +10034,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]あはは…！\\.私は楽しかったけどねー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]自給自足のサバイバル…！\\.って感じで。"
+                                "\\SE[16]Ahaha...! I had fun though. \\SE[1]It felt like a self-\nsufficient survival...!"
                             ]
                         },
                         {
@@ -10115,28 +10052,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]それにニキータの『お金の稼ぎ方』も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大変勉強になったしね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]一体、どれだけ『特別な夜』を過ごしたのやら。"
+                                "\\SE[16]And I also learned a lot from Nikita's way of making\nmoney. \\SE[15]I wonder just how many special nights they have\nexperienced."
                             ]
                         },
                         {
@@ -10147,21 +10070,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[56]乙女の『秘密』だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.外部に漏らしちゃだめだぞー？"
+                                "\\SE[56]Because it's a maiden's secret, \\.we mustn't let it leak\nto the outside, okay?"
                             ]
                         },
                         {
@@ -10272,28 +10188,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]うーあーゆっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.えぇあ、あいおゆー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[4]あうてぁ…ええあぁんあ、\\.あんあ。"
+                                "\\SE[12]Ugh... I'm so tired. Ah, I need to rest. \\SE[4]Ah, my\nbody... It hurts so much... Ouch."
                             ]
                         },
                         {
@@ -10313,14 +10215,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[51]ええっと…\\.なんて？"
+                                "\\SE[51]Um... What was it again?"
                             ]
                         },
                         {
@@ -10340,28 +10242,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]『正直あの技術には感服した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[14]　今後の人生の正確な指針になりえる。』\\.だって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[38]それと…\\!\\SE[51]ねぇ、\\.これも言わなきゃだめ？"
+                                "\\SE[12]Honestly, I was impressed by that technique. \\SE[14]It\ncould become an accurate guide for my future life. \\SE[38]But you\nknow... \\SE[51]Hey, do I have to say this too?"
                             ]
                         },
                         {
@@ -10379,14 +10267,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あい。"
+                                "\\SE[1]Ai."
                             ]
                         },
                         {
@@ -10438,28 +10326,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[44]『道中、ぶらぶらと揺れる『おっぱい』が本当に眼福だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[43]　ちょっと疲れても、チラ見するだけで元気が湧いてくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\.今後も、この調子で頼む。』\\.\\SE[12]…だって。"
+                                "\\SE[44]The swaying 'breasts' along the way were truly a feast for\nthe eyes. \\SE[43] Even when I was a little tired, just catching a\nglimpse of them would rejuvenate me. \\SE[12] So please, continue\nin this manner from now on. \\SE[12]...because."
                             ]
                         },
                         {
@@ -10545,14 +10419,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]あぁい！"
+                                "\\SE[16]Ahh, yes!"
                             ]
                         },
                         {
@@ -10581,28 +10455,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]じゃあロノア、今日は一緒に寝よっか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]いーっぱい『ぎゅー』\\.ってして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『赤ちゃん』みたいに、たくさん甘やかしてあげる。"
+                                "\\SE\\SE[15]Hey Ronoa, wanna sleep together today? I'll give you\nlots of hugs and pamper you like a baby."
                             ]
                         },
                         {
@@ -10613,21 +10473,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]この前見せてあげた『あれ』……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]ロノアちゃんにもやってあげよっか？"
+                                "\\SE[46]That thing I showed you the other day... \\!\\SE[15]Should I\ndo it for Ronoa-chan too?"
                             ]
                         },
                         {
@@ -10638,14 +10491,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[54]\\SM[pop]ひっ……！？"
+                                "\\SE[54]\\SM[pop]Huh...!?"
                             ]
                         },
                         {
@@ -10848,21 +10701,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]あえあ…\\.えあ、おあんあっ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[23]ぇうなんあっ…！ \\.えいぁ…！！"
+                                "\\SE[14]Ah... Ah, it hurts...!! \\SE[23]Ouch...! Ahh...!!"
                             ]
                         },
                         {
@@ -10911,28 +10757,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]『魔性の巨乳で人を誑かす、\\.サキュバスめっ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[13]どんな苛烈な…ゆ、\\.誘惑を受けようとも…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[44]　わ、私は…\\.絶対に負けたりしない…！！』\\!\\SE[1]…だって。"
+                                "\\SE[14]A succubus who seduces people with her bewitching big\nbreasts...!! \\SE[13]No matter how intense... the temptation may\nbe...!! \\SE[44]I... I will never lose...!! \\SE[1]...Because."
                             ]
                         },
                         {
@@ -10959,28 +10791,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ええ、分かったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『赤ちゃん』になりたくなったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.気軽に声をかけてね。\\.いくらでも甘えさせてあげる。"
+                                "\\SE\\SE[0]Yes, I understand. \\SE[0]If you ever want to become a\nbaby, feel free to reach out to me. I'll pamper you as much as\nyou want."
                             ]
                         },
                         {
@@ -11063,21 +10881,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]あはは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.これはロノアの『負け』だねー。"
+                                "\\SE[16]Ahaha. This is Ronoa's defeat, isn't it?"
                             ]
                         },
                         {
@@ -11181,21 +10992,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]（気丈に振る舞っているけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\.二人とも、体力の限界のはず……。）"
+                                "\\SE[3] (Even though they're acting tough... Both of them must be\nat their physical limits...)"
                             ]
                         },
                         {
@@ -11213,28 +11017,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]（これ以上、時間はかけられない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　私が、早く二人を安全な所に連れて行かないと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[42]　…大丈夫。\\.あと少し…\\.あと少し、なんだから。）"
+                                "\\SE[13] (I can't spend any more time. I need to quickly take the\ntwo of them to a safe place... \\SE[42] ...It's okay. Just a\nlittle more... Just a little more, that's all.)"
                             ]
                         },
                         {
@@ -11284,14 +11074,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]おちっこ…。"
+                                "\\SE[7]I need to pee..."
                             ]
                         },
                         {
@@ -11302,28 +11092,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]お水…\\.飲み過ぎちゃった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]だったら、そこの川でしちゃいなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]どうせ、私たちしかいないんだしさ。"
+                                "\\SE\\SE[0]Did you drink too much water? \\!\\SE[0]If so, why don't\nyou just go pee in that river over there? \\!\\SE[2]After all,\nthere's no one else here but us."
                             ]
                         },
                         {
@@ -11443,14 +11219,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[28]もぅ、\\.むぃ…！！"
+                                "\\SE[28]Geez, ugh...!!"
                             ]
                         },
                         {
@@ -11632,14 +11408,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]あっ…\\.夜道はあぶないんだから、\\.ひとりじゃ"
+                                "\\SE[4]Ah... It's dangerous to be alone on the night road, so..."
                             ]
                         },
                         {
@@ -12013,14 +11789,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]ああぁ…！！！"
+                                "\\SE[24]Aahh...!!!"
                             ]
                         },
                         {
@@ -12267,28 +12043,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふざけるなっ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もう、これ以上…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私たちから\\.『大切なもの』を奪うなっ！！！"
+                                "Don't mess around!!! Enough already...!! Don't take away our\nprecious things!!!"
                             ]
                         },
                         {
@@ -12332,21 +12094,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロノアから、\\.離れろ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\.離れろ！！ \\.\\.離れろ！！ \\.\\.離れろっ！！！！"
+                                "Get away from Ronoa...!! ...Get away!! ...Get away!! ...Get\naway!!"
                             ]
                         },
                         {

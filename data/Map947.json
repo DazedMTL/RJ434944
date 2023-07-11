@@ -1586,14 +1586,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…そっか。\\.こんなものもあったっけ。"
+                                "\\SE[2]...I see. I wonder if there was something like this too."
                             ]
                         },
                         {
@@ -1611,28 +1611,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]『お金』は…きっと、\\.人の幸せを支えるためにある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[39]それなら、今の私には必要なものかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]…持っていこう。"
+                                "\\SE[3] Money... is surely something that exists to support\npeople's happiness. \\SE[39] If that's the case, it might be\nsomething I need right now. \\SE[15] ...I'll take it."
                             ]
                         },
                         {
@@ -1671,7 +1657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "30000G 手に入れた！\\$"
+                                "Obtained 30000G! $"
                             ]
                         },
                         {

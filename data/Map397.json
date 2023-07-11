@@ -2882,7 +2882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『コーダイン』に帰還しますか？\\!"
+                                "Are you returning to 'Codain'?"
                             ]
                         },
                         {
@@ -3079,7 +3079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『コーダイン』に帰還しますか？\\!"
+                                "Are you returning to 'Codain'?"
                             ]
                         },
                         {
@@ -3276,7 +3276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『コーダイン』に帰還しますか？\\!"
+                                "Are you returning to 'Codain'?"
                             ]
                         },
                         {
@@ -3904,14 +3904,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[29]さ、寒い…。"
+                                "\\SE[29]It's cold..."
                             ]
                         },
                         {
@@ -3993,21 +3993,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]あんたも懲りないわね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.もう、わざとやってるでしょ…。"
+                                "\\SE[12]You never learn, do you... You're doing it on purpose,\naren't you..."
                             ]
                         },
                         {
@@ -4018,21 +4011,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]まぁ、いいじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]チラチラ肌色見せてくれると、\\.元気出るし。"
+                                "\\SE[4]Well, it's fine. \\SE[1]It's refreshing to catch glimpses of\nyour skin color. It cheers me up."
                             ]
                         },
                         {
@@ -4066,21 +4052,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]この先に…\\.いるんだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]ルナを治せる『魔女さん』が…。"
+                                "\\SE[5]There's... a witch who can cure Luna... ahead, right?"
                             ]
                         },
                         {
@@ -4091,14 +4070,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]ええっ、\\.行きましょう。"
+                                "\\SE[74]Eh, let's go."
                             ]
                         },
                         {
@@ -4408,7 +4387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送の結晶石に『雪の森』が追加された！"
+                                "The 'Snow Forest' has been added to the teleportation crystal!"
                             ]
                         },
                         {

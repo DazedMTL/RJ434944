@@ -8257,21 +8257,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちわ。…あついね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "焚火…使ってく…？ めちゃくちゃあついけど…。"
+                                "Hello... It's hot, isn't it? Can I use the bonfire? It's really\nhot though..."
                             ]
                         },
                         {
@@ -8304,21 +8297,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここボスは攻撃力が高いから、しっかり守りを固めないとね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "基本通り弱点もついていくのも大事だよ。"
+                                "The boss here has high attack power, so it's important to\nstrengthen your defense. It's also crucial to exploit its\nweaknesses as you go along."
                             ]
                         },
                         {
@@ -8342,14 +8328,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それにしても…あつい…。"
+                                "By the way... It's hot..."
                             ]
                         },
                         {
@@ -8437,14 +8423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "熱いときこそ焚火だ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体力が全回復した！"
+                                "When it's hot, it's time for a bonfire...!! My stamina has fully\nrecovered!"
                             ]
                         },
                         {
@@ -9203,28 +9182,14 @@
                                 0,
                                 0,
                                 2,
-                                "炎の精霊"
+                                "Spirit of Fire"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よくきた…人の子らよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『炎の試練』ここまで辿りついたこと、\\.褒めてやろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!力を欲するならば、我にその意思を示せ。"
+                                "Welcome... children of humans.... I will commend you for making\nit this far in the Trial of Fire. If you desire power, show me\nyour determination."
                             ]
                         },
                         {
@@ -9244,21 +9209,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]（おぉ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[17]『それっぽいの』が出て来た…。）"
+                                "\\SE[16] (Oh... \\!\\SE[17] Something that seems appropriate has\nappeared...)"
                             ]
                         },
                         {
@@ -9285,21 +9243,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ようするに、あんたと戦って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私たちの実力を見せればいいのね？"
+                                "\\SE[2] In other words, I just need to fight you and show you our\nstrength, right?"
                             ]
                         },
                         {
@@ -9317,28 +9268,14 @@
                                 0,
                                 0,
                                 2,
-                                "炎の精霊"
+                                "Spirit of Fire"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!しかし我は炎を司る精霊の最上位…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.半端な実力では…"
+                                "I see... However, I am the highest-ranking spirit that governs\nfire... With half-hearted power..."
                             ]
                         },
                         {
@@ -9414,28 +9351,14 @@
                                 0,
                                 0,
                                 2,
-                                "炎の精霊"
+                                "Spirit of Fire"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いったーい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ちょっと！あんた何すんのよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!こっちが一生懸命、『精霊語り』してるときに…！！"
+                                "Take that! Hey, what are you doing?! I'm trying my best to Spirit\nTalk here...!!"
                             ]
                         },
                         {
@@ -9455,21 +9378,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]話が長いのよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]こっちは暑くてイライラしてるんだから！"
+                                "\\SE[22]This conversation is taking too long!! \\!\\SE[21]I'm\ngetting irritated because it's so hot here!"
                             ]
                         },
                         {
@@ -9480,21 +9396,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]ほらっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.うちの子の様子を見てみなさいよ！！"
+                                "\\SE[22]Look! Take a look at my child's appearance!!"
                             ]
                         },
                         {
@@ -9621,28 +9530,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[29]暑い…\\.暑いよぉ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[27]のどが乾いたよぉ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[26]おうちに帰りたいよぉ……。"
+                                "\\SE[29]It's hot... So hot... \\SE[27]I'm so thirsty... \\SE[26]I\nwant to go home..."
                             ]
                         },
                         {
@@ -9662,21 +9557,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[56]あっ…\\.何か見えてきた……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[57]これが、\\.『走馬灯』…？"
+                                "\\SE[56]Ah... Something is appearing... \\!\\SE[57]Is this the\nCarousel...?"
                             ]
                         },
                         {
@@ -9687,21 +9575,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[60]あぁ…懐かしい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[61]私もすぐそこに…\\.いくね……。"
+                                "\\SE[60]Ah... nostalgic....... \\!\\SE[61]I'll be there\nsoon...\\.too......."
                             ]
                         },
                         {
@@ -9825,28 +9706,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]ほらっ！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あんたの話が長いせいだからね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[19]うちの子が体を壊したらどうするの…！！"
+                                "\\SE[22]Look! It's because you're talking too much! \\SE[19]What\nwill you do if my child gets sick...!!"
                             ]
                         },
                         {
@@ -9873,28 +9740,14 @@
                                 0,
                                 0,
                                 2,
-                                "炎の精霊"
+                                "Spirit of Fire"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えぇー…\\.それ、ウチのせい…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もー！\\. 分かったし！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なら、さっさと始めるじゃんよ！"
+                                "Eh... Is that my fault...? Geez! Fine then!! If that's the case,\nlet's get started already!"
                             ]
                         },
                         {
@@ -9921,14 +9774,14 @@
                                 0,
                                 0,
                                 2,
-                                "炎の精霊"
+                                "Spirit of Fire"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かかってこい人間ども！\\!　って感じ！！"
+                                "Come at me, you humans! That's the feeling!!"
                             ]
                         },
                         {

@@ -2142,28 +2142,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]うわ、なにここ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.また訳わかんない所に飛ばされちゃったし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]『夢の中』なせいか、繋がりが支離滅裂なのかな…。"
+                                "\\SE[16]Oh, where am I... I've been transported to another\nincomprehensible place again. \\SE[15]Maybe it's because I'm in a\ndream, but the connections here are all jumbled up..."
                             ]
                         },
                         {
@@ -2226,21 +2212,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]何も見当たらないけど、\\.どうする？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]別のところから回った方がいいのかな？"
+                                "\\SE[4]I can't find anything around here... What should I do?\n\\SE[3]Should I try going back to a different place?"
                             ]
                         },
                         {
@@ -2283,28 +2262,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[68]あれ…もしかして…私、\\.一人？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]みんなと、はぐれちゃってる…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[68]『迷子』になってしまったということ…？"
+                                "\\SE[68]Huh... Could it be... I'm alone? \\SE[45]Did I get\nseparated from everyone...? \\SE[68]I've become a lost child...?"
                             ]
                         },
                         {
@@ -2399,28 +2364,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]いや、私が『迷子』になるはずがない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.これは、みんなが『迷子』に\\.なってるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[64]まったく、仕方ない…\\.探してあげるか……。"
+                                "\\SE[16]No, there's no way I would become a lost child.\n\\SE[64]Everyone here has become a lost child. \\SE[16]Well,\nthere's no helping it... I guess I'll search for them..."
                             ]
                         },
                         {
@@ -2506,14 +2457,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]これは、もしや…\\!『大ピンチ』\\.なのか…？"
+                                "\\SE[14]Could this be... a dire situation...?"
                             ]
                         },
                         {
@@ -2828,28 +2779,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[55]やったね…\\.アイシャ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[54]私たちは『天下無敵のコンビ』で…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[25]アイシャは、最高の『相棒』\\.だよ。"
+                                "\\SE[55]Yay... Aisha. \\SE[54]We are the Invincible Duo....\n\\SE[25]Aisha is the best partner."
                             ]
                         },
                         {
@@ -2860,14 +2797,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]……\\.……\\.……。\\!\\SE[15]"
+                                "\\SE[0]......\\.......\\........\\!\\SE[15]"
                             ]
                         },
                         {
@@ -3023,14 +2960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴィタは、奥義 \\i[102]飛天夢想弓を習得した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!さらに\\i[102]アイシャの弓が\\i[422]桜華の大弓に進化した！"
+                                "Vita has learned the secret technique \\i[102]Flying Heaven Dream\nBow! \\! Furthermore, \\i[102]Aisha's bow has evolved into the\nGreat Bow of Cherry Blossoms!"
                             ]
                         },
                         {
@@ -3167,14 +3097,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]…どう？\\. これで、良かった？"
+                                "\\SE[4]... How is it? Is this okay?"
                             ]
                         },
                         {
@@ -3192,14 +3122,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]………。"
+                                "\\SE[0].........."
                             ]
                         },
                         {
@@ -3210,28 +3140,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]あれくらいが限界でごめんね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと、話したい事もあったと思うけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[8]具現化させるくらいが精一杯で……。"
+                                "\\SE[7]I'm sorry if that's the limit for now. I'm sure there were\nthings I wanted to talk about too... \\SE[8]But it's all I can do\nto materialize..."
                             ]
                         },
                         {
@@ -3242,14 +3158,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[30]……。"
+                                "\\SE[30]......."
                             ]
                         },
                         {
@@ -3260,28 +3176,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]そんなこと気にしなくてもいいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたも『こっち』で出来た大切な友達だもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]私に出来ることなら、どんな望みも叶えてあげたいわ。"
+                                "\\SE[16]You don't have to worry about that. You are also a\nprecious friend made here, after all. \\SE[0]If there's anything I\ncan do, I want to grant any wish you have."
                             ]
                         },
                         {
@@ -3292,28 +3194,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]…ちょっと頑張り過ぎて、へとへとになっちゃったけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[20]これじゃ『あの子』のお手伝いは無理かなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうちょっと休まないと、足手まといになっちゃう。"
+                                "\\SE[6]...I pushed myself a little too hard and ended up\nexhausted. \\!\\SE[20]At this rate, I won't be able to help that\nchild. I need to rest a little more, or I'll just be a burden."
                             ]
                         },
                         {
@@ -3324,14 +3212,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]……。"
+                                "\\SE[2]......."
                             ]
                         },
                         {
@@ -3342,28 +3230,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]……\\.……\\.……\\!\\SE[62]もしかして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]最初から、これも作戦のうちだったの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『ヴィタ』を助けて、ついでに私を疲れさせるために…！？"
+                                "\\SE[3]......\\.......\\.......\\!\\SE[62]Could it be... Was this all\npart of the plan from the beginning!? To help Vita and exhaust me\nin the process...!?"
                             ]
                         },
                         {
@@ -3374,14 +3248,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]……\\.……\\.……。\\!\\SE[21]"
+                                "\\SE[3]......\\.......\\........\\!\\SE[21]"
                             ]
                         },
                         {
@@ -3392,21 +3266,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[39]は、ハメられたわっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "策士っ…おそろしい子…！！"
+                                "\\SE[39]I've been tricked!! What a schemer... such a terrifying\nchild...!!"
                             ]
                         },
                         {
@@ -3417,28 +3284,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[49]……\\.まぁ、いいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あなたの気持ちは伝わったし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]私、\\.振り回されるの好きだし。"
+                                "\\SE[49]... Well, it's fine. \\SE[15] I understand how you feel...\nand I actually enjoy being manipulated."
                             ]
                         },
                         {
@@ -3456,28 +3309,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[53]（人体の生成…\\.初めてやってみたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなに『持っていかれる』ものなのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[38]　これは『だめ』ね。\\.もう二度と出来ない。）"
+                                "\\SE[53] (Creating a human body... I tried it for the first time,\nbut it's so overwhelming. \\SE[38] This is no good. I can never do\nit again.)"
                             ]
                         },
                         {
@@ -3488,28 +3327,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[58]（あんまり考えたことなかったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『有性生殖』って案外、効率がすさまじいのね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!　\\SE[43]生命の神秘、\\.侮りがたし……。）"
+                                "\\SE[58] (I haven't really thought about it much, but sexual\nreproduction is surprisingly efficient.... \\SE[43] The mysteries\nof life are truly formidable...)"
                             ]
                         },
                         {
@@ -3527,14 +3352,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]……。"
+                                "\\SE[47]......."
                             ]
                         },
                         {
@@ -3545,28 +3370,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]あっ、疲れちゃったよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急に運動したんだもん。無理もないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]…少し、休んじゃおっか。"
+                                "\\SE[4]Ah, I'm tired. I did exercise suddenly, so it's no wonder.\n\\!\\SE[16]...Maybe I should take a little rest."
                             ]
                         },
                         {
@@ -3598,14 +3409,14 @@
                                 0,
                                 0,
                                 2,
-                                "破滅のアリス"
+                                "Alice of Destruction"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の中で、\\.おやすみなさい……。"
+                                "Goodnight, within me..."
                             ]
                         },
                         {

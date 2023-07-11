@@ -1612,14 +1612,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『帝国から討伐依頼』…\\.ですか？"
+                                "\\SE[2]A request for subjugation from the Empire... Is that so?"
                             ]
                         },
                         {
@@ -1637,28 +1637,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]そうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.市街の地下水道に厄介な魔物がでたと報告があってな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]付近の住民に多少、被害が出たらしい。"
+                                "\\SE[3]That's right. There has been a report of troublesome\nmonsters appearing in the city's underground sewer. \\SE[0]It\nseems that some of the nearby residents have suffered some\ndamage."
                             ]
                         },
                         {
@@ -1669,21 +1655,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[27]帝国は新しい『仕事』に人員を割いていてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]こちらで対応出来ないかと、持ちかけられた。"
+                                "\\SE[27]The Empire is allocating personnel to a new job.\n\\SE[0]They approached us asking if we could handle it here."
                             ]
                         },
                         {
@@ -1694,28 +1673,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]これは強制ではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.出発は５日後、\\.もちろん『単位』も出る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[42]…お前には、必要ないだろうが。"
+                                "\\SE[3]This is not mandatory. Departure is in 5 days, and of\ncourse, you will also receive credits. \\SE[42]...Though you\nprobably don't need them."
                             ]
                         },
                         {
@@ -1726,14 +1691,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]五日後…。"
+                                "\\SE[2]Five days later..."
                             ]
                         },
                         {
@@ -1760,21 +1725,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]（んー…。\\.物理の授業があるのよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[33]　好きな科目だから、\\.受けたいんだけど…。）"
+                                "\\SE[13] (Hmm... I have a physics class. \\SE[33] It's a subject I\nlike, so I want to take it...)"
                             ]
                         },
                         {
@@ -1794,28 +1752,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]まぁ…\\.無理にとはいわんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.お前が行かなければ、代わりのものを探すだけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『討伐任務』な以上、\\.多少の危険はあるだろうしな。"
+                                "\\SE[2]Well... I'm not forcing you. If you don't go, we'll just\nhave to find a replacement. \\SE[0]Since it's a subjugation\nmission, there might be some danger involved."
                             ]
                         },
                         {
@@ -1826,21 +1770,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[26]うちとしては『黒制服』を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『二名も』派遣したとあれば、体面が保てて助かるが。"
+                                "\\SE[26]If we were to send two people in black uniforms from our\nside, it would help maintain our reputation and be a great help."
                             ]
                         },
                         {
@@ -1867,14 +1804,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『黒制服』…？"
+                                "\\SE[2]Black uniforms...?"
                             ]
                         },
                         {
@@ -1885,14 +1822,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]（そっか。\\.じゃあ、ベガもいくんだ…。）"
+                                "\\SE[3] (I see... Then Vega will also go...)"
                             ]
                         },
                         {
@@ -1919,21 +1856,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]私も大丈夫です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.その依頼、\\.受けさせていただきます。"
+                                "\\SE[1]I'll be fine too. I'll take on that request."
                             ]
                         },
                         {
@@ -1953,28 +1883,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そうか、それは助かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.お前がいて、\\.もしもはないだろうが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]くれぐれも気を付けるようにな。"
+                                "\\SE[2]I see, that's helpful. With you here, there shouldn't be\nany problems... \\SE[1]Please be careful, okay?"
                             ]
                         },
                         {
@@ -1985,21 +1901,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.では、失礼します。"
+                                "\\SE[0]Understood. \\.Well then, excuse me."
                             ]
                         },
                         {
@@ -2223,14 +2132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんとした『依頼』だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.こう言ってしまうのは良くないかもしれないけど…。"
+                                "Because it's a proper 'request', it might not be good to say it\nlike this..."
                             ]
                         },
                         {
@@ -2255,7 +2157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "修学旅行みたいで、\\.わくわくしたな…。"
+                                "It feels like a school trip, I'm getting excited..."
                             ]
                         },
                         {

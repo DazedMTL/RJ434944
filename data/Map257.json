@@ -8120,7 +8120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クヌギの枝を手に入れた！\\$"
+                                "I obtained a branch of the Knugi tree! $"
                             ]
                         },
                         {
@@ -8138,14 +8138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "都会の方ではめずらしいみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この辺にはいっぱい落ちてるよ。"
+                                "It seems rare in the city. There are plenty of them falling\naround here."
                             ]
                         },
                         {
@@ -8477,7 +8470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "湿った枝を手に入れた！\\$"
+                                "I obtained a wet branch! $"
                             ]
                         },
                         {
@@ -8495,14 +8488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつは燃えない使えないやつだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犬にでも投げて遊んでやろう。"
+                                "This is a useless piece of wood that won't burn. Let's throw it\nto a dog or something and have some fun."
                             ]
                         },
                         {
@@ -8967,21 +8953,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、無事倒せたね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]ラウラ、とってもいい動きだったわ！"
+                                "Yeah, we managed to defeat them safely! \\SE[15]Laura, your\nmovements were really impressive!"
                             ]
                         },
                         {
@@ -9039,21 +9018,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[29]そ、そうかなぁ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルナがすごすぎて…。"
+                                "\\SE[29]I-I'm not so sure about that... Lunaroa was just too\namazing..."
                             ]
                         },
                         {
@@ -9197,28 +9169,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ううん！初めてなのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あんなに出来てすごいわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]今度また、色々おしえてあげるね！"
+                                "No, even though it was my first time, I was able to do it so\nwell! Next time, I'll teach you various things!"
                             ]
                         },
                         {
@@ -9245,21 +9203,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[84]えぇ…ほんとぉー…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]えへへ…。"
+                                "\\SE[84]Eh... really...? \\!\\SE[21]Ehehe..."
                             ]
                         },
                         {
@@ -9423,7 +9374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "濡れた枝を手に入れた！\\$"
+                                "I obtained a wet branch! $"
                             ]
                         },
                         {
@@ -9434,14 +9385,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ…汚っ…。"
+                                "Eww... It's dirty..."
                             ]
                         },
                         {
@@ -9579,21 +9530,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちわ。にんげんの人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにかご用事？"
+                                "Hello. Are you a human? Do you have any business?"
                             ]
                         },
                         {
@@ -9628,14 +9572,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "森の入口までワープするね。いい？"
+                                "I'll warp you to the entrance of the forest, okay?"
                             ]
                         },
                         {
@@ -9693,14 +9637,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "また遊んでね。"
+                                "Come and play again."
                             ]
                         },
                         {
@@ -9734,28 +9678,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "梯子の上に赤くて強そうなモンスターがいるでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あれは『ユニークモンスター』といって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この辺り一帯のヌシみたいなものなんだ。"
+                                "There's a red and strong-looking monster on the ladder, right?\nThat's called a Unique Monster, and it's like the boss of this\nwhole area."
                             ]
                         },
                         {
@@ -9766,28 +9696,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "倒すと何かいいものがもらえるかも…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "負けてもゲームオーバーにはならないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気軽に挑んでもいいかも…？HPは減っちゃうけど。"
+                                "If you defeat it, you might get something good...? Even if you\nlose, it won't be game over, so you can feel free to challenge\nit...? Your HP will decrease though."
                             ]
                         },
                         {
@@ -9836,14 +9752,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また遊んでね。"
+                                "Come and play again."
                             ]
                         },
                         {

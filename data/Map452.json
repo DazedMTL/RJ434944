@@ -1639,21 +1639,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらっ アイシャちゃん待たせてんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさと行きなよ。"
+                                "Hey, Aisha-chan, you're keeping everyone waiting, you know? Hurry\nup and go."
                             ]
                         },
                         {
@@ -1738,21 +1731,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]今日も一日おつかれさま。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新しいお仕事…どうだった？"
+                                "\\SE[0]Good work today. How was your new job?"
                             ]
                         },
                         {
@@ -1831,28 +1817,14 @@
                                 0,
                                 0,
                                 2,
-                                "おとうさん"
+                                "Father"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶好調だったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノルマがちと多いが、\\.金はいいしな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ちっとはお前らに贅沢をさせてやれそうだぞ。"
+                                "I was in great shape. The quota is a bit high, but the pay is\ngood. I might be able to treat you guys to some luxuries."
                             ]
                         },
                         {
@@ -1863,28 +1835,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前金を半分もらってんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっそく何か奮発しちまおうかねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ヴィタ。あんたは何か欲しいもの考えたかい？"
+                                "You received half of the advance payment, right? Shall we splurge\non something right away? Vita, have you thought of something you\nwant?"
                             ]
                         },
                         {
@@ -1904,21 +1862,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]んー……\\!\\SE[6]まだ、決まってない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]強いて言うなら…やっぱり、旅行かな。"
+                                "\\SE[3]Hmm... \\SE[6]I haven't decided yet. \\SE[1]If I had to\nsay... maybe a trip after all."
                             ]
                         },
                         {
@@ -1929,21 +1880,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]『ユリシーン』は魚がもっとおいしいって聞いたから…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと食べてみたいかも。"
+                                "\\SE[4]I heard that 'Yuriseen' has even more delicious fish... I\nmight want to try eating there."
                             ]
                         },
                         {
@@ -1954,21 +1898,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ『ご褒美』は仕事が終わるまでお預けだねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほらっあんた。きりきり働きなさいよ？"
+                                "Well then, we'll have to put the reward on hold until you finish\nwork, right? Come on, you. Work hard and give it your all, okay?"
                             ]
                         },
                         {
@@ -2047,14 +1984,14 @@
                                 0,
                                 0,
                                 2,
-                                "おとうさん"
+                                "Father"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おうっ！ 馬車馬の如く働くぜ…！！"
+                                "Oh! I work like a workhorse...!!"
                             ]
                         },
                         {
@@ -2446,14 +2383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が産まれたときに、おとうさんが買った人形だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛んでも何度も治してきた…ずっと一緒。"
+                                "When I was born, it was a doll that my father bought. Even though\nit got damaged, he repaired it many times... we've always been\ntogether."
                             ]
                         },
                         {

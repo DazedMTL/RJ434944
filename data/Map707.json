@@ -4093,21 +4093,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしてのんびり暮らすのもいいなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと思っちゃった。"
+                                "I kind of thought it would be nice to live a peaceful life like\nthis."
                             ]
                         },
                         {
@@ -4723,28 +4716,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ルナロア様ー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.お花のお世話終わりましたよー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]みんな元気に、すくすくと育っています。"
+                                "\\SE\\SE[15]Lady Lunaroa! The flower care is finished.\n\\SE[15]Everyone is growing up healthy and strong."
                             ]
                         },
                         {
@@ -4816,28 +4795,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]ルナロア様が起きるまで絶対に枯らせたりしません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]いえ、むしろ滅茶苦茶に成長させて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.起きたルナロア様にびっくりしてもらいます！"
+                                "\\SE[14]I will never let Lady Lunaroa's flowers wither until she\nwakes up! \\SE[10]No, on the contrary, I will make them grow\nwildly and surprise Lady Lunaroa when she wakes up!"
                             ]
                         },
                         {
@@ -4848,28 +4813,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]『天井を突き破るくらい』とか、どうでしょう…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]ルナロア様はそういうの好きそうですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『すごーい！』\\.頂けますかね…！？"
+                                "\\SE[16] How about something like growing up to pierce through the\nceiling?! \\SE[1] Lady Lunaroa seems to like that kind of thing,\ndoesn't she? \\SE[0] Can I get a Wow, amazing! from you...?!"
                             ]
                         },
                         {
@@ -4934,28 +4885,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]んー栄養剤とか、あげたほうがいいのかな…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ちょっとよく分かんないや…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]お母さんにあとで聞いてみよっと。"
+                                "\\SE[3]Hmm, I wonder if I should give them some nutrients...?\n\\.I'm not really sure.... \\!\\SE[2]I'll ask Mom about it later."
                             ]
                         },
                         {
@@ -5114,21 +5051,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]今日のお洗濯、全部終わったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]そっちも何か手伝う？"
+                                "\\SE\\SE[0]I finished all the laundry for today. \\!\\SE[0]Do you\nneed any help with something over there?"
                             ]
                         },
                         {
@@ -5139,28 +5069,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]もう終わったんですか…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.さすがニキータさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]お仕事が早いんですね！"
+                                "\\SE\\SE[15]Is it already finished...! As expected of Nikita-san!\n\\SE[15]You're really fast at your work, aren't you!"
                             ]
                         },
                         {
@@ -5180,28 +5096,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]へへーん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.家事に関しては『元プロ』ですからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]この程度、『お茶の子さいさい』\\.なのですよ。"
+                                "\\SE[16]Hehe~. When it comes to household chores, I'm a former\npro, you know. \\SE[0]This kind of thing is a piece of cake for\nme."
                             ]
                         },
                         {
@@ -5228,28 +5130,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]次の仕事は…\\.そうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ルナロア様に今日の『運動』をして頂くんですけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あと『３０分後』くらいがいいかなぁ…\\.て。"
+                                "\\SE[2]The next task is... Well, let's see. It's having Lady\nLunaroa do today's exercise... \\SE[3]Maybe around 30 minutes\nlater would be good... Um."
                             ]
                         },
                         {
@@ -5260,28 +5148,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]なるほどねー\\.了解ー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.じゃあ、少し休憩にする？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]お茶でも淹れて一息…\\!……\\.\\SE[59]あっ。"
+                                "\\SE\\SE[0]I see, understood. \\SE[0]Shall we take a short break\nthen? \\SE[0]How about making some tea and taking a breather...\n\\SE[59]Ah."
                             ]
                         },
                         {
@@ -5324,35 +5198,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]やだっ…\\.私ったら…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[43]『ティータちゃん』と\\.『ルナロア』の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『二人っきり』の\\.『３０分』を…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]うっかり、邪魔しちゃうところだったわ…！！"
+                                "\\SE[12]Oh no... I... \\SE[43]almost interrupted Tita-chan and\nLunaroa's \\SE[14]private 30 minutes together...! \\SE[14]I almost\naccidentally disturbed them...!!"
                             ]
                         },
                         {
@@ -5377,14 +5230,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]……\\.……\\.\\SE[2]えっ？"
+                                "\\SE[3]......\\.......\\.\\SE[2]Huh?"
                             ]
                         },
                         {
@@ -5456,28 +5309,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[10]うんうん…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あとは『若い者同士』で仲良くやりなさい…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[11]安心して…！\\.『３０分』は絶対に邪魔しないから…！"
+                                "\\SE[10]Hmm...! \\.Afterwards, you two young ones should get along\nwell...! \\!\\SE[11]Don't worry...! I absolutely won't interrupt\nthe 30 minutes...!"
                             ]
                         },
                         {
@@ -5658,21 +5497,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]えっ…あの…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]私、そんなことは本当に、\\.全然…！！"
+                                "\\SE[2]Eh... um...! \\!\\SE[9]I, I really, like, totally...!!"
                             ]
                         },
                         {
@@ -5683,28 +5515,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]大丈夫、\\.大丈夫ー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]ラウラも『ちゅー』くらいなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.きっと大目にみてくれるよー。"
+                                "\\SE\\SE[15]Don't worry, it's okay. \\SE[15]I'm sure Laura will be\nlenient if it's just a little kiss."
                             ]
                         },
                         {
@@ -5768,14 +5586,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]\\SM[pop]\\{『ちゅー』！！！？？"
+                                "\\SE[12]\\SM[pop]\\{A kiss!!!??"
                             ]
                         },
                         {
@@ -5871,21 +5689,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]も、もう…\\.ニキータさんったら…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[43]…ちゅ、\\.『ちゅー』なんて、私には早すぎるし。"
+                                "\\SE[21]M-Mou... Nikita-san, you... \\SE[43]A k-kiss... it's too\nsoon for me."
                             ]
                         },
                         {
@@ -5941,28 +5752,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[58]（『ちゅー』って…あの\\.『ちゅー』よね…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[42]　唇と唇を、\\.合わせるやつ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]　『キス』とか\\.『口づけ』とか\\.『接吻』とか…。）"
+                                "\\SE[58] ('Chuu'... that... 'chuu' right...? \\SE[42] The one where\nlips touch each other... \\SE[12] 'Kiss' or 'mouth-to-mouth' or\n'kissing'...)"
                             ]
                         },
                         {
@@ -6072,14 +5869,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]\\{ぐっ…！！！"
+                                "\\SE[24]\\{Guh...!!!"
                             ]
                         },
                         {
@@ -6097,28 +5894,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[22]はぁ…\\.はぁ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]い、今まで『お世話』に一生懸命すぎて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.考えてなかったけど…。"
+                                "\\SE[22]Haa... Haa...! \\SE[13]I-I've been so focused on taking\ncare of everyone until now, I haven't really thought about it..."
                             ]
                         },
                         {
@@ -6129,28 +5912,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]ど、どうしよう…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私は今、ルナロア様と『二人っきり』…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[42]ま、まって…\\.急に緊張してきた…！"
+                                "\\SE[9]W-What should I do...?! \\.Right now, I'm alone with Lady\nLunaroa...? \\!\\SE[42]W-Wait...\\.I suddenly feel nervous...!"
                             ]
                         },
                         {
@@ -6219,28 +5988,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]あはは…\\.ニキータさんにも困っちゃいますよね…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[5]私が『ちゅー』なんて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.まだ、『早すぎる』\\.って思いますよね…？"
+                                "\\SE[21]Ahaha...\\.It must be troublesome for you too, Nikita-san,\nright...? \\!\\SE[5]For me to have a chu with you...\\.I still think\nit's too soon...right...?"
                             ]
                         },
                         {
@@ -6309,21 +6064,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[6]ルナロア様はどう思います…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]わ、私と『ちゅー』するのは…嫌、\\.でしょうか？"
+                                "\\SE[6]What does Lady Lunaroa think...? \\SE[7]I-I mean, would\nshe... dislike kissing me?"
                             ]
                         },
                         {
@@ -6357,21 +6105,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[28]（ううっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　どういう答えが返ってくるのか想像できない…！）"
+                                "\\SE[28] (Uu...! I can't imagine what kind of answer I'll get...)"
                             ]
                         },
                         {
@@ -6391,28 +6132,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]あっ…ルナロア様のまつ毛、\\.綺麗…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.お肌もきめ細かくて、見てると吸い込まれそう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[46]唇も、こんなに艶やかで…\\.すてき…。"
+                                "\\SE[47]Ah... Lady Lunaroa's eyelashes, they're beautiful... Her\nskin is also so smooth, it's mesmerizing to look at... \\SE[46]\nAnd her lips, they're so glossy... They're lovely..."
                             ]
                         },
                         {
@@ -6446,21 +6173,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]あ、あれっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.すっごい『ちゅー』したくなっちゃってる！！"
+                                "\\SE[14]Ah, ah...! I really want to chu so badly!!"
                             ]
                         },
                         {
@@ -6471,28 +6191,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[28]体が勝手に動いてる…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[57]唇から目が離せない…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]じ、自分を止められないっ…！！"
+                                "\\SE[28]My body is moving on its own...! \\SE[57]I can't take my\neyes off her lips...!! \\SE[9]I, I can't stop myself...!!"
                             ]
                         },
                         {
@@ -6573,21 +6279,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だめぇ…\\.逃げて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルナロアさまぁ…！！"
+                                "No... Run away! Lady Lunaroa...!!"
                             ]
                         },
                         {
@@ -6757,14 +6456,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…えっ？"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -6817,28 +6516,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[68]ご、ごめん。\\.ティータ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.悪気があったわけじゃないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]その、間が悪かったというか…。"
+                                "\\SE[68]S-Sorry... Tita... I didn't mean any harm. \\SE[45]I\nguess... the timing was just bad..."
                             ]
                         },
                         {
@@ -6856,28 +6541,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]そ、そうだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『二人っきり』の時間が長かったろうし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]『それくらいのこと』はあって当然だよね…。"
+                                "\\SE[16]Y-Yeah, that's right. \\.We've been alone together for a\nlong time, so it's natural for \\SE[15]something like that to\nhappen...."
                             ]
                         },
                         {
@@ -6897,35 +6568,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]ら、ラウラには秘密にするから安心して…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]いや、ティータのこれまでの『努力』を考えたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『このくらい』はラウラも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.許容しなきゃいけない『ライン』じゃないかな…！"
+                                "\\SE[16]D-Don't worry, I'll keep it a secret from Laura...!\n\\!\\SE[15]Well, considering Tita's previous efforts, I think this\nis a level that Laura should also be able to tolerate...!"
                             ]
                         },
                         {
@@ -6936,21 +6586,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]そうなったら、私はティータの味方だから…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]安心して…！\\. なんとかフォローするから…！"
+                                "\\SE\\SE[12]If it comes to that, I'll be on Tita's side...!\n\\SE[12]Don't worry...! I'll somehow cover for you...!"
                             ]
                         },
                         {
@@ -6986,21 +6629,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]いや、あの…\\.違くて…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]私、そんなこと、\\.全然……！！"
+                                "\\SE[9]No, um... That's not it...! \\SE[7]I, I definitely don't\nfeel that way...!!"
                             ]
                         },
                         {
@@ -7029,21 +6665,14 @@
                                 0,
                                 0,
                                 2,
-                                "凪"
+                                "Nagi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]い、言い出しにくいのですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[20]ヴィタさん…\\.そろそろ…。"
+                                "\\SE[12]I-it's difficult to say but... \\!\\SE[20]Vita-san... It's\nabout time..."
                             ]
                         },
                         {
@@ -7077,28 +6706,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]そ、そうだった…！ \\.ごめん、ティータ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ちょっとルナロアを『借りてく』ね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]『すぐ』に返すから、\\.『続き』はそのときにお願い！"
+                                "\\SE[16]Oh, right...! Sorry, Tita! I'll borrow Lunaroa for a bit!\n\\SE[15]I'll return her back soon, so please leave the\ncontinuation for that time!"
                             ]
                         },
                         {
@@ -7118,28 +6733,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]えっ…\\.えっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.色々、分かんない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]あとすごい誤解もある…！！"
+                                "\\SE[7]Huh... Uh...! I don't understand a lot of things! \\SE[9]And\nthere are some really big misunderstandings too...!!"
                             ]
                         },
                         {
@@ -7150,21 +6751,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]急いでるから、\\.ごめん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]『おみやげ』何か買っておくから！"
+                                "\\SE[17]I'm in a hurry, so sorry! \\!\\SE[15]I'll buy you some kind\nof souvenir!"
                             ]
                         },
                         {
@@ -7428,14 +7022,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]えっ…\\.えぇ…！！！"
+                                "\\SE[9]Huh... Uh...!!!"
                             ]
                         },
                         {
@@ -7455,14 +7049,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]なんなの…\\.もう…。"
+                                "\\SE[8]What is it... I don't understand..."
                             ]
                         },
                         {
@@ -7548,35 +7142,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あっ ヴィター！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[4]そろそろ『運動』の時間だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.体を動かしてあげてねー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]『２時間』ごとによろしくねー！！！"
+                                "\\SE\\SE[2]Ah, Vita! \\SE[4]It's about time for our exercise\nsession, so please help me move my body! \\SE\\SE[2]Please take\ncare of me every two hours!!!"
                             ]
                         },
                         {
@@ -7594,14 +7167,14 @@
                                 0,
                                 0,
                                 2,
-                                "ティータ"
+                                "Tita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]うーん…\\.やっておいてくれるかなぁ…。"
+                                "\\SE[8]Hmm... I wonder if you could do it for me..."
                             ]
                         },
                         {
@@ -7767,21 +7340,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]何か騒がしかったみたいだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あらら、\\.\\SE[4]これは…。"
+                                "\\SE[2]It seems like something was noisy... Oh my, \\SE[4]what is\nthis..."
                             ]
                         },
                         {
@@ -7801,21 +7367,14 @@
                                 0,
                                 0,
                                 2,
-                                "ニキータ"
+                                "Nikita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[20]うーん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『ちゅー』は\\.出来なかったみたいねぇ…。"
+                                "\\SE[20]Hmm... It seems like we couldn't [1]kiss..."
                             ]
                         },
                         {
@@ -7919,21 +7478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『生命維持装置』というらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体に必要な栄養や酸素を送ってくれるみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…詳しい仕組みはよく分からない。"
+                                "It seems to be called a 'life support system.' It appears to\nprovide the body with necessary nutrients and oxygen. However,\nI'm not quite sure about the exact mechanism."
                             ]
                         },
                         {

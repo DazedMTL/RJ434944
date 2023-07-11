@@ -1160,14 +1160,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]トイレ掃除が終わってないわ…。"
+                                "\\SE[2] The toilet cleaning isn't finished yet..."
                             ]
                         },
                         {
@@ -1465,28 +1465,14 @@
                                 0,
                                 0,
                                 2,
-                                "メイドさん"
+                                "Maid-san"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『掃除道具』をとったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "順に綺麗にしちゃってねー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!終わったら、自由時間だからー。"
+                                "Once you take the 'cleaning tools', please clean everything in\norder. After you're done, it's free time!"
                             ]
                         },
                         {
@@ -1758,21 +1744,14 @@
                                 0,
                                 0,
                                 2,
-                                "メイドさん"
+                                "Maid-san"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最初の仕事が『トイレ掃除』で、ごめんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!これくらいしか今日の『業務』が残ってなくてねー。"
+                                "I'm sorry, but my first task is cleaning the toilet. There's not\nmuch else left for today's duties."
                             ]
                         },
                         {
@@ -1790,21 +1769,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]いえ、気にしないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]仕事だもの。\\.なんでもやるわ。"
+                                "\\SE[2]No, don't worry. It's just work. I'll do anything."
                             ]
                         },
                         {
@@ -1824,28 +1796,14 @@
                                 0,
                                 0,
                                 2,
-                                "メイドさん"
+                                "Maid-san"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、うん。\\.素直でよろしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!じゃあ、そこの『用具入れ』から掃除用具をとって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どんどんトイレを綺麗にしちゃってー。"
+                                "Yes, yes. It's good that you're obedient. Alright, then please\ntake the cleaning tools from the utility closet over there and\nclean the toilet thoroughly."
                             ]
                         },
                         {
@@ -1856,14 +1814,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]分かったわ。"
+                                "\\SE[72]Understood."
                             ]
                         },
                         {
@@ -2226,21 +2184,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]掃除用具…\\.これね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]それっぽいのを、持ってけばなんとかなるかしら…。"
+                                "\\SE[4]Cleaning tools... This is it. \\SE[3]If you have something\nthat looks like it, we might be able to manage somehow..."
                             ]
                         },
                         {
@@ -2296,21 +2247,14 @@
                                 0,
                                 0,
                                 2,
-                                "メイドさん"
+                                "Maid-san"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ\\.『強酸シュワワン』って洗剤がない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!それがめっちゃ綺麗になるからおすすめよー。"
+                                "Ah, don't you have any Strong Acid Shuwawan detergent? It's\nhighly recommended because it makes things super clean, you\nknow~."
                             ]
                         },
                         {
@@ -2328,21 +2272,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『強酸シュワワン』…\\.あった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]ありがとう。\\.使ってみるわ。"
+                                "\\SE[2]Strong Acid Shuwawan... I have it. \\SE[7]Thank you. I'll\ngive it a try."
                             ]
                         },
                         {
@@ -2437,7 +2374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『強酸シュワワン』を手に入れた！\\$！"
+                                "Obtained Strong Acid Shuwawan!"
                             ]
                         },
                         {
@@ -2513,21 +2450,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]目ぼしい掃除用具は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "根こそぎ持って行ってやったわ。"
+                                "\\SE[2] I took away all the notable cleaning tools."
                             ]
                         },
                         {
@@ -2605,28 +2535,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]さて、トイレ掃除か…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]住んでいた時も、メイドの人がやっていたから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.自分で掃除するのは初めてだわ…。"
+                                "\\SE[4]Well, time to clean the bathroom... \\SE[3]Even when I was\nliving there, the maid used to do it, so it's my first time\ncleaning it myself..."
                             ]
                         },
                         {
@@ -2679,21 +2595,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[20]なかなか…\\.綺麗にならないものね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[19]メイドさん一押しの『強酸シュワワン』を使ってみるか…。"
+                                "\\SE[20]It's not easy... It's not getting clean... \\SE[19]Should I\ntry using the maid's recommended Strong Acid Shuwawan..."
                             ]
                         },
                         {
@@ -2765,28 +2674,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[100]みるみる落ちていく…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.すごいわね…！\\.『強酸シュワワン』…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[91]さすが本職の人が勧めるだけあるわ…！"
+                                "\\SE[100]It's disappearing right before my eyes...!!\n\\SE[91]Amazing...! Strong Acid Shuwawan...!! \\SE[91]It's no\nwonder it's recommended by a professional...!"
                             ]
                         },
                         {
@@ -2826,21 +2721,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]これで、\\.よし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]次に行きましょう。"
+                                "\\SE[72]Alright, \\.good.... \\!\\SE[7]Let's move on to the next\nthing."
                             ]
                         },
                         {
@@ -2925,21 +2813,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[18]めちゃくちゃ綺麗になったわね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『強酸シュワワン』…\\.\\SE[19]恐るべし……。"
+                                "\\SE[18]You've become incredibly beautiful... Strong Acid\nShuwawan... \\SE[19]It's amazing..."
                             ]
                         },
                         {
@@ -3024,28 +2905,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]こっちも結構、汚れてるわね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[19]でも、『強酸シュワワン』がある今の私には…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.おそるるに足らないわ…！！"
+                                "\\SE[4]This side is quite dirty too.... \\!\\SE[19]But with the\nStrong Acid Shuwawan that I have now...! \\.It's nothing to be\nafraid of...!!"
                             ]
                         },
                         {
@@ -3117,21 +2984,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]綺麗になっていくのを見るのは気分がいいわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[39]案外、私には掃除の『才能』があるのかしら…。"
+                                "\\SE[72]It feels good to see it becoming clean.\n\\SE[39]Surprisingly, I wonder if I have a talent for cleaning..."
                             ]
                         },
                         {
@@ -3204,21 +3064,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]よし、ここも綺麗になったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]次で最後ね。"
+                                "\\SE[7]Alright, this place has become clean too. \\SE[2]Next is the\nlast one."
                             ]
                         },
                         {
@@ -3310,28 +3163,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[18]顔が移り込むほどにピカピカだわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[19]綺麗すぎて、『強酸シュワワン』が怖くなってきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.一体、何が入ってるのかしら…。"
+                                "\\SE[18]Your face is so shiny that it's blinding... \\SE[19]It's so\nbeautiful that I'm starting to get scared of the Strong Acid\nShuwan. I wonder what's inside it..."
                             ]
                         },
                         {
@@ -3416,21 +3255,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]よし…これで終わりね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]そして『コツ』を掴んだわ。"
+                                "\\SE[2]Alright... this is the end. \\!\\SE[3]And I've grasped the\ntrick as well."
                             ]
                         },
                         {
@@ -3476,28 +3308,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]『強酸シュワワン』を使ったら…\\!\\SE[75]少し、\\.待つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[50]すぐに擦らずに、汚れの分解を待つのが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.もっとも効率がいいわ。"
+                                "\\SE[76]When you use Strong Acid Shuwawan... \\SE[75]Wait a little.\n\\SE[50]It's most efficient to wait for the dirt to decompose\nwithout rubbing it immediately."
                             ]
                         },
                         {
@@ -3533,14 +3351,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[20]ここっ…！"
+                                "\\SE[20]Here...!"
                             ]
                         },
                         {
@@ -3586,28 +3404,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]やっぱり…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[31]これなら『強酸シュワワン』も節約できるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ほとんど力を入れる必要もないわ…！"
+                                "\\SE[72]As I thought...! \\SE[31]With this, I can save on Strong\nAcid Shuwawan and I don't need to put in much effort...!"
                             ]
                         },
                         {
@@ -3625,21 +3429,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]我ながら、いい『観察眼』だわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]ルナロアにも見習って欲しいくらい…。"
+                                "\\SE[90]Even I must say, I have a good observational eye. \\SE[51]I\nwish Lunaroa would learn from me too..."
                             ]
                         },
                         {
@@ -3657,21 +3454,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]むっ…\\.意外と便座の裏が汚れてるわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[91]気を付けないと見落としてしまうわ…。"
+                                "\\SE[90]Huh... The back of the toilet seat is surprisingly dirty.\n\\SE[91]I need to be careful not to overlook it..."
                             ]
                         },
                         {
@@ -3887,14 +3677,14 @@
                                 0,
                                 0,
                                 2,
-                                "メイド"
+                                "Maid"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご、\\.ご主人様…！？"
+                                "M-Master...!?"
                             ]
                         },
                         {
@@ -3936,14 +3726,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（しっ～…。）"
+                                "(Hmm~....)"
                             ]
                         },
                         {
@@ -4326,14 +4116,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[107]ひっ…！"
+                                "\\SE[107]Huh...!"
                             ]
                         },
                         {
@@ -4405,21 +4195,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[94]げっ…！\\.ドンヨッ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[18]ご、\\.ご主人様がどうしてここに…！？"
+                                "\\SE[94]G-...! Donyoku... \\SE[18]W-...Why is Master here...!?"
                             ]
                         },
                         {
@@ -4437,28 +4220,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『一仕事』したら催してね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!せっかくだから、新人君の働きぶりを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.確認しておこうと。\\.まじめにやっているかい？"
+                                "Let me know once you're done with your task... Since we're at it,\nlet's check on the new recruit's performance. Are they working\ndiligently?"
                             ]
                         },
                         {
@@ -4469,21 +4238,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]ふ、\\.不慣れですが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[74]どうにか出来ていると思います。"
+                                "\\SE[4]U-... I'm not used to it, but... \\SE[74]I think I'm\nmanaging somehow."
                             ]
                         },
                         {
@@ -4501,21 +4263,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]（いちいち顔が近いわね、\\.こいつ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!気分が悪くなるわ…。）"
+                                "\\SE[90] (This person's face is always so close... It makes me\nfeel uncomfortable...)"
                             ]
                         },
                         {
@@ -4526,28 +4281,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うんうん…\\.いいね～…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!少し早いけど、君に新しい『仕事』を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.やってもらおうかなぁ。"
+                                "Mmm... That's good~... How about I give you a new task a little\nearlier?"
                             ]
                         },
                         {
@@ -4583,14 +4324,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]新しい仕事…？"
+                                "\\SE[74]A new job...?"
                             ]
                         },
                         {
@@ -4601,21 +4342,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『特別業務』…だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!なにをするか言わなくても、\\.分かるだろ？"
+                                "Special assignment... You understand what that means without me\nhaving to say it, right?"
                             ]
                         },
                         {
@@ -4649,28 +4383,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[92]（げっ…まじか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\SE[91]　\\!これを言われる前に調査を終わらせるつもりだったのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\.ここまで、性欲が強いとは…。）"
+                                "\\SE[92](G-... Seriously? \\SE[91] I was planning to finish the\ninvestigation before being told this. To think that their sexual\ndesire is this strong...)"
                             ]
                         },
                         {
@@ -4681,28 +4401,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]（こいつに犯されるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『絶対に』ありえないわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\SE[91]　\\!それなら始末して逃亡生活のがはるかにマシね…。）"
+                                "\\SE[90](There's no way I'll let myself be violated by this\nperson... \\SE[91] If that's the case, it would be much better to\ntake care of them and live a life on the run...)"
                             ]
                         },
                         {
@@ -4713,14 +4419,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[66]（どうにかして『軽め』に誤魔化すか…。）"
+                                "\\SE[66] (How can I somehow deceive them lightly...)"
                             ]
                         },
                         {
@@ -4754,21 +4460,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれ、どうしたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もしかして『特別業務』の意味、\\.知らなかった？"
+                                "Huh, what's wrong? \\! Don't tell me you didn't know the meaning\nof special assignment?"
                             ]
                         },
                         {
@@ -4795,28 +4494,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]いえ…\\.そういう訳では…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[82]あ、あの…急でしたので、もう少し…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.心の準備をする時間を頂けないでしょうか…？"
+                                "\\SE[4]No... It's not like that... \\SE[82]Um, um... Since it was\nsudden, could I have a little more time... to prepare myself\nmentally...?"
                             ]
                         },
                         {
@@ -4827,14 +4512,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[58]え、えっと…\\.私……。"
+                                "Um, um... I..."
                             ]
                         },
                         {
@@ -4877,21 +4562,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[84]恥ずかしながら、\\.その、まだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[58]『男性との経験がない』ので……。"
+                                "\\SE[84]Embarrassingly, um... I still... \\SE[58]haven't had any\nexperience with men..."
                             ]
                         },
                         {
@@ -4981,28 +4659,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんと…\\.そこまで『清楚』だったのか…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!それではこんな『上級者』向けな場所では良くないな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もっと大切にしてあげないと…！"
+                                "Wow... I didn't realize you were so innocent...! In that case,\nthis kind of place for advanced people is not suitable for you! I\nneed to treat you more carefully...!"
                             ]
                         },
                         {
@@ -5027,14 +4691,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]（どうにかなったか…？）"
+                                "\\SE[75] (Did it work out somehow...?)"
                             ]
                         },
                         {
@@ -5061,35 +4725,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.じゃあまた今度にしよっか…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『初めて』はいい思い出にしてあげたいし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もうちょっと『綺麗な体』でいて欲しいよね…。"
+                                "Hmm... Well then, let's do it another time, okay? I want to make\nyour first time a good memory, and I want you to have a more\nbeautiful body for that."
                             ]
                         },
                         {
@@ -5109,14 +4752,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[92]（ぎり、\\.セーフ…。\\.あぶねっー…。）"
+                                "\\SE[92] (Phew, safe... That was close...)"
                             ]
                         },
                         {
@@ -5143,21 +4786,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ、お仕事頑張ってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…ぐふっ、可愛いなぁ。"
+                                "Well then, good luck with your work. ...Hehe, you're cute."
                             ]
                         },
                         {
@@ -5168,14 +4804,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]は、はぁ…。"
+                                "\\SE[2]Haa..."
                             ]
                         },
                         {
@@ -5523,28 +5159,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.今日はお前の気分じゃないんだよなぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!やっぱり、もっと『ピチピチ』してたほうが…。"
+                                "Hmm... Today, it seems like you're not in the mood... Maybe it\nwould be better if you were more fresh after all..."
                             ]
                         },
                         {
@@ -5769,28 +5391,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]…どうやら『噂通り』\\.なのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[91]これは、ニキータをあの子たちの所まで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.絶対に送り届けないといけないわね…。"
+                                "\\SE[75]... It seems that the rumors were true. \\SE[91] I\nabsolutely must deliver Nikita to their place..."
                             ]
                         },
                         {

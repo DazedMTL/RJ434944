@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ラウラの家",
+    "displayName": "Laura's house",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2017,21 +2017,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]なーに…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうご飯出来たのぉ…？"
+                                "\\SE[24]What...? Is dinner ready already...?"
                             ]
                         },
                         {
@@ -2235,14 +2228,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[106]えっ…！ \\.ええっ…！？"
+                                "\\SE[106]Eh...! \\Wha...!"
                             ]
                         },
                         {
@@ -2253,21 +2246,14 @@
                                 0,
                                 0,
                                 2,
-                                "お母さん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "危ないから早く外に出て！！"
+                                "Look! It's dangerous, so hurry up and get outside!!"
                             ]
                         },
                         {
@@ -2294,14 +2280,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[116]う、うん…！"
+                                "\\SE[116]Uh, yeah...!"
                             ]
                         },
                         {
@@ -2817,28 +2803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう少しで帰ります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帰ったらゆっくりおはなししたいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　ルナロアより"
+                                "To Laura, I'll be home soon. When I get back, I want to talk\nleisurely. From Lunaroa."
                             ]
                         },
                         {
@@ -2916,14 +2881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へそくりの100G 手に入れた！\\$"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでルナとおいしいものを食べよう。"
+                                "I got 100G as a secret savings! Now I can eat something delicious\nwith Luna."
                             ]
                         },
                         {

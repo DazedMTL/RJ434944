@@ -16714,14 +16714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "瞬間移動用のクリスタルのようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『まだ準備中です。』と書かれている。"
+                                "It looks like a crystal for teleportation. It says Still under\npreparation."
                             ]
                         },
                         {
@@ -16849,14 +16842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送のクリスタルが輝いている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!移動空間に移動しますか？"
+                                "The transfer crystal is shining... Will you move to the\nteleportation space?"
                             ]
                         },
                         {
@@ -17352,21 +17338,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]いやー……\\.話には聞いてたけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]やっぱ『都会』だねぇ…\\.『ユリシーン』は。"
+                                "\\SE[2]Oh... I've heard about it, but... \\SE[1]It really is a\ncity, huh... Ulyssean is..."
                             ]
                         },
                         {
@@ -17408,21 +17387,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]\\ロノアはどう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『都会』の喧噪。\\. 楽しめてる？"
+                                "\\SE[15] How about Lunaroa? Are you enjoying the hustle and bustle\nof the city?"
                             ]
                         },
                         {
@@ -17494,14 +17466,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]たのちっ！"
+                                "\\SE[15]Having fun!"
                             ]
                         },
                         {
@@ -17512,28 +17484,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]それはよかったねー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.新しい環境にもさっさと慣れないといけないもんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]面倒だけどさ、楽しめたほうが得だもんね。"
+                                "\\SE[21]That's great. You have to quickly get used to the new\nenvironment, you know. \\SE[45]It may be troublesome, but it's\nbetter to enjoy it."
                             ]
                         },
                         {
@@ -17544,28 +17502,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[37]まぁ、『お金』の問題が一番かもしれないけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[52]必要最低限はもらってるけど、やっぱひもじいし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『遊ぶお金』くらいは欲しいよねー……。"
+                                "\\SE[37]Well, the biggest issue might be the money... \\SE[52]I'm\ngetting the bare minimum that I need, but it's still tough. I\nwant to have some play money too, you know..."
                             ]
                         },
                         {
@@ -17576,14 +17520,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]……\\!\\SE[2]『あれ』\\.ちないの？"
+                                "\\SE[3]......\\!\\SE[2]Don't you have that?"
                             ]
                         },
                         {
@@ -17601,28 +17545,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[32]『あれ』はお客さんがいないと……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[21]ユリシーンってちゃんとしてるからさ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おおっぴらに『宣伝』すると、角が立っちゃうんだよねぇ…。"
+                                "\\SE[32]That won't work if there are no customers...\n\\!\\SE[21]Ulyssean is a proper place, so if we openly advertise,\nit might cause some trouble..."
                             ]
                         },
                         {
@@ -17633,21 +17563,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]んー……\\.なる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[42]それは、\\.ゆゆちきもんらい……。"
+                                "\\SE[38]Hmm... I see. That's a difficult situation..."
                             ]
                         },
                         {
@@ -17829,14 +17752,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……はぁ。"
+                                "......sigh."
                             ]
                         },
                         {
@@ -17872,28 +17795,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あれ、お兄さんどしたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.すっごい憂鬱そうな面持ちじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]なんか困ったことでもあったの？"
+                                "\\SE[2]Hey, what's wrong, big brother? You look really down.\n\\SE[1]Did something happen to trouble you?"
                             ]
                         },
                         {
@@ -17944,14 +17853,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ、\\.君は……？"
+                                "Huh, are you...?"
                             ]
                         },
                         {
@@ -17962,28 +17871,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[33]私たち『移民』でさ、あんま知り合いとかいないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]だから、お客さ…\\.いや、色んな人と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "交流を持って、見分を広めたいって思っててさ。"
+                                "\\SE[33]As immigrants, we don't really have many acquaintances.\n\\!\\SE[15]So, I want to interact with various people and broaden\nmy horizons."
                             ]
                         },
                         {
@@ -18003,28 +17898,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『移民』……\\.そっか、大変だったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!それに比べたら、僕の悩みなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に些細なものだよな……。"
+                                "Immigrants... I see, it must have been tough for you. Compared to\nthat, my worries are really trivial..."
                             ]
                         },
                         {
@@ -18035,28 +17916,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]さっきも言ってたね。\\.それ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私で良かったら、話聞いたげよっか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]解決とはいかなくても、何か前進するかもしんないよ？"
+                                "\\SE\\SE[15]You mentioned it earlier, right? If it's okay with me,\nwould you like me to listen to your story? \\SE[15]Even if it\ndoesn't lead to a solution, it might help you move forward in\nsome way."
                             ]
                         },
                         {
@@ -18076,14 +17943,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ、\\.いや……僕なんかの話を聞いても……。"
+                                "Huh, um... even if you listen to someone like me..."
                             ]
                         },
                         {
@@ -18101,21 +17968,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、せっかくだし聞いてもらおうかな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あの子とも歳が近そうだし……。"
+                                "Well, since you offered, maybe I'll tell you... She seems to be\naround the same age as well..."
                             ]
                         },
                         {
@@ -18429,14 +18289,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[42]……なる。"
+                                "\\SE[42]...I see."
                             ]
                         },
                         {
@@ -18447,28 +18307,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[42]ふーむ、\\.好きな人がいるとー……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]いや、いいねー。\\.初々しい悩みもってんじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私、そういう話はそれなりに好きだよ。"
+                                "\\SE[42]Hmm, so you have someone you like, huh... \\SE[16]No,\nthat's great. It's cute that you have such innocent worries. I\nactually quite enjoy hearing about those kinds of stories."
                             ]
                         },
                         {
@@ -18479,21 +18325,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]その子とは、どの程度交流があるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]例えばほら、\\.デートとかさ。"
+                                "\\SE[2]How much interaction do you have with that girl? \\SE[51]For\nexample, like going on dates or something."
                             ]
                         },
                         {
@@ -18504,28 +18343,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、恥ずかしながらまともに会話したこともないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.遠目で見たことがある程度で……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!最近見るようになったから、君と同じ『移民』かなって……。"
+                                "Well, to be honest, I've never had a proper conversation with\nher. I've only seen her from a distance... But recently, I\nstarted seeing her more often, so I thought maybe she's also an\nimmigrant like you..."
                             ]
                         },
                         {
@@ -18536,28 +18361,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[20]じゃあ『一目惚れ』ってやつ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]お兄さん。案外『ウブ』なんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私は嫌いじゃないよ。\\. そういう人は。"
+                                "\\SE[20]So it's love at first sight, huh? \\SE[16]Big brother,\nyou're surprisingly innocent. [2]I don't dislike that about you.\n[3]People like that..."
                             ]
                         },
                         {
@@ -18577,14 +18388,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういう君は『おじさん』みたいな話し方をするね…。"
+                                "You speak like an uncle or something..."
                             ]
                         },
                         {
@@ -18602,28 +18413,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]んー…でもさ、結局『アタック』するしかなくない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]可愛い子は、必ず誰かに先を越されちゃうし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさと答えが出たほうが楽でしょ。\\.お互い。"
+                                "\\SE[57]Hmm... But in the end, isn't the only option to make a\nmove? \\SE[2]Cute girls always end up being snatched away by\nsomeone else, so it's easier to have a quick answer. For both of\nus."
                             ]
                         },
                         {
@@ -18634,28 +18431,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]それに案外、『勢い』で熱い告白しちゃえばさ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流されて『オッケー』しちゃうことも結構あるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]罪悪感感じたりしたら、断りにくいしさ。"
+                                "\\SE[16]And you know, sometimes if you confess with a lot of\nmomentum, they might just go along with it and say okay.\n\\SE[0]It's also hard to refuse if they feel guilty about it."
                             ]
                         },
                         {
@@ -18666,14 +18449,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、\\.それはずるいんじゃないかな……。"
+                                "Th-That's not fair..."
                             ]
                         },
                         {
@@ -18684,35 +18467,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[46]恋愛に『ずる』も『卑怯』もないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.とりあえず付き合っちゃえば、\\.こっちのもんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]最終的に二人が好き合えばそれでいいんだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.その後でゆっくり両想いになれば、お互い幸せじゃない？"
+                                "\\SE[46]There's no cheating or unfairness in love. \\SE[0]If you\njust start dating for now, then it's yours. [2]In the end, if the\ntwo of you like each other, isn't that enough? [3]Afterwards, you\ncan slowly become mutual lovers and make each other happy, right?"
                             ]
                         },
                         {
@@ -18739,21 +18501,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たしかに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.君の考え方も一理あるのかもしれない……。"
+                                "You're right... Your way of thinking might have some truth to\nit..."
                             ]
                         },
                         {
@@ -18780,14 +18535,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]（ちゅまんな。\\.かえよ。）"
+                                "\\SE[57] (Chumanna... Let's go home.)"
                             ]
                         },
                         {
@@ -18798,21 +18553,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]（あはは、\\.ごめん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私『恋バナ』好きでさ…\\.つい長くなっちゃった。）"
+                                "\\SE[21] (Ahaha, sorry. I just really like talking about love... I\nended up rambling.)"
                             ]
                         },
                         {
@@ -18823,14 +18571,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[32]（こよあい。）"
+                                "\\SE[32] (Goodbye.)"
                             ]
                         },
                         {
@@ -18841,14 +18589,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]（ごめんて。\\.あとちょっとだけだから。）"
+                                "\\SE[15] (Sorry. Just a little bit more, okay?)"
                             ]
                         },
                         {
@@ -18866,21 +18614,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ところで、好きな子ってなんて名前？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[5]私で良かったら、いい感じにサポートしてあげたいけど…。"
+                                "\\SE[2]By the way, what's the name of the girl you like?\n\\!\\SE[5]If it's okay with me, I'd like to support you in a good\nway..."
                             ]
                         },
                         {
@@ -18898,21 +18639,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "名前は…\\.分からないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!多分、君よりも少し年下で……。"
+                                "I don't know her name... She's probably a little younger than\nyou..."
                             ]
                         },
                         {
@@ -18930,14 +18664,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]（ロリコンかよ。）"
+                                "\\SE[3] (Is he a lolicon?)"
                             ]
                         },
                         {
@@ -18948,21 +18682,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "髪は紫色で…\\.大人しそうな雰囲気。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ただ、実際はもう少し明るい子みたいで……。"
+                                "Her hair is purple... She has a quiet demeanor. But in reality,\nshe seems to be a bit more cheerful..."
                             ]
                         },
                         {
@@ -18980,21 +18707,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[43]『紫色の髪』で、『大人しそう』…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.でも『実際は割と明るい』……？"
+                                "\\SE[43] Purple hair and seems quiet... But actually quite\ncheerful...?"
                             ]
                         },
                         {
@@ -19005,28 +18725,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あと…\\.上手に喋れないみたいなんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『失語症』…っていうのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!きっと過去になにかあったんだと思うんだけど……。"
+                                "Also... I seem to have trouble speaking well. Aphasia... is that\nwhat it's called? I think there must have been something in my\npast..."
                             ]
                         },
                         {
@@ -19044,14 +18750,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]（……\\.……\\.……\\!\\SE[57]むっ？）"
+                                "\\SE[3] (......\\.......\\.......\\!\\SE[57]Huh?)"
                             ]
                         },
                         {
@@ -19062,28 +18768,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな所も…可愛いんだ。\\. 人形みたいで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!僕は、彼女と『結婚』して…『子供』を作って…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.一生を彼女のために費やしたい……！"
+                                "Even those aspects... are cute. Like a doll. I want to marry\nher... and create children together... I want to spend my whole\nlife for her...!"
                             ]
                         },
                         {
@@ -19119,21 +18811,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]（いや、これは地雷踏んじゃったなー……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]　逃げよう。\\.面倒になる前に。）"
+                                "\\SE[21] (No, I stepped on a landmine here... \\!\\SE[0] Let's run\naway. Before it becomes troublesome.)"
                             ]
                         },
                         {
@@ -19167,21 +18852,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]あっ、私らそろそろ行かないと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[39]『門限』があるんだよね。\\.『門限』"
+                                "\\SE[9]Ah, we should probably go soon. \\SE[39]There's a curfew,\nyou know. Curfew."
                             ]
                         },
                         {
@@ -19232,21 +18910,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『門限』……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.まだ昼過ぎだけど…。"
+                                "Curfew...? It's still early afternoon though..."
                             ]
                         },
                         {
@@ -19266,14 +18937,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "き、君は……！？"
+                                "Y-You...!?"
                             ]
                         },
                         {
@@ -19293,14 +18964,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[59]ちまった…！！"
+                                "\\SE[59]Damn it...!!"
                             ]
                         },
                         {
@@ -19573,14 +19244,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[39]うっ！？？"
+                                "\\SE[39]Ugh!?"
                             ]
                         },
                         {
@@ -19591,21 +19262,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、\\.こんな所で逢えるなんてっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あぁ、本当に可愛らしい…！！！"
+                                "Ah, to meet in a place like this... Ah, truly adorable...!!!"
                             ]
                         },
                         {
@@ -19789,35 +19453,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、やはりいい…この、あどけなさ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.舌っ足らずな悲哀さ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!なのに、この色気を感じる身体……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!全てが、僕の理想っ！！"
+                                "Ah, as expected... this innocence... this pitiful clumsiness...!\nYet, this alluring body...! Everything is my ideal!!"
                             ]
                         },
                         {
@@ -19828,14 +19471,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[53]ひ、\\.ひぃ……！"
+                                "\\SE[53]H-Hii...!"
                             ]
                         },
                         {
@@ -19998,21 +19641,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、いい匂いがする……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!やっぱり、僕は君に恋をしてしまっているんだ…。"
+                                "Ah, there's a nice scent...! I knew it, I've fallen in love with\nyou..."
                             ]
                         },
                         {
@@ -20023,14 +19659,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]き、\\.きつっ……！"
+                                "\\SE[52]G-Gah...!"
                             ]
                         },
                         {
@@ -20183,21 +19819,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ…あの子のアドバイスを実践しよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『勢い』で押し切ってしまえ。\\.だったね……。"
+                                "I got it... Let's put that girl's advice into practice. Let's\npush through with momentum. That's right..."
                             ]
                         },
                         {
@@ -20226,14 +19855,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[54]た、\\.たちゅけてっ……！"
+                                "\\SE[54]P-Please... let me go...!"
                             ]
                         },
                         {
@@ -20386,28 +20015,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君のことを『愛している』……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.僕と結婚を前提にお付き合いして下さい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!よろしくお願いしますっ！！！"
+                                "I 'love you'...! Please date me with the intention of getting\nmarried!! Please, I'm counting on you!!!"
                             ]
                         },
                         {
@@ -20418,14 +20033,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]はぃぃ！！？？"
+                                "\\SE[14]H-Huh!?"
                             ]
                         },
                         {
@@ -20445,14 +20060,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『はぃぃ…！？』\\.ってことは……。"
+                                "Haii...!?. In other words..."
                             ]
                         },
                         {
@@ -20543,28 +20158,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やった！\\.『オッケー』をもらえたぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで僕たちは結婚出来るんだ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!一緒に幸せな家庭を築こうねっ！！"
+                                "I did it! I got her okay!! With this, we can get married...!\nLet's build a happy family together!!"
                             ]
                         },
                         {
@@ -20584,14 +20185,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[54]ひょえぇぇぇ！！！！"
+                                "\\SE[54]Hyooooo!!!"
                             ]
                         },
                         {
@@ -20811,28 +20412,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[39]はいはい、この辺でね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.女の子にそんな強く当たるもんじゃないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[57]いやいや、やばいやつに声かけちゃったな……。"
+                                "\\SE[39] Alright, alright, let's stop here... You shouldn't be so\nrough with girls, you know. \\SE[57] Oh no, I went and talked to a\ndangerous person..."
                             ]
                         },
                         {
@@ -20843,21 +20430,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんで君が邪魔するんだ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!君は僕の理解者だったはずだろう……！？"
+                                "W-Why are you getting in the way...!! Y-You were supposed to\nunderstand me...!"
                             ]
                         },
                         {
@@ -20877,21 +20457,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[39]私の適当なアドバイスのせいとはいえ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.やれやれ……。"
+                                "\\SE[39]Even though it's because of my careless advice... *sigh*"
                             ]
                         },
                         {
@@ -20935,28 +20508,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そんなっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.僕は、ふられている…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!この子とは、『結婚』出来ない……？"
+                                "T-This... I'm being rejected...? I can't marry this girl...?"
                             ]
                         },
                         {
@@ -20967,28 +20526,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]うん。大変残念なことにね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.君は全然『オッケー』ではなかったの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[5]…ロノア。\\. これは言ってあげたほうがいいかも。"
+                                "\\SE[2]Yeah, it's really unfortunate. \\SE[5]...Ronoa. Maybe I\nshould tell you this."
                             ]
                         },
                         {
@@ -20999,14 +20544,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]ちぇーりてきに。\\.むい。"
+                                "\\SE[57]Cheerfully... Mui."
                             ]
                         },
                         {
@@ -21017,28 +20562,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『生理的に無理』！！！！？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.終わりだっ！！ \\.一番脈がないやつだ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!一ミリも可能性がないやつだっ！！"
+                                "Physically repulsive!!!? It's over!! He's the most hopeless\nguy...!! He doesn't have even a millimeter of possibility!!"
                             ]
                         },
                         {
@@ -21141,28 +20672,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう…おしまいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.こんな人生に生きている理由もない……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!明日、モットレル鉱山に埋まりに行こう……。"
+                                "It's over... There's no reason for me to live like this...\nTomorrow, I'll go bury myself in the Motterel Mine..."
                             ]
                         },
                         {
@@ -21182,21 +20699,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]（うわー…へこんじゃったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[38]　本当に死んじゃっても困るし、どうしたもんかね……。"
+                                "\\SE[7] (Oh no... I'm feeling down. \\!\\SE[38] It would be really\ntroublesome if he actually died, so what should I do...)"
                             ]
                         },
                         {
@@ -21207,14 +20717,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]（めんどくちぇー…。）"
+                                "\\SE[12] (So troublesome....)"
                             ]
                         },
                         {
@@ -21232,28 +20742,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな可愛い子と『結婚』したかった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!死ぬ前に、一度でいいからこんな可愛い子と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『えっち』して童貞を捨てたい人生だった……。"
+                                "I wanted to marry such a cute girl... Before I die, I wanted to\nhave sex with such a cute girl and lose my virginity..."
                             ]
                         },
                         {
@@ -21273,28 +20769,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あぁ、じゃあ『えっち』だけしとく？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[25]『キスなし』『本番なし』『ホ別五万』なら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『オプション』次第では相談可。だよ。"
+                                "\\SE\\SE[25]Ah, then should we just do ecchi instead? \\SE[25]If\nit's no kissing, no intercourse, and 50,000 yen for a separate\nroom, depending on the options, we can discuss it."
                             ]
                         },
                         {
@@ -21379,14 +20861,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…えっ、えっ…。\\.えっ…？"
+                                "...Huh, huh...?"
                             ]
                         },
                         {
@@ -21404,14 +20886,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[59]まぢ？"
+                                "\\SE[59]Really?"
                             ]
                         },
                         {
@@ -21422,28 +20904,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]いや、うちら『プロ』目指してるわけじゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どんな相手でもやっていけるようにしないと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]んで、どうする？"
+                                "\\SE\\SE[0]No, we're aiming to be pros, right? We have to be able\nto handle any opponent. \\SE[0]So, what do we do?"
                             ]
                         },
                         {
@@ -21454,28 +20922,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "き、\\.君たちに『お金』を払って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『えっち』が出来るって言ってるんだよね……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あの、料金はどれくらい……？"
+                                "Y-You're saying that I can pay you money to do ecchi with me...?\nUm, how much is the fee...?"
                             ]
                         },
                         {
@@ -21486,28 +20940,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[34]『ホ別５万』って言ったじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『ホテル代』と『50000G』って意味。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]それで『おしりえっち』させたげるよ。"
+                                "\\SE[34]You said 50,000 for a separate room, right? It means the\nhotel fee and 50,000G. \\SE[45]So, I'll let you have some butt\nplay."
                             ]
                         },
                         {
@@ -21543,21 +20983,14 @@
                                 0,
                                 0,
                                 2,
-                                "冴えない男"
+                                "Unattractive man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "か、かなり苦しいけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それくらいなら、どうにか……。"
+                                "I-It's really tough... B-But if it's just that... I'll somehow\nmanage..."
                             ]
                         },
                         {
@@ -21568,28 +21001,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]よし、商談成立だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.じゃあ宿で『休憩』しちゃおっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]行こ。\\.ロノア。"
+                                "\\SE[16]Alright, the deal is done. Shall we take a break at the\ninn then? \\SE[1]Let's go, Ronoa."
                             ]
                         },
                         {
@@ -21607,14 +21026,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[54]えぇ……。"
+                                "\\SE[54]Umm......."
                             ]
                         },
                         {
@@ -21749,21 +21168,14 @@
                                 0,
                                 0,
                                 2,
-                                "跳ね石勧誘のリコル"
+                                "Recruiter Rico for Bouncing Stone"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのブロック、跳ね石なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねーちゃんも一発ジャンプキメてく？"
+                                "These blocks here are called bouncing stones. Hey, would you like\nto try a jump too, miss?"
                             ]
                         },
                         {
@@ -21834,21 +21246,14 @@
                                 0,
                                 0,
                                 2,
-                                "伝承者のミライ"
+                                "Mirai, the Successor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "凄腕のジャンパーは幻の４弾ジャンプが出来るんだって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おねえちゃんには…どういう意味か分かる？"
+                                "I heard that the amazing jumper can perform the legendary 4th\njump. Do you know what that means, big sister?"
                             ]
                         },
                         {
@@ -21919,21 +21324,14 @@
                                 0,
                                 0,
                                 2,
-                                "跳ね依存のキメル"
+                                "Jump-dependent Kimeru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は何発『トビ』をキメてくかな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちくしょう…やみつきになっちまうぜ…！"
+                                "I wonder how many times I can jump today! Damn it... I'm getting\naddicted to it...!"
                             ]
                         },
                         {
@@ -22011,14 +21409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーン流剣術　～入門大歓迎～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　道場破りも絶賛募集中！"
+                                "Ulyssean Swordsmanship ~ Beginners Welcome ~ Dojo Invaders also\nWelcome!"
                             ]
                         },
                         {
@@ -22089,21 +21480,14 @@
                                 0,
                                 0,
                                 2,
-                                "跳ね予備軍のグンジ"
+                                "Gunji, the Bouncing Reserves"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなジャンプ…何の意味もないんだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぜかやっちゃうんだよね…。"
+                                "This kind of jump... it doesn't have any meaning, but... for some\nreason, I just can't help but do it..."
                             ]
                         },
                         {
@@ -25258,21 +24642,14 @@
                                 0,
                                 0,
                                 2,
-                                "警備兵のライト"
+                                "Security Guard Light"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "城門の警備をしています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "御用のない方はお引き取り下さい。"
+                                "I am guarding the castle gate. Please leave if you have no\nbusiness here."
                             ]
                         },
                         {
@@ -25343,21 +24720,14 @@
                                 0,
                                 0,
                                 2,
-                                "警備兵のレフト"
+                                "Left, the Security Guard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "となりの松明が熱くて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "甲冑の中で蒸しダコになりそうです…。"
+                                "The torch next to me is so hot... I feel like I'm turning into a\nsteamed octopus inside this armor..."
                             ]
                         },
                         {
@@ -25459,21 +24829,14 @@
                                 0,
                                 0,
                                 2,
-                                "警備兵のライト"
+                                "Security Guard Light"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "城内に御用ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "申し訳ありませんがお引き取り下さい。"
+                                "Are you here for official business within the castle? I'm sorry,\nbut please leave."
                             ]
                         },
                         {
@@ -25621,21 +24984,14 @@
                                 0,
                                 0,
                                 2,
-                                "家政婦のミーラ"
+                                "Mira the Housekeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここ水は浄水されてるから綺麗なんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一応飲んでも大丈夫ですよ。やめた方がいいですけど。"
+                                "The water here is purified, so it's clean. You can drink it if\nyou want, but it's better to avoid it."
                             ]
                         },
                         {
@@ -25707,21 +25063,14 @@
                                 0,
                                 0,
                                 2,
-                                "宣教者フォルネウス"
+                                "Missionary Forneus"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は素敵な日だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花が咲いている。小鳥たちもさえずってる…。"
+                                "Today is a wonderful day... The flowers are blooming. The birds\nare chirping..."
                             ]
                         },
                         {
@@ -25795,21 +25144,14 @@
                                 0,
                                 0,
                                 2,
-                                "お節介なセッカ"
+                                "Meddlesome Sekka"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは冒険者ギルドよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クエストの受注はここで受けるといいわ。"
+                                "This is the Adventurer's Guild. It's best to receive quest\nrequests here."
                             ]
                         },
                         {
@@ -25880,28 +25222,14 @@
                                 0,
                                 0,
                                 2,
-                                "名工コウセ"
+                                "Master Craftsman Kousei"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この女神像は10年前にわしが作ったんじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…いまになって造形が気になっての。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほんの少しだけほほ削らせてもらえんかの…。"
+                                "I made this goddess statue 10 years ago... but now I'm concerned\nabout the sculpting. Could you let me shave off just a little bit\nof the cheeks...?"
                             ]
                         },
                         {

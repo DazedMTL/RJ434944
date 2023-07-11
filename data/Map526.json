@@ -1622,14 +1622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふかふかで、いいベッドだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!油断したら二度寝してしまいそう…。"
+                                "This bed is so soft and comfortable. If I let my guard down, I\nmight end up falling asleep again..."
                             ]
                         },
                         {
@@ -1988,14 +1981,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[48]すばらしい…\\!ここが…\\.私の部屋……。"
+                                "\\SE[48]Amazing...! This is... my room..."
                             ]
                         },
                         {
@@ -2006,28 +1999,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[49]そして隣は…\\.ルナの部屋…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[48]徒歩１５秒で…\\.ルナの部屋……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[53]楽園は…\\.ここにあったのか………。"
+                                "\\SE[49]And next to it... Luna's room... \\SE[48]Just a 15-second\nwalk... Luna's room... \\SM[nod]\\SE[53]Paradise... was here..."
                             ]
                         },
                         {
@@ -2054,21 +2033,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[85]お父さん…お母さん…\\.色々あったけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[44]ラウラは今…\\!\\SM[nod]なんとか、\\.幸せに生きています……。"
+                                "\\SE[85]Mom... Dad... There were many things... But now,\n\\SE[44]Laura is... \\SM[nod]somehow, living happily..."
                             ]
                         },
                         {
@@ -2086,21 +2058,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロアの声"
+                                "Lunaroa's voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラウラー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.夕飯、一緒に作りましょー。"
+                                "Laura. Let's make dinner together."
                             ]
                         },
                         {
@@ -2120,21 +2085,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]ゆう、ごはん…\\.行かねば……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[tremble]\\SE[38]うごけぇ…\\.私の体っ………！"
+                                "\\SE[102]Dinner... I have to go... \\SM[tremble]\\SE[38]I can't\nmove... My body...!"
                             ]
                         },
                         {
@@ -2420,21 +2378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "化粧台だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あんまり『お化粧』はしたことがないんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私もしたほうがいいのかな…？"
+                                "It's a dressing table. I haven't really done much makeup before,\nbut... should I give it a try too...?"
                             ]
                         },
                         {
@@ -2512,14 +2456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "机だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.落ち着いたら、色々物を揃えよう…。"
+                                "It's a desk. Once I settle down, I'll gather various things..."
                             ]
                         },
                         {
@@ -2597,14 +2534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "机だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.落ち着いたら、色々物を揃えよう…。"
+                                "It's a desk. Once I settle down, I'll gather various things..."
                             ]
                         },
                         {
@@ -2682,14 +2612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは私の日記帳にしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!なにを書くかは…\\.げへへ……。"
+                                "This will be my diary. What to write... hehehe..."
                             ]
                         },
                         {
@@ -2767,21 +2690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "洋服ダンスだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!まだ何も入っていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お化けがでたら、ここに隠れよう。"
+                                "It's a wardrobe. It's still empty. If a ghost comes out, let's\nhide here."
                             ]
                         },
                         {
@@ -2962,14 +2871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!何か置こうかな…\\!考え中。"
+                                "Here... What should I put here...? I'm thinking."
                             ]
                         },
                         {

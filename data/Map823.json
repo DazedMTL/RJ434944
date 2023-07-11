@@ -1723,28 +1723,14 @@
                                 0,
                                 0,
                                 2,
-                                "気になる女剣士"
+                                "Text Mysterious Female Swordsman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここ名物『じゃがバター』が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.やたらと美味しいのよね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!さっさと去らないとだめだわ…\\!太る。"
+                                "Mysterious Female Swordsman: The local specialty here, jagabata\n(buttered potatoes), is unexpectedly delicious... I need to leave\nsoon... or I'll gain weight."
                             ]
                         },
                         {
@@ -1815,28 +1801,14 @@
                                 0,
                                 0,
                                 2,
-                                "道具屋さん"
+                                "Item Shop"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "道具屋さんですよー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.回復アイテムはしっかり持ちましょう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!うっかり『凍死』しちゃいますからね！"
+                                "It's the item shop, you know~. Make sure to have plenty of\nrecovery items! Otherwise, you might accidentally freeze to\ndeath!"
                             ]
                         },
                         {
@@ -1854,14 +1826,14 @@
                                 0,
                                 0,
                                 2,
-                                "道具屋さん"
+                                "Item Shop"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございますー。"
+                                "Thank you very much~."
                             ]
                         },
                         {
@@ -1932,21 +1904,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイテム係の僧侶"
+                                "Item Clerk Monk"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回復魔法って得意な人が少ないんですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!私も苦手なので、\\.アイテムで誤魔化します…！"
+                                "Not many people are good at healing magic, you know. Since I'm\nnot good at it either, I'll just make do with items...!"
                             ]
                         },
                         {
@@ -2113,7 +2078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[476]レアアースの欠片を手に入れた！\\$"
+                                "\\i[476] Obtained a rare earth fragment! $"
                             ]
                         },
                         {

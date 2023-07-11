@@ -3275,21 +3275,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]先に進もう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.外は寒いし…。"
+                                "\\SE[5]Let's move forward. It's cold outside..."
                             ]
                         },
                         {
@@ -3427,7 +3420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[476]レアアースの欠片を手に入れた！\\$"
+                                "\\i[476] Obtained a rare earth fragment! $"
                             ]
                         },
                         {
@@ -4528,7 +4521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[389]キュアミストβを手に入れた！\\$"
+                                "\\i[389] Acquired Cure Mist β! \\$"
                             ]
                         },
                         {

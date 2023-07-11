@@ -1802,14 +1802,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[62]そっか…\\.まだ、体調よくないんだね…。"
+                                "\\SE[62]I see... You're still not feeling well, huh..."
                             ]
                         },
                         {
@@ -1829,21 +1829,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]うん…ごめんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたしもヴィタのお手伝いしたいんだけど…。"
+                                "\\SE[8]Yeah... I'm sorry. I also want to help Vita, but..."
                             ]
                         },
                         {
@@ -1901,21 +1894,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]ごほっ…\\.ごほっ……！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.げほっ…！！ \\.こほっ…！！"
+                                "\\SE[38]Cough... Cough...!! Cough...!! Cough...!!"
                             ]
                         },
                         {
@@ -2020,14 +2006,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]アイシャ…！ \\.大丈夫…！？"
+                                "\\SE[8]Aisha...! Are you okay...!?"
                             ]
                         },
                         {
@@ -2092,21 +2078,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]うん、大丈夫……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[47]落ち着いてきた…\\.から……。"
+                                "\\SE[8]Yeah, I'm fine... I've calmed down... so..."
                             ]
                         },
                         {
@@ -2211,21 +2190,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[62]少し…寝てたほうがいいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]また、元気になったら遊ぼう。"
+                                "\\SE[62]You should rest a little. \\!\\SE[1]Let's play when you feel\nbetter."
                             ]
                         },
                         {
@@ -2245,21 +2217,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャ"
+                                "Aisha"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[45]うん…ありがとう……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]また、\\.遊ぼうね…\\!絶対に……。"
+                                "\\SE[45]Yeah... thank you....... \\SE[0]Let's play again... for\nsure......."
                             ]
                         },
                         {

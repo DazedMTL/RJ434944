@@ -4093,21 +4093,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしてのんびり暮らすのもいいなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと思っちゃった。"
+                                "I kind of thought it would be nice to live a peaceful life like\nthis."
                             ]
                         },
                         {
@@ -4502,21 +4495,14 @@
                                 0,
                                 0,
                                 2,
-                                "凪"
+                                "Nagi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]準備は出来ました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…いつでもいけます。"
+                                "\\SE[0] I'm ready. I can go anytime."
                             ]
                         },
                         {
@@ -4534,14 +4520,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]私も準備万端…\\.任せて。"
+                                "\\SE[14] I'm also fully prepared... Leave it to me."
                             ]
                         },
                         {
@@ -4566,21 +4552,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[18]さっさとあいつを連れて帰りましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[19]ラウラ。準備は出来ているわよね？"
+                                "\\SE[18] Let's quickly bring that person back. \\!\\SE[19] Laura,\nare you ready?"
                             ]
                         },
                         {
@@ -4619,21 +4598,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[23]ずっとこの時を待ってた…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]大丈夫。いつでもいけるよ。"
+                                "\\SE[23]I've been waiting for this moment... \\SE[12]Don't worry.\nI'm ready to go anytime."
                             ]
                         },
                         {
@@ -4651,21 +4623,14 @@
                                 0,
                                 0,
                                 2,
-                                "凪"
+                                "Nagi"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]分かりました。行きましょう…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]『ルナロアさんの夢』に…！"
+                                "\\SE[14]Understood. Let's go...! \\!\\SE[13]To Lunaroa-san's\nDream...!"
                             ]
                         },
                         {
@@ -4854,21 +4819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『生命維持装置』というらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体に必要な栄養や酸素を送ってくれるみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…詳しい仕組みはよく分からない。"
+                                "It seems to be called a 'life support system.' It appears to\nprovide the body with necessary nutrients and oxygen. However,\nI'm not quite sure about the exact mechanism."
                             ]
                         },
                         {

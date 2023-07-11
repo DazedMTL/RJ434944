@@ -8777,21 +8777,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒制服の少女"
+                                "Girl in a black uniform"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]お疲れさま。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]彼女の様子はどう？"
+                                "\\SE[2]Good work. \\!\\SE[3]How is she doing?"
                             ]
                         },
                         {
@@ -8802,21 +8795,14 @@
                                 0,
                                 0,
                                 2,
-                                "見張り"
+                                "Lookout"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ。\\. とくに変わりはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!魔術拘束も問題なく機能しているようです。"
+                                "Ha... There doesn't seem to be any significant changes. The magic\nrestraints are functioning without any issues."
                             ]
                         },
                         {
@@ -8827,21 +8813,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒制服の少女"
+                                "Girl in a black uniform"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]そう、ありがと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]少しお話させてもらってもいいかしら？"
+                                "\\SE[52]Yes, thank you. \\!\\SE[3]May I have a little chat with you?"
                             ]
                         },
                         {
@@ -8852,14 +8831,14 @@
                                 0,
                                 0,
                                 2,
-                                "見張り"
+                                "Lookout"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ 問題ありません。"
+                                "Yes, there are no issues."
                             ]
                         },
                         {
@@ -9125,21 +9104,14 @@
                                 0,
                                 0,
                                 2,
-                                "黒制服の少女"
+                                "Girl in a black uniform"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]しばらくぶりね。\\.ルナロア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]…最後に会ったのはいつだったかしら。"
+                                "\\SE[2]It's been a while, Lunaroa. \\SE[3]...I wonder when was the\nlast time we met."
                             ]
                         },
                         {
@@ -9159,28 +9131,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]…半年くらいかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[48]『ベガ』\\.あなたにこういう形で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.再会するとは思わなかったわ。"
+                                "\\SE[47]...I guess it's been about half a year. \\SE[48]I never\nthought I would meet you again in this way, Vega."
                             ]
                         },
                         {
@@ -9214,14 +9172,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[58]…ラウラ達をどうしたの。"
+                                "\\SE[58]...What happened to Laura and the others?"
                             ]
                         },
                         {
@@ -9232,28 +9190,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]それは安心して。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あなたよりはマシな状態よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]…自分の罪状、\\.正しく把握してる？"
+                                "\\SE[74]You can rest assured. \\.You're in a better state than I\nam. \\!\\SE[3]...Do you understand the charges against you\ncorrectly?"
                             ]
                         },
                         {
@@ -9287,21 +9231,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[33]…いいえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あまり興味がなかったから…。"
+                                "\\SE[33]...No. I wasn't very interested, so..."
                             ]
                         },
                         {
@@ -9312,28 +9249,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]学園機能停止を目論んだテロ行為。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]教職員の殺人未遂、\\.『ハタヤキ村』の焼き討ちも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたに容疑がかけられているみたい。"
+                                "\\SE[2]A terrorist act planning to disable the school's functions.\n\\SE[3]You are also suspected of attempted murder of the faculty\nand the burning of Hatayaki Village."
                             ]
                         },
                         {
@@ -9367,21 +9290,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]…随分と立派な経歴ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.まるで犯罪者扱いじゃない。"
+                                "\\SE[47]...Quite an impressive background. It's almost like I'm\nnot being treated as a criminal."
                             ]
                         },
                         {
@@ -9392,28 +9308,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]それほど主席の『特待生さま』が怖いみたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学園の『上』の人たちは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]…そういう『筋書き』にしたいみたい。"
+                                "\\SE[76]It seems like the honored scholarship student is quite\nscary to the people in the upper echelons of the school.\n\\SE[51]...They seem to want to create that kind of script."
                             ]
                         },
                         {
@@ -9456,14 +9358,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[47]あなたも…\\.そう考えているわけではないの？"
+                                "\\SE[47]You also...\\.Don't you think so?"
                             ]
                         },
                         {
@@ -9561,21 +9463,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]ねぇ \\.あなた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]彼女と少し女同士の会話をしたいから…。"
+                                "\\SE[4]Hey, you. \\SE[3]I want to have a little conversation with\nher, just us girls..."
                             ]
                         },
                         {
@@ -9593,21 +9488,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]…ごめんなさいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.少し眠っていて。"
+                                "\\SE[50]...I'm sorry. I was sleeping a little."
                             ]
                         },
                         {
@@ -9742,14 +9630,14 @@
                                 0,
                                 0,
                                 2,
-                                "見張り"
+                                "Lookout"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐあっ…！"
+                                "Guah...!"
                             ]
                         },
                         {
@@ -9809,14 +9697,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…鍵を開けるわ。"
+                                "\\SE[2]...I'll unlock it."
                             ]
                         },
                         {
@@ -10037,14 +9925,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]…具合はどうかしら。"
+                                "\\SE[2]...I wonder how you're feeling."
                             ]
                         },
                         {
@@ -10055,21 +9943,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]一体どういうつもりなの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これじゃあなたも…。"
+                                "\\SE[7]What exactly do you intend to do? At this rate, you too..."
                             ]
                         },
                         {
@@ -10089,21 +9970,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]この先で…\\.あなたに見せたい物があるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ついてきて。"
+                                "\\SE[3]There's something I want to show you ahead. Come with me."
                             ]
                         },
                         {
@@ -10235,21 +10109,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]…まって。ラウラとヴィタを助ける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]それが最低条件よ。"
+                                "\\SE[12]...Wait. We have to help Laura and Vita. \\SE[13] That's\nthe minimum requirement."
                             ]
                         },
                         {
@@ -10291,28 +10158,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]…心配しないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]彼女たちの別牢は道中にあるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ついでに拾っていく予定だから。"
+                                "\\SE[74]...Don't worry. \\SE[3]Their separate cells are along the\nway. \\SE[3]I plan to pick them up while we're at it."
                             ]
                         },
                         {
@@ -10346,14 +10199,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[53]（ベガ……。）"
+                                "\\SE[53](Vega...)"
                             ]
                         },
                         {
@@ -11623,14 +11476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "簡易トイレのようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで用を足せというつもりなのだろうか。"
+                                "It seems like a portable toilet. Are they expecting me to use it\nhere?"
                             ]
                         },
                         {
@@ -11641,14 +11487,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[]死んでもごめんだわ…。"
+                                "\\SE I'm sorry, but I'd rather die..."
                             ]
                         },
                         {

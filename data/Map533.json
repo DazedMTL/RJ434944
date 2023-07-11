@@ -15920,14 +15920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "瞬間移動用のクリスタルのようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『まだ準備中です。』と書かれている。"
+                                "It looks like a crystal for teleportation. It says Still under\npreparation."
                             ]
                         },
                         {
@@ -16055,14 +16048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送のクリスタルが輝いている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!移動空間に移動しますか？"
+                                "The transfer crystal is shining... Will you move to the\nteleportation space?"
                             ]
                         },
                         {
@@ -16932,14 +16918,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[double]\\SE[19]やった…！ \\.やったぞ…！"
+                                "\\SM[double]\\SE[19] I did it...! I did it...!"
                             ]
                         },
                         {
@@ -17178,21 +17164,14 @@
                                 0,
                                 0,
                                 2,
-                                "伝承者のミライ"
+                                "Mirai, the Successor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "素晴らしい『飛びざま』だった…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!これで…\\.私たちの『仲間』ね！"
+                                "It was a splendid leap...! Now... they are our comrades!"
                             ]
                         },
                         {
@@ -17234,14 +17213,14 @@
                                 0,
                                 0,
                                 2,
-                                "伝承者のミライ"
+                                "Mirai, the Successor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたも認めざるを得ないよね…！"
+                                "You can't help but acknowledge it too, right...!"
                             ]
                         },
                         {
@@ -17292,21 +17271,14 @@
                                 0,
                                 0,
                                 2,
-                                "飛び石勧誘のリコル"
+                                "Ricor, the Stone Skipping Recruiter"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ…\\.認めるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!彼女は、我々の『仲間』だ…！"
+                                "Ah... I acknowledge it. She is our comrade...!"
                             ]
                         },
                         {
@@ -17392,21 +17364,14 @@
                                 0,
                                 0,
                                 2,
-                                "伝承者のミライ"
+                                "Mirai, the Successor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "友達が増えて嬉しいわ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからよろしくね！"
+                                "I'm happy to have more friends...! Let's get along from now on!"
                             ]
                         },
                         {
@@ -17466,14 +17431,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]よ、よろしく……。"
+                                "\\SE[50]Nice to meet you..."
                             ]
                         },
                         {
@@ -17560,14 +17525,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[22]ヴィタ…\\.友達が出来たみたいでよかった…。"
+                                "\\SM[nod]\\SE[22]Vita... I'm glad you made a friend..."
                             ]
                         },
                         {
@@ -17578,14 +17543,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[0]うん、本当に……。"
+                                "\\SM[nod]\\SE[0]Yes, really..."
                             ]
                         },
                         {
@@ -17643,28 +17608,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]私は依頼の報告をしてくるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]遅くなるかもしれないから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宿をとっておいてもらっていいかしら？"
+                                "\\SE\\SE[3]I will go and report the request. \\SE[3]It might take a\nwhile, so could you reserve a room for me?"
                             ]
                         },
                         {
@@ -17706,21 +17657,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]んっ 分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[22]いってらっしゃいー。"
+                                "\\SE[0]Mm, I understand. \\SE[22]Take care and have a safe trip."
                             ]
                         },
                         {
@@ -18880,14 +18824,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]私は絶対に逃げないぞ…！"
+                                "\\SE[14] I will never run away...!"
                             ]
                         },
                         {
@@ -18989,21 +18933,14 @@
                                 0,
                                 0,
                                 2,
-                                "跳ね石勧誘のリコル"
+                                "Recruiter Rico for Bouncing Stone"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのブロック、跳ね石なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねーちゃんも一発ジャンプキメてく？"
+                                "These blocks here are bouncing stones. Hey, would you like to try\na jump too, miss?"
                             ]
                         },
                         {
@@ -19074,21 +19011,14 @@
                                 0,
                                 0,
                                 2,
-                                "伝承者のミライ"
+                                "Mirai, the Successor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "凄腕のジャンパーは幻の４弾ジャンプが出来るんだって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おねえちゃんには…どういう意味か分かる？"
+                                "I heard that the amazing jumper can perform the legendary 4th\njump. Do you know what that means, big sister?"
                             ]
                         },
                         {
@@ -19159,21 +19089,14 @@
                                 0,
                                 0,
                                 2,
-                                "跳ね依存のキメル"
+                                "Jump-dependent Kimeru"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は何発『トビ』をキメてくかな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちくしょう…やみつきになっちまうぜ…！"
+                                "I wonder how many times I can jump today! Damn it... I'm getting\naddicted to it...!"
                             ]
                         },
                         {
@@ -19251,14 +19174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーン流剣術　～入門大歓迎～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　道場破りも絶賛募集中！"
+                                "Ulyssean Swordsmanship ~ Beginners Welcome ~ Dojo Invaders also\nWelcome!"
                             ]
                         },
                         {
@@ -19329,21 +19245,14 @@
                                 0,
                                 0,
                                 2,
-                                "跳ね予備軍のグンジ"
+                                "Gunji, the Bouncing Reserves"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなジャンプ…何の意味もないんだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぜかやっちゃうんだよね…。"
+                                "This kind of jump... it doesn't have any meaning, but... for some\nreason, I just can't help doing it..."
                             ]
                         },
                         {
@@ -22498,21 +22407,14 @@
                                 0,
                                 0,
                                 2,
-                                "警備兵のライト"
+                                "Security Guard Light"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "城門の警備をしています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "御用のない方はお引き取り下さい。"
+                                "I am guarding the castle gate. Please leave if you have no\nbusiness here."
                             ]
                         },
                         {
@@ -22583,21 +22485,14 @@
                                 0,
                                 0,
                                 2,
-                                "警備兵のレフト"
+                                "Left, the Security Guard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "となりの松明が熱くて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "甲冑の中で蒸しダコになりそうです…。"
+                                "The torch next to me is so hot... I feel like I'm turning into a\nsteamed octopus inside this armor..."
                             ]
                         },
                         {
@@ -22699,21 +22594,14 @@
                                 0,
                                 0,
                                 2,
-                                "警備兵のライト"
+                                "Security Guard Light"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "城内に御用ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "申し訳ありませんがお引き取り下さい。"
+                                "Are you here for official business within the castle? I'm sorry,\nbut please leave."
                             ]
                         },
                         {
@@ -22860,21 +22748,14 @@
                                 0,
                                 0,
                                 2,
-                                "下戸のオロロ"
+                                "Orolo the teetotaler"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おろろ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ううっ…飲み過ぎた…おろろ…！！"
+                                "Orolo...!! Ugh... I drank too much... Orolo...!!"
                             ]
                         },
                         {
@@ -22945,21 +22826,14 @@
                                 0,
                                 0,
                                 2,
-                                "家政婦のミーラ"
+                                "Mira the Housekeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここ水は浄水されてるから綺麗なんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一応飲んでも大丈夫ですよ。やめた方がいいですけど。"
+                                "The water here is purified, so it's clean. It's technically safe\nto drink, but it's better to avoid it."
                             ]
                         },
                         {
@@ -23030,21 +22904,14 @@
                                 0,
                                 0,
                                 2,
-                                "実直な警備兵"
+                                "Honest Security Guard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勤務中であります！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "武器の売買所には警備兵の配置が義務となっております！"
+                                "I am on duty! It is mandatory to have security guards stationed\nat the weapons trading post!"
                             ]
                         },
                         {
@@ -23115,21 +22982,14 @@
                                 0,
                                 0,
                                 2,
-                                "宣教者フォルネウス"
+                                "Missionary Forneus"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は素敵な日だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花が咲いている。小鳥たちもさえずってる…。"
+                                "Today is a wonderful day... The flowers are blooming. The birds\nare chirping..."
                             ]
                         },
                         {
@@ -23200,21 +23060,14 @@
                                 0,
                                 0,
                                 2,
-                                "呼び子のヨビコ"
+                                "Yobiko the Caller"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よかったら！ご一泊いかがですかー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかあさんの料理はおいしいよー！"
+                                "If you'd like! How about staying overnight?! My mom's cooking is\ndelicious, you know!"
                             ]
                         },
                         {
@@ -23285,21 +23138,14 @@
                                 0,
                                 0,
                                 2,
-                                "潰れたラティ"
+                                "Crushed Latte"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒…飲みすぎちまって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しだけ休ませて…少しだけ…。"
+                                "I... drank too much alcohol... Let me rest for a little... just a\nlittle..."
                             ]
                         },
                         {
@@ -23370,21 +23216,14 @@
                                 0,
                                 0,
                                 2,
-                                "散歩大好きマリー"
+                                "Marie loves going for walks"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱ散歩コースに階段があると違うわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一日の質が高まるっていうか…。"
+                                "Having stairs on the walking course really makes a difference.\nIt's like the quality of the day improves..."
                             ]
                         },
                         {
@@ -23455,21 +23294,14 @@
                                 0,
                                 0,
                                 2,
-                                "お節介なセッカ"
+                                "Meddlesome Sekka"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは冒険者ギルドよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クエストの受注はここで受けるといいわ。"
+                                "This is the Adventurer's Guild. It's best to receive quest\nrequests here."
                             ]
                         },
                         {
@@ -23540,28 +23372,14 @@
                                 0,
                                 0,
                                 2,
-                                "名工コウセ"
+                                "Master Craftsman Kousei"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この女神像は10年前にわしが作ったんじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…いまになって造形が気になっての。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほんの少しだけほほ削らせてもらえんかの…。"
+                                "I made this goddess statue 10 years ago... but now I'm concerned\nabout the sculpting. Could you let me shave off just a little bit\nof the cheeks...?"
                             ]
                         },
                         {
@@ -23925,21 +23743,14 @@
                                 0,
                                 0,
                                 2,
-                                "幾ばくも無いアイリ"
+                                "Iri"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うげぇ…飲み過ぎたわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あー…駄目だわこれ。死ぬわ。わたし。"
+                                "Ugh... I drank too much... Ahh... This is bad. I'm going to die.\nMe."
                             ]
                         },
                         {
@@ -24010,21 +23821,14 @@
                                 0,
                                 0,
                                 2,
-                                "がめつい聖女マリアナ"
+                                "Greedy Saint Mariana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーンの神々にご礼拝はいかがですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしければお布施もどうでしょう？"
+                                "How about worshiping the gods of Ulyssean? If you're willing, how\nabout making an offering as well?"
                             ]
                         },
                         {
@@ -24096,21 +23900,14 @@
                                 0,
                                 0,
                                 2,
-                                "語りたがりのレジーナ"
+                                "Regina the Storyteller"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たまに誤解をされるのですが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユリシーンにも普通に結婚する人はいっぱいいるんです。"
+                                "Sometimes there is a misunderstanding... There are plenty of\npeople in Ulyssean who get married just like anyone else."
                             ]
                         },
                         {
@@ -24121,21 +23918,14 @@
                                 0,
                                 0,
                                 2,
-                                "語りたがりのレジーナ"
+                                "Regina the Storyteller"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしは女の子が好きなので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この国に来ただけなんですけど。"
+                                "I came to this country just because I like girls."
                             ]
                         },
                         {
@@ -24220,14 +24010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このさきは地下道へと続いている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!飛び込みますか？（何もありません。）\\!"
+                                "This path continues to the underground passage... Will you jump\nin? (There's nothing here.)"
                             ]
                         },
                         {
@@ -24824,21 +24607,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]ここが…\\.ユリシーンッ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[double]\\SE[76]すごい…！ \\!\\SE[77]立派だ…\\.『都会』だ……！"
+                                "\\SE[74]This is... Ulyssean...!! \\SM[double]\\SE[76]Amazing...!\n\\SE[77]It's magnificent... A metropolis...!"
                             ]
                         },
                         {
@@ -24849,21 +24625,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]道端で酔いつぶれてる『ゴミ』も本当にいた…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[12]聞いていた通りだ…\\.感動した…！"
+                                "\\SE[4]There really was a trash passed out on the roadside... just\nas I heard... I'm impressed...!"
                             ]
                         },
                         {
@@ -25003,21 +24772,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あんなに、はしゃいで…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[15]ふふっ…\\.微笑ましいわね…。"
+                                "\\SE[2]They were so lively... \\!\\SM[nod]\\SE[15]Hehe... It's quite\nheartwarming..."
                             ]
                         },
                         {
@@ -25037,14 +24799,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ヴィタは『ユリシーン』に来るのは初めてなの？"
+                                "\\SE[2]Is this Vita's first time coming to Ulyssean?"
                             ]
                         },
                         {
@@ -25086,21 +24848,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]うん、初めて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[4]一回 行ってみたいね。\\.って話はしてたんだけど…。"
+                                "\\SE[0]Yeah, it's my first time. \\SE[4]I've been talking about\nwanting to go once... but..."
                             ]
                         },
                         {
@@ -25338,21 +25093,14 @@
                                 0,
                                 0,
                                 2,
-                                "跳ね石勧誘のリコル"
+                                "Recruiter Rico for Bouncing Stone"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やいっ！ そこの『青い』お前！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!見ない顔だなっ！ \\.『洗礼』は受けたのか！？"
+                                "Hey! You there, the blue one!! You have a face I haven't seen\nbefore! Have you received the baptism?!"
                             ]
                         },
                         {
@@ -25447,28 +25195,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]なんだお前は！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]いきなり『青いの』とは、失礼なやつだな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[17]それとも都会では『色』で呼び合うのか…？"
+                                "\\SE[16]Who are you?! \\SE[15]Calling me blue out of nowhere,\nyou're quite rude! \\SE[17]Or is it common to refer to each other\nby colors in the city...?"
                             ]
                         },
                         {
@@ -25479,14 +25213,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]いやっ！\\. 『洗礼』とはなんだ…！？"
+                                "\\SE[17]No! What is this baptism...!?"
                             ]
                         },
                         {
@@ -25629,28 +25363,14 @@
                                 0,
                                 0,
                                 2,
-                                "跳ね石勧誘のリコル"
+                                "Recruiter Rico for Bouncing Stone"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "心して聞くがいい！ \\.新入り！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!上に『クロス』を描いた『飛び石』が見えるだろう！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あれが、我々の主力の『遊び場』だ！！"
+                                "Listen carefully! Newcomer!! Look up and you'll see a Bouncing\nStone with a cross drawn on it!! That is our main playground!!"
                             ]
                         },
                         {
@@ -25661,28 +25381,14 @@
                                 0,
                                 0,
                                 2,
-                                "跳ね石勧誘のリコル"
+                                "Recruiter Rico for Bouncing Stone"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よって！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『飛び石』を飛ぶ『勇気』のないものは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々の仲間にはふさわしくない！！"
+                                "Therefore! Those without the courage to jump over the Bouncing\nStone are not suitable to be our comrades!!"
                             ]
                         },
                         {
@@ -25693,21 +25399,14 @@
                                 0,
                                 0,
                                 2,
-                                "跳ね石勧誘のリコル"
+                                "Recruiter Rico for Bouncing Stone"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "池に落ちる恐怖に打ち勝ち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!我々に貴様の『勇気』を示せるか問うている！！"
+                                "Overcome the fear of falling into the pond! It is asking if you\ncan show us your courage!"
                             ]
                         },
                         {
@@ -25727,28 +25426,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[68]『飛び石』を飛ぶ『勇気』を持っているか…\\.だと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[16]こんなもの\\.『お茶の子さいさい』だ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[double]\\SE[17]あまり私を、\\.舐めるなよ…！"
+                                "\\SE[68]Do you think I have the courage to jump over the Bouncing\nStone...? \\SE[16]This is a piece of cake...!\n\\SM[double]\\SE[17]Don't underestimate me so much...!"
                             ]
                         },
                         {
@@ -25759,21 +25444,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大体、こんな池に落ちる『マヌケ』が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いるわけないだろう！"
+                                "There's no way there would be any fool who would fall into a pond\nlike this!"
                             ]
                         },
                         {
@@ -25852,21 +25530,14 @@
                                 0,
                                 0,
                                 2,
-                                "跳ね石勧誘のリコル"
+                                "Recruiter Rico for Bouncing Stone"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よかろう！！ \\.良い意気込みだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならば我々に貴様の『飛びざま』を見せてくれ…！"
+                                "Very well!! That's a great enthusiasm!! Then show us your jumping\nskills!"
                             ]
                         },
                         {
@@ -26440,21 +26111,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[68]むむっ…\\.見られてると緊張するな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[pop]\\SE[17]ええいっ…\\.女は度胸…！"
+                                "\\SE[68]Hmm... I get nervous when I'm being watched...\n\\SM[pop]\\SE[17]Alright... Women need courage...!"
                             ]
                         },
                         {
@@ -26484,14 +26148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『飛び石ジャンプ』をかっこよく決めて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.都会のガキどもに『格の違い』を見せてやりましょう！"
+                                "Let's stylishly show those city brats the difference in class by\nnailing the Bouncing Stone Jump!"
                             ]
                         },
                         {
@@ -26715,14 +26372,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]私は絶対に逃げないぞ…！"
+                                "\\SE[14] I will never run away...!"
                             ]
                         },
                         {
@@ -26897,14 +26554,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]私は絶対に逃げないぞ…！"
+                                "\\SE[14] I will never run away...!"
                             ]
                         },
                         {

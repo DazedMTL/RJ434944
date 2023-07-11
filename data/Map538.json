@@ -1734,14 +1734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は『鍾乳洞』に繋がっている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何もないけど、降りますか？\\!"
+                                "This path leads to a cave. There's nothing here, but do you want\nto go down?"
                             ]
                         },
                         {
@@ -2014,7 +2007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフγを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life Gamma! \\$"
                             ]
                         },
                         {

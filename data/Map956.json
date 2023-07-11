@@ -11383,21 +11383,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]うん、『これ』だね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ここから、ベガの家まで繋がってるはず。"
+                                "\\SE[4]Yes, this is it.... \\SE[3]It should lead from here to\nVega's house."
                             ]
                         },
                         {
@@ -11408,21 +11401,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]なら、迷うことはないね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]先に行かせてもらうわ。"
+                                "\\SE\\SE[0]If that's the case, there's no need to hesitate.\n\\!\\SE[0]I'll go ahead."
                             ]
                         },
                         {
@@ -11607,21 +11593,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]ずっと思ったけど、メリッサって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.全然迷わないっていうか、決断が早いわね…。"
+                                "\\SE[11]I've always thought this, but Melissa is really decisive\nand doesn't hesitate at all..."
                             ]
                         },
                         {
@@ -11641,14 +11620,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]おーゆーあん、\\.じー？"
+                                "\\SE[4]Oh, you're here, huh?"
                             ]
                         },
                         {
@@ -11666,21 +11645,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサの声"
+                                "Melissa's voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小部屋に繋がってるみたいー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!少し狭いけど、通ってきて問題ないよー！"
+                                "It seems to lead to a small room! It's a bit narrow, but it's no\nproblem to pass through!"
                             ]
                         },
                         {
@@ -11714,14 +11686,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]うーん、頼りになるな…\\.メリッサ…。"
+                                "\\SE[17]Hmm, Melissa, you're reliable..."
                             ]
                         },
                         {
@@ -11748,14 +11720,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]えあに、\\.えうえー。"
+                                "\\SE[1]Hey, what's up?"
                             ]
                         },
                         {
@@ -11952,21 +11924,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]（子供たちも…\\.みんな成長してるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[12]私も『頼りになる背中』を見せるようにしないと…！）"
+                                "\\SE\\SE[12] (The children... They're all growing up. I need to\nshow them a reliable back too...!)"
                             ]
                         },
                         {
@@ -12097,28 +12062,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]（…たしかに、ちょっと狭いな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　暗い所は苦手なんだよね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\!\\SE[12]でも、ここは『先輩』として…！）"
+                                "\\SE[17] (...Certainly, it's a bit narrow. I'm not good with dark\nplaces... But, as a senpai...!)"
                             ]
                         },
                         {
@@ -12136,14 +12087,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[18]……よし。\\.\\.\\.\\SE[16]えいっ！"
+                                "\\SE[18]... Alright... \\SE[16] Here I go!"
                             ]
                         },
                         {
@@ -12279,14 +12230,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[48]んんっ…！！？"
+                                "\\SE[48]Hmm...!!?"
                             ]
                         },
                         {

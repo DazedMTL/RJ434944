@@ -2304,21 +2304,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あらっ、おかえりなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]…テストの方、\\.どうでした……？"
+                                "\\SE\\SE[7]Oh, welcome back. \\!\\SE[7]...How was the test...?"
                             ]
                         },
                         {
@@ -2345,28 +2338,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]…はっ？ \\.誰に聞いてるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]『満点』よ。\\.『満点』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私がやってるんだから、\\.当たり前でしょう。"
+                                "\\SE[13]...Huh? Who are you asking? \\SE[10] I got a perfect score.\nPerfect score. Well, of course, since I'm the one doing it."
                             ]
                         },
                         {
@@ -2386,28 +2365,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]いや、当たり前じゃないですけどっ…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]じゃあ、旦那様にもお伝えしてあげないと…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.今夜は『赤飯』を炊かないとっ！！"
+                                "\\SE[14]No, it's not obvious...!? \\SE[12]Well then, I have to tell\nMaster too...!! Tonight, I have to cook red rice!!"
                             ]
                         },
                         {
@@ -2600,28 +2565,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[38]…待ちなさいって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[45]こんなテストなんて、意味ないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『満点』をとり続けなきゃいけないんだもの。"
+                                "\\SE[38]...Wait a minute. \\!\\SE[45]This kind of test is\nmeaningless. \\!\\SE[3]I have to keep getting perfect scores after\nall."
                             ]
                         },
                         {
@@ -2679,21 +2630,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]で、でも…『満点』なんて、\\.すごいのに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[5]旦那様も、きっと喜ばれますよ…？"
+                                "\\SE[7]But... getting a perfect score is amazing... \\!\\SE[5]I'm\nsure Master will be delighted, right...?"
                             ]
                         },
                         {
@@ -2704,28 +2648,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[33]こんなもん『過程』なのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『結果』につながらなきゃ、\\.意味ないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[55]…この程度で、浮かれていられないの。"
+                                "\\SE[33]This is just the process. If it doesn't lead to the\nresult, it's meaningless. \\SE[55]...I can't get excited over\nsomething like this."
                             ]
                         },
                         {
@@ -2759,14 +2689,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[37]お嬢様…\\.おいたわしや……。"
+                                "\\SE[37]My lady... I'm worried about you..."
                             ]
                         },
                         {
@@ -2784,14 +2714,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[59]いやっ、どういう視点なのよ。\\.あんたは。"
+                                "\\SE[59]No, what kind of perspective is that? You..."
                             ]
                         },
                         {

@@ -4256,7 +4256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガの秘密の宝箱がある…。"
+                                "Vega has a secret treasure chest..."
                             ]
                         },
                         {
@@ -4312,21 +4312,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その箱はだめよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしも中を見たら…………。"
+                                "That box is off-limits. If you were to look inside..."
                             ]
                         },
                         {
@@ -4368,21 +4361,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぇ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見ません！見ませんよぉ…！"
+                                "Eek...! I won't look! I won't look, okay...!"
                             ]
                         },
                         {
@@ -4393,14 +4379,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "分かればいいのよ。分かれば…。"
+                                "It's fine if you understand. If you understand..."
                             ]
                         },
                         {
@@ -4656,21 +4642,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]よし、これでラウラの分は終わり…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]次はヴィタの分ね……。"
+                                "\\SE[52] Alright, with this, Laura's part is done... \\SE[3] Next\nis Vita's part..."
                             ]
                         },
                         {
@@ -4716,28 +4695,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[2]所得は…\\.これで大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "武器修理の経費はこれ、\\.こっちは雑費……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]…偉いわね。\\.ちゃんと領収書用意出来てるじゃない。"
+                                "\\SM[nod]\\SE[2]Income... With this, it's fine. This is the expense\nfor weapon repairs, and this is for miscellaneous expenses...\n\\SE[15]... You're amazing. You've prepared the receipts properly,\nhaven't you?"
                             ]
                         },
                         {
@@ -4755,21 +4720,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]…あら。\\.合計が100Gズレてるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どこかに記入漏れがあるのかしら。"
+                                "\\SE[74]... Oh. The total is off by 100G. I wonder if there's a\nmissing entry somewhere."
                             ]
                         },
                         {
@@ -4815,28 +4773,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]あぁ、キュアライフαとβを書き間違えたのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.じゃあ、ここだけ修正して……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]よし、これで完成ね。"
+                                "\\SE[8]Ah, I made a mistake in writing Cure Life Alpha and Beta.\n\\. Well, let me just fix this part....... \\!\\SE[7]Alright, it's\ncomplete now."
                             ]
                         },
                         {
@@ -4847,28 +4791,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]…すごいわね。もう終わっちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.案外書類系に強いのね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[87]手間がかからないわ。\\.あの子は。"
+                                "\\SE[76]... Wow, you're amazing. It's already finished.\nSurprisingly, you're good with paperwork... \\SE[87] It doesn't\ntake much effort. That child..."
                             ]
                         },
                         {
@@ -4879,14 +4809,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]最後はルナロアの申告分……。"
+                                "\\SE[3]Finally, Lunaroa's declaration..."
                             ]
                         },
                         {
@@ -4948,21 +4878,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[94]書類の数、多っ…！？\\. そして汚っ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[61]こういう所に人間の本質が出るわね…。"
+                                "\\SE[94]So many documents...!? And they're dirty...!!\n\\!\\SE[61]This is where the true nature of humans shows, huh..."
                             ]
                         },
                         {
@@ -5020,21 +4943,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[50]ふぅ…やっと終わった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ひとまずこれで肩の荷は下りたわね……。"
+                                "\\SE[50]Phew... Finally finished. \\. For now, I can relax my\nshoulders..."
                             ]
                         },
                         {
@@ -5068,21 +4984,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]誰かしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どうぞ。\\. 入っていいわよ。"
+                                "\\SE[74]I wonder who it is? \\. Please come in. You're allowed to\nenter."
                             ]
                         },
                         {
@@ -5329,28 +5238,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]お疲れ様です！\\. お姉さま…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなの『確定申告』をしていると聞きました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]私で良ければ何かお役に立てませんかっ！？"
+                                "\\SE[3]Good job! Big sister...! I heard that you're doing\neveryone's tax returns! \\SE[13]If it's okay with you, can I be of\nany help!?"
                             ]
                         },
                         {
@@ -5361,21 +5256,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]あら、レベッカ。 \\.ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[79]でもついさっき全部終わってしまったの。"
+                                "\\SE[72]Oh, Rebecca. Thank you. \\SE[79]But I just finished\neverything a little while ago."
                             ]
                         },
                         {
@@ -5584,28 +5472,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]ほ、ほんとに全部終わってる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[37]そんな…せっかくお役に立てるように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『確定申告』のやり方を勉強してきたのに……。"
+                                "\\SE[14]I-Is it true that you've finished everything...?\n\\!\\SE[37]I-I've studied how to do tax returns just so I could be\nof help..."
                             ]
                         },
                         {
@@ -5616,28 +5490,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そ、\\.そうなの……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]まぁ…いいじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.来年自分の分をやる時に役に立つわ。"
+                                "\\SE[2]I-Is that so...? \\!\\SE[7]Well... it's fine, isn't it.\n\\.It'll be useful when I do my own next year."
                             ]
                         },
                         {
@@ -5710,28 +5570,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[24]私は『今』役に立ちたかったんですっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そのために、夜なべをして勉強してきたのに……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]恩返し、\\.したかったのにぃ……。"
+                                "\\SE[24]I wanted to be helpful now...! I stayed up all night\nstudying for that... \\!\\SE[51]I wanted to repay the favor..."
                             ]
                         },
                         {
@@ -5833,28 +5679,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]…そうだっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何か他にお役にたてることはありませんかっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]お掃除でも、\\.洗濯でも、\\.なんでもしますから！"
+                                "\\SE[14]... I've got it! Is there anything else I can do to help!?\n\\SE[9] Whether it's cleaning, laundry, or anything else, I'll do\nit!"
                             ]
                         },
                         {
@@ -5865,14 +5697,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]いや、とくにお願いすることはないけど……。"
+                                "\\SE[2]No, there's nothing in particular that I need help with..."
                             ]
                         },
                         {
@@ -5883,14 +5715,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]…！！？？？"
+                                "\\SE[9]...！！？？？"
                             ]
                         },
                         {
@@ -5933,28 +5765,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[66]そ、そうね…。 \\.デスクワークが多いから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し『肩こり』がある…かも？\\.しれないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[80]『マッサージ』とかお願いできるかしら？"
+                                "\\SE[66]U-Um... Well... I do a lot of desk work, so I might have a\nlittle stiff shoulders... Maybe. \\SE[80]Could I ask for a massage\nor something?"
                             ]
                         },
                         {
@@ -5974,21 +5792,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]『マッサージ』！！？？\\. いいですね！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それではっ！早速……\\.……\\.……\\!\\SE[14]はっ！"
+                                "\\SE[13]Massage!!?? \\. That's great!! \\. In that case...\n\\.......\\.......\\.......\\!\\SE[14]Ah!"
                             ]
                         },
                         {
@@ -5999,14 +5810,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]……？"
+                                "\\SE[2]......？"
                             ]
                         },
                         {
@@ -6017,28 +5828,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]『マッサージ』なら『プロ』がいますよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんか仕事でやってるって聞きました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[14]ちょっと呼んできますね…！！"
+                                "\\SE[15]If it's a massage, we have a professional here!! I heard\nthat they do it for work! \\SE[14]I'll go call them right\naway...!!"
                             ]
                         },
                         {
@@ -6360,14 +6157,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[18]…ってことで連れてきました！！"
+                                "\\SE[18]... So I brought them with me!!"
                             ]
                         },
                         {
@@ -6387,28 +6184,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]メリッサとロノア…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.二人とも『マッサージ』のプロだったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[72]知らなかったわ。\\.すごいじゃない。"
+                                "\\SE[2]Melissa and Lunoa...? Both of you are professionals in\nmassage? \\SE[72]I didn't know that. That's amazing."
                             ]
                         },
                         {
@@ -6419,14 +6202,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[25]\\SM[pop]うぃ！"
+                                "\\SE[25]\\SM[pop]Hi!"
                             ]
                         },
                         {
@@ -6444,28 +6227,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]『マッサージ』って、そっちの意味じゃないけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[35]とてつもない誤解があるような…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あんまり間違っていないような…。"
+                                "\\SE[12]Massage, that doesn't mean what you think it does...\n\\!\\SE[35]There seems to be a huge misunderstanding... Well, maybe\nit's not entirely wrong..."
                             ]
                         },
                         {
@@ -6551,35 +6320,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]お姉さまは肩こりでお疲れなの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.きっと、日頃のストレスも溜まっていると思う！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]だから『マッサージ』でリラックスして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちよくなってもらいたいの！"
+                                "\\SE[14]Big sister, are you tired from shoulder stiffness? I think\nyou must also have accumulated stress in your daily life!\n\\SE[10]That's why I want you to relax and feel good with a\nmassage!"
                             ]
                         },
                         {
@@ -6590,21 +6338,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]…そ、そうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[32]（別に疲れても、ストレスもないけど。）"
+                                "\\SE[74]... Y-Yes, that's right. \\!\\SE[32](Even though I'm not\ntired or stressed.)"
                             ]
                         },
                         {
@@ -6615,14 +6356,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]まかちぇ！！"
+                                "\\SE[14]Makache!!"
                             ]
                         },
                         {
@@ -6640,28 +6381,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]たしかにいつもお世話になってるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私としても恩返しはしておきたいね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]よし！\\. 一肌、脱がせてもらいましょー…。"
+                                "\\SE\\SE[15]Certainly, I've always been taken care of, so I want to\nrepay the favor as well... \\!\\SE[15]Alright! Let me lend a hand\nand help you take off your clothes...."
                             ]
                         },
                         {
@@ -6672,14 +6399,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そんなこと気にしなくてもいいのに……。"
+                                "\\SE[2]You don't have to worry about things like that..."
                             ]
                         },
                         {
@@ -6690,28 +6417,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[36]それにしても『ベガさんと』かぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.考えてもいなかったけど、燃えてくるね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[46]これはぜひ、気持ちよくなってもらわないとね。"
+                                "\\SE[36]By the way, with Vega-san, huh... I never even thought\nabout it, but it's getting me fired up... \\!\\SE[46]I definitely\nwant to make you feel good."
                             ]
                         },
                         {

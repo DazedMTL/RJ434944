@@ -16578,21 +16578,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あらっ\\. みなさん！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]アイテムとか必要でしょうか！？\\.（有料ですけど！）"
+                                "\\SE\\SE[15]Oh my, everyone! \\SE[15]Do you need any items or\nsomething!? (It's not free though!)"
                             ]
                         },
                         {
@@ -16803,21 +16796,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[2]ふぅ…\\.思ったより時間かかっちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]ラウラ達の所に行きましょ…。"
+                                "\\SM[nod]\\SE[2]Phew... It took longer than I thought. Let's go to\nLaura and the others..."
                             ]
                         },
                         {
@@ -17479,21 +17465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『生活に苦しんでいます！ \\.愛はきっと世界を救います！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!　あなたもぜひ、救いの手を差し伸べる第一歩を！』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…道行く人から、お金を恵んでもらっているみたいだ。"
+                                "I'm struggling in life! Love will surely save the world!! Please,\ntake the first step and extend a helping hand too! ... It seems\nlike I'm receiving money from people passing by."
                             ]
                         },
                         {
@@ -17571,14 +17543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "瞬間移動用のクリスタルのようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『まだ準備中です。』と書かれている。"
+                                "It looks like a crystal for teleportation. It says Still under\npreparation."
                             ]
                         },
                         {
@@ -17647,14 +17612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "瞬間移動用のクリスタルが輝いている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!転送空間に行きますか？\\!"
+                                "The crystal for teleportation is shining... Will you go to the\ntransfer space?"
                             ]
                         },
                         {
@@ -17875,14 +17833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キャットの『商売道具』のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何やら色々なものが詰め込まれてるみたい…。"
+                                "It seems like the cat's business tools. Various things seem to be\npacked inside..."
                             ]
                         },
                         {
@@ -17953,14 +17904,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は絶対に逃げないぞ…！"
+                                "I will never run away...!"
                             ]
                         },
                         {
@@ -18138,14 +18089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーン流剣術　～入門大歓迎～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　道場破りも絶賛募集中！"
+                                "Ulyssean Swordsmanship ~ Beginners Welcome ~ Dojo Invaders also\nWelcome!"
                             ]
                         },
                         {
@@ -21301,21 +21245,14 @@
                                 0,
                                 0,
                                 2,
-                                "警備兵のライト"
+                                "Security Guard Light"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "城門の警備をしています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "御用のない方はお引き取り下さい。"
+                                "I am guarding the castle gate. Please leave if you have no\nbusiness here."
                             ]
                         },
                         {
@@ -21386,21 +21323,14 @@
                                 0,
                                 0,
                                 2,
-                                "警備兵のレフト"
+                                "Left, the Security Guard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "となりの松明が熱くて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "甲冑の中で蒸しダコになりそうです…。"
+                                "The torch next to me is so hot... I feel like I'm turning into a\nsteamed octopus inside this armor..."
                             ]
                         },
                         {
@@ -21502,21 +21432,14 @@
                                 0,
                                 0,
                                 2,
-                                "警備兵のライト"
+                                "Security Guard Light"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "城内に御用ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "申し訳ありませんがお引き取り下さい。"
+                                "Are you here for official business within the castle? I'm sorry,\nbut please leave."
                             ]
                         },
                         {
@@ -21663,21 +21586,14 @@
                                 0,
                                 0,
                                 2,
-                                "下戸のオロロ"
+                                "Orolo the teetotaler"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おろろ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ううっ…飲み過ぎた…おろろ…！！"
+                                "Orolo...!! Ugh... I drank too much... Orolo...!!"
                             ]
                         },
                         {
@@ -21748,21 +21664,14 @@
                                 0,
                                 0,
                                 2,
-                                "家政婦のミーラ"
+                                "Mira the Housekeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここ水は浄水されてるから綺麗なんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一応飲んでも大丈夫ですよ。やめた方がいいですけど。"
+                                "The water here is purified, so it's clean. You can drink it if\nyou want, but it's better to avoid it."
                             ]
                         },
                         {
@@ -21833,21 +21742,14 @@
                                 0,
                                 0,
                                 2,
-                                "実直な警備兵"
+                                "Honest Security Guard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勤務中であります！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "武器の売買所には警備兵の配置が義務となっております！"
+                                "I am on duty! It is mandatory to have security guards stationed\nat the weapons trading post!"
                             ]
                         },
                         {
@@ -21918,21 +21820,14 @@
                                 0,
                                 0,
                                 2,
-                                "宣教者フォルネウス"
+                                "Missionary Forneus"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は素敵な日だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花が咲いている。小鳥たちもさえずってる…。"
+                                "Today is a wonderful day... The flowers are blooming. The birds\nare chirping..."
                             ]
                         },
                         {
@@ -22003,21 +21898,14 @@
                                 0,
                                 0,
                                 2,
-                                "呼び子のヨビコ"
+                                "Yobiko the Caller"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よかったら！ご一泊いかがですかー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかあさんの料理はおいしいよー！"
+                                "If you'd like! How about staying overnight?! My mom's cooking is\ndelicious, you know!"
                             ]
                         },
                         {
@@ -22088,21 +21976,14 @@
                                 0,
                                 0,
                                 2,
-                                "潰れたラティ"
+                                "Crushed Latte"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒…飲みすぎちまって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しだけ休ませて…少しだけ…。"
+                                "I... drank too much alcohol... Let me rest for a little... just a\nlittle..."
                             ]
                         },
                         {
@@ -22173,21 +22054,14 @@
                                 0,
                                 0,
                                 2,
-                                "散歩大好きマリー"
+                                "Marie loves going for walks"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱ散歩コースに階段があると違うわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一日の質が高まるっていうか…。"
+                                "Having stairs on the walking course really makes a difference.\nIt's like the quality of the day improves..."
                             ]
                         },
                         {
@@ -22259,28 +22133,14 @@
                                 0,
                                 0,
                                 2,
-                                "名工コウセ"
+                                "Master Craftsman Kousei"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この女神像は10年前にわしが作ったんじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…いまになって造形が気になっての。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほんの少しだけほほ削らせてもらえんかの…。"
+                                "I made this goddess statue 10 years ago... but now I'm concerned\nabout the sculpting. Could you let me shave off just a little bit\nof the cheeks...?"
                             ]
                         },
                         {
@@ -22644,21 +22504,14 @@
                                 0,
                                 0,
                                 2,
-                                "幾ばくも無いアイリ"
+                                "Iri"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うげぇ…飲み過ぎたわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あー…駄目だわこれ。死ぬわ。わたし。"
+                                "Ugh... I drank too much... Ahh... This is bad. I'm going to die.\nMe."
                             ]
                         },
                         {
@@ -22729,21 +22582,14 @@
                                 0,
                                 0,
                                 2,
-                                "がめつい聖女マリアナ"
+                                "Greedy Saint Mariana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーンの神々にご礼拝はいかがですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしければお布施もどうでしょう？"
+                                "How about worshiping the gods of Ulyssean? If you're willing, how\nabout making an offering as well?"
                             ]
                         },
                         {
@@ -22830,14 +22676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このさきは地下道へと続いている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飛び込みますか？"
+                                "This path continues to the underground passage... Will you jump\nin?"
                             ]
                         },
                         {
@@ -22977,21 +22816,14 @@
                                 0,
                                 0,
                                 2,
-                                "隠れていた男"
+                                "Hidden man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まじで…？ここ見つけちゃう…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんた、少し怖いよ…。"
+                                "Seriously...? You found this place...? You're a little scary..."
                             ]
                         },
                         {
@@ -23064,14 +22896,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は絶対に逃げないぞ…！"
+                                "I will never run away...!"
                             ]
                         },
                         {
@@ -23175,14 +23007,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は絶対に逃げないぞ…！"
+                                "I will never run away...!"
                             ]
                         },
                         {

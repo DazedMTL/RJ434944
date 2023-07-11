@@ -3220,14 +3220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "炎の揺らめきに心が落ち着いていく…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!パーティの体力が全回復した！"
+                                "The heart calms down in the flickering of flames.... \\! The\nparty's health has been fully restored!"
                             ]
                         },
                         {
@@ -3332,21 +3325,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キャットちゃんのお店ですよー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!補給が必要なら、なんなりと～。（有料ですけど！）"
+                                "This is Cat-chan's shop, you know~ If you need any supplies, feel\nfree to ask~ (It's not free though!)"
                             ]
                         },
                         {
@@ -3672,21 +3658,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]全員、乗り込みましたね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]『スイスイちゃん』いきますよ…！！"
+                                "\\SE[4] Everyone, get on board...! \\!\\SE[15] We're going on a ride\nwith Swishy-chan...!!"
                             ]
                         },
                         {
@@ -4077,21 +4056,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]あっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『焚火』の火を消すのを忘れてました…！！"
+                                "\\SE[14]Ah...! I forgot to put out the fire of the Bonfire...!!"
                             ]
                         },
                         {
@@ -4102,21 +4074,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]あはは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.きっと優しい人がやってくれるよね。"
+                                "\\SE[21] Ahaha... I'm sure a kind person will take care of it."
                             ]
                         },
                         {
@@ -4127,14 +4092,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[58]誰が始末することになるのやら…。"
+                                "\\SE[58]I wonder who will end up taking care of it..."
                             ]
                         },
                         {

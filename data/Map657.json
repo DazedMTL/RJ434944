@@ -2120,7 +2120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "演奏に集中しているようだ…。"
+                                "It seems like she's focused on playing..."
                             ]
                         },
                         {
@@ -2373,28 +2373,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主さん"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今度、『ユリシーン』の酒場で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『バニーガールコラボ』を考えてるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!よかったら、お嬢さんもどうだい？"
+                                "This time, I'm thinking of a Bunny Girl Collaboration at the\nUlyssean tavern. How about it, miss?"
                             ]
                         },
                         {
@@ -2412,21 +2398,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[10]わ、\\.私ですか…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[24]いや、\\.ここまで過激なのはちょっと…。"
+                                "\\SE[10]M-Me...!? \\SE[24]No, this is a bit too extreme..."
                             ]
                         },
                         {
@@ -2437,21 +2416,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ルナロアは好きそうだけどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]こういう直球で『ハレンチ』なやつ。"
+                                "\\SE[2]Lunaroa seems to like that kind of thing. \\SE[3]She's into\nstraightforward and lewd stuff like this."
                             ]
                         },
                         {
@@ -2469,21 +2441,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]あー…\\.好きそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ラウラも考えといた方がいいよ？"
+                                "\\SE[4] Ah... She seems to like it. Laura, you should consider it\ntoo."
                             ]
                         },
                         {
@@ -2494,14 +2459,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[65]えっ…！\\.えぇー……。"
+                                "\\SE[65]Huh...! Umm..."
                             ]
                         },
                         {
@@ -2563,28 +2528,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主さん"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今度、『ユリシーン』の酒場で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『バニーガールコラボ』を考えてるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!よかったら、お嬢さんもどうだい？"
+                                "This time, I'm thinking of a Bunny Girl Collaboration at the\nUlyssean tavern. How about it, miss?"
                             ]
                         },
                         {
@@ -2602,21 +2553,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[10]わ、\\.私ですか…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[24]いや、\\.ここまで過激なのはちょっと…。"
+                                "\\SE[10]M-Me...!? \\SE[24]No, this is a bit too extreme..."
                             ]
                         },
                         {
@@ -2627,28 +2571,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]彼女の体型に合わせて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『オーダメイド』で一着、頂けませんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]言い値で買い取らせて頂きます。"
+                                "\\SE\\SE[0] Could you please make a custom-made outfit that fits\nher body shape? \\SE[0] I will buy it at the price you suggest."
                             ]
                         },
                         {
@@ -2659,14 +2589,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[10]えっ…！\\.えぇー……。"
+                                "\\SE[10]Eh...! Uh..."
                             ]
                         },
                         {
@@ -2737,28 +2667,14 @@
                                 0,
                                 0,
                                 2,
-                                "常連の戦士"
+                                "Regular Warrior"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの飯が好きなだけなのに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妻からは『バニーガール狂い』扱いされてるんだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…本当に飯が旨いだけなのに。"
+                                "Even though I just like the food here... my wife treats me like a\nBunny Girl fanatic.... It's really just because the food is\ndelicious."
                             ]
                         },
                         {
@@ -2829,21 +2745,14 @@
                                 0,
                                 0,
                                 2,
-                                "そういうお客さん"
+                                "Such customers"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やー…ここが特等席なのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.はぁ…眼福、\\.眼福…。"
+                                "Ah... so this is the special seat. Haa... what a feast for the\neyes, what a feast..."
                             ]
                         },
                         {
@@ -2854,14 +2763,14 @@
                                 0,
                                 0,
                                 2,
-                                "そういうお客さん"
+                                "Such customers"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶対に譲らないわよ？"
+                                "I absolutely won't give in, you know?"
                             ]
                         },
                         {
@@ -2879,14 +2788,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[62]い、いえ…\\.お構いなく。"
+                                "\\SE[62]N-No... Please don't mind me."
                             ]
                         },
                         {
@@ -2957,14 +2866,14 @@
                                 0,
                                 0,
                                 2,
-                                "バニーちゃん"
+                                "Bunny-chan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご注文はメニューからお願いしまーす♥"
+                                "Please place your order from the menu~♥"
                             ]
                         },
                         {
@@ -3035,28 +2944,14 @@
                                 0,
                                 0,
                                 2,
-                                "一段上の男"
+                                "One step above man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あのバニーガールのピアノ…最高だよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特に黒鍵のいぶし銀な輝きがさ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!年季が入ってますます煌めいているよ…。"
+                                "That bunny girl's piano... it's the best, right? Especially the\nworn silver shine of the black keys... it's even more dazzling\nwith age..."
                             ]
                         },
                         {
@@ -3187,28 +3082,14 @@
                                 0,
                                 0,
                                 2,
-                                "癒されるお客さん"
+                                "Soothing customer"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやー…ご飯も美味しいし、視界も華やかだし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最高だわ。この店…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!５年くらい通ってるけど、飽きないわぁ…。"
+                                "Ahh... the food is delicious and the view is splendid... This\nplace is the best. I've been coming here for about 5 years and I\nnever get tired of it."
                             ]
                         },
                         {
@@ -3279,28 +3160,14 @@
                                 0,
                                 0,
                                 2,
-                                "バニー志望の女の子"
+                                "Girl aspiring to be a bunny"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねっ聞いて！ \\.私ね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっきくなったら『バニーガール』になるの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!いっぱい『誘惑』して世界を私を好きな人で埋めつくすの！"
+                                "Hey, listen! When I grow up, I want to become a Bunny Girl! I\nwant to seduce and fill the world with people who love me!"
                             ]
                         },
                         {
@@ -3359,21 +3226,14 @@
                                 0,
                                 0,
                                 2,
-                                "バニー志望の女の子"
+                                "Girl aspiring to be a bunny"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっふん…♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!どうかな…\\.ちゃんと『誘惑』できてる…？\\!"
+                                "Ufufu... ♡ I wonder... Am I able to seduce properly...?"
                             ]
                         },
                         {
@@ -3415,21 +3275,14 @@
                                 0,
                                 0,
                                 2,
-                                "バニー志望の女の子"
+                                "Girl aspiring to be a bunny"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、\\.ありがと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!立派な『バニーガール』になるね…！"
+                                "Ah, thank you... I'll become a splendid Bunny Girl...!"
                             ]
                         },
                         {
@@ -3462,28 +3315,14 @@
                                 0,
                                 0,
                                 2,
-                                "バニー志望の女の子"
+                                "Girl aspiring to be a bunny"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "せ、\\.『セクシー』…！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.ふ、ふーん…\\.見る目あるじゃん…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!あなたを私の『ファン１号』にしてあげる！"
+                                "Se... 'Sexy'...!!? Huh, you have quite the discerning eye...?\nI'll make you my 'Number One Fan'!"
                             ]
                         },
                         {
@@ -3573,14 +3412,14 @@
                                 0,
                                 0,
                                 2,
-                                "バニーガールさん"
+                                "Bunny Girl-san"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おさわりは厳禁ですよー。"
+                                "No touching allowed, okay?"
                             ]
                         },
                         {
@@ -3600,14 +3439,14 @@
                                 0,
                                 0,
                                 2,
-                                "バニーガールさん"
+                                "Bunny Girl-san"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（アフターは5000Gから応相談ですよー…。）"
+                                "(The price for an after-service starts at 5000G and can be\nnegotiated.)"
                             ]
                         },
                         {
@@ -3634,14 +3473,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[28]いや、私には心に決めた人が…。"
+                                "\\SE[28]No, I have someone in my heart..."
                             ]
                         },
                         {
@@ -3652,21 +3491,14 @@
                                 0,
                                 0,
                                 2,
-                                "バニーガールさん"
+                                "Bunny Girl-san"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やだ…初々しい…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉さん、応援しちゃうわ…！"
+                                "Oh my... How innocent...! I'll cheer you on, big sister...!"
                             ]
                         },
                         {
@@ -3977,7 +3809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[445]すっごい裁縫セットを手に入れた！\\$"
+                                "\\i[445]I got an amazing sewing set! $"
                             ]
                         },
                         {
@@ -4667,35 +4499,14 @@
                                 0,
                                 0,
                                 2,
-                                "独身のおじさん"
+                                "Unmarried uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やぁ、そこの君。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ところでお金には困ってないかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そんなときはおじさんに相談しなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんたって私は『独身』で\\.『お金持ち』だからね。"
+                                " Hey there, you over there. By the way, are you having any\nfinancial troubles? If you are, you should come and talk to your\nuncle. After all, I am unmarried and rich, you know."
                             ]
                         },
                         {
@@ -4713,21 +4524,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]えっ、いやっ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.大丈夫です……。"
+                                "\\SE[11] Huh, no... I'm fine..."
                             ]
                         },
                         {
@@ -4738,21 +4542,14 @@
                                 0,
                                 0,
                                 2,
-                                "独身のおじさん"
+                                "Unmarried uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか…困ったときはいつでも頼りなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!なんたっておじさんは『独身』で\\.『お金持ち』だからね。"
+                                "I see... Whenever you're in trouble, you can rely on me. After\nall, your uncle is unmarried and rich, you know."
                             ]
                         },
                         {
@@ -4772,21 +4569,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[71]あれー……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私、この人とどこかで会ったことある…？"
+                                "\\SE[71] Huh...? \\. Have I met this person somewhere before...?"
                             ]
                         },
                         {
@@ -4806,21 +4596,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[2]『私の』ラウラに近寄らないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\SE[48]さもないと………。"
+                                "\\SE[2] Please don't get close to 'my' Laura. \\!\\SE[48]\nOtherwise..."
                             ]
                         },
                         {
@@ -4831,28 +4614,14 @@
                                 0,
                                 0,
                                 2,
-                                "独身のおじさん"
+                                "Unmarried uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "い、いや…そんなつもりはないよ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.おじさんは『独身』で\\.『お金持ち』だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!心に『ゆとり』があるからさ…\\.ハハ……。"
+                                "N-No... I don't have any intention like that...! Your uncle is\nunmarried and rich, you know. Because I have financial stability\nin my heart... Haha..."
                             ]
                         },
                         {
@@ -4863,21 +4632,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[9]そ、それは失礼しました…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\SE[7]私ったら、なんてひどい勘違いを……。"
+                                "\\SE[9]I-I'm sorry...! \\SE[7]I can't believe I made such a\nterrible misunderstanding..."
                             ]
                         },
                         {
@@ -4888,35 +4650,14 @@
                                 0,
                                 0,
                                 2,
-                                "独身のおじさん"
+                                "Unmarried uncle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "き、気にしてないよっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.誰にだって譲れないものはあるよね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!おじさんは『独身』で\\.『お金持ち』だからよく分かるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ハ、ハハッ……。"
+                                "I-I'm not bothered by it! E-Everyone has something they can't\ngive up, right...? Your uncle is unmarried and rich, so I\nunderstand it well. H-Haha..."
                             ]
                         },
                         {
@@ -5013,28 +4754,14 @@
                                 0,
                                 0,
                                 2,
-                                "ドンヨク"
+                                "Donyoku"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそっ、俺はドンヨク公だぞ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.それが何故こんな冴えないオヤジと同席に…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!うぅぅ、\\.しくしく……。"
+                                "Damn it, I am Duke Donyoku...? Why am I sitting next to such a\ndull old man...? Ugh, sob sob..."
                             ]
                         },
                         {
@@ -5054,28 +4781,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[2]……………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\SE[58]いや、見なかったことにしましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.少し不憫に見えてきたわ。"
+                                "\\SE[2]................ \\!\\SE[58]No, let's pretend we didn't see\nthat. \\.He seems a little pitiful."
                             ]
                         },
                         {
@@ -5163,28 +4876,14 @@
                                 0,
                                 0,
                                 2,
-                                "ユリシーン兵"
+                                "Ulyssean Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "休暇中であります…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ついで社会見学中であります！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!はい、とっても美味しいであります…！！"
+                                "I'm on vacation...! And also on a social visit! Yes, it's very\ndelicious...!!"
                             ]
                         },
                         {

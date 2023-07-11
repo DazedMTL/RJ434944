@@ -2335,28 +2335,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[16]さて、みなさん疲れはとれましたね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『ユリシーン』まであと少しです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もうひと踏ん張り、\\頑張りましょう！！"
+                                "\\SE[16] Well, everyone, have you rested enough? We're just a\nlittle bit away from the Yuriseen scene! Let's give it one more\npush and do our best!!"
                             ]
                         },
                         {
@@ -2405,21 +2391,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[72]誰かさんたちは、余計疲れちゃったんじゃないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.足を引っ張らないでよね？"
+                                "\\SE[72]I wonder if someone here has gotten even more tired? Don't\nslow us down, okay?"
                             ]
                         },
                         {
@@ -2462,14 +2441,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[56]な、なんのことかしらねー…？"
+                                "\\SE[56]W-What are you talking about...?"
                             ]
                         },
                         {
@@ -2494,14 +2473,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[31]ううっ…///"
+                                "\\SE[31]Uuuh...///"
                             ]
                         },
                         {
@@ -2559,21 +2538,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あんまり気にしないで、ラウラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.その…\\!\\SE[16]可愛かったよ…？"
+                                "\\SE\\SE[16]Don't worry too much, Laura. \\.That...\\!\\SE[16]Was it\ncute...?"
                             ]
                         },
                         {
@@ -2593,14 +2565,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]……\\.……\\.……\\!\\SE[116]\\SM[pop]見てたの！？"
+                                "\\SE[3]......\\.......\\.......\\!\\SE[116]\\SM[pop]Were you watching!?"
                             ]
                         },
                         {
@@ -3417,7 +3389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[385]マジカルケアβを手に入れた！\\$"
+                                "\\i[385] I obtained Magical Care β! \\$"
                             ]
                         },
                         {
@@ -4203,14 +4175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "年季の入った『犬小屋』だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.大切に育てられているみたい…。"
+                                "It's an old doghouse. It seems to be well taken care of..."
                             ]
                         },
                         {

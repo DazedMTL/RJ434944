@@ -1586,21 +1586,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[57]私はお弁当なくても大丈夫なのに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[25]もう、\\.過保護なんだから…。"
+                                "\\SE[57]Even if I don't have a bento, it's okay...\n\\SE[25]Seriously, you're being too overprotective..."
                             ]
                         },
                         {
@@ -1640,7 +1633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[444]お弁当を手に入れた！\\$"
+                                "\\i[444]I got a bento! \\$"
                             ]
                         },
                         {
@@ -1689,21 +1682,14 @@
                                 0,
                                 0,
                                 2,
-                                "アイシャの声"
+                                "Aisha's voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんくださいー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ヴィタいるー…？"
+                                "Excuse me... Is Vita here?"
                             ]
                         },
                         {
@@ -1745,21 +1731,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]いるよー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.すぐ行くー！"
+                                "\\SE[4]I'm here! \\.I'll be right there!"
                             ]
                         },
                         {
@@ -1779,21 +1758,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]あれ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.アイシャは休んでるんじゃなかったっけ…。"
+                                "\\SE[3]Huh...? \\.Wasn't Aisha supposed to be resting...?"
                             ]
                         },
                         {
@@ -2258,14 +2230,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[56]おはよー…。"
+                                "\\SE[56]Good morning...."
                             ]
                         },
                         {
@@ -2375,28 +2347,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あい、おはよーさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お母さんこれから出かけるからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お弁当作っといたから、好きな時に食べな。"
+                                "Oh, good morning. I'm going out now, so I made a bento for you.\nYou can eat it whenever you like."
                             ]
                         },
                         {
@@ -2416,21 +2374,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]ねぇ おかあさんも…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『お仕事』に行くの？"
+                                "\\SE[2]Hey, Mom... \\SE[3]Are you going to work too?"
                             ]
                         },
                         {
@@ -2450,28 +2401,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…そうだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お父さんが残しちゃった分が少しあるからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お母さんが片付けちゃおうと思ってんの。"
+                                "...That's right. \\!There's a little bit left over from what your\nfather left behind. I thought I would clean it up."
                             ]
                         },
                         {
@@ -2614,21 +2551,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]もう…\\.やめない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]おとうさんが死んだのも、\\.みんなが調子悪いのも…。"
+                                "\\SE[8]Enough already...\\.Won't you stop? \\!\\SE[9]Father's death,\neveryone feeling unwell..."
                             ]
                         },
                         {
@@ -2648,28 +2578,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]きっと…『お仕事』のせいだよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[10]おかしいよ 私だけ、\\.元気なんだもん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[29]みんな…死んじゃうよ…。"
+                                "\\SE[11]I'm sure... it's because of work.... \\!\\SE[10]It's\nstrange. I'm the only one who's... energetic.\n\\!\\SE[29]Everyone... is going to die...."
                             ]
                         },
                         {
@@ -2689,14 +2605,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなのかも…\\.しれないね…。"
+                                "Maybe... that's true... I don't know..."
                             ]
                         },
                         {
@@ -2707,28 +2623,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]私…お金なんて、\\.いらないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]旅行だって…我慢するし、\\.贅沢できなくてもいいし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[6]ずっと、狩りして生きていったっていいよ…。"
+                                "\\SE[8]I... don't need money. \\SE[7]I can endure not going on\ntrips, \\SM[nod]\\SE[6]I don't need to indulge in luxury. [3]I can\nlive my life hunting forever..."
                             ]
                         },
                         {
@@ -2786,14 +2688,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんたには…言ってなかったんだけどね。"
+                                "I didn't tell you, but..."
                             ]
                         },
                         {
@@ -2813,28 +2715,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この仕事、ノルマをこなせないと罰金があるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あんたが…今の私と……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.同じ歳になっても返しきれないくらいの。"
+                                "In this job, there are fines if you can't meet the quota. \\!Even\nif you become the same age as me... \\.You won't be able to repay\nit."
                             ]
                         },
                         {
@@ -2845,28 +2733,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おとうさん…自分が死ぬの分かってたみたいでさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!二人で相談はしてあったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたにそんな借金を残すことは絶対にしないって。"
+                                "Your father... seemed to know that he was going to die. \\!We had\ndiscussed it together. He said he would never leave you with such\na debt."
                             ]
                         },
                         {
@@ -2917,28 +2791,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいかい。私はこれから『お仕事』に行くけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたはもう絶対に集落には行っちゃだめだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お父さんとも…\\.そう約束したしね。"
+                                "Listen. I'm going to work now... but you absolutely must not go\nto the village anymore. \\!We promised your father that too."
                             ]
                         },
                         {
@@ -2958,21 +2818,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃ、私は行ってくるから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…お弁当忘れず食べちゃいなよ？"
+                                "Well, I'm going now. \\!...Don't forget to eat your lunch, okay?"
                             ]
                         },
                         {
@@ -3107,14 +2960,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[11]まって…！"
+                                "Wait...!"
                             ]
                         },
                         {
@@ -3280,21 +3133,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだい…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あんまり甘える子じゃないと思ってたけど。"
+                                "What's wrong...? I didn't think you were the type to be so\ndependent."
                             ]
                         },
                         {
@@ -3314,21 +3160,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]おとうさんが…\\.最期に言ってた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[7]『都会』では家族で『ハグ』したりするんだって。"
+                                "\\SE[9]My father...\\.He said it before he passed away. \\!\\SE[7]In\nthe city, families hug each other."
                             ]
                         },
                         {
@@ -3419,21 +3258,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それなら…あの人も…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.悔いなく逝けたのかもしれないね…。"
+                                "If that's the case... maybe... that person... was able to pass\naway without regrets..."
                             ]
                         },
                         {
@@ -3460,21 +3292,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そろそろ…行かないとね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!遅くなったら怒られちまうからね。"
+                                "It's about time... I have to go. \\!If I'm late, I'll get scolded."
                             ]
                         },
                         {
@@ -3579,14 +3404,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんたが泣いてるのは数年ぶりだね…。"
+                                "It's been a few years since I've seen you cry..."
                             ]
                         },
                         {
@@ -3597,21 +3422,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずっと子供だと思ってたけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あんたもちょっとずつ…\\.大人になってたんだね。"
+                                "I always thought of you as a child... \\!But little by little...\n\\.You've grown up, haven't you?"
                             ]
                         },
                         {
@@ -3622,14 +3440,14 @@
                                 0,
                                 0,
                                 2,
-                                "おかあさん"
+                                "Mother"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ、行ってくるよ。"
+                                "Well, I'm going now."
                             ]
                         },
                         {
@@ -3640,14 +3458,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[10]うん…\\.いってらっしゃい…。"
+                                "\\SE[10]Okay... Take care..."
                             ]
                         },
                         {
@@ -3838,21 +3656,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]そうだ、おとうさんに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何か、お供え物しよう。"
+                                "\\SE[8]I should... offer something to my father."
                             ]
                         },
                         {
@@ -4151,14 +3962,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[56]おかあさんのお弁当…\\.持っていかないと。"
+                                "\\SE[56]Mom's bento... I have to take it with me."
                             ]
                         },
                         {
@@ -4392,21 +4203,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]なんだか、静かになっちゃったな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[9]おまえは…\\.どうしたい？\\!"
+                                "\\SE[8]It's gotten quiet for some reason.... \\SE[9]What do you\nwant?"
                             ]
                         },
                         {
@@ -4458,7 +4262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぬいぐるみを連れていくことにした！"
+                                "I decided to bring a stuffed animal with me!"
                             ]
                         },
                         {
@@ -4477,14 +4281,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[6]ひとりぼっちは…\\.さみしいよね。"
+                                "\\SE[6]Being alone... it's lonely, isn't it?"
                             ]
                         },
                         {
@@ -4508,21 +4312,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[15]頼れるのはおまえだけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.家の留守は任せたぞ…。"
+                                "\\SE[15]I can only rely on you. I'm leaving the house to you..."
                             ]
                         },
                         {

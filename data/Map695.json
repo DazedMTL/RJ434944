@@ -6367,21 +6367,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[29]迷惑、かけちゃったな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[60]はぁ…冷静にならないと…。"
+                                "\\SE[29]I'm sorry for causing trouble.... \\!\\SE[60]Sigh... I need\nto calm down...."
                             ]
                         },
                         {
@@ -6453,28 +6446,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]それにしても…\\.不思議な場所…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[54]とても安心するような、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なのに、少し不安にもなるような…。"
+                                "\\SE[5]However...\\.This place is so mysterious.... \\!\\SE[54]It\nfeels very comforting, \\.yet at the same time, it makes me a\nlittle anxious...."
                             ]
                         },
                         {
@@ -6766,14 +6745,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あなたは、\\.先程の…。"
+                                "'Teacher: \\SE[2]You are the one from earlier....'"
                             ]
                         },
                         {
@@ -6809,28 +6788,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[64]あっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.さっきはごめんなさい…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[60]私、大変失礼なことを…。"
+                                "\\SE[64]Ah...! I'm sorry for earlier...!! \\SE[60]I was very\nrude..."
                             ]
                         },
                         {
@@ -6850,21 +6815,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]お力になれるか分かりませんが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]お話、聞かせていただけますか？"
+                                "'Teacher: \\SE[3]I'm not sure if I can be of any help....\n\\!\\SE[0]May I listen to your story?'"
                             ]
                         },
                         {
@@ -6884,14 +6842,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[63]ぜ、ぜひ…！！"
+                                "\\SE[63]Y-Yes...!!"
                             ]
                         },
                         {
@@ -6965,21 +6923,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]なるほど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.確かに、私なら治せるかもしれません。"
+                                "'Teacher: \\SE[2]I see...\\.Indeed, I might be able to heal you.'"
                             ]
                         },
                         {
@@ -7006,14 +6957,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]ほ、ほんとうですか…！？"
+                                "\\SE[76]R-Really...!?"
                             ]
                         },
                         {
@@ -7033,21 +6984,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]『かも』…\\.です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[8]確実なことは言えないので…！"
+                                "'Teacher: \\SE[9]I... might be able to. \\.\\SE[8]I can't say for\ncertain...!'"
                             ]
                         },
                         {
@@ -7126,21 +7070,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[65]でも、見てもらうのは難しいんですよね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[24]さっきも『５年後』って言われちゃったし…。"
+                                "\\SE[65]But it's difficult for me to get someone to look at it....\n\\SE[24]I was told earlier that it's five years later...."
                             ]
                         },
                         {
@@ -7158,14 +7095,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[37]それは…。"
+                                "'Teacher: \\SE[37]That is....'"
                             ]
                         },
                         {
@@ -7206,14 +7143,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]その…人違いだったら\\.申し訳ないのですが…。"
+                                "'Teacher: \\SE[52]Um... If it was a case of mistaken identity, I\napologize...'"
                             ]
                         },
                         {
@@ -7264,21 +7201,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]あなたは、\\.もしかして…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『零月の』ラウラさんでは…？"
+                                "'Teacher: \\SE[4]Are you... by any chance... \\SE[3]Laura from Zero\nTsuki...?'"
                             ]
                         },
                         {
@@ -7375,28 +7305,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[64]えっと、はい…\\.恥ずかしながら…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.いつのまにか、そう呼ばれていて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[60]私としては、変な感じなんですけど…。"
+                                "\\SE[64]Um, yes... Embarrassingly enough... Somehow, I've been\ncalled that... \\SE[60]For me, it feels strange though..."
                             ]
                         },
                         {
@@ -7446,28 +7362,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]いま見ている『患者さん』が…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.少し、容体が危ういんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]なので、私が『直接』治療したいのですが…。"
+                                "'Teacher: \\SE[12]The patient I am currently seeing.... Their\ncondition is a bit critical. \\SE[13]So, I would like to treat\nthem directly if possible....'"
                             ]
                         },
                         {
@@ -7492,14 +7394,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]（直接…？）"
+                                "\\SE[5] (Directly...?)"
                             ]
                         },
                         {
@@ -7510,28 +7412,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]私一人では、\\.力不足なんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]なので、もし\\.『零月の』ラウラさんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.お力をお借りして、あの子の病気を治せれば…。"
+                                "'Teacher: \\SE[14]I alone... am lacking in power. \\SE[13]So, if I\ncould borrow the power of Zero Tsuki Laura-san, and cure that\nchild's illness....'"
                             ]
                         },
                         {
@@ -7542,28 +7430,14 @@
                                 0,
                                 0,
                                 2,
-                                "『先生』"
+                                "『 Teacher』"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]『ルナロア』さんの容体を見る、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『時間』を作れると思います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[13]…いかがでしょう？"
+                                "'Teacher: \\SE[14]I believe I can make time to check on Lunaroa-\nsan's condition. \\SE[13]...What do you think?'"
                             ]
                         },
                         {
@@ -7722,21 +7596,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[70]やります！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[12]ぜひ、やらせてください！！"
+                                "\\SE[70]I'll do it!!! \\!\\SE[12]Please let me do it!!"
                             ]
                         },
                         {

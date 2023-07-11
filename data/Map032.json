@@ -15920,35 +15920,14 @@
                                 0,
                                 1,
                                 2,
-                                "操作説明"
+                                "Operation Explanation"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "決定：Ｚボタン、Ｅｎｔｅｒキー、ＳＰＡＣＥキー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!キャンセル：Ｘボタン、Ｅｓｃキー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!移動：←↑→↓キー、画面タップorクリック"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!装備画面キャラ切り替え：Ｑボタン、Ｗボタン"
+                                " Confirm: Z button, Enter key, SPACE key Cancel: X button, Esc\nkey Movement: ←↑→↓ keys, screen tap or click Switch Character in\nEquipment Screen: Q button, W button"
                             ]
                         },
                         {
@@ -15959,35 +15938,14 @@
                                 0,
                                 1,
                                 2,
-                                "操作説明"
+                                "Operation Explanation"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バックログ：Ｗボタン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!クイックタックル：Ｑボタン（モンスターマップのみ）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ちょっと早送り：決定ボタン長押し　\\.超早送り：ctrlキー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ウインドウ非表示：右クリック"
+                                "Backlog: W button. Quick tackle: Q button (Monster Map only).\nFast forward a bit: Hold down the confirm button. Super fast\nforward: Ctrl key. Hide window: Right click."
                             ]
                         },
                         {
@@ -16426,14 +16384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "返事がない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この家は『空き家』のようだ。"
+                                "No response... This house seems to be an abandoned house."
                             ]
                         },
                         {
@@ -18898,7 +18849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『難民保護施設』\\!…と書いてある。"
+                                "It says 'Refugee Protection Facility'..."
                             ]
                         },
                         {
@@ -20169,21 +20120,14 @@
                                 0,
                                 0,
                                 2,
-                                "跳ね石勧誘のリコル"
+                                "Recruiter Rico for Bouncing Stone"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここのブロック、跳ね石なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ねーちゃんも一発ジャンプキメてく？"
+                                "These blocks here are bouncing stones. Hey, would you like to try\na jump too, sis?"
                             ]
                         },
                         {
@@ -20295,21 +20239,14 @@
                                 0,
                                 0,
                                 2,
-                                "飛び石勧誘のリコル"
+                                "Ricor, the Stone Skipping Recruiter"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのブロック、『飛び石』なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ねーちゃんも一発ジャンプキメてく？"
+                                "These blocks here are stone skipping blocks. Hey, would you like\nto give it a try, miss?"
                             ]
                         },
                         {
@@ -20371,28 +20308,14 @@
                                 0,
                                 0,
                                 2,
-                                "跳ね石勧誘のリコル"
+                                "Recruiter Rico for Bouncing Stone"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……うぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どうしよう…また『ぼっき』しちゃった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!またあの二人に『洗礼』されちゃう……。"
+                                "......Ugh. What should I do... I got excited again....... I'm\ngoing to be baptized by those two again......."
                             ]
                         },
                         {
@@ -20472,21 +20395,14 @@
                                 0,
                                 0,
                                 2,
-                                "伝承者のミライ"
+                                "Mirai, the Successor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "凄腕のジャンパーは幻の４弾ジャンプが出来るんだって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.おねえちゃんには…どういう意味か分かる？"
+                                "I heard that the amazing jumper can perform the legendary 4th\njump. Do you know what that means, big sister?"
                             ]
                         },
                         {
@@ -20548,28 +20464,14 @@
                                 0,
                                 0,
                                 2,
-                                "伝承者のミライ"
+                                "Mirai, the Successor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…見ていたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.おねえちゃんが『４連ジャンプ』を決めるところ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『凄腕のジャンパー』として認めざるを得ない…。"
+                                "...I was watching. When big sister landed the quadruple jump... I\ncouldn't help but acknowledge her as a skilled jumper."
                             ]
                         },
                         {
@@ -20580,21 +20482,14 @@
                                 0,
                                 0,
                                 2,
-                                "伝承者のミライ"
+                                "Mirai, the Successor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これを持っていって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私よりもあなたが持っているべきだわ。"
+                                "Take this. You should have it more than I do."
                             ]
                         },
                         {
@@ -20624,7 +20519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[468]ジャンパースカーフを手に入れた！"
+                                "\\i[468]Obtained Jumper Scarf!"
                             ]
                         },
                         {
@@ -20705,28 +20600,14 @@
                                 0,
                                 0,
                                 2,
-                                "伝承者のミライ"
+                                "Mirai, the Successor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やはりあなたの『飛び』は素晴らしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.我々としても非常に参考になる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ジャンプ音の『ダサさ』さえどうにかなれば、完璧……。"
+                                "Your jump is truly amazing. It is very inspiring for us as well.\nIf only we could somehow fix the lame sound of the jump, it would\nbe perfect."
                             ]
                         },
                         {
@@ -20797,21 +20678,14 @@
                                 0,
                                 0,
                                 2,
-                                "飛び依存のキメル"
+                                "Kimeru the Skybound"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は何発『トビ』をキメてくかな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ちくしょう…\\.やみつきになっちまうぜ…！"
+                                "I wonder how many times I'll jump today! Damn it... I'm getting\naddicted to it...!"
                             ]
                         },
                         {
@@ -20889,14 +20763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーン流剣術　～入門大歓迎～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　道場破りも絶賛募集中！"
+                                "Ulyssean Swordsmanship ~ Beginners Welcome ~. Dojo challengers\nare also enthusiastically recruited!"
                             ]
                         },
                         {
@@ -20967,21 +20834,14 @@
                                 0,
                                 0,
                                 2,
-                                "飛び予備軍のグンジ"
+                                "Gunji, the Jumping Reserves"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなジャンプ…何の意味もないんだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なぜかやっちゃうんだよね…。"
+                                "This kind of jump... it doesn't have any meaning... but for some\nreason, I keep doing it..."
                             ]
                         },
                         {
@@ -24143,21 +24003,14 @@
                                 0,
                                 0,
                                 2,
-                                "警備兵のライト"
+                                "Security Guard Light"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "城門の警備をしています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.御用のない方はお引き取り下さい。"
+                                "I am guarding the castle gate. If you have no business here,\nplease leave."
                             ]
                         },
                         {
@@ -24228,21 +24081,14 @@
                                 0,
                                 0,
                                 2,
-                                "警備兵のレフト"
+                                "Left, the Security Guard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "となりの松明が熱くて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.甲冑の中で蒸しダコになりそうです…。"
+                                "The torch next to me is so hot... I feel like I'm turning into a\nsteamed octopus inside this armor..."
                             ]
                         },
                         {
@@ -24344,21 +24190,14 @@
                                 0,
                                 0,
                                 2,
-                                "警備兵のライト"
+                                "Security Guard Light"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "城内に入るには、正式な『手続き』が必要です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!申し訳ありませんがお引き取り下さい。"
+                                "To enter the castle, a formal procedure is required. I'm sorry,\nbut please take care of it."
                             ]
                         },
                         {
@@ -24505,21 +24344,14 @@
                                 0,
                                 0,
                                 2,
-                                "下戸のオロロ"
+                                "Orolo the teetotaler"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おろろ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ううっ…飲み過ぎた…\\.おろろ…！！"
+                                "Orolo...!! Ugh... I drank too much... Orolo...!!"
                             ]
                         },
                         {
@@ -24590,21 +24422,14 @@
                                 0,
                                 0,
                                 2,
-                                "家政婦のミーラ"
+                                "Mira the Housekeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "洗濯は嫌だわ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!でも、料理はもっと嫌だし、\\.掃除はさらに嫌だわ…！"
+                                "I hate doing laundry...! But I hate cooking even more, and\ncleaning is even worse...!"
                             ]
                         },
                         {
@@ -24666,28 +24491,14 @@
                                 0,
                                 0,
                                 2,
-                                "家政婦のミーラ"
+                                "Mira the Housekeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、嫌だねぇ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.こんな歳になってから求められるなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!まったく、嫌だねぇ…///"
+                                "I-I don't like this... Being desired at my age... It's really\nunpleasant...///"
                             ]
                         },
                         {
@@ -24767,21 +24578,14 @@
                                 0,
                                 0,
                                 2,
-                                "実直な警備兵"
+                                "Honest Security Guard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勤務中であります！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "武器の売買所には警備兵の配置が義務となっております！"
+                                "I am on duty! It is mandatory to have security guards stationed\nat the weapons trading post!"
                             ]
                         },
                         {
@@ -24852,21 +24656,14 @@
                                 0,
                                 0,
                                 2,
-                                "宣教者フォルネウス"
+                                "Missionary Forneus"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は素敵な日だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.花が咲いている。小鳥たちもさえずってる…。"
+                                "Today is a wonderful day... The flowers are blooming. The birds\nare chirping..."
                             ]
                         },
                         {
@@ -24937,21 +24734,14 @@
                                 0,
                                 0,
                                 2,
-                                "呼び子のヨビコ"
+                                "Yobiko the Caller"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よかったら！ご一泊いかがですかー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.おかあさんの料理はおいしいよー！"
+                                "If you'd like! How about staying overnight?! My mom's cooking is\ndelicious, you know!"
                             ]
                         },
                         {
@@ -25022,21 +24812,14 @@
                                 0,
                                 0,
                                 2,
-                                "潰れたラティ"
+                                "Crushed Latte"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒…飲みすぎちまって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.少しだけ休ませて…\\.少しだけ…。"
+                                "I... drank too much alcohol... Let me rest for a bit... Just a\nlittle bit..."
                             ]
                         },
                         {
@@ -25107,28 +24890,14 @@
                                 0,
                                 0,
                                 2,
-                                "散歩大好きマリー"
+                                "Marie loves going for walks"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこのあなた…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ちゃんと毎日『散歩』はしてる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『散歩』は健康にとってもいいのよ…！"
+                                "Hey there...! Are you properly taking walks every day? Taking\nwalks is really good for your health, you know...!"
                             ]
                         },
                         {
@@ -25139,21 +24908,14 @@
                                 0,
                                 0,
                                 2,
-                                "散歩大好きマリー"
+                                "Marie loves going for walks"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毎日、必ず４０分！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!これで一日の運動量を賄えちゃうんだから！"
+                                "Every day, without fail, for 40 minutes! With this, you can cover\nyour daily exercise quota!"
                             ]
                         },
                         {
@@ -25224,21 +24986,14 @@
                                 0,
                                 0,
                                 2,
-                                "お節介なセッカ"
+                                "Meddlesome Sekka"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは冒険者ギルドよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クエストの受注はここで受けるといいわ。"
+                                "This is the Adventurer's Guild. It's best to receive quest\nrequests here."
                             ]
                         },
                         {
@@ -25309,28 +25064,14 @@
                                 0,
                                 0,
                                 2,
-                                "名工コウセ"
+                                "Master Craftsman Kousei"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この女神像は10年前にわしが作ったんじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…いまになって造形が気になっての。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ほんの少しだけほほ削らせてもらえんかの…。"
+                                "I made this goddess statue 10 years ago. Now, I'm concerned about\nits sculpting. Could you let me shave off just a little bit of\nthe cheeks...?"
                             ]
                         },
                         {
@@ -25641,14 +25382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『サーブルノワール』のおうち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ヴィタがよく、一緒に丸まって寝てる。"
+                                "Vita often curls up and sleeps together in Sable Noir's house."
                             ]
                         },
                         {
@@ -25673,14 +25407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あれっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!奥に、何か隠してある…？"
+                                "......Huh? What's hidden back there...?"
                             ]
                         },
                         {
@@ -25729,14 +25456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[803]ヴィタのぱんつを手に入れた！\\$"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!こんなところにあるとは……。"
+                                "\\i[803]Obtained Vita's panties! \\$ \\!I can't believe they were\nhere..."
                             ]
                         },
                         {
@@ -25824,21 +25544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『サーブルノワール』のおうち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ヴィタがよく、一緒に丸まって寝てる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!……とくに隠しているものはないようだ。"
+                                "Sable Noir's home. Vita is often curled up and sleeping together.\n...It seems like there's nothing in particular that she's hiding."
                             ]
                         },
                         {
@@ -25909,21 +25615,14 @@
                                 0,
                                 0,
                                 2,
-                                "幾ばくも無いアイリ"
+                                "Iri"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うげぇ…飲み過ぎたわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あー…駄目だわこれ。死ぬわ。\\.わたし。"
+                                "Ugh... I drank too much... Ahh... This is bad. I'm going to die.\nMe."
                             ]
                         },
                         {
@@ -25994,21 +25693,14 @@
                                 0,
                                 0,
                                 2,
-                                "がめつい聖女マリアナ"
+                                "Greedy Saint Mariana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユリシーンの神々にご礼拝はいかがですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.よろしければお布施もどうでしょう？"
+                                "How about worshiping the gods of Ulyssean? If you don't mind, how\nabout making an offering as well?"
                             ]
                         },
                         {
@@ -26306,21 +25998,14 @@
                                 0,
                                 0,
                                 2,
-                                "語りたがりのレジーナ"
+                                "Regina the Storyteller"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たまに誤解をされるのですが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ユリシーンにも普通に結婚する人はいっぱいいるんです。"
+                                "Sometimes there is a misunderstanding... There are actually many\npeople who get married in Yuri scenes as well."
                             ]
                         },
                         {
@@ -26331,21 +26016,14 @@
                                 0,
                                 0,
                                 2,
-                                "語りたがりのレジーナ"
+                                "Regina the Storyteller"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしは女の子が好きなので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この国に来ただけなんですけど。"
+                                "I came to this country just because I like girls."
                             ]
                         },
                         {
@@ -26430,14 +26108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このさきは地下道へと続いている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.飛び込みますか？（たいしたものはありません。）\\!"
+                                "This path continues to the underground passage... Will you jump\nin? (There's nothing significant.)"
                             ]
                         },
                         {
@@ -27090,28 +26761,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あらっ\\. みなさん！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]素敵な『アクセサリー』とか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必要だったりしませんでしょうか！？"
+                                "\\SE\\SE[15]Oh my, everyone! \\SE[15]Do you happen to need any\nlovely accessories by any chance?!"
                             ]
                         },
                         {
@@ -27196,14 +26853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キャットの『商売道具』のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何やら色々なものが詰め込まれてるみたい…。"
+                                "It seems like the cat's business tools. Various things seem to be\npacked inside..."
                             ]
                         },
                         {
@@ -27444,14 +27094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『サーブルノワール』は遊んで欲しいみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.…なでてあげますか？\\!"
+                                "It seems like they want you to play 'Sable Noir'. Should I pet\nthem?"
                             ]
                         },
                         {
@@ -27520,7 +27163,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごきげんになったみたい…。"
+                                "It seems like they became happy..."
                             ]
                         },
                         {
@@ -27570,7 +27213,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっとさみしそう…。"
+                                "They seem a little lonely..."
                             ]
                         },
                         {
@@ -27811,21 +27454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『生活に苦しんでいます！ \\.愛はきっと世界を救います！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　あなたもぜひ、救いの手を差し伸べる第一歩を！』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…道行く人から、お金を恵んでもらっているみたいだ。"
+                                "I'm struggling in life! Love will surely save the world!! Please,\ntake the first step and extend a helping hand too! ... It seems\nlike I'm receiving money from people passing by."
                             ]
                         },
                         {
@@ -28018,7 +27647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中には何も入っていないようだ……。"
+                                "It seems like there's nothing inside..."
                             ]
                         },
                         {
@@ -28069,28 +27698,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[56]それ、やっぱり気になっちゃいますよね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何を隠そう『空の宝箱』なんです…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]\\SM[pop]『貴重』ですよね！\\. 『レア』ですよね！"
+                                "\\SE[56]That's right, it's something that piques your curiosity,\ndoesn't it? It's none other than the Empty Treasure Chest...!\n\\SE[15]\\SM[pop]It's precious, isn't it? It's rare, isn't it?"
                             ]
                         },
                         {
@@ -28101,28 +27716,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]今回はこの『超絶レア空箱』を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ラウラさんにプレゼントしちゃいます…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]『お部屋』にお届けしておきますね！！"
+                                "\\SE[12]This time, I'll give this ultra rare empty box to Laura-\nsan...! \\SE[15]I'll deliver it to your room!!"
                             ]
                         },
                         {
@@ -28133,28 +27734,14 @@
                                 0,
                                 0,
                                 2,
-                                "キャット"
+                                "Cat"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]きっと気に入ると思いますよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.なんといっても『無限にぱかぱか』出来ますからね…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[15]充実した時間を過ごしちゃってください！！"
+                                "\\SE\\SE[15]I'm sure you'll love it! After all, you can open and\nclose it infinitely...! \\SE[15]Please enjoy your fulfilling time\nwith it!!"
                             ]
                         },
                         {
@@ -28300,21 +27887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『生活に苦しんでいます！ \\.愛はきっと世界を救います！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　あなたもぜひ、救いの手を差し伸べる第一歩を！』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…道行く人から、お金を恵んでもらっているみたいだ。"
+                                "I'm struggling in life! Love will surely save the world!! Please,\ntake the first step and extend a helping hand too! ... It seems\nlike I'm receiving money from people passing by."
                             ]
                         },
                         {
@@ -28332,7 +27905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……成果は『びみょう』みたい。"
+                                "......The results are mediocre it seems."
                             ]
                         },
                         {
@@ -28403,28 +27976,14 @@
                                 0,
                                 0,
                                 2,
-                                "訝しむラジカ"
+                                "Perplexed Radjika"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あそこにいる人…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『露天商』って言い張ってるけど、『物乞い』\\.よね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!いやだわ、景気が悪くなってるのかしら…。"
+                                "That person over there... insisting they're a street vendor, but\nthey look more like a beggar... I wonder if the economy is\ngetting worse..."
                             ]
                         },
                         {
@@ -28758,14 +28317,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "各キャラの性能や、おすすめの使い方を説明するよ。\\!"
+                                "I will explain the abilities and recommended ways to use each\ncharacter."
                             ]
                         },
                         {
@@ -28799,21 +28358,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "状況に合わせて動きを変えられる『柔軟性』が売り！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!主人公らしい、多様な戦い方をしていこう！"
+                                "The selling point is the flexibility to change movements\naccording to the situation! Let's fight in various ways that suit\nthe protagonist!"
                             ]
                         },
                         {
@@ -28824,28 +28376,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おすすめは\\i[97]輝剣を使って攻撃力を維持しつつ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "必要なら、アイテムも含めてサポート！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ＳＰが少ないキャラに\\i[84]チアフルエール！！"
+                                "The recommended strategy is to use the shining sword to maintain\nattack power, and if necessary, provide support including items!\nFor characters with low SP, use Cheerful Air!!"
                             ]
                         },
                         {
@@ -28856,21 +28394,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『奥義』は、なんとターン消費せずに行動できるんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!溢れたらもったいないので、いい感じに使っていこう！"
+                                "Special Moves can be used without consuming turns! Since it would\nbe a waste if they overflow, let's use them in a good way!"
                             ]
                         },
                         {
@@ -28881,21 +28412,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼女の立ち回り次第では、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぶっとんだ戦い方も出来ちまうと思うぞ…！"
+                                "Depending on her approach, she can even pull off some outrageous\nfighting styles...!"
                             ]
                         },
                         {
@@ -28929,14 +28453,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}本当に壊れてたら教えてください。"
+                                "\\}Please let me know if anything is really broken."
                             ]
                         },
                         {
@@ -28960,28 +28484,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "行動回数を増やす『奥義』が超強いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!とりあえずなっとけ。\\.で、使ってみよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!使える『魔法』も増えるからね！"
+                                "The Special Moves that increase the number of actions are super\nstrong! Keep them in mind for now. Let's try using them! And\nsince the available magic also increases, you should use them\ntoo!"
                             ]
                         },
                         {
@@ -28992,28 +28502,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敵を弱体化させるのか、回復に回るのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!はたまた、攻撃に回るのか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!限られた『４回』を大切に使っていこう！"
+                                "Should we debuff the enemy, focus on healing, or perhaps go on\nthe offensive...? Let's make the most of our limited 4 turns!"
                             ]
                         },
                         {
@@ -29047,14 +28543,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}ちょっと、強くしすぎたか…？"
+                                "\\}Did I make it too strong...?"
                             ]
                         },
                         {
@@ -29078,14 +28574,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか、良かった！！"
+                                "I see, that's great!!"
                             ]
                         },
                         {
@@ -29164,14 +28660,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "各キャラの性能や、おすすめの使い方を説明するよ。\\!"
+                                "I will explain the abilities and recommended ways to use each\ncharacter."
                             ]
                         },
                         {
@@ -29206,21 +28702,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "状況に合わせて動きを変えられる『柔軟性』が売り！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!主人公らしい、多様な戦い方をしていこう！"
+                                "The selling point is the flexibility to change movements\naccording to the situation! Let's fight in various ways that suit\nthe protagonist!"
                             ]
                         },
                         {
@@ -29231,28 +28720,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おすすめは\\i[97]輝剣を使って攻撃力を維持しつつ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "必要なら、アイテムも含めてサポート！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ＳＰが少ないキャラに\\i[84]チアフルエール！！"
+                                "The recommended strategy is to use the shining sword to maintain\nattack power, and if necessary, provide support including items!\nFor characters with low SP, use Cheerful Air!!"
                             ]
                         },
                         {
@@ -29263,21 +28738,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『奥義』は、なんとターン消費せずに行動できるんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!溢れたらもったいないので、いい感じに使っていこう！"
+                                "Special Moves can be used without consuming turns! Since it would\nbe a waste if they overflow, let's use them in a good way!"
                             ]
                         },
                         {
@@ -29288,21 +28756,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼女の立ち回り次第では、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぶっとんだ戦い方も出来ちまうと思うぞ…！"
+                                "Depending on her approach, she can even pull off some outrageous\nfighting styles...!"
                             ]
                         },
                         {
@@ -29336,14 +28797,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}本当に壊れてたら教えてください。"
+                                "\\}Please let me know if anything is really broken."
                             ]
                         },
                         {
@@ -29367,28 +28828,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "行動回数を増やす『奥義』が超強いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!とりあえずなっとけ。\\.で、使ってみよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!使える『魔法』も増えるからね！"
+                                "The Special Moves that increase the number of actions are super\nstrong! For now, keep them in mind. Let's try using them! And\nsince the available magic also increases, you should use them\ntoo!"
                             ]
                         },
                         {
@@ -29399,28 +28846,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敵を弱体化させるのか、回復に回るのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!はたまた、攻撃に回るのか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!限られた『４回』を大切に使っていこう！"
+                                "Should we debuff the enemy, focus on healing, or perhaps go on\nthe offensive...? Let's make the most of our limited 4 turns!"
                             ]
                         },
                         {
@@ -29454,14 +28887,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}ちょっと、強くしすぎたか…？"
+                                "\\}Did I make it too strong...?"
                             ]
                         },
                         {
@@ -29485,28 +28918,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『盾役』として、被ダメージを減らすことが出来るよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!敵の『弱体化』、自身の『かっちかち』…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!強敵相手にはヴィタを上手に使っていこう！"
+                                "As a tank role, she can reduce the damage taken! Debuff the\nenemy, use her sturdy ability... Against strong enemies, let's\nuse Vita wisely!"
                             ]
                         },
                         {
@@ -29517,28 +28936,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "最初は『弱体化』から初めてみるといいと思うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!他キャラに比べると、とりあえず『奥義』！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.…っていうキャラではないかも。\\.それも強いけど。"
+                                "I think it's a good idea to start with debuffing at first. Unlike\nother characters, she's not exactly a character who relies on\nspecial moves right away. But that's also strong in its own way."
                             ]
                         },
                         {
@@ -29549,21 +28954,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『物理』と『魔法』のどちらを弱体化させるか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!敵の見た目から、なんとなく判断しよう！"
+                                "Should we debuff 'physical' or 'magic' abilities...? Let's try to\njudge based on the enemy's appearance!"
                             ]
                         },
                         {
@@ -29574,35 +28972,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あっ、『通常攻撃』が特徴的でもあるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『特大剣』だと味方の『追従攻撃』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『鉄球』だと『３回攻撃』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『弓』は範囲の『高速全体化』"
+                                "Ah, she also has a characteristic normal attack. With the Shining\nSword, it triggers follow-up attacks from allies. With the Iron\nBall, it performs a 3-hit attack. The Bow has a high-speed area\nattack."
                             ]
                         },
                         {
@@ -29613,28 +28990,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『奥義』を使うと『アルティメット』になって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『通常攻撃』に全ての要素を載せることが出来るんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!流れが安定したときに、ぶちこんでみよう！！"
+                                "When using Secret Techniques, they become Ultimate and can\nincorporate all elements into Normal Attacks! Let's unleash them\nwhen the flow is stable!!"
                             ]
                         },
                         {
@@ -29668,14 +29031,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}少し、盛り過ぎたか…？"
+                                "\\}Did I go a little overboard...?"
                             ]
                         },
                         {
@@ -29699,14 +29062,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか、良かった！！"
+                                "I see, that's great!!"
                             ]
                         },
                         {
@@ -29785,21 +29148,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "各キャラの細かい性能や、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おすすめの戦い方を説明するよ。\\!"
+                                "I will explain the detailed abilities of each character and\nrecommend the best way to fight."
                             ]
                         },
                         {
@@ -29835,21 +29191,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "状況に合わせて動きを変えられる『柔軟性』が売り！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!主人公らしく、多様な戦い方をしていこう！"
+                                "The selling point is the flexibility to change movements\naccording to the situation! Let's fight in various ways like a\ntrue protagonist!"
                             ]
                         },
                         {
@@ -29860,28 +29209,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おすすめは\\i[97]輝剣を使って攻撃力を維持しつつ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "必要なら、アイテムも含めてサポート！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!ＳＰが少ないキャラに\\i[84]チアフルエール！！"
+                                "The recommended approach is to use the Radiant Sword to maintain\nattack power, and if necessary, provide support including items!\nFor characters with low SP, use the Cheerful Air!!"
                             ]
                         },
                         {
@@ -29892,28 +29227,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『奥義』は、なんとターン消費せずに行動できるんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!溢れたらもったいないので、いい感じに使っていこう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\i[97]かすみ三段でＳＰの回収も出来るぞ！"
+                                "You can use the Secret Technique without consuming any turns!\nSince it would be a waste if it overflows, let's use it in a good\nway! With the \\i[97] Kasumi Sandan, you can also recover SP!"
                             ]
                         },
                         {
@@ -29924,21 +29245,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼女の立ち回り次第では、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぶっとんだ戦い方も出来ちまうと思うぞ…！"
+                                "Depending on her approach, she can even pull off some outrageous\nfighting styles...!"
                             ]
                         },
                         {
@@ -29972,14 +29286,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}本当に壊れてたら教えてください。"
+                                "\\}Please let me know if anything is really broken."
                             ]
                         },
                         {
@@ -30003,28 +29317,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "行動回数を増やす『奥義』が超強いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!とりあえずなっとけ。\\.で、使ってみよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!使える『魔法』も増えるからね！"
+                                "The Secret Technique that increases the number of actions is\nsuper strong. \\! Keep it in mind for now.\\. Let's try using it!\n\\! You'll also gain more usable magic!"
                             ]
                         },
                         {
@@ -30035,28 +29335,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敵を弱体化させるのか、回復に回るのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!はたまた、攻撃に回るのか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!限られた『４回』を大切に使っていこう！"
+                                "Should we debuff the enemy, focus on healing, or perhaps go on\nthe offensive... Let's make the most of our limited 4 turns!"
                             ]
                         },
                         {
@@ -30090,14 +29376,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}ちょっと、強くしすぎたか…？"
+                                "\\}Hmm, did I make it too strong...?"
                             ]
                         },
                         {
@@ -30121,28 +29407,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『盾役』として、被ダメージを減らすことが出来るよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!敵の『弱体化』、自身の『かっちかち』…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!強敵相手にはヴィタを上手に使っていこう！"
+                                "As a tank, she can reduce the damage taken! \\! We can weaken the\nenemy, strengthen herself with Ironclad.... \\! Let's use Vita\neffectively against strong opponents!"
                             ]
                         },
                         {
@@ -30153,28 +29425,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "最初は『弱体化』から初めてみるといいと思うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!他キャラに比べると、とりあえず『奥義』！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.…っていうキャラではないかも。\\.それも強いけど。"
+                                "I think it's a good idea to start with debuffing at first. \\!\nUnlike other characters, she's not exactly a character who relies\non secret techniques right off the bat. \\. But that's also strong\nin its own way."
                             ]
                         },
                         {
@@ -30185,21 +29443,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『物理』と『魔法』のどちらを弱体化させるか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!敵の見た目から、なんとなく判断しよう！"
+                                "Let's decide whether to debuff physical or magic based on the\nappearance of the enemy! \\!"
                             ]
                         },
                         {
@@ -30210,35 +29461,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あっ、『通常攻撃』が特徴的でもあるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『特大剣』だと味方の『追従攻撃』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『鉄球』だと『３回攻撃』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『弓』は範囲の『全体化』"
+                                "Ah, she also has a characteristic normal attack. \\! With the\nGiant Sword, it triggers follow-up attacks from allies. \\! With\nthe Iron Ball, it performs a 3-hit attack. \\! The Bow has an\narea-of-effect ability."
                             ]
                         },
                         {
@@ -30249,28 +29479,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『奥義』を使うと『アルティメット』になって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『通常攻撃』に全ての要素を載せることが出来るんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!流れが安定したときに、ぶちこんでみよう！！"
+                                "When you use the Secret Technique, it becomes an Ultimate and you\ncan add all elements to your Normal Attacks! \\! When the flow is\nstable, let's unleash it!!"
                             ]
                         },
                         {
@@ -30304,14 +29520,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}少し、盛り過ぎたか…？"
+                                "\\}Did I go a little overboard...?"
                             ]
                         },
                         {
@@ -30335,28 +29551,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まず、速度が早い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "速攻回復、他キャラのサポートなどなど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!先制で動いてくれるので、信頼出来るぞ！"
+                                "First of all, she's fast! She can quickly heal and support other\ncharacters... \\! Since she moves first, you can rely on her!"
                             ]
                         },
                         {
@@ -30367,35 +29569,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑魚敵には豊富な全体攻撃をしつつ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "運が良ければ『状態異常』で足止め！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!快適な道中の頼れる味方！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『周回ゲーマー』もニッコリの性能だっ！"
+                                "While dealing abundant AoE damage to weak enemies, if you're\nlucky, you can also immobilize them with status ailments! \\! A\nreliable ally for a comfortable journey!! \\! It's also a\nperformance that brings a smile to loop gamers!"
                             ]
                         },
                         {
@@ -30406,35 +29587,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "強敵戦ではサポーターとして超強い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.『奥義』の火力バフで仲間を超強化出来るぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!他キャラの『奥義』に差し込むように使っていこう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『ソシャゲーマー』もニッコリの性能だっ！"
+                                "In tough battles, she's incredibly strong as a supporter! \\. With\nher special move's firepower buff, she can greatly enhance her\nallies! \\! Let's use it in sync with other characters' special\nmoves! \\! It's a performance that brings a smile to gacha gamers\ntoo!"
                             ]
                         },
                         {
@@ -30445,21 +29605,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼女の使い方が『腕』の出るところだと思うぞ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!まずは『奥義』を軽い気持ちで撃ってみよう！"
+                                "I think her usage is where her skills shine...! Let's start by\ncasually using her special move!"
                             ]
                         },
                         {
@@ -30470,14 +29623,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ、火力バフの倍率…？"
+                                "Huh, the firepower buff's multiplier...?"
                             ]
                         },
                         {
@@ -30511,14 +29664,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}今の所、２００％です…。"
+                                "\\}For now, it's at 200%..."
                             ]
                         },
                         {
@@ -30542,14 +29695,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか、良かった！！"
+                                "I see, that's great!!"
                             ]
                         },
                         {
@@ -30635,14 +29788,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "各キャラの性能や、おすすめの使い方を説明するよ。\\!"
+                                "I will explain the abilities and recommended ways to use each\ncharacter."
                             ]
                         },
                         {
@@ -30678,21 +29831,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "二刀流を軸にした『高火力』が売り！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.主人公らしい、縦横無尽な戦い方をしていこう！"
+                                "The selling point is the high firepower centered around dual\nwielding! Let's fight in a way that is befitting of the\nprotagonist, with freedom to move in any direction!"
                             ]
                         },
                         {
@@ -30703,28 +29849,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "困ったら\\i[93]月華無尽！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.脱法火力で理不尽を押し付けていこう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!奥義の\\i[93]月華・朧一閃も非っ常に強力だぞ！"
+                                "If you're in trouble, use Gekka Mujin! Let's overwhelm our\nopponents with unreasonable firepower! The secret technique Gekka\nOboroi Ichisen is also incredibly powerful!"
                             ]
                         },
                         {
@@ -30735,28 +29867,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アクセサリーで使える\\i[93]花びらを踏みしめて。も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とりあえずで使ってしまおう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!\\i[84]チアフルエールも相変わらず強いぞ！！"
+                                "Step on the \\i[93] petals that can be used as accessories. But\nfor now, let's just use them! \\!\\i[84] Cheerful Éclair is still\nstrong as ever!!"
                             ]
                         },
                         {
@@ -30767,21 +29885,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "好き放題戦えちゃうと思うから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.もう、無茶苦茶にしてぇ…！！"
+                                "I think you can fight as you please, so... I want you to go all\nout...!!"
                             ]
                         },
                         {
@@ -30815,14 +29926,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}本当に壊れてたら教えてください。"
+                                "\\}Please let me know if something is really broken."
                             ]
                         },
                         {
@@ -30846,28 +29957,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "行動回数を増やす『奥義』が超強いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!とりあえずなっとけ。\\.で、使ってみよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!使える『魔法』も増えるからね！"
+                                "The secret technique that increases the number of actions is\nsuper strong. \\! Just keep it in mind. So, let's give it a try!\n\\! You'll also gain more magic that you can use!"
                             ]
                         },
                         {
@@ -30878,28 +29975,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敵を弱体化させるのか、回復に回るのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!はたまた、攻撃に回るのか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!限られた『４回』を大切に使っていこう！"
+                                "Will you debilitate the enemy, focus on healing, or perhaps, go\non the offensive...? Let's make the most of the limited four\nturns!"
                             ]
                         },
                         {
@@ -30933,14 +30016,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}ちょっと、強くしすぎたか…？"
+                                "\\}Did I make it too strong...?"
                             ]
                         },
                         {
@@ -30964,28 +30047,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『盾役』として、被ダメージを減らすことが出来るよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!敵の『弱体化』、自身の『かっちかち』…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!強敵相手にはヴィタを上手に使っていこう！"
+                                "As a shield role, you can reduce the damage taken! \\! We can\nweaken the enemy, make ourselves sturdy.... \\! Let's use Vita\neffectively against strong opponents!"
                             ]
                         },
                         {
@@ -30996,28 +30065,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "最初は『弱体化』から初めてみるといいと思うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!他キャラに比べると、とりあえず『奥義』！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.…っていうキャラではないかも。\\.それも強いけど。"
+                                "I think it's a good idea to start with debuffing at first.\nCompared to other characters, she's not exactly a character\nfocused on secret techniques!! Well, she's strong in her own way\ntoo."
                             ]
                         },
                         {
@@ -31028,21 +30083,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『物理』と『魔法』のどちらを弱体化させるか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!敵の見た目から、なんとなく判断しよう！"
+                                "Which one should we debuff, 'physical' or 'magic'...? Let's try\nto judge based on the appearance of the enemy!"
                             ]
                         },
                         {
@@ -31053,35 +30101,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あっ、『通常攻撃』が特徴的でもあるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『特大剣』だと味方の『追従攻撃』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『鉄球』だと『３回攻撃』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『弓』は範囲の『高速全体化』"
+                                "Ah, it's also characteristic of the normal attack. With the giant\nsword, it has a follow-up attack from allies. With the iron ball,\nit has a triple attack. The bow has a high- speed area attack."
                             ]
                         },
                         {
@@ -31092,28 +30119,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『奥義』を使うと『アルティメット』になって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『通常攻撃』に全ての要素を載せることが出来るんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!流れが安定したときに、ぶちこんでみよう！！"
+                                "When you use the Secret Technique, it becomes an Ultimate and you\ncan incorporate all elements into your Normal Attack! \\! When the\nflow is stable, let's give it a shot!!"
                             ]
                         },
                         {
@@ -31147,14 +30160,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}少し、盛り過ぎたか…？"
+                                "\\}Did I go a little overboard...?"
                             ]
                         },
                         {
@@ -31178,28 +30191,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まず、速度が早い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "速攻回復、他キャラのサポートなどなど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!先制で動いてくれるので、信頼出来るぞ！"
+                                "First of all, she's fast! She can quickly heal and support other\ncharacters... and more! \\! Since she moves first, you can rely on\nher!"
                             ]
                         },
                         {
@@ -31210,35 +30209,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑魚敵には豊富な全体攻撃をしつつ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "運が良ければ『状態異常』で足止め！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!快適な道中の頼れる味方！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『周回ゲーマー』もニッコリの性能だっ！"
+                                "While dealing abundant AoE damage to weak enemies, if you're\nlucky, you can also immobilize them with status ailments! A\nreliable ally for a comfortable journey!! The performance is also\na delight for loop gamers!"
                             ]
                         },
                         {
@@ -31249,35 +30227,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "強敵戦ではサポーターとして超強い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.『奥義』の火力バフで仲間を超強化出来るぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!他キャラの『奥義』に差し込むように使っていこう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!『ソシャゲーマー』もニッコリの性能だっ！"
+                                "In tough battles, she's incredibly strong as a supporter! With\nher special move's firepower buff, she can greatly enhance her\nallies! Let's use it in sync with other characters' special\nmoves! It's a performance that will make gacha gamers smile too!"
                             ]
                         },
                         {
@@ -31288,21 +30245,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼女の使い方が『腕』の出るところだと思うぞ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\!まずは『奥義』を軽い気持ちで撃ってみよう！"
+                                "I think her usage is where her skills shine...! Let's start by\ncasually using her secret technique!"
                             ]
                         },
                         {
@@ -31313,14 +30263,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ、火力バフの倍率…？"
+                                "Huh, the firepower buff multiplier...?"
                             ]
                         },
                         {
@@ -31354,14 +30304,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\}今の所、２００％です…。"
+                                "\\}For now, it's at 200%...."
                             ]
                         },
                         {
@@ -31385,14 +30335,14 @@
                                 0,
                                 0,
                                 2,
-                                "妖精"
+                                "Fairy"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか、良かった！！"
+                                "I see, that's great!!"
                             ]
                         },
                         {
@@ -31716,28 +30666,14 @@
                                 0,
                                 0,
                                 2,
-                                "困ってる警備兵"
+                                "Troubled security guard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…きみ、腕に自信があったりするかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もしそうなら『ユリシーン姫』の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『対戦相手』をしてもらえないか？"
+                                "...Do you have confidence in your skills? If so, would you be\nwilling to be a battle opponent in Princess Ulysseene?"
                             ]
                         },
                         {
@@ -31748,28 +30684,14 @@
                                 0,
                                 0,
                                 2,
-                                "困ってる警備兵"
+                                "Troubled security guard"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我々では、とても歯が立たなくてね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この『道場』でいつも鍛錬をしているから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が向いたら頼むよ。"
+                                "We're no match for them... I always train in this dojo, so if you\nfeel like it, I'll ask for your help."
                             ]
                         },
                         {
@@ -31980,28 +30902,14 @@
                                 0,
                                 0,
                                 2,
-                                "見覚えのあるおじさん"
+                                "Familiar old man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーラちゃん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.俺と一生一緒に暮らそう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!この『小舟』と一緒に、\\.二人で揺られながらさ…。"
+                                "Mira-chan... Let's live together forever... With this small boat\ntogether, swaying while it's just the two of us..."
                             ]
                         },
                         {
@@ -32079,14 +30987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何処かで見たことがあるような、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『小舟』が浮かんでいる…。"
+                                "It feels like I've seen it somewhere before... A small boat is\nfloating..."
                             ]
                         },
                         {

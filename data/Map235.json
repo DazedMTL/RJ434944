@@ -10297,14 +10297,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[7]わざわざ警戒の厳しいところに行く必要はないわよね…。"
+                                "\\SM[nod]\\SE[7]There's no need to go to a place with strict\nsecurity measures, right..."
                             ]
                         },
                         {
@@ -10991,14 +10991,14 @@
                                 0,
                                 0,
                                 2,
-                                "兵士"
+                                "Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目標は発見できたか！"
+                                "Have you found the target?"
                             ]
                         },
                         {
@@ -11009,14 +11009,14 @@
                                 0,
                                 0,
                                 2,
-                                "兵士"
+                                "Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえっ！こちらではまだ確認できていません！"
+                                "No! We haven't been able to confirm it here yet!"
                             ]
                         },
                         {
@@ -11027,28 +11027,14 @@
                                 0,
                                 0,
                                 2,
-                                "兵士"
+                                "Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいか！『あれ』に単独で対応しようと思うな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.確実に人数をかけて潰せ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!各隊捜索を再開せよ！！"
+                                "Listen up! Don't try to handle that alone! Make sure to crush it\nwith numbers! Resume the search in each unit!!"
                             ]
                         },
                         {
@@ -11059,14 +11045,14 @@
                                 0,
                                 0,
                                 2,
-                                "兵士"
+                                "Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ！！"
+                                "Hah!!"
                             ]
                         },
                         {
@@ -12243,21 +12229,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[12]こっちも警戒が厳しいわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[13]想像よりも執拗に追跡されているし…。"
+                                "\\SE[12] It seems that we are being heavily guarded here.\n\\SM[nod]\\SE[13] We are being pursued more persistently than I\nimagined..."
                             ]
                         },
                         {
@@ -12367,28 +12346,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[2]どっちにいきましょう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ルートを外れたせいで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出口を正確に把握出来ていないのよね。"
+                                "\\SM[nod]\\SE[2]Which way should we go... \\!\\SE[3]Because we\ndeviated from the route, we haven't been able to accurately grasp\nthe exit."
                             ]
                         },
                         {
@@ -12502,14 +12467,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]見張りの少なかったこっちに行ってみようかしら…。"
+                                "\\SE[3]Shall we try going to the area with fewer guards..."
                             ]
                         },
                         {
@@ -12873,14 +12838,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[7]わざわざ警戒の厳しいところに行く必要はないわよね…。"
+                                "\\SM[nod]\\SE[7]There's no need to go to a place with strict\nsecurity measures, right..."
                             ]
                         },
                         {
@@ -13122,7 +13087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life Alpha! $"
                             ]
                         },
                         {

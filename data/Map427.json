@@ -13525,21 +13525,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[99]ユリシーンへ急ごう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]ヴィタを休ませてあげないと…。"
+                                "\\SE[99]Let's hurry to the Yuri scene. \\!\\SE[0]We need to let Vita\nrest..."
                             ]
                         },
                         {
@@ -13725,21 +13718,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[99]ユリシーンへ急ごう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]ヴィタを休ませてあげないと…。"
+                                "\\SE[99]Let's hurry to the Yuri scene. \\!\\SE[0]We need to let Vita\nrest..."
                             ]
                         },
                         {
@@ -13950,28 +13936,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]あっ、こう繋がってるんだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.ここまで来れば道は分かるよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]『ユリシーン』まで急いじゃう？\\!"
+                                "\\SE[5] Ah, so this is how it's connected... If we've come this\nfar, we should be able to find the way, right? \\SE[0] Shall we\nhurry to Yuriseen?"
                             ]
                         },
                         {
@@ -15211,7 +15183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを2つ手に入れた！\\$"
+                                "\\i[384] I obtained two Cure Life Alpha! \\$"
                             ]
                         },
                         {
@@ -15884,7 +15856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[97]フランベルジュを手に入れた！\\$"
+                                "\\i[97]I obtained the Flamberge! $"
                             ]
                         },
                         {
@@ -16169,7 +16141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[395]プリズムハーブを手に入れた！\\$"
+                                "\\i[395] Obtained Prism Herb! $"
                             ]
                         },
                         {
@@ -16888,7 +16860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[476]レアアースの欠片を手に入れた！\\$"
+                                "\\i[476] Obtained a rare earth fragment! $"
                             ]
                         },
                         {

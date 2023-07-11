@@ -8696,14 +8696,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[100]この先の景色はヴィタには刺激が強いかもしれない…。"
+                                "\\SE[100]The scenery ahead might be too stimulating for Vita..."
                             ]
                         },
                         {
@@ -8714,14 +8714,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]……？"
+                                "\\SE[2]......？"
                             ]
                         },
                         {
@@ -8732,14 +8732,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[23]ううっ…\\.ごめんなさい……。"
+                                "\\SE[23]Uuuh... I'm sorry..."
                             ]
                         },
                         {
@@ -8949,14 +8949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハジッコ集落の少女『ヴィタ』が仲間になりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!耐久力が高いのでパーティの盾役をこなすことが出来ます。"
+                                "The girl from the Hajikko Village, 'Vita', has joined the party.\nShe has high endurance, so she can fulfill the role of a shield\nfor the party."
                             ]
                         },
                         {
@@ -8974,21 +8967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、腕力が高いので色々な武器を持つことができます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!持つ武器によってそれぞれ『通常攻撃』が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変化しますので、色々試してみましょう。"
+                                "Also, because she has high physical strength, she can wield\nvarious weapons. Depending on the weapon she wields, her 'normal\nattacks' will change, so let's try experimenting with different\nones."
                             ]
                         },
                         {
@@ -9214,7 +9193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[384]キュアライフαを手に入れた！\\$"
+                                "\\i[384] Obtained Cure Life Alpha! $"
                             ]
                         },
                         {

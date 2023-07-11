@@ -15515,14 +15515,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]えっ 何、いまの…？"
+                                "\\SE[14] Huh, what was that just now...?"
                             ]
                         },
                         {
@@ -15573,21 +15573,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]なにって…『飛び石』だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]ヴィタは初めてだった？"
+                                "\\SE[3]What was that... It was a stepping stone. \\!\\SE[1]Was it\nyour first time, Vita?"
                             ]
                         },
                         {
@@ -15598,21 +15591,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[8]えっ…いや、そっちじゃなくて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[44]これ、言っていいのかな…。"
+                                "\\SE[8]Huh... No, not that... \\SE[44]Can I say this...?"
                             ]
                         },
                         {
@@ -15632,21 +15618,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]えっ…なに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.どうかした…？"
+                                "\\SE[2]Huh... What? Is something wrong...?"
                             ]
                         },
                         {
@@ -15664,21 +15643,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[68]なんか…ラウラの『ジャンプの音』…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.独特すぎない……？"
+                                "\\SE[68]Something... Laura's jumping sound... Isn't it too\nunique...?"
                             ]
                         },
                         {
@@ -15698,28 +15670,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[109]えっ…\\.えっ……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[93]そんなに変…？ \\.私の『ジャンプの音』…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[95]る、ルナはどう思う…？"
+                                "\\SE[109]Huh... Huh...? \\SE[93]Is it really that strange...?\n\\SE[95]What does Lunaroa think about my jumping sound...?"
                             ]
                         },
                         {
@@ -15730,14 +15688,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]………\\.………\\.………。\\!\\SE[38]"
+                                "\\SE[52].........\\..........\\...........\\!\\SE[38]"
                             ]
                         },
                         {
@@ -15757,14 +15715,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[33]そんな…\\.そんな……！！"
+                                "\\SE[33]No way... No way...!!"
                             ]
                         },
                         {
@@ -17079,7 +17037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[385]マジカルケアβを手に入れた！\\$"
+                                "\\i[385] I obtained Magical Care β! \\$"
                             ]
                         },
                         {
@@ -18321,21 +18279,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]はっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『宝箱』だっ！！\\. 早く、開けないと…！！"
+                                "\\SE[102]Ah...! It's a treasure chest!! Hurry, we need to open\nit...!!"
                             ]
                         },
                         {
@@ -18664,7 +18615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[98]フレイルを手に入れた！\\$"
+                                "\\i[98] Obtained a Flail! \\$"
                             ]
                         },
                         {
@@ -18703,21 +18654,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[40]お、重っ…！？　\\!\\SE[92]これは…『鉄球』？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[51]こんなの持てるわけないよ…。"
+                                "\\SE[40]Oh, it's heavy...!? \\SE[92]Is this... a flail?\n\\SE[51]There's no way I can wield something like this..."
                             ]
                         },
                         {
@@ -18878,21 +18822,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]私なら使えるかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]…ちょっと、貸してもらっていい？"
+                                "\\SE[4]I might be able to use it. \\!\\SE[3]...Um, can I borrow it\nfor a moment?"
                             ]
                         },
                         {
@@ -18903,14 +18840,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]いいけど…気を付けてね？ \\.本当に、重いよ？\\SE[3]"
+                                "\\SE[5]Sure, but... be careful, okay? \\SE[3]It's really heavy, you\nknow?"
                             ]
                         },
                         {
@@ -19222,21 +19159,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[4]わっ…すごいっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]ヴィタは『力持ち』なのね…。"
+                                "\\SE[4]Wow... amazing! \\SE[0]So Vita is strong..."
                             ]
                         },
                         {
@@ -19278,14 +19208,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[66]ねっ？ \\.私はすごいでしょぉ…。"
+                                "\\SE[66]Right? I'm amazing, aren't I..."
                             ]
                         },
                         {
@@ -19315,14 +19245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴィタは『力』が強いため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "重い武器を使いこなすことが出来ます。"
+                                "Vita is able to wield heavy weapons because she has strong power."
                             ]
                         },
                         {
@@ -19340,28 +19263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『武器』によって『通常攻撃』が変化します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『特大剣』では仲間の追従攻撃。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『鉄球』ではランダム３回攻撃。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『弓』では高速全体攻撃が可能です。"
+                                "The normal attack changes depending on the weapon. With the giant\nsword, it allows for follow-up attacks from allies. With the iron\nball, it performs three random attacks. With the bow, it enables\nhigh-speed area attacks."
                             ]
                         },
                         {
@@ -19379,14 +19281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ノーコスト』で使用可能なので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.状況に合わせて使い分けていきましょう！"
+                                "Since it can be used with 'No Cost', let's use it according to\nthe situation and switch it up!"
                             ]
                         },
                         {
@@ -19404,21 +19299,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]こんな感じ。\\.分かった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]ほらっ、私は役に立つでしょ？"
+                                "\\SE[2]Like this. Got it? \\SE[1]See, I'm useful, right?"
                             ]
                         },
                         {
@@ -19429,14 +19317,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[102]おお、若いのに大したもんだ……。"
+                                "\\SE[102]Oh, you're quite something for being so young..."
                             ]
                         },
                         {
@@ -20492,7 +20380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[531]割れたつぼを手に入れた！\\$"
+                                "\\i[531] Obtained a broken pot! \\$"
                             ]
                         },
                         {

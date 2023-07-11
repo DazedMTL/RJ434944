@@ -6941,21 +6941,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]変質した地形よりも、水場のほうが毒素が強い…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]…ヴィタに聞いていたとおりね。"
+                                "\\SE[74]The toxins in the water are stronger than the deformed\nterrain.... \\!\\SE[3]...Just as Vita had told me."
                             ]
                         },
                         {
@@ -6973,21 +6966,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[67]こんなものを飲み水として使用したら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.人間の体なんて…。"
+                                "\\SE[67]If we use something like this as drinking water... the\nhuman body..."
                             ]
                         },
                         {
@@ -7294,14 +7280,14 @@
                                 0,
                                 0,
                                 2,
-                                "門兵ヒダリィ"
+                                "Gatekeeper Hidari"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらの採取は終わりました。"
+                                "The collection here is finished."
                             ]
                         },
                         {
@@ -7319,21 +7305,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[7]お疲れ様。こっちも終わったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]これだけあれば『サンプル』としては十分ね。"
+                                "\\SE[7]Good work. I'm done here too. \\SE[2]With this amount, it's\nenough as a sample."
                             ]
                         },
                         {
@@ -7367,21 +7346,14 @@
                                 0,
                                 0,
                                 2,
-                                "門兵ヒダリィ"
+                                "Gatekeeper Hidari"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それにしても…『魔法』はすごいんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!こんな『毒』でも無効化出来てしまうなんて…。"
+                                "Even so... Magic is amazing, isn't it? To think it can neutralize\neven such poison...."
                             ]
                         },
                         {
@@ -7408,21 +7380,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]何言ってるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.普通の魔法じゃこの『毒』は無効化出来ないわよ。"
+                                "\\SE[2]What are you talking about? \\.Normal magic can't neutralize\nthis poison."
                             ]
                         },
                         {
@@ -7447,14 +7412,14 @@
                                 0,
                                 0,
                                 2,
-                                "門兵ヒダリィ"
+                                "Gatekeeper Hidari"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…えっ？"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -7479,28 +7444,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]だってそうでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『魔法』で『これ』が無効化出来るのなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.『コーダイン』は自分たちで『精錬』すればいいじゃない。"
+                                "\\SE[2]But that's right, isn't it? If we can neutralize this with\n\\SE[3]magic, then we should refine \\SE[3]Cordain ourselves."
                             ]
                         },
                         {
@@ -7511,28 +7462,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]普通の魔法は『かぜ薬』に近いわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.だから、『これ』を無効化するには足りない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]もっと強い『特効薬』が必要になるの。"
+                                "\\SE[2]Normal magic is more like a cold medicine. \\.So, it's not\nenough to nullify this. \\!\\SE[3]We need a stronger special\nmedicine."
                             ]
                         },
                         {
@@ -7550,21 +7487,14 @@
                                 0,
                                 0,
                                 2,
-                                "門兵ヒダリィ"
+                                "Gatekeeper Hidari"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはルナロアさんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.さっき、使っていた…？"
+                                "Was that something Lunaroa-san was using earlier...?"
                             ]
                         },
                         {
@@ -7575,28 +7505,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]あいつ、頭おかしいから『答え』が分かっちゃったのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.これは『特効薬』みたいな魔法よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]…同じことは出来ないわ。"
+                                "\\SE[76]That person, because they're crazy, they figured out the\nanswer. \\.This is like a special medicine kind of magic.\n\\!\\SE[3]...I can't do the same thing."
                             ]
                         },
                         {
@@ -7623,14 +7539,14 @@
                                 0,
                                 0,
                                 2,
-                                "門兵ヒダリィ"
+                                "Gatekeeper Hidari"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを出来るのが『あの』ルナロア…。"
+                                "The one who can do that is that Lunaroa..."
                             ]
                         },
                         {
@@ -7657,28 +7573,14 @@
                                 0,
                                 0,
                                 2,
-                                "門兵ヒダリィ"
+                                "Gatekeeper Hidari"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでは、ルナロアさんはなぜ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この『特効薬』を広めないのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!いまもどこかで被害が出ているのに…。"
+                                "Then, why doesn't Lunaroa-san spread this special medicine? Even\nnow, there are still damages occurring somewhere..."
                             ]
                         },
                         {
@@ -7703,14 +7605,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]えっ、本気で聞いてるの？"
+                                "\\SE[2]Wait, are you seriously asking that?"
                             ]
                         },
                         {
@@ -7730,14 +7632,14 @@
                                 0,
                                 0,
                                 2,
-                                "門兵ヒダリィ"
+                                "Gatekeeper Hidari"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ、そうですけど…。"
+                                "Huh, is that so..."
                             ]
                         },
                         {
@@ -7755,28 +7657,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[75]あなたも案外、脳筋なのね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[74]たしかに『特効薬』を広めれば当面の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.被害を大きく減らすことは出来るでしょうね。"
+                                "\\SE[75]You're surprisingly straightforward, aren't you...\n\\SE[74]Certainly, if we spread this special medicine, we can\ngreatly reduce the immediate damage."
                             ]
                         },
                         {
@@ -7787,28 +7675,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]その『恩恵』を一番に受ける国はどこ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]『精錬』によって国力をもっとも増強出来る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[3]メリットを得られる国はどこになるかしら？"
+                                "\\SE[3]Which country will benefit the most from this benefit?\n\\!\\SE\\SE[3]Which country will gain the most advantages from\nstrengthening through refinement? \\.\\SE[3]I wonder which country\nwill be able to obtain the most benefits?"
                             ]
                         },
                         {
@@ -7842,14 +7716,14 @@
                                 0,
                                 0,
                                 2,
-                                "門兵ヒダリィ"
+                                "Gatekeeper Hidari"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『コーダイン』…。"
+                                "Cordain...."
                             ]
                         },
                         {
@@ -7867,28 +7741,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そういうこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]目の前の被害は減らせるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.結果として肥大した国力はどこに向かうと思う？"
+                                "\\SE[2]That's right. \\!\\SE[3]While we can reduce the immediate\ndamage, \\.where do you think the resulting increased national\npower will go?"
                             ]
                         },
                         {
@@ -7922,14 +7782,14 @@
                                 0,
                                 0,
                                 2,
-                                "門兵ヒダリィ"
+                                "Gatekeeper Hidari"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ユリシーン』…。"
+                                "Ulyssean...."
                             ]
                         },
                         {
@@ -7947,28 +7807,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]もう分かったわよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ユリシーンにも『間諜』は紛れているでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そこから情報が漏れれば、より大きな被害に繋がる。"
+                                "\\SE[52]I'm sure you already understand. \\SE[3]There are also\nspies among the Ulysseans, right? If information leaks from\nthere, it will lead to even greater damage."
                             ]
                         },
                         {
@@ -7979,28 +7825,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]だから、あいつは被害が出ていても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.見て見ぬふりをしなきゃいけないのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[75]その方が、いい結果になってしまうからね。"
+                                "\\SE[74]That's why, even if there are damages, we have to turn a\nblind eye. \\SE[75]Because that will lead to better results."
                             ]
                         },
                         {
@@ -8034,14 +7866,14 @@
                                 0,
                                 0,
                                 2,
-                                "門兵ヒダリィ"
+                                "Gatekeeper Hidari"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは…お辛い心境でしょうね。"
+                                "That must be... a difficult situation for you."
                             ]
                         },
                         {
@@ -8059,21 +7891,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[60]まっ、『持つもの』特有の苦しみね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]それは『有名税』ということでいいじゃない。"
+                                "\\SE[60]Well, it's the unique pain of those who have. \\SE[3]You\ncould call it the fame tax, I suppose."
                             ]
                         },
                         {
@@ -8091,14 +7916,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[84]だからあなたも『秘密』にしなきゃ駄目よ？"
+                                "\\SE[84]So you also have to keep it a secret, okay?"
                             ]
                         },
                         {
@@ -8330,28 +8155,14 @@
                                 0,
                                 0,
                                 2,
-                                "門兵ミギィ"
+                                "Gatekeeper Migii"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少し、よろしいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "森の奥に『大穴』が見つかりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そちらの視点のご意見を頂けたらと思う次第です。"
+                                "May I ask you something? We have found a large hole deep in the\nforest. I would like to hear your opinion from that perspective,\nif possible."
                             ]
                         },
                         {
@@ -8385,14 +8196,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]『大穴』…？"
+                                "\\SE[2]Large hole...?"
                             ]
                         },
                         {
@@ -8581,14 +8392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8666,14 +8470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8751,14 +8548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8836,14 +8626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -8921,14 +8704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9006,14 +8782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9091,14 +8860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9176,14 +8938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9261,14 +9016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9346,14 +9094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9431,14 +9172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9516,14 +9250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9601,14 +9328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9686,14 +9406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9771,14 +9484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9856,14 +9562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -9941,14 +9640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10026,14 +9718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10111,14 +9796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10196,14 +9874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10281,14 +9952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10366,14 +10030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10451,14 +10108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10536,14 +10186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10621,14 +10264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10706,14 +10342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10791,14 +10420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10876,14 +10498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -10961,14 +10576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -11046,14 +10654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -11131,14 +10732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -11216,14 +10810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -11301,14 +10888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -11386,14 +10966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -11471,14 +11044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -11556,14 +11122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -11641,14 +11200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -11726,14 +11278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {
@@ -11811,14 +11356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面の一部が、変色している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり触れないほうが良さそうだ…。"
+                                "Part of the ground has changed color. It seems best not to touch\nit too much..."
                             ]
                         },
                         {

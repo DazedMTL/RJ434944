@@ -15200,7 +15200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな所に焚火がある…。"
+                                "There's a bonfire in a place like this..."
                             ]
                         },
                         {
@@ -15230,14 +15230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "焚火に触れることで体力を全回復することができます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "制限はありませんので、体力を消耗したら休んでいきましょう。"
+                                "You can fully recover your stamina by touching the bonfire. There\nare no restrictions, so let's take a rest whenever our stamina is\ndepleted."
                             ]
                         },
                         {
@@ -15255,14 +15248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "炎の揺らめきに少し心が安らいだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体力が全回復した！"
+                                "My heart feels a little at ease with the flickering of the\nflames.... My stamina has fully recovered!"
                             ]
                         },
                         {
@@ -15373,14 +15359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "炎の揺らめきに少し心が安らいだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体力が全回復した！"
+                                "The flickering of the flames brought a sense of calm to my\nheart.... My stamina has fully recovered!"
                             ]
                         },
                         {
@@ -15922,21 +15901,14 @@
                                 0,
                                 0,
                                 2,
-                                "兵士"
+                                "Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっちはどうよー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『あの』ルナロア見つけた？"
+                                "How about over there? Have you found that Lunaroa?"
                             ]
                         },
                         {
@@ -15956,28 +15928,14 @@
                                 0,
                                 0,
                                 2,
-                                "兵士"
+                                "Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それだったら、ここにいねーっての。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もし見つけてたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "殺されてるか報告にいってるって。"
+                                "If that's the case, she's not here. If you find her, either she's\nalready been killed or report it."
                             ]
                         },
                         {
@@ -15997,28 +15955,14 @@
                                 0,
                                 0,
                                 2,
-                                "兵士"
+                                "Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『殺せ』って言われてるけどさ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.実際、どうすんのよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!あんなの俺たちの手に負える相手じゃねぇって…。"
+                                "They're telling us to kill her, but... what are we supposed to\ndo, really? She's not someone we can handle..."
                             ]
                         },
                         {
@@ -16036,28 +15980,14 @@
                                 0,
                                 0,
                                 2,
-                                "兵士"
+                                "Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お偉いさんに任せるしかねぇな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!幸い、今回は『魔法学園』から理事長さまが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来てくださってるそうだし。"
+                                "We have no choice but to leave it to the higher-ups...\nFortunately, it seems that the principal from Magic Academy is\nhere this time."
                             ]
                         },
                         {
@@ -16077,28 +16007,14 @@
                                 0,
                                 0,
                                 2,
-                                "兵士"
+                                "Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは心強いけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!それ、俺たちだけじゃ対処不可能って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言ってるのと同じなんじゃ…。"
+                                "That's reassuring, but... saying that it's impossible for us\nalone to handle it is the same as..."
                             ]
                         },
                         {
@@ -16379,21 +16295,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[14]は、外しちゃった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SM[nod]\\SE[13]仕方ない、覚悟して…！"
+                                "\\SE[14]I've taken it off! \\SM[nod]\\SE[13]There's no helping it,\nbe prepared...!"
                             ]
                         },
                         {
@@ -16585,14 +16494,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]先を急がないと…。"
+                                "\\SE[13]We need to hurry..."
                             ]
                         },
                         {

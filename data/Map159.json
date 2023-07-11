@@ -7356,7 +7356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\i[543]そまつな棍棒を手に入れた！\\$"
+                                "\\i[543]I obtained a sturdy club! $"
                             ]
                         },
                         {
@@ -8053,21 +8053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突、然強くひかったんダ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.おれの『カゾク』、\\.はどうなッた…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!なぁ、アんた知ってるか？"
+                                "Suddenly, it shone brightly. What happened to my family...? Hey,\ndo you know?"
                             ]
                         },
                         {
@@ -8145,14 +8131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぜんぶ、オトナが、\\.わるいんダって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!オまえは…、\\.オトナカ…？\\!"
+                                "Everything, adults are bad, right? Are you... an adult...?"
                             ]
                         },
                         {
@@ -8192,7 +8171,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ジャア、ぜんブおまエがわるイのカ…？"
+                                "Yeah, everything adults do is bad, right...?"
                             ]
                         },
                         {
@@ -8223,7 +8202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うソヲ…\\.つクナッ…！！"
+                                "You're lying... Stop it...!!"
                             ]
                         },
                         {
@@ -8311,14 +8290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナ、なンで、わ、\\.ワたシがこンなメに…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.アなた…\\.たスけテよ……？"
+                                "W-Why am I in this situation...? You...please help me...?"
                             ]
                         },
                         {
@@ -8336,7 +8308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ど、\\.ドうシテ、\\.たすケてくレなイ…？"
+                                "W-Why am I in this situation...? C-Can you help me...?"
                             ]
                         },
                         {
@@ -8414,21 +8386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おレ、ケっこンして、\\.シあわセに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!………\\.しアワセに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!アれ、どうシて、\\.\\こうナっタ…？ "
+                                "Oh, let's go on a date and be happy together... How should we do\nit? Ah, what should I do...?"
                             ]
                         },
                         {
@@ -9642,14 +9600,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]えっ…\\!何、\\.ここ…？"
+                                "\\SE[74]Huh... Where is this...?"
                             ]
                         },
                         {
@@ -9660,21 +9618,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[9]この場所…\\!なんだか、\\.おかしいよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[93]私…、\\.ちょっと怖い…。"
+                                "\\SE[9]This place... It feels strange... \\SE[93]I... I'm a little\nscared..."
                             ]
                         },
                         {
@@ -9701,21 +9652,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[90]まるで空間そのものに『穴』が空いているような…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[91]もし、落ちたらどうなるのかしらね…。"
+                                "\\SE[90]It's as if there's a hole in the very fabric of space...\n\\!\\SE[91]I wonder what would happen if we were to fall..."
                             ]
                         },
                         {
@@ -9758,21 +9702,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]人がいる…\\.のよね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]ふぅ…。"
+                                "\\SE[2]There are people... here, right?... \\!\\SE[3]Phew...."
                             ]
                         },
                         {
@@ -9894,21 +9831,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]あの…\\.すいません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]この場所について…\\.教えてもらえますか…？"
+                                "\\SE[2]Um... Excuse me. \\SE[0]Could you please tell me about this\nplace...?"
                             ]
                         },
                         {
@@ -9999,7 +9929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突、\\.然強く…。"
+                                "Suddenly, a strong..."
                             ]
                         },
                         {
@@ -10067,21 +9997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突、\\.然強くひかったんダ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!おれの『カゾク』、\\.はどうなッた…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!なぁ、\\.アんた知ってるか？"
+                                "Suddenly, a strong light flashed. What happened to my family...?\nHey, do you know?"
                             ]
                         },
                         {
@@ -10101,21 +10017,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[52]えっと、\\.ごめんなさい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[53]ちょっと…\\.分からないです…。"
+                                "\\SE[52]Um, sorry... \\SE[53]I'm not sure..."
                             ]
                         },
                         {
@@ -10326,21 +10235,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[74]正直なところ…\\.手に負えないわね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[75]私たちの『領分』ではないと思うけど…\\!どうする？"
+                                "\\SE[74]To be honest... I don't think we can handle it....\n\\!\\SE[75]It's not within our territory...\\! What should we do?"
                             ]
                         },
                         {
@@ -10392,21 +10294,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[92]『地の精霊』は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[93]この場所のどこかで『迷子』になってる…\\.のかな。"
+                                "\\SE[92]The Earth Spirit... \\!\\SE[93]I wonder if it's somewhere in\nthis place, lost..."
                             ]
                         },
                         {
@@ -10435,21 +10330,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[76]そういわれたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.探索を続けるしかなくなるじゃない…。"
+                                "\\SE[76]If that's what you say, then we have no choice but to\ncontinue exploring..."
                             ]
                         },
                         {
@@ -10483,21 +10371,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[5]あ、ごめん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[92]そんなつもりはなかったんだけど…。"
+                                "\\SE[5]Ah, sorry... \\!\\SE[92]I didn't mean it that way..."
                             ]
                         },
                         {
@@ -10576,21 +10457,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]だ、大丈夫…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]何があっても私が守るから…！ \\!\\SE[5]多分…。"
+                                "\\SE\\SE[0]I-It's okay...! \\SE[0]No matter what happens, I'll\nprotect you...! \\SE[5]Probably..."
                             ]
                         },
                         {
@@ -10624,21 +10498,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヴィタ"
+                                "Vita"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[69]（『地の試練』がどうとかの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.　雰囲気じゃ、なくなってきたなぁ…。）"
+                                "\\SE[69] (The atmosphere of the Trial of the Earth seems to have\ndisappeared...)"
                             ]
                         },
                         {

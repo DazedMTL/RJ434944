@@ -8706,35 +8706,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]本日は上位８名による、チームでの対抗試験を行う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]『力量』、\\.\\.『連携』、\\.\\.『戦略』…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.あらゆる『総合力』を試される試験だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[1]知っての通り、配点も高い。\\!各自、\\.最善を尽くすように。"
+                                "\\SE\\SE[1] Today, we will conduct a team competition among the top\n8 members. \\SE[3] It will test their ability, coordination, and\nstrategy... It is an examination that will challenge their\noverall capabilities. \\SE[1] As you know, the scoring is also\nhigh. Each of you, please do your best."
                             ]
                         },
                         {
@@ -8745,14 +8724,14 @@
                                 0,
                                 0,
                                 2,
-                                "生徒たち"
+                                "Students"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい…！！"
+                                "Yes...!!"
                             ]
                         },
                         {
@@ -8986,21 +8965,14 @@
                                 0,
                                 0,
                                 2,
-                                "８番のエイトマン"
+                                "８ Number Eightman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作戦だけど、\\.どうするよ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.俺、\\.こういうの苦手で…。"
+                                "Number Eightman: Strategy, huh...? What should we do...? I'm not\ngood at this kind of thing..."
                             ]
                         },
                         {
@@ -9020,21 +8992,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヨバンメ"
+                                "Yobanme"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "正直、選択肢はないと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!だって、ルナロアが抜けすぎているもの。"
+                                "Eighth Member: Honestly, I don't think we have any choice. After\nall, Lunaroa is too far ahead."
                             ]
                         },
                         {
@@ -9045,35 +9010,14 @@
                                 0,
                                 0,
                                 2,
-                                "ヨバンメ"
+                                "Yobanme"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テンプレだけど…\\.ルナロアには攻撃に専念してもらって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.私はケアの必要な所を順次回復…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!ゴバンとエイトマンはルナロアのカバーをしていく…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…で、どうかな。"
+                                "Eighth Member: It's a template, but... Lunaroa, please focus on\nattacking. I will gradually recover the areas that need care...\nGoban and Eightman, please cover Lunaroa... So, how does that\nsound?"
                             ]
                         },
                         {
@@ -9093,21 +9037,14 @@
                                 0,
                                 0,
                                 2,
-                                "５番のゴバン"
+                                "５ Goban"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺はそれで大丈夫だぜ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.基本はしっかり守れてると思うしな。"
+                                "[5] Goban: I'll be fine with that...! I think I can defend the\nbasics properly."
                             ]
                         },
                         {
@@ -9179,21 +9116,14 @@
                                 0,
                                 0,
                                 2,
-                                "エイトマン"
+                                "Eightman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、\\.俺もいいぜ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.よく分かってないけど…！"
+                                "Oh, I'm fine with that...! I don't really understand it well\nthough...!"
                             ]
                         },
                         {
@@ -9213,21 +9143,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]リラックスして行きましょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[15]大丈夫。\\.私たちならやれるわ。"
+                                "\\SE\\SM[nod]\\SE[15]Let's relax and do this. \\SM[nod]\\SE[15]It's\nokay. We can do it."
                             ]
                         },
                         {
@@ -9338,14 +9261,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[2]そこまで、各自所定の位置につけ。"
+                                "\\SE[2]Everyone, please take your designated positions."
                             ]
                         },
                         {
@@ -9625,28 +9548,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]諸君らの成果を確認するテストでもある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.諸君らの成長した姿を私に見せてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]こちらからは以上。\\!\\SE[25]…では。"
+                                "\\SE[3]This is also a test to confirm your achievements. Show me\nyour grown-up selves. \\SE\\SE[25]That's all from me.\n\\SE[25]...Well then."
                             ]
                         },
                         {
@@ -9739,14 +9648,14 @@
                                 0,
                                 0,
                                 2,
-                                "理事長"
+                                "Chairman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]準備は出来たようだな。\\.始めよう。"
+                                "\\SE[1]It seems like everyone is ready. Let's begin."
                             ]
                         },
                         {

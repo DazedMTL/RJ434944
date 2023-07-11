@@ -5695,28 +5695,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\$おっ、\\.いらっしゃい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また泊っていくかい！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.一泊10Gだぜぇ！？\\!"
+                                "Oh, welcome! Are you staying again!? It's 10G per night, you\nknow!"
                             ]
                         },
                         {
@@ -5849,28 +5835,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "金がねぇっていうのか…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\!若いのに苦労してんだな…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "仕方ねぇ…！！ 泊っていきな！！！"
+                                "Are you saying you don't have money...!? Even though you're\nyoung, you're struggling...!! I have no choice...!! Stay the\nnight!!!"
                             ]
                         },
                         {
@@ -5967,21 +5939,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうかっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\.また来てくれよな！！！！"
+                                "Oh, I see!! Please come again!!!"
                             ]
                         },
                         {
@@ -6507,7 +6472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…くっ！\\. 鍵が閉まっている！"
+                                "...Kuh! The door is locked!"
                             ]
                         },
                         {
@@ -6634,7 +6599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…くっ！\\. 鍵が閉まっている！"
+                                "...Kuh! The door is locked!"
                             ]
                         },
                         {
@@ -6870,21 +6835,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]えっと…女性二人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[0]一泊でお願いします。"
+                                "\\SE\\SE[0] Um... Two females. \\!\\SE[0] Please stay for one night."
                             ]
                         },
                         {
@@ -6895,28 +6853,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ。ここで一泊ってことは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.お嬢さんたち『アレ』かい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『ユリシーン』に行く途中かい！？"
+                                "Oh, staying here for one night, huh? Are you ladies on your way\nto That Place? Are you heading to Yurisene?"
                             ]
                         },
                         {
@@ -6943,21 +6887,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[2]そうですけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]どうして分かったんですか？"
+                                "\\SM[nod]\\SE[2]Yes, but... \\SE[3]How did you know?"
                             ]
                         },
                         {
@@ -6968,21 +6905,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そりゃ『女性同士のカップル』が多いからね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.この辺りは、そういうお客さんが多いんだ！"
+                                "Well, there are a lot of female couples around here! This area\nhas many customers like that!"
                             ]
                         },
                         {
@@ -6993,28 +6923,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウチは女性人気の高いサービスがウリでよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!自信あんだ！\\. なんでも言ってくれよな！"
+                                "That's right! Our specialty is providing services that are\npopular among women! I'm confident about it! Tell me anything you\nwant!"
                             ]
                         },
                         {
@@ -7041,14 +6957,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[6]そ、それはご丁寧にどうも…。"
+                                "\\SM[nod]\\SE[6]T-Thank you for your consideration..."
                             ]
                         },
                         {
@@ -7075,14 +6991,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]『ユリシーン』…\\.『女性同士』……。"
+                                "\\SE[3] Yurisene... [1] Between women...."
                             ]
                         },
                         {
@@ -7140,14 +7056,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]あっ、\\.そういうこと…？"
+                                "\\SE[1]Ah, is that so...?"
                             ]
                         },
                         {
@@ -7495,28 +7411,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "景色が綺麗な部屋にしとくよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここが一番評判いいんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お嬢さんたちも、きっと気に入ると思うよ！"
+                                "I'll prepare a room with a beautiful view! This is the most\nhighly recommended room here! I'm sure you ladies will love it!"
                             ]
                         },
                         {
@@ -7558,21 +7460,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[15]きっと、彼女も喜ぶと思います。"
+                                "\\SE\\SM[nod]\\SE[15]Thank you very much. \\SM[nod]\\SE[15]I'm sure\nshe will be happy too."
                             ]
                         },
                         {
@@ -7621,21 +7516,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]…さっ、ラウラ？ \\.行きましょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SM[nod]\\SE[16]こっちにおいで？"
+                                "\\SE[0]... Um, Laura? Shall we go? \\SM[nod]\\SE[16] Come this way?"
                             ]
                         },
                         {
@@ -7723,14 +7611,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SM[nod]\\SE[85]う、うん…。"
+                                "\\SM[nod]\\SE[85]Uh, yeah..."
                             ]
                         },
                         {
@@ -8208,28 +8096,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっと、大切なことを言い忘れてたぜ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!お嬢ちゃんは、喋るときに出てくるこの『ウインドウ』が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『邪魔過ぎるぜ！』って思ったことはないかい…！？"
+                                "Oh, I forgot to mention something important...!! Have you ever\nthought that this window that appears when you talk is too\nobstructive!?"
                             ]
                         },
                         {
@@ -8263,21 +8137,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[99]えっと…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[0]今のところはとくに…。"
+                                "\\SE[99]Um...? \\SE[0]There's nothing in particular at the\nmoment..."
                             ]
                         },
                         {
@@ -8288,28 +8155,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!でも、役に立つときがくるかもしれないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今ここで！\\.少し練習していこうぜ…！！"
+                                "I see!! But, there might come a time when it will be useful, so\nlet's practice a little right here!"
                             ]
                         },
                         {
@@ -8320,35 +8173,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まず、消したい時はマウスの『右クリック』だ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.戻したいときは『もう一回』押してみなっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!その辺りいじってたら分かんねぇ！\\. すまねぇな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!…どうだ！ 消えたか！？"
+                                "First, when you want to erase it, use the right-click of the\nmouse!! \\. When you want to bring it back, try pressing it one\nmore time!! \\! I don't know if you mess around with that area! \\.\nI'm sorry!! \\! ...How is it! Did it disappear!?"
                             ]
                         },
                         {
@@ -8368,21 +8200,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]わっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.見えるところが広くなった気がします…！"
+                                "\\SE[1]Oh...! \\. It feels like the visible area has become\nwider...!"
                             ]
                         },
                         {
@@ -8461,28 +8286,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ついでに、もう一個教えてやるぜっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!『大事なことを聞いたけど、なんて言ってたか忘れちゃった。』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.嬢ちゃんはそんなときは、ねえか！？"
+                                "By the way, let me teach you one more thing!! \\! I asked an\nimportant question, but I forgot what it was. What do you do in a\nsituation like that, miss!?"
                             ]
                         },
                         {
@@ -8500,14 +8311,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[99]そ、それはよくあります…！"
+                                "\\SE[99]T-That happens often...!"
                             ]
                         },
                         {
@@ -8518,35 +8329,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だよなっ！\\. だけど、自分を責めちゃいけねえ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.そんなときは『Ｗボタン』を押してみな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!これまでの『ログ』が表示されるんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!設定いじってたら…\\.例の如く！！"
+                                "That's right! But don't blame yourself!! When that happens, try\npressing the W button! It will display the previous log! If you\nmess with the settings... as usual!!"
                             ]
                         },
                         {
@@ -8557,21 +8347,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[17]これは便利ですね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[22]ご丁寧にありがとうございますっ！"
+                                "\\SE[17]This is convenient, isn't it? \\!\\SE[22]Thank you very much\nfor your kindness!"
                             ]
                         },
                         {
@@ -8582,28 +8365,14 @@
                                 0,
                                 0,
                                 2,
-                                "店主"
+                                "Shopkeeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よっしゃあ…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!引き留めて悪かったな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆっくり、くつろいでってくれよな…！！！"
+                                "Alright...!! \\! I'm sorry for keeping you! Take your time and\nrelax...!!!"
                             ]
                         },
                         {
@@ -8783,14 +8552,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ…\\.本当に親切な方ね。"
+                                "Hehe... You're really kind, aren't you?"
                             ]
                         },
                         {
@@ -8801,21 +8570,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[29]あはは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.何に使うのか分からないのもあるけど。"
+                                "\\SE[29]Ahaha... I'm not sure what I would use it for though."
                             ]
                         },
                         {
@@ -8826,21 +8588,14 @@
                                 0,
                                 0,
                                 2,
-                                "ルナロア"
+                                "Lunaroa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[1]役に立つといいわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.\\SE[10]私もこの後すぐに使うつもりだわ。"
+                                "\\SE\\SE[10]I hope it will be useful. \\.\\SE[10]I also plan to use\nit right after this."
                             ]
                         },
                         {
@@ -9294,28 +9049,14 @@
                                 0,
                                 0,
                                 2,
-                                "レベッカ"
+                                "Rebecca"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]もう少ししたら『ユリシーン』かぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\.村よりも全然『都会』だし、\\.\\SE[15]本当に楽しみかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[2]…………\\!………\\!\\SE[51]……。"
+                                "\\SE\\SE[51]It's almost time for Yuriseen.... It's way more urban\nthan the village, so \\SE[15]I'm really looking forward to it.\n\\SE[2]............\\SE[51]......."
                             ]
                         },
                         {
@@ -9566,14 +9307,14 @@
                                 0,
                                 0,
                                 2,
-                                "ライアン"
+                                "Ryan"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[13]おれにもっと…\\.力があったら……。"
+                                "\\SE[13]If only I had... more power..."
                             ]
                         },
                         {

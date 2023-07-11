@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "村長の家",
+    "displayName": "Village Chief's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -5019,21 +5019,14 @@
                                 0,
                                 0,
                                 2,
-                                "ベガ"
+                                "Vega"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[73]無事でよかった…\\.と言える状況じゃないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!\\SE[3]あの程度じゃ、せいぜい『５分』稼げればいい所。"
+                                "\\SE[73]I'm glad you're safe... But I can't say this situation is\ngood. \\SE[3]At best, if we can earn 5 minutes with that level, it\nwould be great."
                             ]
                         },
                         {
@@ -5060,21 +5053,14 @@
                                 0,
                                 0,
                                 2,
-                                "村長さん"
+                                "Village Chief"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベガ様…\\.ラウラ様…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!少々、お力をお借りしてもよろしいですかな？"
+                                "Vega-sama... Laura-sama... May I ask for your assistance for a\nmoment?"
                             ]
                         },
                         {
@@ -5290,14 +5276,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ…あっ……ぅ…。"
+                                "Ugh... Ah... Uh..."
                             ]
                         },
                         {
@@ -5308,14 +5294,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なにを伝えたいのかな。）"
+                                "(I wonder what she wants to convey.)"
                             ]
                         },
                         {
@@ -5326,21 +5312,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロノアはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『久しぶりに会えて嬉しい』だって"
+                                "Ronoa, you know... She said, I'm glad to see you after such a\nlong time."
                             ]
                         },
                         {
@@ -5351,14 +5330,14 @@
                                 0,
                                 0,
                                 2,
-                                "ロノア"
+                                "Ronoa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こくこく。）"
+                                "(Nodding.)"
                             ]
                         },
                         {
@@ -5369,14 +5348,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メリッサちゃんすげー…。"
+                                "Melissa-chan, you're amazing..."
                             ]
                         },
                         {
@@ -5447,21 +5426,14 @@
                                 0,
                                 0,
                                 2,
-                                "メリッサ"
+                                "Melissa"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロノアね。この村が気に入ったみたいなの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…村長さんも優しいし。"
+                                "It seems like Lunaroa really likes this village... The village\nchief is also kind."
                             ]
                         },
                         {
@@ -5472,21 +5444,14 @@
                                 0,
                                 0,
                                 2,
-                                "ラウラ"
+                                "Laura"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロノアちゃんの気持ち、少し分かるかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとだけハタヤキ村に似てるからかな。"
+                                "I might understand Lunaroa's feelings a little. Maybe because\nit's a little similar to Hatayaki Village."
                             ]
                         },
                         {
