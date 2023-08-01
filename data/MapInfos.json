@@ -3,7 +3,7 @@
     {
         "id": 1,
         "expanded": false,
-        "name": "ハタヤキ村　入口",
+        "name": "Hatayaki Village Entrance",
         "order": 814,
         "parentId": 0,
         "scrollX": 1025,
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "expanded": true,
-        "name": "ハタヤキ村",
+        "name": "Hatayaki Village",
         "order": 818,
         "parentId": 1,
         "scrollX": 1297,
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "expanded": true,
-        "name": "ハタヤキ村",
+        "name": "Hatayaki Village",
         "order": 821,
         "parentId": 1,
         "scrollX": 1181,
@@ -30,7 +30,7 @@
     {
         "id": 4,
         "expanded": true,
-        "name": "近隣の街道",
+        "name": "Nearby road",
         "order": 785,
         "parentId": 0,
         "scrollX": 1025,
@@ -39,7 +39,7 @@
     {
         "id": 5,
         "expanded": true,
-        "name": "近くの森 キンリーン",
+        "name": "Nearby Forest - Kinreen",
         "order": 786,
         "parentId": 4,
         "scrollX": 832,
@@ -48,7 +48,7 @@
     {
         "id": 6,
         "expanded": true,
-        "name": "近くの森 キンリーン（中腹）",
+        "name": "Nearby Forest Kinreen (Mid-slope)",
         "order": 788,
         "parentId": 5,
         "scrollX": 832,
@@ -57,7 +57,7 @@
     {
         "id": 7,
         "expanded": true,
-        "name": "逃亡の森",
+        "name": "Forest of Escape",
         "order": 833,
         "parentId": 235,
         "scrollX": 832,
@@ -66,7 +66,7 @@
     {
         "id": 8,
         "expanded": true,
-        "name": "ハタヤキ村　ティータの家",
+        "name": "Hatayaki Village, Tita's house",
         "order": 817,
         "parentId": 1,
         "scrollX": 816,
@@ -75,7 +75,7 @@
     {
         "id": 9,
         "expanded": true,
-        "name": "ハタヤキ村　倉庫",
+        "name": "Hatayaki Village Warehouse",
         "order": 815,
         "parentId": 1,
         "scrollX": 816,
@@ -84,7 +84,7 @@
     {
         "id": 10,
         "expanded": true,
-        "name": "ハタヤキ村　少しお金持ちの家",
+        "name": "Hatayaki Village - A slightly wealthy house",
         "order": 819,
         "parentId": 2,
         "scrollX": 816,
@@ -93,7 +93,7 @@
     {
         "id": 11,
         "expanded": true,
-        "name": "ハタヤキ村　ビビィの家",
+        "name": "Hatayaki Village, Bibi's house",
         "order": 820,
         "parentId": 2,
         "scrollX": 1040.5,
@@ -102,7 +102,7 @@
     {
         "id": 12,
         "expanded": true,
-        "name": "ハタヤキ村　ルナロアの家",
+        "name": "Hatayaki Village, Luna Roa's house",
         "order": 826,
         "parentId": 3,
         "scrollX": 1297,
@@ -111,7 +111,7 @@
     {
         "id": 13,
         "expanded": true,
-        "name": "ハタヤキ村　ラウラの家",
+        "name": "Hatayaki Village, Laura's house",
         "order": 825,
         "parentId": 3,
         "scrollX": 1025,
@@ -120,7 +120,7 @@
     {
         "id": 14,
         "expanded": true,
-        "name": "ハタヤキ村　おこずかいの家",
+        "name": "Hatayaki Village - Pocket Money House",
         "order": 823,
         "parentId": 3,
         "scrollX": 1040.5,
@@ -129,7 +129,7 @@
     {
         "id": 15,
         "expanded": true,
-        "name": "ハタヤキ村　世間話してる家",
+        "name": "Hatayaki Village - House where people are having a casual conversation",
         "order": 824,
         "parentId": 3,
         "scrollX": 816,
@@ -138,7 +138,7 @@
     {
         "id": 16,
         "expanded": false,
-        "name": "★ラウラ回想～夜の村へ",
+        "name": "★Laura's Flashback ~ To the Village at Night",
         "order": 795,
         "parentId": 0,
         "scrollX": 1025,
@@ -147,7 +147,7 @@
     {
         "id": 17,
         "expanded": false,
-        "name": "ホテル　ユリシーンへ至る道",
+        "name": "Road to Hotel Ulyssean",
         "order": 778,
         "parentId": 0,
         "scrollX": 1025,
@@ -156,7 +156,7 @@
     {
         "id": 18,
         "expanded": true,
-        "name": "ユリシーンへ至る道",
+        "name": "Road to Ulyssean",
         "order": 779,
         "parentId": 17,
         "scrollX": 1185,
@@ -165,7 +165,7 @@
     {
         "id": 19,
         "expanded": true,
-        "name": "大浴場",
+        "name": "Large bath",
         "order": 780,
         "parentId": 18,
         "scrollX": 1041,
@@ -174,7 +174,7 @@
     {
         "id": 20,
         "expanded": false,
-        "name": "鉱山とユリシーン分岐",
+        "name": "Mine and Ulyssean Branch",
         "order": 775,
         "parentId": 0,
         "scrollX": 1025,
@@ -183,7 +183,7 @@
     {
         "id": 21,
         "expanded": false,
-        "name": "スクショマップ",
+        "name": "Screenshot Map",
         "order": 32,
         "parentId": 1057,
         "scrollX": 1025,
@@ -192,7 +192,7 @@
     {
         "id": 22,
         "expanded": true,
-        "name": "モットレル鉱山",
+        "name": "Mottrel Mine",
         "order": 767,
         "parentId": 838,
         "scrollX": 1048.5,
@@ -201,7 +201,7 @@
     {
         "id": 23,
         "expanded": true,
-        "name": "モットレル鉱山",
+        "name": "Mottrel Mine",
         "order": 768,
         "parentId": 22,
         "scrollX": 1040.5,
@@ -210,7 +210,7 @@
     {
         "id": 24,
         "expanded": true,
-        "name": "モットレル鉱山",
+        "name": "Mottrel Mine",
         "order": 769,
         "parentId": 23,
         "scrollX": 928,
@@ -219,7 +219,7 @@
     {
         "id": 25,
         "expanded": false,
-        "name": "モットレル鉱山",
+        "name": "Mottrel Mine",
         "order": 770,
         "parentId": 24,
         "scrollX": 1041,
@@ -228,7 +228,7 @@
     {
         "id": 26,
         "expanded": true,
-        "name": "ハタヤキ村",
+        "name": "Hatayaki Village",
         "order": 802,
         "parentId": 16,
         "scrollX": 816,
@@ -237,7 +237,7 @@
     {
         "id": 27,
         "expanded": true,
-        "name": "ハタヤキ村",
+        "name": "Hatayaki Village",
         "order": 797,
         "parentId": 16,
         "scrollX": 1222,
@@ -246,7 +246,7 @@
     {
         "id": 28,
         "expanded": true,
-        "name": "ハタヤキ村",
+        "name": "Hatayaki Village",
         "order": 800,
         "parentId": 16,
         "scrollX": 816,
@@ -255,7 +255,7 @@
     {
         "id": 29,
         "expanded": true,
-        "name": "★（夜）近隣の街道",
+        "name": "★(Night) Nearby Highway",
         "order": 806,
         "parentId": 16,
         "scrollX": 848,
@@ -264,7 +264,7 @@
     {
         "id": 30,
         "expanded": true,
-        "name": "ティータの家",
+        "name": "Tita's house",
         "order": 803,
         "parentId": 26,
         "scrollX": 981,
@@ -273,7 +273,7 @@
     {
         "id": 31,
         "expanded": true,
-        "name": "（夜）ラウラの家",
+        "name": "(Night) Laura's house",
         "order": 796,
         "parentId": 16,
         "scrollX": 1040.5,
@@ -282,7 +282,7 @@
     {
         "id": 32,
         "expanded": true,
-        "name": "ユリシーン",
+        "name": "Ulyssean",
         "order": 39,
         "parentId": 0,
         "scrollX": 1053,
@@ -291,7 +291,7 @@
     {
         "id": 33,
         "expanded": true,
-        "name": "先生のオフィス",
+        "name": "Teacher's office",
         "order": 468,
         "parentId": 169,
         "scrollX": 1222,
@@ -300,7 +300,7 @@
     {
         "id": 34,
         "expanded": true,
-        "name": "スクショ用逃亡の森",
+        "name": "Forest of Escape for Screenshots",
         "order": 33,
         "parentId": 1057,
         "scrollX": 1359,
@@ -309,7 +309,7 @@
     {
         "id": 35,
         "expanded": true,
-        "name": "近くの森 キンリーン ひと休みのテント",
+        "name": "Nearby Forest Kinreen, Tent for a Rest",
         "order": 787,
         "parentId": 5,
         "scrollX": 816,
@@ -318,7 +318,7 @@
     {
         "id": 36,
         "expanded": true,
-        "name": "トオマワリの丘　宿屋",
+        "name": "Toomawari Hill Inn",
         "order": 746,
         "parentId": 841,
         "scrollX": 1041,
@@ -334,7 +334,7 @@
     {
         "id": 44,
         "expanded": true,
-        "name": "コーダイン牢獄　男子牢",
+        "name": "Codain Prison - Male Ward",
         "order": 635,
         "parentId": 45,
         "scrollX": 1119,
@@ -343,7 +343,7 @@
     {
         "id": 45,
         "expanded": false,
-        "name": "コーダイン牢獄 ルナロアの独房",
+        "name": "Codain Prison, Lunaroa's Solitary Confinement Cell",
         "order": 633,
         "parentId": 0,
         "scrollX": 1041,
@@ -352,7 +352,7 @@
     {
         "id": 46,
         "expanded": true,
-        "name": "看守の休憩室",
+        "name": "Guard's break room",
         "order": 634,
         "parentId": 45,
         "scrollX": 1041,
@@ -361,7 +361,7 @@
     {
         "id": 47,
         "expanded": true,
-        "name": "コーダイン牢獄　女子牢",
+        "name": "Codain Prison - Women's Ward",
         "order": 636,
         "parentId": 45,
         "scrollX": 2031,
@@ -370,7 +370,7 @@
     {
         "id": 48,
         "expanded": true,
-        "name": "回想ルーム　ＢＧＭ",
+        "name": "Recollection Room BGM",
         "order": 50,
         "parentId": 58,
         "scrollX": 1297,
@@ -379,7 +379,7 @@
     {
         "id": 49,
         "expanded": true,
-        "name": "近隣の街道",
+        "name": "Nearby road",
         "order": 793,
         "parentId": 52,
         "scrollX": 832,
@@ -388,7 +388,7 @@
     {
         "id": 50,
         "expanded": true,
-        "name": "近隣の街道　跳ね橋",
+        "name": "Nearby Highway, Bouncing Bridge",
         "order": 794,
         "parentId": 49,
         "scrollX": 1041,
@@ -397,7 +397,7 @@
     {
         "id": 51,
         "expanded": true,
-        "name": "近隣の街道",
+        "name": "Nearby road",
         "order": 791,
         "parentId": 4,
         "scrollX": 1025,
@@ -406,7 +406,7 @@
     {
         "id": 52,
         "expanded": true,
-        "name": "近隣の街道",
+        "name": "Nearby road",
         "order": 792,
         "parentId": 51,
         "scrollX": 993,
@@ -415,7 +415,7 @@
     {
         "id": 53,
         "expanded": true,
-        "name": "コーダイン牢獄　ラウラたちの牢",
+        "name": "Codain Prison - Laura and the others' cell",
         "order": 637,
         "parentId": 47,
         "scrollX": 1041,
@@ -424,7 +424,7 @@
     {
         "id": 54,
         "expanded": true,
-        "name": "ユリシーン　城門前",
+        "name": "Ulyssean Castle Gate",
         "order": 66,
         "parentId": 32,
         "scrollX": 1020,
@@ -433,7 +433,7 @@
     {
         "id": 55,
         "expanded": true,
-        "name": "看守の休憩室",
+        "name": "Guard's break room",
         "order": 638,
         "parentId": 53,
         "scrollX": 1025,
@@ -442,7 +442,7 @@
     {
         "id": 56,
         "expanded": true,
-        "name": "本拠地１Ｆ",
+        "name": "Headquarters 1F",
         "order": 40,
         "parentId": 32,
         "scrollX": 1025,
@@ -451,7 +451,7 @@
     {
         "id": 57,
         "expanded": true,
-        "name": "本拠地２Ｆ",
+        "name": "Headquarters 2F",
         "order": 48,
         "parentId": 56,
         "scrollX": 1025,
@@ -460,7 +460,7 @@
     {
         "id": 58,
         "expanded": true,
-        "name": "本拠地２F　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 49,
         "parentId": 57,
         "scrollX": 1025,
@@ -469,7 +469,7 @@
     {
         "id": 59,
         "expanded": false,
-        "name": "本拠地１Ｆ　個室",
+        "name": "Headquarters 1F Private Room",
         "order": 41,
         "parentId": 56,
         "scrollX": 1025,
@@ -479,7 +479,7 @@
     {
         "id": 61,
         "expanded": true,
-        "name": "秘密の部屋",
+        "name": "Secret Room",
         "order": 65,
         "parentId": 32,
         "scrollX": 984,
@@ -488,7 +488,7 @@
     {
         "id": 62,
         "expanded": true,
-        "name": "ユリシーン　酒場１Ｆ",
+        "name": "Ulyssean Tavern 1F",
         "order": 62,
         "parentId": 32,
         "scrollX": 965,
@@ -498,7 +498,7 @@
     {
         "id": 64,
         "expanded": false,
-        "name": "ユリシーン　道具屋",
+        "name": "Ulyssean Tool Shop",
         "order": 61,
         "parentId": 32,
         "scrollX": 1041,
@@ -507,7 +507,7 @@
     {
         "id": 65,
         "expanded": true,
-        "name": "ユリシーン　宿屋１Ｆ",
+        "name": "Yurisine Inn 1F",
         "order": 57,
         "parentId": 32,
         "scrollX": 1025,
@@ -516,7 +516,7 @@
     {
         "id": 66,
         "expanded": true,
-        "name": "ユリシーン　宿屋２Ｆ",
+        "name": "Ulyssean Inn 2F",
         "order": 58,
         "parentId": 65,
         "scrollX": 1020,
@@ -525,7 +525,7 @@
     {
         "id": 67,
         "expanded": false,
-        "name": "ユリシーン　武器防具屋",
+        "name": "Ulyssean Weapon and Armor Shop",
         "order": 60,
         "parentId": 32,
         "scrollX": 1215,
@@ -534,7 +534,7 @@
     {
         "id": 68,
         "expanded": false,
-        "name": "ユリシーン　教会",
+        "name": "Ulyssean Church",
         "order": 64,
         "parentId": 32,
         "scrollX": 1222,
@@ -543,7 +543,7 @@
     {
         "id": 69,
         "expanded": true,
-        "name": "ユリシーン　難民保護施設",
+        "name": "Ulyssean Refugee Protection Facility",
         "order": 54,
         "parentId": 32,
         "scrollX": 1025,
@@ -552,7 +552,7 @@
     {
         "id": 70,
         "expanded": true,
-        "name": "ユリシーン　冒険者ギルド",
+        "name": "Ulyssean Adventurer's Guild",
         "order": 69,
         "parentId": 0,
         "scrollX": 1041,
@@ -561,7 +561,7 @@
     {
         "id": 71,
         "expanded": false,
-        "name": "ユリシーン　道場",
+        "name": "Ulyssean Dojo",
         "order": 70,
         "parentId": 0,
         "scrollX": 1025,
@@ -571,7 +571,7 @@
     {
         "id": 73,
         "expanded": false,
-        "name": "お風呂",
+        "name": "Bath",
         "order": 59,
         "parentId": 66,
         "scrollX": 1306,
@@ -582,7 +582,7 @@
     {
         "id": 76,
         "expanded": false,
-        "name": "隠者の洞窟 地下１F",
+        "name": "Hermit's Cave B1F",
         "order": 670,
         "parentId": 0,
         "scrollX": 1025,
@@ -591,7 +591,7 @@
     {
         "id": 77,
         "expanded": true,
-        "name": "隠者の洞窟 地下２F",
+        "name": "Hermit's Cave B2F",
         "order": 671,
         "parentId": 76,
         "scrollX": 816,
@@ -600,7 +600,7 @@
     {
         "id": 78,
         "expanded": true,
-        "name": "隠者の洞窟 地下３F",
+        "name": "Hermit's Cave, Underground 3F",
         "order": 672,
         "parentId": 77,
         "scrollX": 832,
@@ -609,7 +609,7 @@
     {
         "id": 79,
         "expanded": true,
-        "name": "隠者の洞窟 最下層",
+        "name": "Hermit's Cave, Bottom Floor",
         "order": 673,
         "parentId": 78,
         "scrollX": 832,
@@ -618,7 +618,7 @@
     {
         "id": 80,
         "expanded": false,
-        "name": "隠者の洞窟 妖精の湖",
+        "name": "Hermit's Cave, Fairy Lake",
         "order": 674,
         "parentId": 79,
         "scrollX": 722.4,
@@ -640,7 +640,7 @@
     {
         "id": 94,
         "expanded": false,
-        "name": "ユリシーン地下道",
+        "name": "Ulyssean Underground Passage",
         "order": 754,
         "parentId": 0,
         "scrollX": 1025,
@@ -649,7 +649,7 @@
     {
         "id": 95,
         "expanded": true,
-        "name": "ユリシーン地下道",
+        "name": "Ulyssean Underground Passage",
         "order": 757,
         "parentId": 94,
         "scrollX": 1020,
@@ -658,7 +658,7 @@
     {
         "id": 96,
         "expanded": true,
-        "name": "ユリシーン地下道",
+        "name": "Ulyssean Underground Passage",
         "order": 755,
         "parentId": 94,
         "scrollX": 1088,
@@ -667,7 +667,7 @@
     {
         "id": 97,
         "expanded": true,
-        "name": "ユリシーン地下道",
+        "name": "Ulyssean Underground Passage",
         "order": 756,
         "parentId": 94,
         "scrollX": 832,
@@ -676,7 +676,7 @@
     {
         "id": 98,
         "expanded": true,
-        "name": "ユリシーン地下道　妖精の焚火",
+        "name": "Ulyssean Underground Passage - Fairy Bonfire",
         "order": 758,
         "parentId": 95,
         "scrollX": 816,
@@ -685,7 +685,7 @@
     {
         "id": 99,
         "expanded": true,
-        "name": "ユリシーン地下道",
+        "name": "Ulyssean Underground Passage",
         "order": 759,
         "parentId": 94,
         "scrollX": 1110,
@@ -694,7 +694,7 @@
     {
         "id": 100,
         "expanded": true,
-        "name": "ユリシーン地下道　脱出口",
+        "name": "Ulyssean Underground Passage - Exit",
         "order": 760,
         "parentId": 99,
         "scrollX": 1020,
@@ -703,7 +703,7 @@
     {
         "id": 101,
         "expanded": true,
-        "name": "(没)ユリシーン地下道",
+        "name": "(Lost) Yurisine Underground Passage",
         "order": 761,
         "parentId": 94,
         "scrollX": 1025,
@@ -736,7 +736,7 @@
     {
         "id": 126,
         "expanded": true,
-        "name": "雪の砦　中央砦２Ｆ",
+        "name": "Snow Fortress, Central Fortress 2F",
         "order": 366,
         "parentId": 566,
         "scrollX": 1257,
@@ -765,7 +765,7 @@
     {
         "id": 147,
         "expanded": true,
-        "name": "回想ルーム",
+        "name": "Flashback Room",
         "order": 68,
         "parentId": 0,
         "scrollX": 1031,
@@ -774,7 +774,7 @@
     {
         "id": 148,
         "expanded": true,
-        "name": "ふたなり学者の住処",
+        "name": "Residence of the Futanari Scholar",
         "order": 675,
         "parentId": 78,
         "scrollX": 816,
@@ -783,7 +783,7 @@
     {
         "id": 149,
         "expanded": true,
-        "name": "ふたなり学者の住処 室内",
+        "name": "Futanari Scholar's Residence - Indoors",
         "order": 676,
         "parentId": 148,
         "scrollX": 1094,
@@ -792,7 +792,7 @@
     {
         "id": 150,
         "expanded": true,
-        "name": "コーダイン牢獄　政治犯区画",
+        "name": "Codain Prison - Political Prisoner Section",
         "order": 639,
         "parentId": 45,
         "scrollX": 1201,
@@ -802,7 +802,7 @@
     {
         "id": 152,
         "expanded": true,
-        "name": "コーダイン牢獄　渡り廊下",
+        "name": "Codain Prison - Corridor",
         "order": 642,
         "parentId": 45,
         "scrollX": 1025,
@@ -811,7 +811,7 @@
     {
         "id": 153,
         "expanded": false,
-        "name": "コーダイン牢獄　妖精の牢",
+        "name": "Codain Prison - Fairy's Prison",
         "order": 641,
         "parentId": 45,
         "scrollX": 1025,
@@ -820,7 +820,7 @@
     {
         "id": 154,
         "expanded": true,
-        "name": "コーダイン牢獄　書類室",
+        "name": "Codain Prison - Document Room",
         "order": 643,
         "parentId": 152,
         "scrollX": 981,
@@ -830,7 +830,7 @@
     {
         "id": 156,
         "expanded": true,
-        "name": "コーダイン牢獄　頂上",
+        "name": "Codain Prison Summit",
         "order": 644,
         "parentId": 45,
         "scrollX": 1025,
@@ -840,7 +840,7 @@
     {
         "id": 158,
         "expanded": false,
-        "name": "地の試練跡地",
+        "name": "Land Trial Ruins",
         "order": 454,
         "parentId": 0,
         "scrollX": 1025,
@@ -849,7 +849,7 @@
     {
         "id": 159,
         "expanded": true,
-        "name": "なくなった場所",
+        "name": "Lost place",
         "order": 463,
         "parentId": 158,
         "scrollX": 1041,
@@ -858,7 +858,7 @@
     {
         "id": 160,
         "expanded": true,
-        "name": "大穴",
+        "name": "Great Hole",
         "order": 456,
         "parentId": 158,
         "scrollX": 1041,
@@ -868,7 +868,7 @@
     {
         "id": 162,
         "expanded": true,
-        "name": "大穴",
+        "name": "Great Hole",
         "order": 460,
         "parentId": 158,
         "scrollX": 816,
@@ -877,7 +877,7 @@
     {
         "id": 163,
         "expanded": true,
-        "name": "実験施設",
+        "name": "Experimental Facility",
         "order": 461,
         "parentId": 158,
         "scrollX": 3279,
@@ -888,7 +888,7 @@
     {
         "id": 166,
         "expanded": true,
-        "name": "爆心地",
+        "name": "Epicenter",
         "order": 462,
         "parentId": 163,
         "scrollX": 1041,
@@ -897,7 +897,7 @@
     {
         "id": 167,
         "expanded": false,
-        "name": "病院１Ｆ",
+        "name": "Hospital 1F",
         "order": 465,
         "parentId": 158,
         "scrollX": 1104,
@@ -906,7 +906,7 @@
     {
         "id": 168,
         "expanded": false,
-        "name": "病院２Ｆ",
+        "name": "Hospital 2F",
         "order": 466,
         "parentId": 158,
         "scrollX": 1072,
@@ -915,7 +915,7 @@
     {
         "id": 169,
         "expanded": true,
-        "name": "病院最上階",
+        "name": "Top floor of the hospital",
         "order": 467,
         "parentId": 158,
         "scrollX": 832,
@@ -924,7 +924,7 @@
     {
         "id": 170,
         "expanded": true,
-        "name": "（イベント）先生のオフィス",
+        "name": "(Event) Teacher's Office",
         "order": 469,
         "parentId": 169,
         "scrollX": 1222,
@@ -943,7 +943,7 @@
     {
         "id": 181,
         "expanded": false,
-        "name": "炎の試練",
+        "name": "Trial of Flames",
         "order": 493,
         "parentId": 0,
         "scrollX": 1025,
@@ -952,7 +952,7 @@
     {
         "id": 182,
         "expanded": true,
-        "name": "炎の試練",
+        "name": "Trial of Flames",
         "order": 494,
         "parentId": 181,
         "scrollX": 1025,
@@ -961,7 +961,7 @@
     {
         "id": 183,
         "expanded": true,
-        "name": "炎の試練",
+        "name": "Trial of Flames",
         "order": 495,
         "parentId": 182,
         "scrollX": 1675,
@@ -970,7 +970,7 @@
     {
         "id": 184,
         "expanded": true,
-        "name": "炎の試練",
+        "name": "Trial of Flames",
         "order": 496,
         "parentId": 183,
         "scrollX": 1191,
@@ -979,7 +979,7 @@
     {
         "id": 185,
         "expanded": true,
-        "name": "炎の試練",
+        "name": "Trial of Flames",
         "order": 497,
         "parentId": 184,
         "scrollX": 1025,
@@ -988,7 +988,7 @@
     {
         "id": 186,
         "expanded": false,
-        "name": "氷の試練",
+        "name": "Trial of Ice",
         "order": 485,
         "parentId": 0,
         "scrollX": 1025,
@@ -998,7 +998,7 @@
     {
         "id": 188,
         "expanded": true,
-        "name": "氷の試練",
+        "name": "Trial of Ice",
         "order": 486,
         "parentId": 186,
         "scrollX": 1025,
@@ -1007,7 +1007,7 @@
     {
         "id": 189,
         "expanded": true,
-        "name": "氷の試練",
+        "name": "Trial of Ice",
         "order": 487,
         "parentId": 188,
         "scrollX": 816,
@@ -1016,7 +1016,7 @@
     {
         "id": 190,
         "expanded": true,
-        "name": "氷の試練",
+        "name": "Trial of Ice",
         "order": 490,
         "parentId": 191,
         "scrollX": 1041,
@@ -1025,7 +1025,7 @@
     {
         "id": 191,
         "expanded": true,
-        "name": "氷の試練",
+        "name": "Trial of Ice",
         "order": 488,
         "parentId": 189,
         "scrollX": 1072,
@@ -1034,7 +1034,7 @@
     {
         "id": 192,
         "expanded": false,
-        "name": "氷の洞窟　妖精の止まり木",
+        "name": "Ice Cave, Fairy's Resting Tree",
         "order": 489,
         "parentId": 191,
         "scrollX": 1231,
@@ -1048,7 +1048,7 @@
     {
         "id": 198,
         "expanded": false,
-        "name": "風の試練",
+        "name": "Trial of the Wind",
         "order": 475,
         "parentId": 0,
         "scrollX": 1025,
@@ -1057,7 +1057,7 @@
     {
         "id": 199,
         "expanded": true,
-        "name": "風の洞窟内部１",
+        "name": "Wind Cave Interior 1",
         "order": 484,
         "parentId": 198,
         "scrollX": 1200,
@@ -1066,7 +1066,7 @@
     {
         "id": 200,
         "expanded": true,
-        "name": "風の試練",
+        "name": "Trial of the Wind",
         "order": 476,
         "parentId": 198,
         "scrollX": 746.4,
@@ -1075,7 +1075,7 @@
     {
         "id": 201,
         "expanded": true,
-        "name": "風の試練",
+        "name": "Trial of the Wind",
         "order": 477,
         "parentId": 200,
         "scrollX": 722.4,
@@ -1084,7 +1084,7 @@
     {
         "id": 202,
         "expanded": true,
-        "name": "風の試練　最深部",
+        "name": "Trial of the Wind - Deepest Level",
         "order": 480,
         "parentId": 211,
         "scrollX": 832,
@@ -1096,7 +1096,7 @@
     {
         "id": 206,
         "expanded": true,
-        "name": "ルナロアの夢　悲嘆の心",
+        "name": "Luna Roa's Dream: Heart of Sorrow",
         "order": 219,
         "parentId": 207,
         "scrollX": 1041,
@@ -1105,7 +1105,7 @@
     {
         "id": 207,
         "expanded": false,
-        "name": "ルナロアの夢",
+        "name": "Luna Roa's Dream",
         "order": 200,
         "parentId": 0,
         "scrollX": 1025,
@@ -1114,7 +1114,7 @@
     {
         "id": 208,
         "expanded": true,
-        "name": "ルナロアの夢　７つの試練",
+        "name": "Lunaroa's Dream: Seven Trials",
         "order": 201,
         "parentId": 207,
         "scrollX": 1065,
@@ -1124,7 +1124,7 @@
     {
         "id": 210,
         "expanded": false,
-        "name": "ルナロアの夢　最深層",
+        "name": "Luna Roa's Dream - Deepest Layer",
         "order": 220,
         "parentId": 207,
         "scrollX": 1025,
@@ -1133,7 +1133,7 @@
     {
         "id": 211,
         "expanded": true,
-        "name": "風の試練",
+        "name": "Trial of the Wind",
         "order": 478,
         "parentId": 201,
         "scrollX": 832,
@@ -1142,7 +1142,7 @@
     {
         "id": 212,
         "expanded": true,
-        "name": "埋蔵金の発掘現場",
+        "name": "Excavation site of buried treasure",
         "order": 600,
         "parentId": 216,
         "scrollX": 1130,
@@ -1151,7 +1151,7 @@
     {
         "id": 213,
         "expanded": true,
-        "name": "埋蔵金の発掘現場",
+        "name": "Excavation site of buried treasure",
         "order": 603,
         "parentId": 214,
         "scrollX": 981,
@@ -1160,7 +1160,7 @@
     {
         "id": 214,
         "expanded": true,
-        "name": "埋蔵金の発掘現場",
+        "name": "Excavation site of buried treasure",
         "order": 602,
         "parentId": 212,
         "scrollX": 965,
@@ -1169,7 +1169,7 @@
     {
         "id": 215,
         "expanded": true,
-        "name": "埋蔵金の発掘現場",
+        "name": "Excavation site of buried treasure",
         "order": 606,
         "parentId": 218,
         "scrollX": 1104,
@@ -1178,7 +1178,7 @@
     {
         "id": 216,
         "expanded": false,
-        "name": "埋蔵金の発掘現場",
+        "name": "Excavation site of buried treasure",
         "order": 599,
         "parentId": 0,
         "scrollX": 1025,
@@ -1187,7 +1187,7 @@
     {
         "id": 217,
         "expanded": false,
-        "name": "埋蔵金の発掘現場　妖精の止まり木",
+        "name": "Excavation site of buried treasure, Fairy's resting tree",
         "order": 607,
         "parentId": 215,
         "scrollX": 722.4,
@@ -1196,7 +1196,7 @@
     {
         "id": 218,
         "expanded": true,
-        "name": "埋蔵金の発掘現場",
+        "name": "Excavation site of buried treasure",
         "order": 604,
         "parentId": 213,
         "scrollX": 972,
@@ -1205,7 +1205,7 @@
     {
         "id": 219,
         "expanded": false,
-        "name": "埋蔵金の発掘現場",
+        "name": "Excavation site of buried treasure",
         "order": 605,
         "parentId": 218,
         "scrollX": 981,
@@ -1214,7 +1214,7 @@
     {
         "id": 220,
         "expanded": true,
-        "name": "埋蔵金の発掘現場　最深部",
+        "name": "Excavation site of buried treasure - deepest part",
         "order": 608,
         "parentId": 215,
         "scrollX": 1000,
@@ -1223,7 +1223,7 @@
     {
         "id": 221,
         "expanded": true,
-        "name": "埋蔵金の発掘現場",
+        "name": "Excavation site of buried treasure",
         "order": 601,
         "parentId": 212,
         "scrollX": 722.4,
@@ -1232,7 +1232,7 @@
     {
         "id": 222,
         "expanded": false,
-        "name": "ハタヤキ村入口(夢)",
+        "name": "Hatayaki Village Entrance (Dream)",
         "order": 159,
         "parentId": 0,
         "scrollX": 1041,
@@ -1245,7 +1245,7 @@
     {
         "id": 227,
         "expanded": true,
-        "name": "近くの森 キンリーン（最深部）",
+        "name": "Nearby Forest Kinreen (Deepest Part)",
         "order": 790,
         "parentId": 6,
         "scrollX": 1025,
@@ -1255,7 +1255,7 @@
     {
         "id": 229,
         "expanded": true,
-        "name": "学校廊下",
+        "name": "School hallway",
         "order": 613,
         "parentId": 409,
         "scrollX": 1057,
@@ -1267,7 +1267,7 @@
     {
         "id": 233,
         "expanded": true,
-        "name": "逃亡の森",
+        "name": "Forest of Escape",
         "order": 829,
         "parentId": 238,
         "scrollX": 1025,
@@ -1276,7 +1276,7 @@
     {
         "id": 234,
         "expanded": true,
-        "name": "逃亡の森",
+        "name": "Forest of Escape",
         "order": 830,
         "parentId": 233,
         "scrollX": 1205,
@@ -1285,7 +1285,7 @@
     {
         "id": 235,
         "expanded": true,
-        "name": "逃亡の森",
+        "name": "Forest of Escape",
         "order": 832,
         "parentId": 234,
         "scrollX": 1025,
@@ -1294,7 +1294,7 @@
     {
         "id": 236,
         "expanded": true,
-        "name": "★ティータ 難民保護施設",
+        "name": "★Tita Refugee Protection Facility",
         "order": 55,
         "parentId": 69,
         "scrollX": 1099,
@@ -1303,7 +1303,7 @@
     {
         "id": 237,
         "expanded": true,
-        "name": "★ユリシーン地下道",
+        "name": "★Yurisine Underground Passage",
         "order": 765,
         "parentId": 240,
         "scrollX": 1000,
@@ -1312,7 +1312,7 @@
     {
         "id": 238,
         "expanded": true,
-        "name": "逃亡の森",
+        "name": "Forest of Escape",
         "order": 828,
         "parentId": 852,
         "scrollX": 1205,
@@ -1322,7 +1322,7 @@
     {
         "id": 240,
         "expanded": true,
-        "name": "★ユリシーン地下道",
+        "name": "★Yurisine Underground Passage",
         "order": 764,
         "parentId": 242,
         "scrollX": 1041,
@@ -1331,7 +1331,7 @@
     {
         "id": 241,
         "expanded": false,
-        "name": "★ユリシーン 入国時イベント",
+        "name": "★Yurisine Immigration Event",
         "order": 762,
         "parentId": 0,
         "scrollX": 1041,
@@ -1340,7 +1340,7 @@
     {
         "id": 242,
         "expanded": true,
-        "name": "★ユリシーン地下道",
+        "name": "★Yurisine Underground Passage",
         "order": 763,
         "parentId": 241,
         "scrollX": 1381,
@@ -1349,7 +1349,7 @@
     {
         "id": 243,
         "expanded": true,
-        "name": "★大浴場　ラウラとルナロア",
+        "name": "★Large Bathhouse Laura and Lunaroa",
         "order": 781,
         "parentId": 19,
         "scrollX": 1041,
@@ -1358,7 +1358,7 @@
     {
         "id": 244,
         "expanded": true,
-        "name": "★ホテル内部",
+        "name": "★Inside the hotel",
         "order": 782,
         "parentId": 243,
         "scrollX": 1185,
@@ -1367,7 +1367,7 @@
     {
         "id": 245,
         "expanded": false,
-        "name": "♥シーン再生部屋",
+        "name": "♥ Scene Playback Room",
         "order": 1,
         "parentId": 0,
         "scrollX": 1025,
@@ -1376,7 +1376,7 @@
     {
         "id": 246,
         "expanded": true,
-        "name": "★救出用マップ",
+        "name": "★Rescue Map",
         "order": 798,
         "parentId": 27,
         "scrollX": 816,
@@ -1385,7 +1385,7 @@
     {
         "id": 247,
         "expanded": true,
-        "name": "★救出用マップ２",
+        "name": "★Rescue Map 2",
         "order": 799,
         "parentId": 246,
         "scrollX": 1040.5,
@@ -1394,7 +1394,7 @@
     {
         "id": 248,
         "expanded": true,
-        "name": "★（夜）ハタヤキの村中間",
+        "name": "★(Night) Village of Hatakayaki, Middle",
         "order": 801,
         "parentId": 28,
         "scrollX": 1040,
@@ -1403,7 +1403,7 @@
     {
         "id": 249,
         "expanded": true,
-        "name": "★（夜）ティータの家",
+        "name": "★ (Night) Tita's House",
         "order": 804,
         "parentId": 30,
         "scrollX": 816,
@@ -1412,7 +1412,7 @@
     {
         "id": 250,
         "expanded": true,
-        "name": "★（夜）ティータの家２",
+        "name": "★(Night) Tita's House 2",
         "order": 805,
         "parentId": 249,
         "scrollX": 1297,
@@ -1421,7 +1421,7 @@
     {
         "id": 251,
         "expanded": false,
-        "name": "★（夜）近隣の街道",
+        "name": "★(Night) Nearby Highway",
         "order": 807,
         "parentId": 29,
         "scrollX": 1218,
@@ -1430,7 +1430,7 @@
     {
         "id": 252,
         "expanded": true,
-        "name": "★（夜）近隣の街道",
+        "name": "★(Night) Nearby Highway",
         "order": 808,
         "parentId": 251,
         "scrollX": 1218,
@@ -1439,7 +1439,7 @@
     {
         "id": 253,
         "expanded": true,
-        "name": "近くの★森 - キンリーン（最深部）",
+        "name": "Nearby ★ Forest - Kinreen (Deepest Part)",
         "order": 809,
         "parentId": 16,
         "scrollX": 1020,
@@ -1448,7 +1448,7 @@
     {
         "id": 254,
         "expanded": true,
-        "name": "★近くの森 - キンリーン（最深部）",
+        "name": "★ Nearby Forest - Kinreen (Deepest Part)",
         "order": 810,
         "parentId": 253,
         "scrollX": 1040.5,
@@ -1457,7 +1457,7 @@
     {
         "id": 255,
         "expanded": true,
-        "name": "近くの森 キンリーン（最深部）",
+        "name": "Nearby Forest Kinreen (Deepest Part)",
         "order": 811,
         "parentId": 254,
         "scrollX": 832,
@@ -1466,7 +1466,7 @@
     {
         "id": 256,
         "expanded": true,
-        "name": "★近くの森 - キンリーン（中腹）",
+        "name": "★ Nearby Forest - Kinreen (Mid-slope)",
         "order": 812,
         "parentId": 255,
         "scrollX": 1040.5,
@@ -1475,7 +1475,7 @@
     {
         "id": 257,
         "expanded": true,
-        "name": "★近くの森 - キンリーン（中腹）",
+        "name": "★ Nearby Forest - Kinreen (Mid-slope)",
         "order": 813,
         "parentId": 256,
         "scrollX": 1181,
@@ -1484,7 +1484,7 @@
     {
         "id": 258,
         "expanded": true,
-        "name": "★レベッカ救出イベント",
+        "name": "★Rebecca Rescue Event",
         "order": 771,
         "parentId": 24,
         "scrollX": 1119,
@@ -1493,7 +1493,7 @@
     {
         "id": 259,
         "expanded": true,
-        "name": "★鉱山3",
+        "name": "★Mine 3",
         "order": 772,
         "parentId": 258,
         "scrollX": 1043,
@@ -1502,7 +1502,7 @@
     {
         "id": 260,
         "expanded": true,
-        "name": "☆ベガ加入イベ",
+        "name": "☆Vega Joining Event",
         "order": 648,
         "parentId": 526,
         "scrollX": 965,
@@ -1511,7 +1511,7 @@
     {
         "id": 261,
         "expanded": true,
-        "name": "★ユリシーン",
+        "name": "★Ulyssean",
         "order": 649,
         "parentId": 260,
         "scrollX": 1232,
@@ -1520,7 +1520,7 @@
     {
         "id": 262,
         "expanded": true,
-        "name": "★ベガ加入イベ",
+        "name": "★Vega Joining Event",
         "order": 650,
         "parentId": 261,
         "scrollX": 1020,
@@ -1529,7 +1529,7 @@
     {
         "id": 263,
         "expanded": true,
-        "name": "★ルナロアの牢",
+        "name": "★Lunaroa Prison",
         "order": 652,
         "parentId": 262,
         "scrollX": 1295,
@@ -1538,7 +1538,7 @@
     {
         "id": 264,
         "expanded": true,
-        "name": "★ラウラたちの牢",
+        "name": "★Laura and the Prison",
         "order": 653,
         "parentId": 263,
         "scrollX": 1261,
@@ -1547,7 +1547,7 @@
     {
         "id": 265,
         "expanded": true,
-        "name": "★事後ラウラたちの牢",
+        "name": "★ Aftermath Laura and the others' prison",
         "order": 654,
         "parentId": 264,
         "scrollX": 1255,
@@ -1556,7 +1556,7 @@
     {
         "id": 266,
         "expanded": false,
-        "name": "★コーダイン牢獄　渡り廊下",
+        "name": "★Codain Prison Corridor",
         "order": 658,
         "parentId": 265,
         "scrollX": 995,
@@ -1565,7 +1565,7 @@
     {
         "id": 267,
         "expanded": true,
-        "name": "★コーダイン牢獄　頂上",
+        "name": "★Codain Prison Summit",
         "order": 659,
         "parentId": 266,
         "scrollX": 1036,
@@ -1574,7 +1574,7 @@
     {
         "id": 268,
         "expanded": true,
-        "name": "★コーダイン牢獄　書類室",
+        "name": "★Codain Prison Document Room",
         "order": 656,
         "parentId": 265,
         "scrollX": 1121,
@@ -1583,7 +1583,7 @@
     {
         "id": 269,
         "expanded": true,
-        "name": "★コーダイン牢獄　書類室",
+        "name": "★Codain Prison Document Room",
         "order": 655,
         "parentId": 265,
         "scrollX": 1025,
@@ -1592,7 +1592,7 @@
     {
         "id": 270,
         "expanded": true,
-        "name": "★逃亡の森",
+        "name": "Forest of Escape",
         "order": 662,
         "parentId": 265,
         "scrollX": 1025,
@@ -1601,7 +1601,7 @@
     {
         "id": 271,
         "expanded": true,
-        "name": "★逃亡の森",
+        "name": "Forest of Escape",
         "order": 663,
         "parentId": 270,
         "scrollX": 1041,
@@ -1610,7 +1610,7 @@
     {
         "id": 272,
         "expanded": false,
-        "name": "逃亡の森",
+        "name": "Forest of Escape",
         "order": 623,
         "parentId": 0,
         "scrollX": 1025,
@@ -1619,7 +1619,7 @@
     {
         "id": 273,
         "expanded": true,
-        "name": "逃亡の森",
+        "name": "Forest of Escape",
         "order": 624,
         "parentId": 272,
         "scrollX": 1041,
@@ -1628,7 +1628,7 @@
     {
         "id": 274,
         "expanded": true,
-        "name": "逃亡の森",
+        "name": "Forest of Escape",
         "order": 625,
         "parentId": 273,
         "scrollX": 1025,
@@ -1637,7 +1637,7 @@
     {
         "id": 275,
         "expanded": true,
-        "name": "逃亡の森",
+        "name": "Forest of Escape",
         "order": 626,
         "parentId": 274,
         "scrollX": 1025,
@@ -1654,7 +1654,7 @@
     {
         "id": 284,
         "expanded": false,
-        "name": "雪の砦　中央砦２Ｆ小部屋",
+        "name": "Snow Fortress, Central Fortress 2F Small Room",
         "order": 367,
         "parentId": 566,
         "scrollX": 1041,
@@ -1693,7 +1693,7 @@
     {
         "id": 315,
         "expanded": true,
-        "name": "逃亡の森",
+        "name": "Forest of Escape",
         "order": 627,
         "parentId": 274,
         "scrollX": 1261,
@@ -1702,7 +1702,7 @@
     {
         "id": 316,
         "expanded": false,
-        "name": "逃亡の森",
+        "name": "Forest of Escape",
         "order": 628,
         "parentId": 315,
         "scrollX": 1025,
@@ -1711,7 +1711,7 @@
     {
         "id": 317,
         "expanded": true,
-        "name": "★逃亡の森 止まり木の宿",
+        "name": "★Forest of Escape, Inn of the Stopping Tree",
         "order": 664,
         "parentId": 270,
         "scrollX": 1025,
@@ -1720,7 +1720,7 @@
     {
         "id": 318,
         "expanded": true,
-        "name": "止まり木の宿",
+        "name": "Yamari-ki no yado",
         "order": 630,
         "parentId": 319,
         "scrollX": 1025,
@@ -1729,7 +1729,7 @@
     {
         "id": 319,
         "expanded": true,
-        "name": "逃亡の森 止まり木の宿",
+        "name": "Forest of Escape, Inn of the Stopping Tree",
         "order": 629,
         "parentId": 315,
         "scrollX": 1025,
@@ -1738,7 +1738,7 @@
     {
         "id": 320,
         "expanded": true,
-        "name": "逃亡の森",
+        "name": "Forest of Escape",
         "order": 631,
         "parentId": 319,
         "scrollX": 1279,
@@ -1747,7 +1747,7 @@
     {
         "id": 321,
         "expanded": true,
-        "name": "逃亡の森",
+        "name": "Forest of Escape",
         "order": 632,
         "parentId": 320,
         "scrollX": 1041,
@@ -1757,7 +1757,7 @@
     {
         "id": 323,
         "expanded": true,
-        "name": "★理事長戦用",
+        "name": "★Chairman Battle",
         "order": 657,
         "parentId": 265,
         "scrollX": 1011,
@@ -1766,7 +1766,7 @@
     {
         "id": 324,
         "expanded": true,
-        "name": "★ベガとルナロアの謁見",
+        "name": "★Audience with Vega and Lunaroa",
         "order": 665,
         "parentId": 270,
         "scrollX": 1025,
@@ -1775,7 +1775,7 @@
     {
         "id": 325,
         "expanded": true,
-        "name": "★本拠地１F",
+        "name": "★Headquarters 1F",
         "order": 666,
         "parentId": 270,
         "scrollX": 1130,
@@ -1784,7 +1784,7 @@
     {
         "id": 326,
         "expanded": true,
-        "name": "エルモ村　村長の家",
+        "name": "Elmo Village, Village Chief's House",
         "order": 517,
         "parentId": 329,
         "scrollX": 903,
@@ -1793,7 +1793,7 @@
     {
         "id": 327,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 390,
         "parentId": 355,
         "scrollX": 1025,
@@ -1802,7 +1802,7 @@
     {
         "id": 328,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 406,
         "parentId": 373,
         "scrollX": 1209,
@@ -1811,7 +1811,7 @@
     {
         "id": 329,
         "expanded": false,
-        "name": "エルモ村",
+        "name": "Elmo Village",
         "order": 516,
         "parentId": 0,
         "scrollX": 1025,
@@ -1820,7 +1820,7 @@
     {
         "id": 330,
         "expanded": false,
-        "name": "エルモ村　家畜小屋",
+        "name": "Elmo Village Livestock Barn",
         "order": 542,
         "parentId": 329,
         "scrollX": 1215,
@@ -1829,7 +1829,7 @@
     {
         "id": 331,
         "expanded": true,
-        "name": "エルモ村　宿屋",
+        "name": "Elmo Village Inn",
         "order": 531,
         "parentId": 329,
         "scrollX": 1025,
@@ -1838,7 +1838,7 @@
     {
         "id": 332,
         "expanded": false,
-        "name": "エルモ村　民家",
+        "name": "Elmo Village, Residential House",
         "order": 541,
         "parentId": 329,
         "scrollX": 832,
@@ -1849,7 +1849,7 @@
     {
         "id": 335,
         "expanded": true,
-        "name": "★村長の家　お使い前",
+        "name": "★Village Chief's House, Before Running Errands",
         "order": 518,
         "parentId": 326,
         "scrollX": 1130,
@@ -1858,7 +1858,7 @@
     {
         "id": 336,
         "expanded": true,
-        "name": "コーダイン城　玉座",
+        "name": "Caudine Castle Throne",
         "order": 419,
         "parentId": 342,
         "scrollX": 816,
@@ -1867,7 +1867,7 @@
     {
         "id": 337,
         "expanded": true,
-        "name": "エルモ村　道具屋",
+        "name": "Elmo Village Tool Shop",
         "order": 540,
         "parentId": 329,
         "scrollX": 816,
@@ -1877,7 +1877,7 @@
     {
         "id": 339,
         "expanded": true,
-        "name": "★大浴場　ライアン含め4人で",
+        "name": "★Large bathhouse, including Ryan, with 4 people",
         "order": 783,
         "parentId": 19,
         "scrollX": 1041,
@@ -1886,7 +1886,7 @@
     {
         "id": 340,
         "expanded": true,
-        "name": "★ホテル　ユリシーンへ至る道",
+        "name": "★Road to Hotel Ulyssean",
         "order": 784,
         "parentId": 339,
         "scrollX": 1183,
@@ -1895,7 +1895,7 @@
     {
         "id": 341,
         "expanded": true,
-        "name": "★防空壕",
+        "name": "★Air Raid Shelter",
         "order": 520,
         "parentId": 326,
         "scrollX": 832,
@@ -1904,7 +1904,7 @@
     {
         "id": 342,
         "expanded": true,
-        "name": "コーダイン城　玉座",
+        "name": "Caudine Castle Throne",
         "order": 418,
         "parentId": 343,
         "scrollX": 1289,
@@ -1913,7 +1913,7 @@
     {
         "id": 343,
         "expanded": true,
-        "name": "★教会",
+        "name": "★Church",
         "order": 417,
         "parentId": 385,
         "scrollX": 1094,
@@ -1922,7 +1922,7 @@
     {
         "id": 344,
         "expanded": true,
-        "name": "トオマワリの丘　宿屋",
+        "name": "Toomawari Hill Inn",
         "order": 747,
         "parentId": 36,
         "scrollX": 1020,
@@ -1931,7 +1931,7 @@
     {
         "id": 345,
         "expanded": true,
-        "name": "エルモ村　防空壕",
+        "name": "Elmo Village Air Raid Shelter",
         "order": 523,
         "parentId": 347,
         "scrollX": 1041,
@@ -1940,7 +1940,7 @@
     {
         "id": 346,
         "expanded": true,
-        "name": "エルモ村　防空壕",
+        "name": "Elmo Village Air Raid Shelter",
         "order": 524,
         "parentId": 345,
         "scrollX": 1025,
@@ -1949,7 +1949,7 @@
     {
         "id": 347,
         "expanded": true,
-        "name": "エルモ村　防空壕",
+        "name": "Elmo Village Air Raid Shelter",
         "order": 521,
         "parentId": 341,
         "scrollX": 1025,
@@ -1958,7 +1958,7 @@
     {
         "id": 348,
         "expanded": true,
-        "name": "エルモ村　防空壕出口",
+        "name": "Elmo Village, Air Raid Shelter Exit",
         "order": 525,
         "parentId": 346,
         "scrollX": 1130,
@@ -1967,7 +1967,7 @@
     {
         "id": 349,
         "expanded": true,
-        "name": "エルモ村の山道",
+        "name": "Mountain path in Elmo Village",
         "order": 543,
         "parentId": 0,
         "scrollX": 1041,
@@ -1976,7 +1976,7 @@
     {
         "id": 350,
         "expanded": true,
-        "name": "エルモ村の山道",
+        "name": "Mountain path in Elmo Village",
         "order": 544,
         "parentId": 349,
         "scrollX": 1409,
@@ -1985,7 +1985,7 @@
     {
         "id": 351,
         "expanded": true,
-        "name": "エルモ村の山道　大橋",
+        "name": "Elmo Village Mountain Path, Big Bridge",
         "order": 547,
         "parentId": 349,
         "scrollX": 1025,
@@ -1994,7 +1994,7 @@
     {
         "id": 352,
         "expanded": true,
-        "name": "エルモ村の山道",
+        "name": "Mountain path in Elmo Village",
         "order": 550,
         "parentId": 349,
         "scrollX": 1025,
@@ -2004,7 +2004,7 @@
     {
         "id": 354,
         "expanded": false,
-        "name": "ベガ回想",
+        "name": "Vega Flashback",
         "order": 611,
         "parentId": 0,
         "scrollX": 1025,
@@ -2013,7 +2013,7 @@
     {
         "id": 355,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 389,
         "parentId": 365,
         "scrollX": 1025,
@@ -2022,7 +2022,7 @@
     {
         "id": 356,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 391,
         "parentId": 327,
         "scrollX": 816,
@@ -2031,7 +2031,7 @@
     {
         "id": 357,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 392,
         "parentId": 356,
         "scrollX": 816,
@@ -2040,7 +2040,7 @@
     {
         "id": 358,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 393,
         "parentId": 357,
         "scrollX": 1041,
@@ -2049,7 +2049,7 @@
     {
         "id": 359,
         "expanded": true,
-        "name": "コーダイン城　渡り廊下",
+        "name": "Caudine Castle, Crossing Corridor",
         "order": 394,
         "parentId": 358,
         "scrollX": 1237,
@@ -2058,7 +2058,7 @@
     {
         "id": 360,
         "expanded": false,
-        "name": "コーダイン城　図書室",
+        "name": "Caudine Castle Library",
         "order": 396,
         "parentId": 359,
         "scrollX": 1041,
@@ -2067,7 +2067,7 @@
     {
         "id": 361,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 397,
         "parentId": 359,
         "scrollX": 1407,
@@ -2076,7 +2076,7 @@
     {
         "id": 362,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Caudine Castle",
         "order": 399,
         "parentId": 361,
         "scrollX": 1092,
@@ -2085,7 +2085,7 @@
     {
         "id": 363,
         "expanded": true,
-        "name": "コーダイン城　会議室",
+        "name": "Caudine Castle Conference Room",
         "order": 398,
         "parentId": 361,
         "scrollX": 1041,
@@ -2094,7 +2094,7 @@
     {
         "id": 364,
         "expanded": false,
-        "name": "☆コーダイン城侵入",
+        "name": "☆Infiltration of Codaen Castle",
         "order": 387,
         "parentId": 0,
         "scrollX": 1041,
@@ -2103,7 +2103,7 @@
     {
         "id": 365,
         "expanded": true,
-        "name": "コーダイン城 水路",
+        "name": "Cordin Castle Aqueduct",
         "order": 388,
         "parentId": 364,
         "scrollX": 1025,
@@ -2112,7 +2112,7 @@
     {
         "id": 366,
         "expanded": true,
-        "name": "コーダイン城　小ホール",
+        "name": "Caudine Castle Small Hall",
         "order": 409,
         "parentId": 375,
         "scrollX": 816,
@@ -2122,7 +2122,7 @@
     {
         "id": 368,
         "expanded": true,
-        "name": "☆小さな城　1F兵舎",
+        "name": "☆Small Castle 1F Barracks",
         "order": 401,
         "parentId": 359,
         "scrollX": 1070,
@@ -2131,7 +2131,7 @@
     {
         "id": 369,
         "expanded": true,
-        "name": "コーダイン城　兵舎",
+        "name": "Caudine Castle Barracks",
         "order": 402,
         "parentId": 368,
         "scrollX": 816,
@@ -2140,7 +2140,7 @@
     {
         "id": 370,
         "expanded": true,
-        "name": "★登山道　外観2",
+        "name": "★Mountain Trail Exterior 2",
         "order": 545,
         "parentId": 350,
         "scrollX": 1401,
@@ -2149,7 +2149,7 @@
     {
         "id": 371,
         "expanded": true,
-        "name": "★登山道　外観2",
+        "name": "★Mountain Trail Exterior 2",
         "order": 546,
         "parentId": 350,
         "scrollX": 1401,
@@ -2158,7 +2158,7 @@
     {
         "id": 372,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 403,
         "parentId": 369,
         "scrollX": 1222,
@@ -2167,7 +2167,7 @@
     {
         "id": 373,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 404,
         "parentId": 369,
         "scrollX": 816,
@@ -2176,7 +2176,7 @@
     {
         "id": 374,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 407,
         "parentId": 328,
         "scrollX": 1025,
@@ -2185,7 +2185,7 @@
     {
         "id": 375,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 408,
         "parentId": 374,
         "scrollX": 816,
@@ -2194,7 +2194,7 @@
     {
         "id": 376,
         "expanded": true,
-        "name": "コーダイン城　大広間",
+        "name": "Caudine Castle Grand Hall",
         "order": 411,
         "parentId": 375,
         "scrollX": 832,
@@ -2203,7 +2203,7 @@
     {
         "id": 377,
         "expanded": false,
-        "name": "コーダイン城　王と王妃の部屋",
+        "name": "Caudine Castle - Room of the King and Queen",
         "order": 410,
         "parentId": 375,
         "scrollX": 1025,
@@ -2212,7 +2212,7 @@
     {
         "id": 378,
         "expanded": true,
-        "name": "コーダイン城　王子の部屋",
+        "name": "Caudine Castle, Prince's Room",
         "order": 412,
         "parentId": 376,
         "scrollX": 816,
@@ -2221,7 +2221,7 @@
     {
         "id": 379,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 413,
         "parentId": 376,
         "scrollX": 1025,
@@ -2230,7 +2230,7 @@
     {
         "id": 380,
         "expanded": true,
-        "name": "★天界の神殿内部２",
+        "name": "★Interior of the Celestial Temple 2",
         "order": 414,
         "parentId": 379,
         "scrollX": 1025,
@@ -2239,7 +2239,7 @@
     {
         "id": 381,
         "expanded": true,
-        "name": "★宿屋",
+        "name": "★Inn",
         "order": 532,
         "parentId": 331,
         "scrollX": 1222,
@@ -2248,7 +2248,7 @@
     {
         "id": 382,
         "expanded": true,
-        "name": "★宿屋",
+        "name": "★Inn",
         "order": 533,
         "parentId": 381,
         "scrollX": 1222,
@@ -2257,7 +2257,7 @@
     {
         "id": 383,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 400,
         "parentId": 362,
         "scrollX": 832,
@@ -2266,7 +2266,7 @@
     {
         "id": 384,
         "expanded": true,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 415,
         "parentId": 380,
         "scrollX": 1041,
@@ -2275,7 +2275,7 @@
     {
         "id": 385,
         "expanded": true,
-        "name": "★教会　ベガ単騎",
+        "name": "Church Vega Solo",
         "order": 416,
         "parentId": 384,
         "scrollX": 1025,
@@ -2284,7 +2284,7 @@
     {
         "id": 386,
         "expanded": true,
-        "name": "☆コーダイン城",
+        "name": "☆Cordain Castle",
         "order": 660,
         "parentId": 267,
         "scrollX": 1041,
@@ -2293,7 +2293,7 @@
     {
         "id": 387,
         "expanded": true,
-        "name": "★コーダイン城 玉座",
+        "name": "★Cordain Castle Throne",
         "order": 661,
         "parentId": 267,
         "scrollX": 965,
@@ -2302,7 +2302,7 @@
     {
         "id": 388,
         "expanded": true,
-        "name": "エルモ村",
+        "name": "Elmo Village",
         "order": 534,
         "parentId": 382,
         "scrollX": 1222,
@@ -2311,7 +2311,7 @@
     {
         "id": 389,
         "expanded": true,
-        "name": "★エルモ村 王様",
+        "name": "★Elmo Village King",
         "order": 535,
         "parentId": 388,
         "scrollX": 1201,
@@ -2320,7 +2320,7 @@
     {
         "id": 390,
         "expanded": true,
-        "name": "★エルモ村 王様",
+        "name": "★Elmo Village King",
         "order": 536,
         "parentId": 389,
         "scrollX": 896,
@@ -2329,7 +2329,7 @@
     {
         "id": 391,
         "expanded": true,
-        "name": "★村長の家",
+        "name": "★Village Chief's House",
         "order": 537,
         "parentId": 390,
         "scrollX": 1130,
@@ -2338,7 +2338,7 @@
     {
         "id": 392,
         "expanded": true,
-        "name": "★村長の家",
+        "name": "★Village Chief's House",
         "order": 538,
         "parentId": 391,
         "scrollX": 832,
@@ -2347,7 +2347,7 @@
     {
         "id": 393,
         "expanded": true,
-        "name": "★村長の家",
+        "name": "★Village Chief's House",
         "order": 539,
         "parentId": 392,
         "scrollX": 832,
@@ -2356,7 +2356,7 @@
     {
         "id": 394,
         "expanded": true,
-        "name": "★防空壕",
+        "name": "★Air Raid Shelter",
         "order": 522,
         "parentId": 347,
         "scrollX": 1025,
@@ -2365,7 +2365,7 @@
     {
         "id": 395,
         "expanded": true,
-        "name": "エルモ村の山道 洞窟",
+        "name": "Elmo Village Mountain Path Cave",
         "order": 549,
         "parentId": 349,
         "scrollX": 1130,
@@ -2374,7 +2374,7 @@
     {
         "id": 396,
         "expanded": false,
-        "name": "ユキーフル",
+        "name": "Yukifulu",
         "order": 270,
         "parentId": 0,
         "scrollX": 1041,
@@ -2383,7 +2383,7 @@
     {
         "id": 397,
         "expanded": true,
-        "name": "雪の森　入口",
+        "name": "Snow Forest Entrance",
         "order": 282,
         "parentId": 0,
         "scrollX": 1025,
@@ -2392,7 +2392,7 @@
     {
         "id": 398,
         "expanded": true,
-        "name": "トオマワリの丘　宿屋",
+        "name": "Toomawari Hill Inn",
         "order": 748,
         "parentId": 344,
         "scrollX": 1222,
@@ -2401,7 +2401,7 @@
     {
         "id": 399,
         "expanded": true,
-        "name": "雪の森",
+        "name": "Snow Forest",
         "order": 283,
         "parentId": 397,
         "scrollX": 824,
@@ -2411,7 +2411,7 @@
     {
         "id": 401,
         "expanded": true,
-        "name": "雪の森",
+        "name": "Snow Forest",
         "order": 285,
         "parentId": 402,
         "scrollX": 802.6666666666666,
@@ -2420,7 +2420,7 @@
     {
         "id": 402,
         "expanded": true,
-        "name": "雪の森",
+        "name": "Snow Forest",
         "order": 284,
         "parentId": 399,
         "scrollX": 1096,
@@ -2431,7 +2431,7 @@
     {
         "id": 405,
         "expanded": true,
-        "name": "エルモ村の山道　洞窟",
+        "name": "Elmo Village Mountain Path Cave",
         "order": 526,
         "parentId": 348,
         "scrollX": 1025,
@@ -2440,7 +2440,7 @@
     {
         "id": 406,
         "expanded": true,
-        "name": "エルモ村の山道　大橋",
+        "name": "Elmo Village Mountain Path, Big Bridge",
         "order": 527,
         "parentId": 405,
         "scrollX": 1130,
@@ -2449,7 +2449,7 @@
     {
         "id": 407,
         "expanded": true,
-        "name": "エルモ村の山道",
+        "name": "Mountain path in Elmo Village",
         "order": 528,
         "parentId": 406,
         "scrollX": 1305,
@@ -2458,7 +2458,7 @@
     {
         "id": 408,
         "expanded": true,
-        "name": "エルモ村の山道",
+        "name": "Mountain path in Elmo Village",
         "order": 529,
         "parentId": 407,
         "scrollX": 1025,
@@ -2467,7 +2467,7 @@
     {
         "id": 409,
         "expanded": true,
-        "name": "★ベガ回想",
+        "name": "★Vega Flashback",
         "order": 612,
         "parentId": 354,
         "scrollX": 832,
@@ -2477,7 +2477,7 @@
     {
         "id": 411,
         "expanded": true,
-        "name": "ベガ実家。父親の書斎",
+        "name": "Vega's home. Father's study",
         "order": 614,
         "parentId": 229,
         "scrollX": 1041,
@@ -2486,7 +2486,7 @@
     {
         "id": 412,
         "expanded": true,
-        "name": "魔法学園",
+        "name": "Magic Academy",
         "order": 615,
         "parentId": 411,
         "scrollX": 832,
@@ -2495,7 +2495,7 @@
     {
         "id": 413,
         "expanded": true,
-        "name": "学校　教室1",
+        "name": "School Classroom 1",
         "order": 616,
         "parentId": 412,
         "scrollX": 832,
@@ -2504,7 +2504,7 @@
     {
         "id": 414,
         "expanded": true,
-        "name": "魔法学園",
+        "name": "Magic Academy",
         "order": 617,
         "parentId": 413,
         "scrollX": 816,
@@ -2513,7 +2513,7 @@
     {
         "id": 415,
         "expanded": true,
-        "name": "学校",
+        "name": "School",
         "order": 618,
         "parentId": 414,
         "scrollX": 682,
@@ -2522,7 +2522,7 @@
     {
         "id": 416,
         "expanded": true,
-        "name": "ルナロア回想　図書館",
+        "name": "Lunaroa Flashback - Library",
         "order": 619,
         "parentId": 415,
         "scrollX": 1267,
@@ -2531,7 +2531,7 @@
     {
         "id": 417,
         "expanded": true,
-        "name": "上流家庭2F",
+        "name": "Upper-class Family 2F",
         "order": 620,
         "parentId": 416,
         "scrollX": 1283,
@@ -2540,7 +2540,7 @@
     {
         "id": 418,
         "expanded": false,
-        "name": "★家を貰う～ベガ加入イベント",
+        "name": "★Receiving a Home~Vega Joining Event",
         "order": 645,
         "parentId": 0,
         "scrollX": 1217,
@@ -2549,7 +2549,7 @@
     {
         "id": 419,
         "expanded": true,
-        "name": "ベガ実家。父親の書斎",
+        "name": "Vega's home. Father's study",
         "order": 621,
         "parentId": 417,
         "scrollX": 1177,
@@ -2558,7 +2558,7 @@
     {
         "id": 420,
         "expanded": true,
-        "name": "毒の沼",
+        "name": "Poison Marsh",
         "order": 736,
         "parentId": 434,
         "scrollX": 1203,
@@ -2567,7 +2567,7 @@
     {
         "id": 421,
         "expanded": true,
-        "name": "トオマワリの森",
+        "name": "Toomawari Forest",
         "order": 738,
         "parentId": 434,
         "scrollX": 1183,
@@ -2577,7 +2577,7 @@
     {
         "id": 423,
         "expanded": true,
-        "name": "★森",
+        "name": "★Forest",
         "order": 739,
         "parentId": 421,
         "scrollX": 1025,
@@ -2586,7 +2586,7 @@
     {
         "id": 424,
         "expanded": true,
-        "name": "トオマワリの森",
+        "name": "Toomawari Forest",
         "order": 740,
         "parentId": 423,
         "scrollX": 1257,
@@ -2595,7 +2595,7 @@
     {
         "id": 425,
         "expanded": true,
-        "name": "トオマワリの森",
+        "name": "Toomawari Forest",
         "order": 741,
         "parentId": 424,
         "scrollX": 1257,
@@ -2604,7 +2604,7 @@
     {
         "id": 426,
         "expanded": true,
-        "name": "★谷間の関所",
+        "name": "★Valley Pass",
         "order": 742,
         "parentId": 424,
         "scrollX": 1025,
@@ -2613,7 +2613,7 @@
     {
         "id": 427,
         "expanded": true,
-        "name": "トオマワリの丘",
+        "name": "Toomawari Hill",
         "order": 749,
         "parentId": 841,
         "scrollX": 1599,
@@ -2622,7 +2622,7 @@
     {
         "id": 428,
         "expanded": true,
-        "name": "大穴を開けちゃった場所",
+        "name": "Location where a big hole was opened",
         "order": 743,
         "parentId": 426,
         "scrollX": 1025,
@@ -2631,7 +2631,7 @@
     {
         "id": 429,
         "expanded": true,
-        "name": "フキダマル鍾乳洞",
+        "name": "Fukidamaru Cave",
         "order": 692,
         "parentId": 431,
         "scrollX": 816,
@@ -2640,7 +2640,7 @@
     {
         "id": 430,
         "expanded": true,
-        "name": "フキダマル鍾乳洞",
+        "name": "Fukidamaru Cave",
         "order": 690,
         "parentId": 432,
         "scrollX": 1240,
@@ -2649,7 +2649,7 @@
     {
         "id": 431,
         "expanded": true,
-        "name": "フキダマル鍾乳洞",
+        "name": "Fukidamaru Cave",
         "order": 691,
         "parentId": 430,
         "scrollX": 1010,
@@ -2658,7 +2658,7 @@
     {
         "id": 432,
         "expanded": false,
-        "name": "フキダマル鍾乳洞",
+        "name": "Fukidamaru Cave",
         "order": 689,
         "parentId": 0,
         "scrollX": 864,
@@ -2667,7 +2667,7 @@
     {
         "id": 433,
         "expanded": true,
-        "name": "★ヴィタ合流",
+        "name": "★Vita Junction",
         "order": 734,
         "parentId": 478,
         "scrollX": 1025,
@@ -2676,7 +2676,7 @@
     {
         "id": 434,
         "expanded": true,
-        "name": "ハジッコ集落",
+        "name": "Hajikko Village",
         "order": 735,
         "parentId": 0,
         "scrollX": 1025,
@@ -2686,7 +2686,7 @@
     {
         "id": 436,
         "expanded": true,
-        "name": "ハジッコ集落 ヴィタの家前",
+        "name": "Hajikko Village, in front of Vita's house",
         "order": 695,
         "parentId": 440,
         "scrollX": 1323,
@@ -2698,7 +2698,7 @@
     {
         "id": 440,
         "expanded": true,
-        "name": "ヴィタの家",
+        "name": "Vita's house",
         "order": 694,
         "parentId": 480,
         "scrollX": 1025,
@@ -2708,7 +2708,7 @@
     {
         "id": 442,
         "expanded": true,
-        "name": "森",
+        "name": "Forest",
         "order": 696,
         "parentId": 436,
         "scrollX": 1025,
@@ -2717,7 +2717,7 @@
     {
         "id": 443,
         "expanded": true,
-        "name": "森A-2",
+        "name": "Forest A-2",
         "order": 697,
         "parentId": 436,
         "scrollX": 1151,
@@ -2726,7 +2726,7 @@
     {
         "id": 444,
         "expanded": true,
-        "name": "森",
+        "name": "Forest",
         "order": 698,
         "parentId": 436,
         "scrollX": 1025,
@@ -2735,7 +2735,7 @@
     {
         "id": 445,
         "expanded": true,
-        "name": "ヴィタの家",
+        "name": "Vita's house",
         "order": 699,
         "parentId": 436,
         "scrollX": 965,
@@ -2744,7 +2744,7 @@
     {
         "id": 446,
         "expanded": true,
-        "name": "ヴィタの家",
+        "name": "Vita's house",
         "order": 700,
         "parentId": 445,
         "scrollX": 1268,
@@ -2753,7 +2753,7 @@
     {
         "id": 447,
         "expanded": true,
-        "name": "ハジッコ集落 ヴィタの家前",
+        "name": "Hajikko Village, in front of Vita's house",
         "order": 701,
         "parentId": 445,
         "scrollX": 1323,
@@ -2762,7 +2762,7 @@
     {
         "id": 448,
         "expanded": true,
-        "name": "スラム街",
+        "name": "Slum district",
         "order": 702,
         "parentId": 447,
         "scrollX": 984,
@@ -2771,7 +2771,7 @@
     {
         "id": 449,
         "expanded": false,
-        "name": "民家１",
+        "name": "Private House 1",
         "order": 704,
         "parentId": 448,
         "scrollX": 1183,
@@ -2780,7 +2780,7 @@
     {
         "id": 450,
         "expanded": false,
-        "name": "民家２",
+        "name": "Private House 2",
         "order": 703,
         "parentId": 448,
         "scrollX": 1025,
@@ -2789,7 +2789,7 @@
     {
         "id": 451,
         "expanded": true,
-        "name": "森",
+        "name": "Forest",
         "order": 705,
         "parentId": 447,
         "scrollX": 965,
@@ -2798,7 +2798,7 @@
     {
         "id": 452,
         "expanded": true,
-        "name": "ヴィタの家",
+        "name": "Vita's house",
         "order": 706,
         "parentId": 447,
         "scrollX": 1025,
@@ -2807,7 +2807,7 @@
     {
         "id": 453,
         "expanded": true,
-        "name": "ヴィタの家",
+        "name": "Vita's house",
         "order": 707,
         "parentId": 452,
         "scrollX": 1268,
@@ -2816,7 +2816,7 @@
     {
         "id": 454,
         "expanded": true,
-        "name": "ハジッコ集落 ヴィタの家前",
+        "name": "Hajikko Village, in front of Vita's house",
         "order": 708,
         "parentId": 453,
         "scrollX": 1323,
@@ -2825,7 +2825,7 @@
     {
         "id": 455,
         "expanded": true,
-        "name": "森",
+        "name": "Forest",
         "order": 709,
         "parentId": 453,
         "scrollX": 1025,
@@ -2834,7 +2834,7 @@
     {
         "id": 456,
         "expanded": true,
-        "name": "森A-2",
+        "name": "Forest A-2",
         "order": 710,
         "parentId": 453,
         "scrollX": 1359,
@@ -2843,7 +2843,7 @@
     {
         "id": 457,
         "expanded": true,
-        "name": "★谷間の関所",
+        "name": "★Valley Pass",
         "order": 711,
         "parentId": 453,
         "scrollX": 1214,
@@ -2852,7 +2852,7 @@
     {
         "id": 458,
         "expanded": true,
-        "name": "ヴィタの家",
+        "name": "Vita's house",
         "order": 712,
         "parentId": 453,
         "scrollX": 1020,
@@ -2861,7 +2861,7 @@
     {
         "id": 459,
         "expanded": true,
-        "name": "ヴィタの家",
+        "name": "Vita's house",
         "order": 713,
         "parentId": 458,
         "scrollX": 1092,
@@ -2870,7 +2870,7 @@
     {
         "id": 460,
         "expanded": true,
-        "name": "ハジッコ集落 ヴィタの家前",
+        "name": "Hajikko Village, in front of Vita's house",
         "order": 714,
         "parentId": 458,
         "scrollX": 1292,
@@ -2879,7 +2879,7 @@
     {
         "id": 461,
         "expanded": true,
-        "name": "スラム街",
+        "name": "Slum district",
         "order": 715,
         "parentId": 458,
         "scrollX": 1025,
@@ -2888,7 +2888,7 @@
     {
         "id": 462,
         "expanded": false,
-        "name": "民家２",
+        "name": "Private House 2",
         "order": 716,
         "parentId": 461,
         "scrollX": 1087,
@@ -2897,7 +2897,7 @@
     {
         "id": 463,
         "expanded": true,
-        "name": "道具屋",
+        "name": "Tool Shop",
         "order": 717,
         "parentId": 461,
         "scrollX": 816,
@@ -2906,7 +2906,7 @@
     {
         "id": 464,
         "expanded": false,
-        "name": "宿屋",
+        "name": "Inn",
         "order": 718,
         "parentId": 463,
         "scrollX": 816,
@@ -2915,7 +2915,7 @@
     {
         "id": 465,
         "expanded": true,
-        "name": "森",
+        "name": "Forest",
         "order": 719,
         "parentId": 458,
         "scrollX": 1025,
@@ -2924,7 +2924,7 @@
     {
         "id": 466,
         "expanded": true,
-        "name": "森A-2",
+        "name": "Forest A-2",
         "order": 720,
         "parentId": 458,
         "scrollX": 1153,
@@ -2933,7 +2933,7 @@
     {
         "id": 467,
         "expanded": true,
-        "name": "★谷間の関所",
+        "name": "★Valley Pass",
         "order": 721,
         "parentId": 458,
         "scrollX": 1025,
@@ -2942,7 +2942,7 @@
     {
         "id": 468,
         "expanded": true,
-        "name": "洞窟 B2-1",
+        "name": "Cave B2-1",
         "order": 722,
         "parentId": 458,
         "scrollX": 938.4,
@@ -2951,7 +2951,7 @@
     {
         "id": 469,
         "expanded": true,
-        "name": "ヴィタの家",
+        "name": "Vita's house",
         "order": 723,
         "parentId": 458,
         "scrollX": 1097,
@@ -2960,7 +2960,7 @@
     {
         "id": 470,
         "expanded": true,
-        "name": "森",
+        "name": "Forest",
         "order": 724,
         "parentId": 458,
         "scrollX": 1092,
@@ -2969,7 +2969,7 @@
     {
         "id": 471,
         "expanded": true,
-        "name": "ヴィタの家",
+        "name": "Vita's house",
         "order": 725,
         "parentId": 470,
         "scrollX": 984,
@@ -2978,7 +2978,7 @@
     {
         "id": 472,
         "expanded": true,
-        "name": "ハジッコ集落 ヴィタの家前",
+        "name": "Hajikko Village, in front of Vita's house",
         "order": 726,
         "parentId": 470,
         "scrollX": 1423,
@@ -2987,7 +2987,7 @@
     {
         "id": 473,
         "expanded": true,
-        "name": "森",
+        "name": "Forest",
         "order": 727,
         "parentId": 470,
         "scrollX": 1025,
@@ -2996,7 +2996,7 @@
     {
         "id": 474,
         "expanded": true,
-        "name": "トオマワリの森",
+        "name": "Toomawari Forest",
         "order": 728,
         "parentId": 470,
         "scrollX": 1145,
@@ -3005,7 +3005,7 @@
     {
         "id": 475,
         "expanded": true,
-        "name": "森",
+        "name": "Forest",
         "order": 730,
         "parentId": 470,
         "scrollX": 1025,
@@ -3014,7 +3014,7 @@
     {
         "id": 476,
         "expanded": true,
-        "name": "森",
+        "name": "Forest",
         "order": 731,
         "parentId": 475,
         "scrollX": 832,
@@ -3023,7 +3023,7 @@
     {
         "id": 477,
         "expanded": true,
-        "name": "ヴィタの家",
+        "name": "Vita's house",
         "order": 732,
         "parentId": 476,
         "scrollX": 816,
@@ -3032,7 +3032,7 @@
     {
         "id": 478,
         "expanded": true,
-        "name": "森",
+        "name": "Forest",
         "order": 733,
         "parentId": 477,
         "scrollX": 816,
@@ -3041,7 +3041,7 @@
     {
         "id": 479,
         "expanded": true,
-        "name": "森A-2",
+        "name": "Forest A-2",
         "order": 729,
         "parentId": 470,
         "scrollX": 1259,
@@ -3050,7 +3050,7 @@
     {
         "id": 480,
         "expanded": false,
-        "name": "★ヴィタ回想",
+        "name": "★Vita Flashback",
         "order": 693,
         "parentId": 0,
         "scrollX": 1041,
@@ -3059,7 +3059,7 @@
     {
         "id": 481,
         "expanded": false,
-        "name": "★ルナロア回想",
+        "name": "★Lunaroa Flashback",
         "order": 556,
         "parentId": 0,
         "scrollX": 1025,
@@ -3068,7 +3068,7 @@
     {
         "id": 482,
         "expanded": true,
-        "name": "学校　教室1",
+        "name": "School Classroom 1",
         "order": 557,
         "parentId": 481,
         "scrollX": 1025,
@@ -3077,7 +3077,7 @@
     {
         "id": 483,
         "expanded": true,
-        "name": "魔法学園",
+        "name": "Magic Academy",
         "order": 558,
         "parentId": 482,
         "scrollX": 832,
@@ -3086,7 +3086,7 @@
     {
         "id": 484,
         "expanded": true,
-        "name": "学校　教室1",
+        "name": "School Classroom 1",
         "order": 560,
         "parentId": 483,
         "scrollX": 832,
@@ -3095,7 +3095,7 @@
     {
         "id": 485,
         "expanded": true,
-        "name": "学校",
+        "name": "School",
         "order": 559,
         "parentId": 483,
         "scrollX": 1143,
@@ -3104,7 +3104,7 @@
     {
         "id": 486,
         "expanded": true,
-        "name": "ルナロア回想　図書館",
+        "name": "Lunaroa Flashback - Library",
         "order": 561,
         "parentId": 483,
         "scrollX": 816,
@@ -3114,7 +3114,7 @@
     {
         "id": 488,
         "expanded": false,
-        "name": "教務院室",
+        "name": "Academic Affairs Office",
         "order": 562,
         "parentId": 483,
         "scrollX": 816,
@@ -3124,7 +3124,7 @@
     {
         "id": 490,
         "expanded": false,
-        "name": "魔法学園",
+        "name": "Magic Academy",
         "order": 563,
         "parentId": 483,
         "scrollX": 1025,
@@ -3133,7 +3133,7 @@
     {
         "id": 491,
         "expanded": true,
-        "name": "地下水道",
+        "name": "Underground sewer",
         "order": 571,
         "parentId": 483,
         "scrollX": 1025,
@@ -3142,7 +3142,7 @@
     {
         "id": 492,
         "expanded": true,
-        "name": "地下水道",
+        "name": "Underground sewer",
         "order": 574,
         "parentId": 494,
         "scrollX": 1025,
@@ -3151,7 +3151,7 @@
     {
         "id": 493,
         "expanded": true,
-        "name": "★地下水道5",
+        "name": "Underground Sewer 5",
         "order": 577,
         "parentId": 523,
         "scrollX": 1025,
@@ -3160,7 +3160,7 @@
     {
         "id": 494,
         "expanded": true,
-        "name": "地下水道",
+        "name": "Underground sewer",
         "order": 573,
         "parentId": 491,
         "scrollX": 1223,
@@ -3169,7 +3169,7 @@
     {
         "id": 495,
         "expanded": true,
-        "name": "コーダイン",
+        "name": "Cordin",
         "order": 564,
         "parentId": 483,
         "scrollX": 1041,
@@ -3178,7 +3178,7 @@
     {
         "id": 496,
         "expanded": false,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 568,
         "parentId": 495,
         "scrollX": 1041,
@@ -3187,7 +3187,7 @@
     {
         "id": 497,
         "expanded": false,
-        "name": "コーダイン　ギルド",
+        "name": "Caudine Guild",
         "order": 567,
         "parentId": 495,
         "scrollX": 993,
@@ -3196,7 +3196,7 @@
     {
         "id": 498,
         "expanded": false,
-        "name": "コーダイン　酒場",
+        "name": "Coda Inn Tavern",
         "order": 566,
         "parentId": 495,
         "scrollX": 927,
@@ -3205,7 +3205,7 @@
     {
         "id": 499,
         "expanded": false,
-        "name": "コーダイン　道具屋",
+        "name": "Coadine Tool Shop",
         "order": 565,
         "parentId": 495,
         "scrollX": 1025,
@@ -3214,7 +3214,7 @@
     {
         "id": 500,
         "expanded": false,
-        "name": "コーダイン　民家",
+        "name": "Coda House",
         "order": 569,
         "parentId": 495,
         "scrollX": 1025,
@@ -3223,7 +3223,7 @@
     {
         "id": 501,
         "expanded": false,
-        "name": "コーダイン　民家",
+        "name": "Coda House",
         "order": 570,
         "parentId": 495,
         "scrollX": 816,
@@ -3232,7 +3232,7 @@
     {
         "id": 502,
         "expanded": true,
-        "name": "★犬を飼う",
+        "name": "★To own a dog",
         "order": 552,
         "parentId": 774,
         "scrollX": 1087,
@@ -3241,7 +3241,7 @@
     {
         "id": 503,
         "expanded": true,
-        "name": "◇アイシャのお墓参り",
+        "name": "◇Visiting Aisha's grave",
         "order": 553,
         "parentId": 774,
         "scrollX": 832,
@@ -3250,7 +3250,7 @@
     {
         "id": 504,
         "expanded": true,
-        "name": "★サンイとヨバンメ",
+        "name": "★Sani and Yobanme",
         "order": 572,
         "parentId": 491,
         "scrollX": 1041,
@@ -3259,7 +3259,7 @@
     {
         "id": 505,
         "expanded": true,
-        "name": "★ボス倒し、増援",
+        "name": "★Defeat the boss, reinforcements",
         "order": 578,
         "parentId": 493,
         "scrollX": 1130,
@@ -3268,7 +3268,7 @@
     {
         "id": 506,
         "expanded": false,
-        "name": "★ボス倒し、終わり",
+        "name": "★Boss defeated, end",
         "order": 579,
         "parentId": 505,
         "scrollX": 1054,
@@ -3277,7 +3277,7 @@
     {
         "id": 507,
         "expanded": false,
-        "name": "教務院室",
+        "name": "Academic Affairs Office",
         "order": 580,
         "parentId": 483,
         "scrollX": 816,
@@ -3286,7 +3286,7 @@
     {
         "id": 508,
         "expanded": true,
-        "name": "学校　教室1",
+        "name": "School Classroom 1",
         "order": 581,
         "parentId": 483,
         "scrollX": 832,
@@ -3295,7 +3295,7 @@
     {
         "id": 509,
         "expanded": true,
-        "name": "●必殺技案",
+        "name": "●Special Move Ideas",
         "order": 37,
         "parentId": 965,
         "scrollX": 1025,
@@ -3304,7 +3304,7 @@
     {
         "id": 510,
         "expanded": true,
-        "name": "ルナロア回想　図書館",
+        "name": "Lunaroa Flashback - Library",
         "order": 582,
         "parentId": 483,
         "scrollX": 816,
@@ -3313,7 +3313,7 @@
     {
         "id": 511,
         "expanded": true,
-        "name": "魔法学園１",
+        "name": "Magic Academy 1",
         "order": 583,
         "parentId": 483,
         "scrollX": 1177,
@@ -3322,7 +3322,7 @@
     {
         "id": 512,
         "expanded": true,
-        "name": "魔法学園２（没）",
+        "name": "Magic Academy 2 (Cancelled)",
         "order": 584,
         "parentId": 483,
         "scrollX": 832,
@@ -3331,7 +3331,7 @@
     {
         "id": 513,
         "expanded": true,
-        "name": "勝ったとき",
+        "name": "When I win",
         "order": 585,
         "parentId": 483,
         "scrollX": 832,
@@ -3340,7 +3340,7 @@
     {
         "id": 514,
         "expanded": true,
-        "name": "学院玄関",
+        "name": "Academy Entrance",
         "order": 588,
         "parentId": 513,
         "scrollX": 819,
@@ -3349,7 +3349,7 @@
     {
         "id": 515,
         "expanded": true,
-        "name": "上流家庭2F",
+        "name": "Upper-class Family 2F",
         "order": 587,
         "parentId": 513,
         "scrollX": 816,
@@ -3358,7 +3358,7 @@
     {
         "id": 516,
         "expanded": false,
-        "name": "高級マンション",
+        "name": "Luxury apartment",
         "order": 589,
         "parentId": 513,
         "scrollX": 1358,
@@ -3367,7 +3367,7 @@
     {
         "id": 517,
         "expanded": false,
-        "name": "逃亡の森１",
+        "name": "Forest of Escape 1",
         "order": 591,
         "parentId": 513,
         "scrollX": 1199,
@@ -3376,7 +3376,7 @@
     {
         "id": 518,
         "expanded": true,
-        "name": "逃亡の森２",
+        "name": "Forest of Escape 2",
         "order": 592,
         "parentId": 513,
         "scrollX": 1025,
@@ -3385,7 +3385,7 @@
     {
         "id": 519,
         "expanded": true,
-        "name": "逃亡の森３",
+        "name": "Forest of Escape 3",
         "order": 593,
         "parentId": 513,
         "scrollX": 832,
@@ -3394,7 +3394,7 @@
     {
         "id": 520,
         "expanded": true,
-        "name": "逃亡の森４",
+        "name": "Forest of Escape 4",
         "order": 594,
         "parentId": 513,
         "scrollX": 816,
@@ -3403,7 +3403,7 @@
     {
         "id": 521,
         "expanded": true,
-        "name": "本拠地２F　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 595,
         "parentId": 513,
         "scrollX": 1146,
@@ -3412,7 +3412,7 @@
     {
         "id": 522,
         "expanded": true,
-        "name": "地下水路",
+        "name": "Underground waterway",
         "order": 575,
         "parentId": 492,
         "scrollX": 1025,
@@ -3421,7 +3421,7 @@
     {
         "id": 523,
         "expanded": true,
-        "name": "地下水路",
+        "name": "Underground waterway",
         "order": 576,
         "parentId": 522,
         "scrollX": 1025,
@@ -3430,7 +3430,7 @@
     {
         "id": 524,
         "expanded": true,
-        "name": "★ベガ回想終わり",
+        "name": "★Vega flashback end",
         "order": 622,
         "parentId": 419,
         "scrollX": 816,
@@ -3439,7 +3439,7 @@
     {
         "id": 525,
         "expanded": true,
-        "name": "本拠地１F",
+        "name": "Headquarters 1F",
         "order": 646,
         "parentId": 418,
         "scrollX": 1020,
@@ -3448,7 +3448,7 @@
     {
         "id": 526,
         "expanded": true,
-        "name": "本拠地２F　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 647,
         "parentId": 418,
         "scrollX": 1025,
@@ -3457,7 +3457,7 @@
     {
         "id": 527,
         "expanded": true,
-        "name": "★ふたなり",
+        "name": "★Futanari",
         "order": 677,
         "parentId": 149,
         "scrollX": 1222,
@@ -3466,7 +3466,7 @@
     {
         "id": 528,
         "expanded": true,
-        "name": "★ふたなり",
+        "name": "★Futanari",
         "order": 678,
         "parentId": 527,
         "scrollX": 1094,
@@ -3475,7 +3475,7 @@
     {
         "id": 529,
         "expanded": true,
-        "name": "★ふたなり",
+        "name": "★ Futanari",
         "order": 679,
         "parentId": 528,
         "scrollX": 1110,
@@ -3484,7 +3484,7 @@
     {
         "id": 530,
         "expanded": true,
-        "name": "★ふたなり後ユリシーン",
+        "name": "★Futanari After Yuri Scene",
         "order": 680,
         "parentId": 148,
         "scrollX": 1239,
@@ -3493,7 +3493,7 @@
     {
         "id": 531,
         "expanded": true,
-        "name": "宿屋２Ｆ",
+        "name": "Inn 2F",
         "order": 681,
         "parentId": 530,
         "scrollX": 1025,
@@ -3502,7 +3502,7 @@
     {
         "id": 532,
         "expanded": true,
-        "name": "宿屋２Ｆ",
+        "name": "Inn 2F",
         "order": 682,
         "parentId": 531,
         "scrollX": 1303,
@@ -3511,7 +3511,7 @@
     {
         "id": 533,
         "expanded": false,
-        "name": "ユリシーン『飛び石の洗礼』",
+        "name": "Ulyssean \"Baptism of the Skipping Stone",
         "order": 683,
         "parentId": 0,
         "scrollX": 1041,
@@ -3520,7 +3520,7 @@
     {
         "id": 534,
         "expanded": true,
-        "name": "★ルナロア帰宅",
+        "name": "★Returning Home to Lunaroa",
         "order": 684,
         "parentId": 533,
         "scrollX": 1273,
@@ -3529,7 +3529,7 @@
     {
         "id": 535,
         "expanded": true,
-        "name": "宿屋２Ｆ",
+        "name": "Inn 2F",
         "order": 686,
         "parentId": 533,
         "scrollX": 1025,
@@ -3538,7 +3538,7 @@
     {
         "id": 536,
         "expanded": false,
-        "name": "お風呂",
+        "name": "Bath",
         "order": 687,
         "parentId": 533,
         "scrollX": 0,
@@ -3547,7 +3547,7 @@
     {
         "id": 537,
         "expanded": true,
-        "name": "宿屋２Ｆ",
+        "name": "Inn 2F",
         "order": 688,
         "parentId": 533,
         "scrollX": 1025,
@@ -3556,7 +3556,7 @@
     {
         "id": 538,
         "expanded": false,
-        "name": "ひと休みの洞窟",
+        "name": "Cave of Rest",
         "order": 750,
         "parentId": 427,
         "scrollX": 1041,
@@ -3565,7 +3565,7 @@
     {
         "id": 539,
         "expanded": true,
-        "name": "★ユリシーン城門前",
+        "name": "★Yurisine Castle Gate",
         "order": 67,
         "parentId": 54,
         "scrollX": 1183,
@@ -3574,7 +3574,7 @@
     {
         "id": 540,
         "expanded": true,
-        "name": "★炎の試練",
+        "name": "★Trial of Flames",
         "order": 498,
         "parentId": 185,
         "scrollX": 1025,
@@ -3583,7 +3583,7 @@
     {
         "id": 541,
         "expanded": true,
-        "name": "☆氷の試練",
+        "name": "☆Trial of Ice",
         "order": 491,
         "parentId": 190,
         "scrollX": 1200,
@@ -3592,7 +3592,7 @@
     {
         "id": 542,
         "expanded": false,
-        "name": "★炎の試練",
+        "name": "★Trial of Flames",
         "order": 499,
         "parentId": 540,
         "scrollX": 1025,
@@ -3601,7 +3601,7 @@
     {
         "id": 543,
         "expanded": false,
-        "name": "☆氷の試練",
+        "name": "☆Trial of Ice",
         "order": 492,
         "parentId": 541,
         "scrollX": 1282,
@@ -3610,7 +3610,7 @@
     {
         "id": 544,
         "expanded": true,
-        "name": "☆風の試練　最深部",
+        "name": "☆Trial of the Wind, Deepest Part",
         "order": 481,
         "parentId": 202,
         "scrollX": 832,
@@ -3619,7 +3619,7 @@
     {
         "id": 545,
         "expanded": true,
-        "name": "☆風の試練　最深部",
+        "name": "☆Trial of the Wind, Deepest Part",
         "order": 482,
         "parentId": 544,
         "scrollX": 816,
@@ -3628,7 +3628,7 @@
     {
         "id": 546,
         "expanded": true,
-        "name": "☆風の試練　最深部",
+        "name": "☆Trial of the Wind, Deepest Part",
         "order": 483,
         "parentId": 545,
         "scrollX": 1183,
@@ -3637,7 +3637,7 @@
     {
         "id": 547,
         "expanded": false,
-        "name": "★地の試練跡地　初回訪問",
+        "name": "★Trial Grounds of the Earth - First Visit",
         "order": 455,
         "parentId": 158,
         "scrollX": 816,
@@ -3646,7 +3646,7 @@
     {
         "id": 548,
         "expanded": true,
-        "name": "★センせいノおフぃス",
+        "name": "★Sen's Office",
         "order": 470,
         "parentId": 170,
         "scrollX": 816,
@@ -3655,7 +3655,7 @@
     {
         "id": 549,
         "expanded": true,
-        "name": "★地の試練跡地",
+        "name": "★Trial Grounds of the Earth",
         "order": 471,
         "parentId": 548,
         "scrollX": 816,
@@ -3664,7 +3664,7 @@
     {
         "id": 550,
         "expanded": false,
-        "name": "★ルナロアとの別れ",
+        "name": "★ Farewell to Lunaroa",
         "order": 376,
         "parentId": 0,
         "scrollX": 1025,
@@ -3673,7 +3673,7 @@
     {
         "id": 551,
         "expanded": false,
-        "name": "★ラウラ回想　黒",
+        "name": "★Laura Flashback Black",
         "order": 377,
         "parentId": 550,
         "scrollX": 1222,
@@ -3682,7 +3682,7 @@
     {
         "id": 552,
         "expanded": true,
-        "name": "本拠地２F　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 378,
         "parentId": 550,
         "scrollX": 802.6666666666666,
@@ -3691,7 +3691,7 @@
     {
         "id": 553,
         "expanded": true,
-        "name": "本拠地２F　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 380,
         "parentId": 550,
         "scrollX": 1025,
@@ -3700,7 +3700,7 @@
     {
         "id": 554,
         "expanded": true,
-        "name": "本拠地２F",
+        "name": "Headquarters 2F",
         "order": 379,
         "parentId": 550,
         "scrollX": 1267,
@@ -3709,7 +3709,7 @@
     {
         "id": 555,
         "expanded": false,
-        "name": "ユリシーン",
+        "name": "Ulyssean",
         "order": 381,
         "parentId": 550,
         "scrollX": 1197,
@@ -3718,7 +3718,7 @@
     {
         "id": 556,
         "expanded": true,
-        "name": "本拠地２F　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 382,
         "parentId": 550,
         "scrollX": 1206,
@@ -3727,7 +3727,7 @@
     {
         "id": 557,
         "expanded": true,
-        "name": "本拠地２F　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 383,
         "parentId": 550,
         "scrollX": 1283,
@@ -3736,7 +3736,7 @@
     {
         "id": 558,
         "expanded": true,
-        "name": "本拠地２F　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 384,
         "parentId": 550,
         "scrollX": 1206,
@@ -3745,7 +3745,7 @@
     {
         "id": 559,
         "expanded": false,
-        "name": "ユリシーン",
+        "name": "Ulyssean",
         "order": 385,
         "parentId": 550,
         "scrollX": 1223,
@@ -3754,7 +3754,7 @@
     {
         "id": 560,
         "expanded": true,
-        "name": "前編終了",
+        "name": "Part 1 finished",
         "order": 386,
         "parentId": 550,
         "scrollX": 1025,
@@ -3763,7 +3763,7 @@
     {
         "id": 561,
         "expanded": true,
-        "name": "★雪の砦　見下ろす用",
+        "name": "★Snow Fortress Overlook",
         "order": 344,
         "parentId": 0,
         "scrollX": 1207,
@@ -3772,7 +3772,7 @@
     {
         "id": 562,
         "expanded": true,
-        "name": "氷の洞窟入り口１",
+        "name": "Ice Cave Entrance 1",
         "order": 345,
         "parentId": 561,
         "scrollX": 1041,
@@ -3781,7 +3781,7 @@
     {
         "id": 563,
         "expanded": true,
-        "name": "雪の森内部２",
+        "name": "Inside the Snow Forest 2",
         "order": 346,
         "parentId": 561,
         "scrollX": 1041,
@@ -3790,7 +3790,7 @@
     {
         "id": 564,
         "expanded": true,
-        "name": "雪の砦",
+        "name": "Snow Fortress",
         "order": 347,
         "parentId": 561,
         "scrollX": 1311,
@@ -3799,7 +3799,7 @@
     {
         "id": 565,
         "expanded": true,
-        "name": "★左砦3F",
+        "name": "★Left Fort 3F",
         "order": 352,
         "parentId": 641,
         "scrollX": 832,
@@ -3808,7 +3808,7 @@
     {
         "id": 566,
         "expanded": true,
-        "name": "雪の砦　中央砦１Ｆ",
+        "name": "Snow Fortress, Central Fortress 1F",
         "order": 365,
         "parentId": 561,
         "scrollX": 2553,
@@ -3817,7 +3817,7 @@
     {
         "id": 567,
         "expanded": true,
-        "name": "★左砦　最上階",
+        "name": "★Left Fort Top Floor",
         "order": 354,
         "parentId": 561,
         "scrollX": 1041,
@@ -3826,7 +3826,7 @@
     {
         "id": 568,
         "expanded": true,
-        "name": "雪の森内部２",
+        "name": "Inside the Snow Forest 2",
         "order": 355,
         "parentId": 561,
         "scrollX": 912,
@@ -3835,7 +3835,7 @@
     {
         "id": 569,
         "expanded": true,
-        "name": "雪の森内部２",
+        "name": "Inside the Snow Forest 2",
         "order": 356,
         "parentId": 561,
         "scrollX": 1069.3333333333333,
@@ -3844,7 +3844,7 @@
     {
         "id": 570,
         "expanded": true,
-        "name": "雪の砦　付近の森",
+        "name": "Forest near Snow Fortress",
         "order": 357,
         "parentId": 561,
         "scrollX": 1041,
@@ -3853,7 +3853,7 @@
     {
         "id": 571,
         "expanded": false,
-        "name": "★レベッカ＆ロノア魔法ピクニック",
+        "name": "★Rebecca & Linoa's Magic Picnic",
         "order": 507,
         "parentId": 0,
         "scrollX": 856,
@@ -3862,7 +3862,7 @@
     {
         "id": 572,
         "expanded": true,
-        "name": "★登山道　外観2",
+        "name": "★Mountain Trail Exterior 2",
         "order": 509,
         "parentId": 571,
         "scrollX": 832,
@@ -3871,7 +3871,7 @@
     {
         "id": 573,
         "expanded": true,
-        "name": "★登山道　外観2",
+        "name": "★Mountain Trail Exterior 2",
         "order": 508,
         "parentId": 571,
         "scrollX": 808,
@@ -3880,7 +3880,7 @@
     {
         "id": 574,
         "expanded": true,
-        "name": "★レベッカ＆ロノア魔法ピクニック",
+        "name": "★Rebecca & Linoa's Magic Picnic",
         "order": 510,
         "parentId": 571,
         "scrollX": 1025,
@@ -3889,7 +3889,7 @@
     {
         "id": 575,
         "expanded": true,
-        "name": "★べったりルナロア２",
+        "name": "★Lunaroa 2",
         "order": 88,
         "parentId": 946,
         "scrollX": 1307,
@@ -3898,7 +3898,7 @@
     {
         "id": 576,
         "expanded": true,
-        "name": "本拠地１Ｆ　お風呂",
+        "name": "Headquarters 1F Bath",
         "order": 51,
         "parentId": 56,
         "scrollX": 1196,
@@ -3907,7 +3907,7 @@
     {
         "id": 577,
         "expanded": false,
-        "name": "本拠地１Ｆ　トイレ",
+        "name": "Headquarters 1F Toilet",
         "order": 52,
         "parentId": 576,
         "scrollX": 1025,
@@ -3916,7 +3916,7 @@
     {
         "id": 578,
         "expanded": false,
-        "name": "本拠地１F",
+        "name": "Headquarters 1F",
         "order": 513,
         "parentId": 585,
         "scrollX": 1097,
@@ -3925,7 +3925,7 @@
     {
         "id": 579,
         "expanded": true,
-        "name": "本拠地１F　お風呂",
+        "name": "Headquarters 1F Bath",
         "order": 514,
         "parentId": 585,
         "scrollX": 1159,
@@ -3934,7 +3934,7 @@
     {
         "id": 580,
         "expanded": true,
-        "name": "本拠地１F　お風呂",
+        "name": "Headquarters 1F Bath",
         "order": 515,
         "parentId": 585,
         "scrollX": 1092,
@@ -3946,7 +3946,7 @@
     {
         "id": 584,
         "expanded": true,
-        "name": "★べったりルナロア",
+        "name": "★Lunaroa",
         "order": 512,
         "parentId": 585,
         "scrollX": 1131,
@@ -3955,7 +3955,7 @@
     {
         "id": 585,
         "expanded": true,
-        "name": "♥エルモ村から帰還　べったりルナロア",
+        "name": "Returned from Elmo Village, Luna Roa",
         "order": 511,
         "parentId": 0,
         "scrollX": 1025,
@@ -3965,7 +3965,7 @@
     {
         "id": 587,
         "expanded": true,
-        "name": "転送空間",
+        "name": "Transfer Space",
         "order": 53,
         "parentId": 32,
         "scrollX": 1239,
@@ -3975,7 +3975,7 @@
     {
         "id": 589,
         "expanded": true,
-        "name": "雪の砦",
+        "name": "Snow Fortress",
         "order": 358,
         "parentId": 561,
         "scrollX": 1233,
@@ -3984,7 +3984,7 @@
     {
         "id": 590,
         "expanded": false,
-        "name": "☆背景素材",
+        "name": "Background Material",
         "order": 359,
         "parentId": 589,
         "scrollX": 1041,
@@ -3993,7 +3993,7 @@
     {
         "id": 591,
         "expanded": true,
-        "name": "★右塔制圧後",
+        "name": "★After capturing the right tower",
         "order": 363,
         "parentId": 561,
         "scrollX": 1233,
@@ -4002,7 +4002,7 @@
     {
         "id": 592,
         "expanded": false,
-        "name": "☆背景素材",
+        "name": "Background Material",
         "order": 364,
         "parentId": 591,
         "scrollX": 1041,
@@ -4012,7 +4012,7 @@
     {
         "id": 594,
         "expanded": false,
-        "name": "２部クエスト帰還",
+        "name": "Return of Part 2 Quest",
         "order": 339,
         "parentId": 0,
         "scrollX": 1025,
@@ -4021,7 +4021,7 @@
     {
         "id": 595,
         "expanded": true,
-        "name": "本拠地２Ｆ　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 340,
         "parentId": 594,
         "scrollX": 842.4,
@@ -4030,7 +4030,7 @@
     {
         "id": 596,
         "expanded": true,
-        "name": "２部クエスト帰還",
+        "name": "Return of Part 2 Quest",
         "order": 342,
         "parentId": 594,
         "scrollX": 1025,
@@ -4039,7 +4039,7 @@
     {
         "id": 597,
         "expanded": false,
-        "name": "コーダイン",
+        "name": "Cordin",
         "order": 317,
         "parentId": 0,
         "scrollX": 1041,
@@ -4048,7 +4048,7 @@
     {
         "id": 598,
         "expanded": true,
-        "name": "旧リラ家　広間",
+        "name": "Old Lira House Hall",
         "order": 287,
         "parentId": 601,
         "scrollX": 1144,
@@ -4057,7 +4057,7 @@
     {
         "id": 599,
         "expanded": true,
-        "name": "旧リラ家　仮眠室",
+        "name": "Former Lira Residence Temporary Restroom",
         "order": 288,
         "parentId": 601,
         "scrollX": 816,
@@ -4066,7 +4066,7 @@
     {
         "id": 600,
         "expanded": false,
-        "name": "旧リラ家　お風呂",
+        "name": "Former Lira Residence, Bath",
         "order": 293,
         "parentId": 601,
         "scrollX": 816,
@@ -4075,7 +4075,7 @@
     {
         "id": 601,
         "expanded": false,
-        "name": "旧リラ家　庭園",
+        "name": "Former Lira Family Garden",
         "order": 286,
         "parentId": 0,
         "scrollX": 1025,
@@ -4084,7 +4084,7 @@
     {
         "id": 602,
         "expanded": false,
-        "name": "旧リラ家　トイレ",
+        "name": "Old Lira House Toilet",
         "order": 294,
         "parentId": 601,
         "scrollX": 816,
@@ -4093,7 +4093,7 @@
     {
         "id": 603,
         "expanded": false,
-        "name": "旧リラ家　休憩室",
+        "name": "Former Lira Family Restroom",
         "order": 292,
         "parentId": 601,
         "scrollX": 819,
@@ -4102,7 +4102,7 @@
     {
         "id": 604,
         "expanded": true,
-        "name": "旧リラ家　父親の書斎",
+        "name": "Old Lira House, Father's Study",
         "order": 289,
         "parentId": 601,
         "scrollX": 1181,
@@ -4111,7 +4111,7 @@
     {
         "id": 605,
         "expanded": false,
-        "name": "旧リラ家　寝室",
+        "name": "Former Lira Family Bedroom",
         "order": 295,
         "parentId": 601,
         "scrollX": 832,
@@ -4120,7 +4120,7 @@
     {
         "id": 606,
         "expanded": false,
-        "name": "◇ニキータと立ち話",
+        "name": "◇A conversation with Nikita",
         "order": 305,
         "parentId": 607,
         "scrollX": 819,
@@ -4129,7 +4129,7 @@
     {
         "id": 607,
         "expanded": true,
-        "name": "★リラ家イベント　開始はここから",
+        "name": "★Lila Family Event starts from here",
         "order": 300,
         "parentId": 958,
         "scrollX": 1054,
@@ -4138,7 +4138,7 @@
     {
         "id": 608,
         "expanded": false,
-        "name": "休憩室",
+        "name": "Restroom",
         "order": 301,
         "parentId": 607,
         "scrollX": 819,
@@ -4147,7 +4147,7 @@
     {
         "id": 609,
         "expanded": false,
-        "name": "寝室",
+        "name": "Bedroom",
         "order": 302,
         "parentId": 607,
         "scrollX": 832,
@@ -4156,7 +4156,7 @@
     {
         "id": 610,
         "expanded": false,
-        "name": "旧リラ家　休憩室",
+        "name": "Former Lira Family Restroom",
         "order": 306,
         "parentId": 607,
         "scrollX": 816,
@@ -4165,7 +4165,7 @@
     {
         "id": 611,
         "expanded": false,
-        "name": "休憩室",
+        "name": "Restroom",
         "order": 303,
         "parentId": 607,
         "scrollX": 816,
@@ -4174,7 +4174,7 @@
     {
         "id": 612,
         "expanded": false,
-        "name": "旧リラ家　トイレ",
+        "name": "Old Lira House Toilet",
         "order": 304,
         "parentId": 607,
         "scrollX": 924,
@@ -4183,7 +4183,7 @@
     {
         "id": 613,
         "expanded": false,
-        "name": "♥寝室",
+        "name": "♥ Bedroom",
         "order": 307,
         "parentId": 607,
         "scrollX": 832,
@@ -4200,7 +4200,7 @@
     {
         "id": 622,
         "expanded": true,
-        "name": "雪の砦　中央砦最上階",
+        "name": "Snow Fortress, Top Floor of the Central Fortress",
         "order": 372,
         "parentId": 566,
         "scrollX": 1025,
@@ -4213,7 +4213,7 @@
     {
         "id": 627,
         "expanded": false,
-        "name": "旧リラ家　寝室",
+        "name": "Former Lira Family Bedroom",
         "order": 308,
         "parentId": 607,
         "scrollX": 832,
@@ -4222,7 +4222,7 @@
     {
         "id": 628,
         "expanded": false,
-        "name": "休憩室",
+        "name": "Restroom",
         "order": 309,
         "parentId": 607,
         "scrollX": 1094,
@@ -4231,7 +4231,7 @@
     {
         "id": 629,
         "expanded": true,
-        "name": "◇ベガ実家。父親の書斎",
+        "name": "◇Vega's home. Father's study",
         "order": 290,
         "parentId": 604,
         "scrollX": 1181,
@@ -4240,7 +4240,7 @@
     {
         "id": 630,
         "expanded": true,
-        "name": "◇ベガ実家。父親の書斎",
+        "name": "◇Vega's home. Father's study",
         "order": 291,
         "parentId": 604,
         "scrollX": 1181,
@@ -4254,7 +4254,7 @@
     {
         "id": 636,
         "expanded": true,
-        "name": "旧リラ家　地下",
+        "name": "Former Lira Residence, Basement",
         "order": 296,
         "parentId": 601,
         "scrollX": 824,
@@ -4263,7 +4263,7 @@
     {
         "id": 637,
         "expanded": false,
-        "name": "旧リラ家　地下",
+        "name": "Former Lira Residence Basement",
         "order": 297,
         "parentId": 636,
         "scrollX": 848,
@@ -4272,7 +4272,7 @@
     {
         "id": 638,
         "expanded": true,
-        "name": "旧リラ家",
+        "name": "Former Lira House",
         "order": 310,
         "parentId": 607,
         "scrollX": 816,
@@ -4281,7 +4281,7 @@
     {
         "id": 639,
         "expanded": true,
-        "name": "旧リラ家",
+        "name": "Former Lira House",
         "order": 315,
         "parentId": 607,
         "scrollX": 1025,
@@ -4290,7 +4290,7 @@
     {
         "id": 640,
         "expanded": false,
-        "name": "コーダイン",
+        "name": "Cordin",
         "order": 316,
         "parentId": 607,
         "scrollX": 1025,
@@ -4299,7 +4299,7 @@
     {
         "id": 641,
         "expanded": true,
-        "name": "雪の砦　左砦４Ｆ",
+        "name": "Snow Fortress, Left Fortress 4F",
         "order": 351,
         "parentId": 561,
         "scrollX": 1041,
@@ -4308,7 +4308,7 @@
     {
         "id": 642,
         "expanded": false,
-        "name": "★左砦3F",
+        "name": "★Left Fort 3F",
         "order": 353,
         "parentId": 565,
         "scrollX": 1054,
@@ -4317,7 +4317,7 @@
     {
         "id": 643,
         "expanded": true,
-        "name": "★砦パターン最上階1",
+        "name": "★Fortress Pattern Top Floor 1",
         "order": 373,
         "parentId": 622,
         "scrollX": 1041,
@@ -4326,7 +4326,7 @@
     {
         "id": 644,
         "expanded": true,
-        "name": "★砦パターン最上階1",
+        "name": "★Fortress Pattern Top Floor 1",
         "order": 374,
         "parentId": 622,
         "scrollX": 1025,
@@ -4335,7 +4335,7 @@
     {
         "id": 645,
         "expanded": false,
-        "name": "ユリシーン",
+        "name": "Ulyssean",
         "order": 375,
         "parentId": 561,
         "scrollX": 1207,
@@ -4344,7 +4344,7 @@
     {
         "id": 646,
         "expanded": true,
-        "name": "本拠地２Ｆ",
+        "name": "Headquarters 2F",
         "order": 341,
         "parentId": 594,
         "scrollX": 794.4,
@@ -4353,7 +4353,7 @@
     {
         "id": 647,
         "expanded": true,
-        "name": "２部クエスト帰還",
+        "name": "Return of Part 2 Quest",
         "order": 343,
         "parentId": 594,
         "scrollX": 824,
@@ -4362,7 +4362,7 @@
     {
         "id": 648,
         "expanded": true,
-        "name": "国境の大橋",
+        "name": "Great Bridge of the Border",
         "order": 329,
         "parentId": 0,
         "scrollX": 1041,
@@ -4371,7 +4371,7 @@
     {
         "id": 649,
         "expanded": true,
-        "name": "国境 コーダイン領",
+        "name": "Border, Cordin Territory",
         "order": 331,
         "parentId": 648,
         "scrollX": 1025,
@@ -4380,7 +4380,7 @@
     {
         "id": 650,
         "expanded": false,
-        "name": "コーダイン　道具屋",
+        "name": "Coadine Tool Shop",
         "order": 321,
         "parentId": 597,
         "scrollX": 925.3333333333334,
@@ -4389,7 +4389,7 @@
     {
         "id": 651,
         "expanded": false,
-        "name": "国境 ユリシーン領",
+        "name": "Border of Ulysian Territory",
         "order": 330,
         "parentId": 648,
         "scrollX": 1041,
@@ -4398,7 +4398,7 @@
     {
         "id": 652,
         "expanded": true,
-        "name": "コーダイン領　森",
+        "name": "Cordin Territory Forest",
         "order": 336,
         "parentId": 649,
         "scrollX": 1025,
@@ -4407,7 +4407,7 @@
     {
         "id": 653,
         "expanded": true,
-        "name": "コーダイン領　森",
+        "name": "Cordin Territory Forest",
         "order": 332,
         "parentId": 649,
         "scrollX": 1041,
@@ -4416,7 +4416,7 @@
     {
         "id": 654,
         "expanded": false,
-        "name": "コーダイン領　洞窟",
+        "name": "Cordin Territory Cave",
         "order": 333,
         "parentId": 649,
         "scrollX": 1025,
@@ -4425,7 +4425,7 @@
     {
         "id": 655,
         "expanded": true,
-        "name": "コーダイン城門",
+        "name": "Caudine Gate",
         "order": 337,
         "parentId": 649,
         "scrollX": 1183,
@@ -4434,7 +4434,7 @@
     {
         "id": 656,
         "expanded": true,
-        "name": "コーダイン　本拠地１Ｆ",
+        "name": "Caudine Headquarters 1F",
         "order": 318,
         "parentId": 597,
         "scrollX": 1025,
@@ -4443,7 +4443,7 @@
     {
         "id": 657,
         "expanded": false,
-        "name": "コーダイン　酒場",
+        "name": "Coda Inn Tavern",
         "order": 322,
         "parentId": 597,
         "scrollX": 1020,
@@ -4452,7 +4452,7 @@
     {
         "id": 658,
         "expanded": false,
-        "name": "コーダイン　本拠地２Ｆ",
+        "name": "Caudine Headquarters 2F",
         "order": 319,
         "parentId": 656,
         "scrollX": 1177,
@@ -4461,7 +4461,7 @@
     {
         "id": 659,
         "expanded": false,
-        "name": "コーダイン　ギルド",
+        "name": "Caudine Guild",
         "order": 323,
         "parentId": 597,
         "scrollX": 816,
@@ -4470,7 +4470,7 @@
     {
         "id": 660,
         "expanded": true,
-        "name": "★本拠地１F",
+        "name": "★Headquarters 1F",
         "order": 338,
         "parentId": 655,
         "scrollX": 1041,
@@ -4479,7 +4479,7 @@
     {
         "id": 661,
         "expanded": false,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 324,
         "parentId": 597,
         "scrollX": 1041,
@@ -4488,7 +4488,7 @@
     {
         "id": 662,
         "expanded": false,
-        "name": "コーダイン　民家",
+        "name": "Coda House",
         "order": 325,
         "parentId": 597,
         "scrollX": 1025,
@@ -4497,7 +4497,7 @@
     {
         "id": 663,
         "expanded": false,
-        "name": "コーダイン　民家",
+        "name": "Coda House",
         "order": 326,
         "parentId": 597,
         "scrollX": 816,
@@ -4506,7 +4506,7 @@
     {
         "id": 664,
         "expanded": false,
-        "name": "コーダイン　武具屋",
+        "name": "Coadine Arms Shop",
         "order": 320,
         "parentId": 597,
         "scrollX": 824,
@@ -4515,7 +4515,7 @@
     {
         "id": 665,
         "expanded": true,
-        "name": "コーダイン　魔法学園",
+        "name": "Cordin Magic Academy",
         "order": 327,
         "parentId": 597,
         "scrollX": 832,
@@ -4524,7 +4524,7 @@
     {
         "id": 666,
         "expanded": true,
-        "name": "『ラウラＤＡＳＨ！！』",
+        "name": "Laura DASH!!",
         "order": 597,
         "parentId": 671,
         "scrollX": 4522,
@@ -4533,7 +4533,7 @@
     {
         "id": 667,
         "expanded": true,
-        "name": "ゲームオーバー",
+        "name": "Game Over",
         "order": 598,
         "parentId": 666,
         "scrollX": 1238,
@@ -4542,7 +4542,7 @@
     {
         "id": 668,
         "expanded": true,
-        "name": "ルナロアＳＬＡＳＨ！！",
+        "name": "Luna Roa SLASH!!",
         "order": 503,
         "parentId": 669,
         "scrollX": 1221,
@@ -4551,7 +4551,7 @@
     {
         "id": 669,
         "expanded": true,
-        "name": "クソゲーⅡ　チュートリアル",
+        "name": "Shitty Game II Tutorial",
         "order": 502,
         "parentId": 675,
         "scrollX": 1206,
@@ -4560,7 +4560,7 @@
     {
         "id": 670,
         "expanded": false,
-        "name": "ゲームオーバー",
+        "name": "Game Over",
         "order": 504,
         "parentId": 668,
         "scrollX": 1025,
@@ -4569,7 +4569,7 @@
     {
         "id": 671,
         "expanded": false,
-        "name": "ヴィタのクソゲーⅠ",
+        "name": "Vita's Shitty Game I",
         "order": 596,
         "parentId": 0,
         "scrollX": 1110,
@@ -4578,7 +4578,7 @@
     {
         "id": 672,
         "expanded": false,
-        "name": "ヴィタの『クソゲー』",
+        "name": "Vita's \"shitty game",
         "order": 42,
         "parentId": 56,
         "scrollX": 1025,
@@ -4587,7 +4587,7 @@
     {
         "id": 673,
         "expanded": true,
-        "name": "ラウラＤＡＳＨ！！",
+        "name": "Laura DASH!!",
         "order": 43,
         "parentId": 672,
         "scrollX": 4719,
@@ -4596,7 +4596,7 @@
     {
         "id": 674,
         "expanded": true,
-        "name": "①ゲームオーバー",
+        "name": "Game Over",
         "order": 44,
         "parentId": 673,
         "scrollX": 1041,
@@ -4605,7 +4605,7 @@
     {
         "id": 675,
         "expanded": false,
-        "name": "ヴィタのクソゲーⅡ",
+        "name": "Vita's Shitty Game II",
         "order": 501,
         "parentId": 0,
         "scrollX": 1025,
@@ -4614,7 +4614,7 @@
     {
         "id": 676,
         "expanded": true,
-        "name": "ゲーム後",
+        "name": "After the game",
         "order": 505,
         "parentId": 668,
         "scrollX": 1123,
@@ -4624,7 +4624,7 @@
     {
         "id": 678,
         "expanded": true,
-        "name": "ルナロアＣＡＴＣＨ！！",
+        "name": "Luna Roa CATCH!!",
         "order": 451,
         "parentId": 679,
         "scrollX": 1041,
@@ -4633,7 +4633,7 @@
     {
         "id": 679,
         "expanded": false,
-        "name": "ヴィタのクソゲーⅢ",
+        "name": "Vita's Shitty Game III",
         "order": 450,
         "parentId": 0,
         "scrollX": 1025,
@@ -4642,7 +4642,7 @@
     {
         "id": 680,
         "expanded": true,
-        "name": "ゲームオーバー３",
+        "name": "Game Over 3",
         "order": 452,
         "parentId": 678,
         "scrollX": 1025,
@@ -4651,7 +4651,7 @@
     {
         "id": 681,
         "expanded": true,
-        "name": "ゲーム後",
+        "name": "After the game",
         "order": 453,
         "parentId": 680,
         "scrollX": 1172,
@@ -4660,7 +4660,7 @@
     {
         "id": 682,
         "expanded": true,
-        "name": "雪の森　山頂に続く道",
+        "name": "Snow Forest, a path leading to the mountain peak",
         "order": 237,
         "parentId": 715,
         "scrollX": 1041,
@@ -4669,7 +4669,7 @@
     {
         "id": 683,
         "expanded": true,
-        "name": "雪の森　山頂に続く道",
+        "name": "Snow Forest, a path leading to the mountain peak",
         "order": 238,
         "parentId": 682,
         "scrollX": 1025,
@@ -4678,7 +4678,7 @@
     {
         "id": 684,
         "expanded": true,
-        "name": "雪の森　山頂に続く道",
+        "name": "Snow Forest, a path leading to the mountain peak",
         "order": 239,
         "parentId": 683,
         "scrollX": 1237,
@@ -4687,7 +4687,7 @@
     {
         "id": 685,
         "expanded": false,
-        "name": "白魔女の隠れ家",
+        "name": "Hideout of the White Witch",
         "order": 241,
         "parentId": 713,
         "scrollX": 1025,
@@ -4696,7 +4696,7 @@
     {
         "id": 686,
         "expanded": true,
-        "name": "ルナロアＳＬＡＳＨ！！",
+        "name": "Luna Roa SLASH!!",
         "order": 45,
         "parentId": 672,
         "scrollX": 1205,
@@ -4705,7 +4705,7 @@
     {
         "id": 687,
         "expanded": true,
-        "name": "(お散歩)ルナロアＳＬＡＳＨ！！",
+        "name": "(Walk) Luna Roa SLASH!!",
         "order": 46,
         "parentId": 686,
         "scrollX": 1255,
@@ -4714,7 +4714,7 @@
     {
         "id": 688,
         "expanded": false,
-        "name": "❤レベッカパート",
+        "name": "❤Rebecca Part",
         "order": 752,
         "parentId": 0,
         "scrollX": 1041,
@@ -4723,7 +4723,7 @@
     {
         "id": 689,
         "expanded": true,
-        "name": "ホテル内部",
+        "name": "Inside the hotel",
         "order": 753,
         "parentId": 688,
         "scrollX": 1143,
@@ -4732,7 +4732,7 @@
     {
         "id": 690,
         "expanded": true,
-        "name": "病院１Ｆ",
+        "name": "Hospital 1F",
         "order": 271,
         "parentId": 396,
         "scrollX": 1025,
@@ -4741,7 +4741,7 @@
     {
         "id": 691,
         "expanded": false,
-        "name": "病院　診察室",
+        "name": "Hospital Examination Room",
         "order": 272,
         "parentId": 690,
         "scrollX": 1110,
@@ -4750,7 +4750,7 @@
     {
         "id": 692,
         "expanded": true,
-        "name": "病院　トイレ",
+        "name": "Hospital Toilet",
         "order": 273,
         "parentId": 690,
         "scrollX": 816,
@@ -4759,7 +4759,7 @@
     {
         "id": 693,
         "expanded": true,
-        "name": "病院２Ｆ",
+        "name": "Hospital 2F",
         "order": 274,
         "parentId": 690,
         "scrollX": 816,
@@ -4768,7 +4768,7 @@
     {
         "id": 694,
         "expanded": true,
-        "name": "★イベント病院",
+        "name": "★Event Hospital",
         "order": 275,
         "parentId": 690,
         "scrollX": 1025,
@@ -4777,7 +4777,7 @@
     {
         "id": 695,
         "expanded": false,
-        "name": "病院２Ｆ",
+        "name": "Hospital 2F",
         "order": 276,
         "parentId": 694,
         "scrollX": 824,
@@ -4786,7 +4786,7 @@
     {
         "id": 696,
         "expanded": false,
-        "name": "病院　診察室",
+        "name": "Hospital Examination Room",
         "order": 277,
         "parentId": 694,
         "scrollX": 1215,
@@ -4795,7 +4795,7 @@
     {
         "id": 697,
         "expanded": true,
-        "name": "★イベント",
+        "name": "★Event",
         "order": 258,
         "parentId": 699,
         "scrollX": 1111,
@@ -4804,7 +4804,7 @@
     {
         "id": 698,
         "expanded": true,
-        "name": "★公園",
+        "name": "★Park",
         "order": 262,
         "parentId": 697,
         "scrollX": 1025,
@@ -4813,7 +4813,7 @@
     {
         "id": 699,
         "expanded": false,
-        "name": "メリアの夢　最浅層",
+        "name": "Meria's Dream - Shallowest Layer",
         "order": 249,
         "parentId": 0,
         "scrollX": 1041,
@@ -4822,7 +4822,7 @@
     {
         "id": 700,
         "expanded": true,
-        "name": "●素材 次元の狭間　",
+        "name": "●Material Dimensional Rift",
         "order": 257,
         "parentId": 699,
         "scrollX": 1257,
@@ -4831,7 +4831,7 @@
     {
         "id": 701,
         "expanded": false,
-        "name": "メリアの夢　最深層",
+        "name": "Melia's Dream: The Deepest Layer",
         "order": 256,
         "parentId": 699,
         "scrollX": 1025,
@@ -4840,7 +4840,7 @@
     {
         "id": 702,
         "expanded": true,
-        "name": "メリアの夢　中層",
+        "name": "Dream of Meria - Middle Layer",
         "order": 252,
         "parentId": 699,
         "scrollX": 1135,
@@ -4849,7 +4849,7 @@
     {
         "id": 703,
         "expanded": false,
-        "name": "★ボス戦",
+        "name": "★Boss Battle",
         "order": 260,
         "parentId": 697,
         "scrollX": 1096,
@@ -4858,7 +4858,7 @@
     {
         "id": 704,
         "expanded": false,
-        "name": "★ボス戦",
+        "name": "★Boss Battle",
         "order": 261,
         "parentId": 697,
         "scrollX": 1093.3333333333333,
@@ -4867,7 +4867,7 @@
     {
         "id": 705,
         "expanded": false,
-        "name": "★病院へ戻る",
+        "name": "Return to the hospital",
         "order": 263,
         "parentId": 697,
         "scrollX": 1084,
@@ -4876,7 +4876,7 @@
     {
         "id": 706,
         "expanded": false,
-        "name": "★病院へ戻る",
+        "name": "Return to the hospital",
         "order": 264,
         "parentId": 697,
         "scrollX": 1136,
@@ -4885,7 +4885,7 @@
     {
         "id": 707,
         "expanded": true,
-        "name": "本拠地２F　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 265,
         "parentId": 697,
         "scrollX": 1025,
@@ -4894,7 +4894,7 @@
     {
         "id": 708,
         "expanded": false,
-        "name": "★病院へ戻る",
+        "name": "Return to the hospital",
         "order": 266,
         "parentId": 697,
         "scrollX": 1087,
@@ -4903,7 +4903,7 @@
     {
         "id": 709,
         "expanded": false,
-        "name": "★病院へ戻る",
+        "name": "Return to the hospital",
         "order": 267,
         "parentId": 697,
         "scrollX": 1087,
@@ -4912,7 +4912,7 @@
     {
         "id": 710,
         "expanded": true,
-        "name": "雪の森　山頂",
+        "name": "Snow Forest Summit",
         "order": 242,
         "parentId": 713,
         "scrollX": 1041,
@@ -4921,7 +4921,7 @@
     {
         "id": 711,
         "expanded": false,
-        "name": "★病院へ戻る",
+        "name": "Return to the hospital",
         "order": 269,
         "parentId": 697,
         "scrollX": 1215,
@@ -4930,7 +4930,7 @@
     {
         "id": 712,
         "expanded": true,
-        "name": "★北国の村",
+        "name": "★ Village in the North",
         "order": 268,
         "parentId": 697,
         "scrollX": 1087,
@@ -4939,7 +4939,7 @@
     {
         "id": 713,
         "expanded": true,
-        "name": "雪の森　山頂に続く道",
+        "name": "Snow Forest, a path leading to the mountain peak",
         "order": 240,
         "parentId": 684,
         "scrollX": 1025,
@@ -4949,7 +4949,7 @@
     {
         "id": 715,
         "expanded": false,
-        "name": "山頂に続く道　洞窟",
+        "name": "Road leading to the mountaintop, cave",
         "order": 236,
         "parentId": 0,
         "scrollX": 1227,
@@ -4958,7 +4958,7 @@
     {
         "id": 716,
         "expanded": false,
-        "name": "メリアの夢　作られた公園",
+        "name": "Meria's Dream - Created Park",
         "order": 255,
         "parentId": 699,
         "scrollX": 1025,
@@ -4967,7 +4967,7 @@
     {
         "id": 717,
         "expanded": true,
-        "name": "★vs理事長",
+        "name": "★vs Chairman",
         "order": 243,
         "parentId": 710,
         "scrollX": 1222,
@@ -4976,7 +4976,7 @@
     {
         "id": 718,
         "expanded": false,
-        "name": "転移の空間",
+        "name": "Space of Transference",
         "order": 244,
         "parentId": 710,
         "scrollX": 832,
@@ -4985,7 +4985,7 @@
     {
         "id": 719,
         "expanded": false,
-        "name": "★転移の間2",
+        "name": "★Transference Space 2",
         "order": 245,
         "parentId": 710,
         "scrollX": 832,
@@ -4994,7 +4994,7 @@
     {
         "id": 720,
         "expanded": true,
-        "name": "★vs理事長",
+        "name": "★vs Chairman",
         "order": 246,
         "parentId": 710,
         "scrollX": 1025,
@@ -5003,7 +5003,7 @@
     {
         "id": 721,
         "expanded": false,
-        "name": "★病院 診察室",
+        "name": "★Hospital Examination Room",
         "order": 247,
         "parentId": 710,
         "scrollX": 1087,
@@ -5012,7 +5012,7 @@
     {
         "id": 722,
         "expanded": true,
-        "name": "★本拠地２F　個室",
+        "name": "★ Headquarters 2F Private Room",
         "order": 248,
         "parentId": 710,
         "scrollX": 1041,
@@ -5021,7 +5021,7 @@
     {
         "id": 723,
         "expanded": false,
-        "name": "ルナロアの夢",
+        "name": "Luna Roa's Dream",
         "order": 222,
         "parentId": 724,
         "scrollX": 1097,
@@ -5030,7 +5030,7 @@
     {
         "id": 724,
         "expanded": false,
-        "name": "★ルナロアの夢へ",
+        "name": "★Towards the Dream of Lunaroa",
         "order": 221,
         "parentId": 0,
         "scrollX": 1025,
@@ -5039,7 +5039,7 @@
     {
         "id": 725,
         "expanded": true,
-        "name": "★ルナロアの夢　７つの断罪",
+        "name": "★Lunaroa's Dream: Seven Condemnations",
         "order": 223,
         "parentId": 724,
         "scrollX": 1113,
@@ -5048,7 +5048,7 @@
     {
         "id": 726,
         "expanded": true,
-        "name": "★ルナロアの夢　悲嘆の心",
+        "name": "★Lunaroa's Dream: Heart of Sorrow",
         "order": 224,
         "parentId": 724,
         "scrollX": 1097,
@@ -5057,7 +5057,7 @@
     {
         "id": 727,
         "expanded": true,
-        "name": "★ルナロアの夢　悲嘆の心",
+        "name": "★Lunaroa's Dream: Heart of Sorrow",
         "order": 225,
         "parentId": 724,
         "scrollX": 1110,
@@ -5066,7 +5066,7 @@
     {
         "id": 728,
         "expanded": true,
-        "name": "★ルナロアの夢　悲嘆の心",
+        "name": "★Lunaroa's Dream: Heart of Sorrow",
         "order": 226,
         "parentId": 724,
         "scrollX": 1110,
@@ -5076,7 +5076,7 @@
     {
         "id": 730,
         "expanded": true,
-        "name": "★ルナロアの殺人選択",
+        "name": "★Lunaroa's Murder Choice",
         "order": 160,
         "parentId": 222,
         "scrollX": 816,
@@ -5086,7 +5086,7 @@
     {
         "id": 732,
         "expanded": true,
-        "name": "★選択を見届けて",
+        "name": "★Witness the selection",
         "order": 161,
         "parentId": 222,
         "scrollX": 832,
@@ -5095,7 +5095,7 @@
     {
         "id": 733,
         "expanded": true,
-        "name": "コーダイン　魔法学園",
+        "name": "Cordin Magic Academy",
         "order": 162,
         "parentId": 222,
         "scrollX": 1025,
@@ -5104,7 +5104,7 @@
     {
         "id": 734,
         "expanded": true,
-        "name": "★学校廊下",
+        "name": "★School hallway",
         "order": 165,
         "parentId": 733,
         "scrollX": 1123,
@@ -5113,7 +5113,7 @@
     {
         "id": 735,
         "expanded": true,
-        "name": "★魔法学園２",
+        "name": "★Magic Academy 2",
         "order": 163,
         "parentId": 733,
         "scrollX": 832,
@@ -5122,7 +5122,7 @@
     {
         "id": 736,
         "expanded": true,
-        "name": "★魔法学園３(没)",
+        "name": "★Magic Academy 3 (Cancelled)",
         "order": 164,
         "parentId": 733,
         "scrollX": 1041,
@@ -5131,7 +5131,7 @@
     {
         "id": 737,
         "expanded": true,
-        "name": "★学校廊下",
+        "name": "★School hallway",
         "order": 166,
         "parentId": 733,
         "scrollX": 1151,
@@ -5140,7 +5140,7 @@
     {
         "id": 738,
         "expanded": true,
-        "name": "★ルナロアＣＡＴＣＨ！！",
+        "name": "★Lunaroa CATCH!!",
         "order": 167,
         "parentId": 222,
         "scrollX": 1025,
@@ -5149,7 +5149,7 @@
     {
         "id": 739,
         "expanded": true,
-        "name": "◆落下素材あり",
+        "name": "◆ Falling material available",
         "order": 168,
         "parentId": 738,
         "scrollX": 1041,
@@ -5158,7 +5158,7 @@
     {
         "id": 740,
         "expanded": true,
-        "name": "ルナロアＣＡＴＣＨ！！",
+        "name": "Luna Roa CATCH!!",
         "order": 169,
         "parentId": 738,
         "scrollX": 1025,
@@ -5167,7 +5167,7 @@
     {
         "id": 741,
         "expanded": true,
-        "name": "★ラウラ回想",
+        "name": "★Laura Flashback",
         "order": 170,
         "parentId": 222,
         "scrollX": 1121,
@@ -5176,7 +5176,7 @@
     {
         "id": 742,
         "expanded": false,
-        "name": "★ラウラ回想",
+        "name": "★Laura Flashback",
         "order": 171,
         "parentId": 741,
         "scrollX": 832,
@@ -5185,7 +5185,7 @@
     {
         "id": 743,
         "expanded": true,
-        "name": "ルナロアＣＡＴＣＨ！！",
+        "name": "Luna Roa CATCH!!",
         "order": 47,
         "parentId": 672,
         "scrollX": 1025,
@@ -5194,7 +5194,7 @@
     {
         "id": 744,
         "expanded": false,
-        "name": "★ルナロアの夢　最深層",
+        "name": "★Lunaroa's Dream: The Deepest Layer",
         "order": 227,
         "parentId": 724,
         "scrollX": 1041,
@@ -5204,7 +5204,7 @@
     {
         "id": 746,
         "expanded": false,
-        "name": "★ルナロアの夢　最深層",
+        "name": "★Lunaroa's Dream: The Deepest Layer",
         "order": 228,
         "parentId": 724,
         "scrollX": 1025,
@@ -5213,7 +5213,7 @@
     {
         "id": 747,
         "expanded": true,
-        "name": "★ルナロアの夢へ",
+        "name": "★Towards the Dream of Lunaroa",
         "order": 234,
         "parentId": 724,
         "scrollX": 1025,
@@ -5222,7 +5222,7 @@
     {
         "id": 748,
         "expanded": true,
-        "name": "★ルナロアの帰還",
+        "name": "★Return to Lunaroa",
         "order": 139,
         "parentId": 0,
         "scrollX": 1025,
@@ -5231,7 +5231,7 @@
     {
         "id": 749,
         "expanded": false,
-        "name": "★ルナロアの帰還",
+        "name": "★Return of Lunaroa",
         "order": 140,
         "parentId": 748,
         "scrollX": 1025,
@@ -5240,7 +5240,7 @@
     {
         "id": 750,
         "expanded": true,
-        "name": "★ユリシーン",
+        "name": "★Ulyssean",
         "order": 141,
         "parentId": 748,
         "scrollX": 1181,
@@ -5251,7 +5251,7 @@
     {
         "id": 753,
         "expanded": false,
-        "name": "★アリスの迷宮",
+        "name": "★Alice's Labyrinth",
         "order": 142,
         "parentId": 748,
         "scrollX": 1025,
@@ -5260,7 +5260,7 @@
     {
         "id": 754,
         "expanded": false,
-        "name": "アリスの迷宮",
+        "name": "Alice's Labyrinth",
         "order": 71,
         "parentId": 0,
         "scrollX": 1041,
@@ -5269,7 +5269,7 @@
     {
         "id": 755,
         "expanded": true,
-        "name": "★ユリシーン",
+        "name": "★Ulyssean",
         "order": 143,
         "parentId": 748,
         "scrollX": 1181,
@@ -5278,7 +5278,7 @@
     {
         "id": 756,
         "expanded": true,
-        "name": "本拠地２F　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 144,
         "parentId": 748,
         "scrollX": 1025,
@@ -5287,7 +5287,7 @@
     {
         "id": 757,
         "expanded": true,
-        "name": "本拠地２F",
+        "name": "Headquarters 2F",
         "order": 145,
         "parentId": 748,
         "scrollX": 1087,
@@ -5296,7 +5296,7 @@
     {
         "id": 758,
         "expanded": true,
-        "name": "本拠地１F",
+        "name": "Headquarters 1F",
         "order": 146,
         "parentId": 748,
         "scrollX": 1094,
@@ -5305,7 +5305,7 @@
     {
         "id": 759,
         "expanded": true,
-        "name": "本拠地１F　お風呂",
+        "name": "Headquarters 1F Bath",
         "order": 147,
         "parentId": 748,
         "scrollX": 976,
@@ -5314,7 +5314,7 @@
     {
         "id": 760,
         "expanded": true,
-        "name": "本拠地１F　お風呂",
+        "name": "Headquarters 1F Bath",
         "order": 148,
         "parentId": 748,
         "scrollX": 1092,
@@ -5323,7 +5323,7 @@
     {
         "id": 761,
         "expanded": true,
-        "name": "本拠地１F　お風呂",
+        "name": "Headquarters 1F Bath",
         "order": 149,
         "parentId": 748,
         "scrollX": 1041,
@@ -5332,7 +5332,7 @@
     {
         "id": 762,
         "expanded": false,
-        "name": "★ルナロアの夢　最深層",
+        "name": "★Lunaroa's Dream: The Deepest Layer",
         "order": 229,
         "parentId": 724,
         "scrollX": 1025,
@@ -5341,7 +5341,7 @@
     {
         "id": 763,
         "expanded": false,
-        "name": "★ルナロアの夢　最深層",
+        "name": "★Lunaroa's Dream: The Deepest Layer",
         "order": 230,
         "parentId": 724,
         "scrollX": 1025,
@@ -5350,7 +5350,7 @@
     {
         "id": 764,
         "expanded": false,
-        "name": "★ルナロアの夢　最深層",
+        "name": "★Lunaroa's Dream: The Deepest Layer",
         "order": 231,
         "parentId": 724,
         "scrollX": 1025,
@@ -5359,7 +5359,7 @@
     {
         "id": 765,
         "expanded": false,
-        "name": "★ルナロアの夢　最深層",
+        "name": "★Lunaroa's Dream: The Deepest Layer",
         "order": 232,
         "parentId": 724,
         "scrollX": 1025,
@@ -5369,7 +5369,7 @@
     {
         "id": 767,
         "expanded": false,
-        "name": "★ルナロアの夢　最深層",
+        "name": "★Lunaroa's Dream: The Deepest Layer",
         "order": 233,
         "parentId": 724,
         "scrollX": 1025,
@@ -5378,7 +5378,7 @@
     {
         "id": 768,
         "expanded": true,
-        "name": "メリアの夢　最浅層",
+        "name": "Melia's Dream: The Shallowest Layer",
         "order": 250,
         "parentId": 699,
         "scrollX": 1025,
@@ -5387,7 +5387,7 @@
     {
         "id": 769,
         "expanded": true,
-        "name": "メリアの夢　中層",
+        "name": "Dream of Meria - Middle Layer",
         "order": 253,
         "parentId": 699,
         "scrollX": 1025,
@@ -5396,7 +5396,7 @@
     {
         "id": 770,
         "expanded": true,
-        "name": "メリアの夢　最浅層",
+        "name": "Meria's Dream - Shallowest Layer",
         "order": 251,
         "parentId": 699,
         "scrollX": 1167,
@@ -5405,7 +5405,7 @@
     {
         "id": 771,
         "expanded": true,
-        "name": "メリアの夢　浸食領域",
+        "name": "Meria's Dream Erosion Zone",
         "order": 254,
         "parentId": 699,
         "scrollX": 1335,
@@ -5414,7 +5414,7 @@
     {
         "id": 772,
         "expanded": false,
-        "name": "★新公園",
+        "name": "★New Park",
         "order": 259,
         "parentId": 697,
         "scrollX": 1110,
@@ -5424,7 +5424,7 @@
     {
         "id": 774,
         "expanded": false,
-        "name": "★ハジッコ集落の調査",
+        "name": "★Investigation of the Hajikko Village",
         "order": 551,
         "parentId": 0,
         "scrollX": 1025,
@@ -5433,7 +5433,7 @@
     {
         "id": 775,
         "expanded": true,
-        "name": "谷間の関所",
+        "name": "Valley Pass",
         "order": 555,
         "parentId": 774,
         "scrollX": 816,
@@ -5442,7 +5442,7 @@
     {
         "id": 776,
         "expanded": true,
-        "name": "★逃亡の森",
+        "name": "Forest of Escape",
         "order": 831,
         "parentId": 234,
         "scrollX": 1041,
@@ -5476,7 +5476,7 @@
     {
         "id": 802,
         "expanded": false,
-        "name": "★アリスの回想",
+        "name": "★Alice's Flashback",
         "order": 150,
         "parentId": 0,
         "scrollX": 1227,
@@ -5485,7 +5485,7 @@
     {
         "id": 803,
         "expanded": false,
-        "name": "廃棄場",
+        "name": "Abandoned field",
         "order": 152,
         "parentId": 802,
         "scrollX": 1041,
@@ -5494,7 +5494,7 @@
     {
         "id": 804,
         "expanded": true,
-        "name": "廃棄場",
+        "name": "Abandoned field",
         "order": 153,
         "parentId": 802,
         "scrollX": 1108,
@@ -5503,7 +5503,7 @@
     {
         "id": 805,
         "expanded": false,
-        "name": "★工場",
+        "name": "★Factory",
         "order": 151,
         "parentId": 802,
         "scrollX": 1121,
@@ -5512,7 +5512,7 @@
     {
         "id": 806,
         "expanded": false,
-        "name": "★古代遺跡",
+        "name": "Ancient Ruins",
         "order": 155,
         "parentId": 807,
         "scrollX": 992,
@@ -5521,7 +5521,7 @@
     {
         "id": 807,
         "expanded": true,
-        "name": "廃棄場",
+        "name": "Abandoned field",
         "order": 154,
         "parentId": 802,
         "scrollX": 1126,
@@ -5530,7 +5530,7 @@
     {
         "id": 808,
         "expanded": false,
-        "name": "★古代遺跡",
+        "name": "Ancient Ruins",
         "order": 156,
         "parentId": 802,
         "scrollX": 1126,
@@ -5539,7 +5539,7 @@
     {
         "id": 809,
         "expanded": true,
-        "name": "★森A-3",
+        "name": "★Forest A-3",
         "order": 157,
         "parentId": 802,
         "scrollX": 1119,
@@ -5548,7 +5548,7 @@
     {
         "id": 810,
         "expanded": false,
-        "name": "★ガレージ",
+        "name": "★Garage",
         "order": 158,
         "parentId": 802,
         "scrollX": 1041,
@@ -5557,7 +5557,7 @@
     {
         "id": 811,
         "expanded": false,
-        "name": "コーダイン地下水路",
+        "name": "Codain Underground Waterway",
         "order": 423,
         "parentId": 0,
         "scrollX": 1803,
@@ -5566,7 +5566,7 @@
     {
         "id": 812,
         "expanded": true,
-        "name": "コーダイン地下水路",
+        "name": "Codain Underground Waterway",
         "order": 424,
         "parentId": 811,
         "scrollX": 1223,
@@ -5575,7 +5575,7 @@
     {
         "id": 813,
         "expanded": true,
-        "name": "コーダイン地下水路",
+        "name": "Codain Underground Waterway",
         "order": 425,
         "parentId": 811,
         "scrollX": 1223,
@@ -5584,7 +5584,7 @@
     {
         "id": 814,
         "expanded": true,
-        "name": "コーダイン地下水路",
+        "name": "Codain Underground Waterway",
         "order": 426,
         "parentId": 811,
         "scrollX": 1025,
@@ -5593,7 +5593,7 @@
     {
         "id": 815,
         "expanded": false,
-        "name": "セイレーンの洞窟",
+        "name": "Siren's Cave",
         "order": 434,
         "parentId": 0,
         "scrollX": 1025,
@@ -5602,7 +5602,7 @@
     {
         "id": 816,
         "expanded": true,
-        "name": "セイレーンの洞窟",
+        "name": "Siren's Cave",
         "order": 435,
         "parentId": 815,
         "scrollX": 802.6666666666666,
@@ -5611,7 +5611,7 @@
     {
         "id": 817,
         "expanded": false,
-        "name": "セイレーンの洞窟",
+        "name": "Siren's Cave",
         "order": 436,
         "parentId": 815,
         "scrollX": 856,
@@ -5620,7 +5620,7 @@
     {
         "id": 818,
         "expanded": false,
-        "name": "セイレーンの洞窟",
+        "name": "Siren's Cave",
         "order": 437,
         "parentId": 815,
         "scrollX": 1025,
@@ -5629,7 +5629,7 @@
     {
         "id": 819,
         "expanded": true,
-        "name": "コーダイン地下水路",
+        "name": "Codain Underground Waterway",
         "order": 438,
         "parentId": 815,
         "scrollX": 1201,
@@ -5638,7 +5638,7 @@
     {
         "id": 820,
         "expanded": true,
-        "name": "★コーダイン",
+        "name": "★Codain",
         "order": 429,
         "parentId": 814,
         "scrollX": 1041,
@@ -5647,7 +5647,7 @@
     {
         "id": 821,
         "expanded": true,
-        "name": "☆キャットの回想",
+        "name": "☆Cat's Flashback",
         "order": 173,
         "parentId": 996,
         "scrollX": 1041,
@@ -5656,7 +5656,7 @@
     {
         "id": 822,
         "expanded": true,
-        "name": "★玉座",
+        "name": "★Throne",
         "order": 174,
         "parentId": 821,
         "scrollX": 1025,
@@ -5665,7 +5665,7 @@
     {
         "id": 823,
         "expanded": false,
-        "name": "ユキーフル　道具屋",
+        "name": "Yukifuru Tool Shop",
         "order": 279,
         "parentId": 396,
         "scrollX": 816,
@@ -5674,7 +5674,7 @@
     {
         "id": 824,
         "expanded": false,
-        "name": "ユキーフル　宿屋",
+        "name": "Yukifuru Inn",
         "order": 278,
         "parentId": 396,
         "scrollX": 832,
@@ -5683,7 +5683,7 @@
     {
         "id": 825,
         "expanded": false,
-        "name": "ユキーフル　武具屋",
+        "name": "Yukifuru Weapon Shop",
         "order": 280,
         "parentId": 396,
         "scrollX": 982.8,
@@ -5692,7 +5692,7 @@
     {
         "id": 826,
         "expanded": false,
-        "name": "ユキーフル　民家",
+        "name": "Yukifuru House",
         "order": 281,
         "parentId": 396,
         "scrollX": 748.5,
@@ -5701,7 +5701,7 @@
     {
         "id": 827,
         "expanded": true,
-        "name": "★エンディング",
+        "name": "★Ending",
         "order": 103,
         "parentId": 1030,
         "scrollX": 1041,
@@ -5710,7 +5710,7 @@
     {
         "id": 828,
         "expanded": true,
-        "name": "クリアデータ",
+        "name": "Clear Data",
         "order": 138,
         "parentId": 827,
         "scrollX": 1025,
@@ -5719,7 +5719,7 @@
     {
         "id": 829,
         "expanded": true,
-        "name": "学院玄関",
+        "name": "Academy Entrance",
         "order": 136,
         "parentId": 827,
         "scrollX": 1025,
@@ -5728,7 +5728,7 @@
     {
         "id": 830,
         "expanded": true,
-        "name": "◇アイシャのお墓参り",
+        "name": "◇Visiting Aisha's grave",
         "order": 137,
         "parentId": 827,
         "scrollX": 1242,
@@ -5737,7 +5737,7 @@
     {
         "id": 831,
         "expanded": false,
-        "name": "リラ家",
+        "name": "Lila's house",
         "order": 135,
         "parentId": 827,
         "scrollX": 816,
@@ -5746,7 +5746,7 @@
     {
         "id": 832,
         "expanded": true,
-        "name": "★地下水道7",
+        "name": "Underground Sewer 7",
         "order": 427,
         "parentId": 814,
         "scrollX": 1025,
@@ -5755,7 +5755,7 @@
     {
         "id": 833,
         "expanded": true,
-        "name": "★地下水道3a",
+        "name": "★Underground Sewer 3a",
         "order": 428,
         "parentId": 814,
         "scrollX": 816,
@@ -5764,7 +5764,7 @@
     {
         "id": 834,
         "expanded": false,
-        "name": "★レベッカ用マップ",
+        "name": "★Map for Rebecca",
         "order": 822,
         "parentId": 3,
         "scrollX": 1040.5,
@@ -5773,7 +5773,7 @@
     {
         "id": 835,
         "expanded": true,
-        "name": "★地下水道3a",
+        "name": "★Underground Sewer 3a",
         "order": 430,
         "parentId": 814,
         "scrollX": 1025,
@@ -5782,7 +5782,7 @@
     {
         "id": 836,
         "expanded": true,
-        "name": "コーダイン地下水路　隠し部屋",
+        "name": "Caudine Underground Waterway Hidden Room",
         "order": 431,
         "parentId": 811,
         "scrollX": 1025,
@@ -5792,7 +5792,7 @@
     {
         "id": 838,
         "expanded": false,
-        "name": "モットレル鉱山",
+        "name": "Mottrel Mine",
         "order": 766,
         "parentId": 0,
         "scrollX": 1025,
@@ -5802,7 +5802,7 @@
     {
         "id": 840,
         "expanded": true,
-        "name": "★鉱山とユリシーン分岐",
+        "name": "★Mine and Ulyssean Branch",
         "order": 777,
         "parentId": 20,
         "scrollX": 830,
@@ -5811,7 +5811,7 @@
     {
         "id": 841,
         "expanded": true,
-        "name": "トオマワリの丘",
+        "name": "Toomawari Hill",
         "order": 744,
         "parentId": 0,
         "scrollX": 1041,
@@ -5820,7 +5820,7 @@
     {
         "id": 842,
         "expanded": true,
-        "name": "トオマワリの丘",
+        "name": "Toomawari Hill",
         "order": 745,
         "parentId": 841,
         "scrollX": 1257,
@@ -5829,7 +5829,7 @@
     {
         "id": 843,
         "expanded": true,
-        "name": "★ハジッコ集落の調査",
+        "name": "★Investigation of the Hajikko Village",
         "order": 554,
         "parentId": 774,
         "scrollX": 832,
@@ -5838,7 +5838,7 @@
     {
         "id": 844,
         "expanded": true,
-        "name": "★地下水道3a",
+        "name": "★Underground Sewer 3a",
         "order": 432,
         "parentId": 836,
         "scrollX": 1025,
@@ -5847,7 +5847,7 @@
     {
         "id": 845,
         "expanded": false,
-        "name": "★地下水道2",
+        "name": "★ Underground Sewer 2",
         "order": 433,
         "parentId": 836,
         "scrollX": 1321,
@@ -5856,7 +5856,7 @@
     {
         "id": 846,
         "expanded": true,
-        "name": "★ベガとルナロアの謁見",
+        "name": "★Audience with Vega and Lunaroa",
         "order": 472,
         "parentId": 158,
         "scrollX": 816,
@@ -5866,7 +5866,7 @@
     {
         "id": 848,
         "expanded": false,
-        "name": "★城食堂",
+        "name": "★ Castle Dining Hall",
         "order": 473,
         "parentId": 846,
         "scrollX": 1040.5,
@@ -5875,7 +5875,7 @@
     {
         "id": 849,
         "expanded": false,
-        "name": "★城食堂",
+        "name": "★ Castle Dining Hall",
         "order": 474,
         "parentId": 846,
         "scrollX": 1040.5,
@@ -5886,7 +5886,7 @@
     {
         "id": 852,
         "expanded": false,
-        "name": "逃亡の森",
+        "name": "Forest of Escape",
         "order": 827,
         "parentId": 0,
         "scrollX": 1025,
@@ -5895,7 +5895,7 @@
     {
         "id": 853,
         "expanded": true,
-        "name": "オープニング",
+        "name": "Opening",
         "order": 834,
         "parentId": 0,
         "scrollX": 1025,
@@ -5904,7 +5904,7 @@
     {
         "id": 854,
         "expanded": false,
-        "name": "★村長の家　お使い後",
+        "name": "★Village Chief's House After Errands",
         "order": 519,
         "parentId": 335,
         "scrollX": 1025,
@@ -5913,7 +5913,7 @@
     {
         "id": 855,
         "expanded": false,
-        "name": "地の試練跡地",
+        "name": "Land Trial Ruins",
         "order": 420,
         "parentId": 336,
         "scrollX": 816,
@@ -5922,7 +5922,7 @@
     {
         "id": 856,
         "expanded": true,
-        "name": "なくなった場所",
+        "name": "Lost place",
         "order": 422,
         "parentId": 336,
         "scrollX": 896,
@@ -5931,7 +5931,7 @@
     {
         "id": 857,
         "expanded": true,
-        "name": "大穴",
+        "name": "Great Hole",
         "order": 421,
         "parentId": 336,
         "scrollX": 832,
@@ -5940,7 +5940,7 @@
     {
         "id": 858,
         "expanded": true,
-        "name": "★戦争イベント",
+        "name": "★War Event",
         "order": 439,
         "parentId": 0,
         "scrollX": 1197,
@@ -5949,7 +5949,7 @@
     {
         "id": 859,
         "expanded": true,
-        "name": "★逃亡の森",
+        "name": "Forest of Escape",
         "order": 440,
         "parentId": 858,
         "scrollX": 1025,
@@ -5958,7 +5958,7 @@
     {
         "id": 860,
         "expanded": false,
-        "name": "★国境 ユリシーン側",
+        "name": "★Border, Ulyssean side",
         "order": 441,
         "parentId": 858,
         "scrollX": 984,
@@ -5967,7 +5967,7 @@
     {
         "id": 861,
         "expanded": true,
-        "name": "★エルフの住み家内装",
+        "name": "★Interior of an Elf's dwelling",
         "order": 442,
         "parentId": 858,
         "scrollX": 984,
@@ -5976,7 +5976,7 @@
     {
         "id": 862,
         "expanded": false,
-        "name": "★エルフの住み家内装",
+        "name": "★Interior of an Elf's dwelling",
         "order": 443,
         "parentId": 858,
         "scrollX": 1041,
@@ -5985,7 +5985,7 @@
     {
         "id": 863,
         "expanded": true,
-        "name": "★国境の大橋",
+        "name": "★Great Bridge of the Border",
         "order": 444,
         "parentId": 858,
         "scrollX": 4719,
@@ -5994,7 +5994,7 @@
     {
         "id": 864,
         "expanded": false,
-        "name": "★セイレーンの洞窟3",
+        "name": "★Siren's Cave 3",
         "order": 445,
         "parentId": 858,
         "scrollX": 1000,
@@ -6004,7 +6004,7 @@
     {
         "id": 866,
         "expanded": false,
-        "name": "★ラウラ回想",
+        "name": "★Laura Flashback",
         "order": 104,
         "parentId": 827,
         "scrollX": 1048.5,
@@ -6013,7 +6013,7 @@
     {
         "id": 867,
         "expanded": true,
-        "name": "★（夜）近隣の街道",
+        "name": "★(Night) Nearby Highway",
         "order": 105,
         "parentId": 827,
         "scrollX": 1105,
@@ -6022,7 +6022,7 @@
     {
         "id": 868,
         "expanded": true,
-        "name": "★ユリシーン地下道",
+        "name": "★Yurisine Underground Passage",
         "order": 107,
         "parentId": 827,
         "scrollX": 1483,
@@ -6031,7 +6031,7 @@
     {
         "id": 869,
         "expanded": true,
-        "name": "森",
+        "name": "Forest",
         "order": 108,
         "parentId": 827,
         "scrollX": 1041,
@@ -6040,7 +6040,7 @@
     {
         "id": 870,
         "expanded": false,
-        "name": "★家を貰う～ベガ加入",
+        "name": "★Receiving a Home~Joining Vega",
         "order": 109,
         "parentId": 827,
         "scrollX": 1227,
@@ -6049,7 +6049,7 @@
     {
         "id": 871,
         "expanded": true,
-        "name": "★コーダイン牢獄　渡り廊下",
+        "name": "★Codain Prison Corridor",
         "order": 110,
         "parentId": 827,
         "scrollX": 1025,
@@ -6058,7 +6058,7 @@
     {
         "id": 872,
         "expanded": true,
-        "name": "『ラウラＤＡＳＨ！！』",
+        "name": "Laura DASH!!",
         "order": 111,
         "parentId": 827,
         "scrollX": 4521,
@@ -6067,7 +6067,7 @@
     {
         "id": 873,
         "expanded": true,
-        "name": "★ボス倒し、増援",
+        "name": "★Defeat the boss, reinforcements",
         "order": 112,
         "parentId": 827,
         "scrollX": 1041,
@@ -6076,7 +6076,7 @@
     {
         "id": 874,
         "expanded": true,
-        "name": "★犬を飼う",
+        "name": "★To own a dog",
         "order": 113,
         "parentId": 827,
         "scrollX": 1126,
@@ -6085,7 +6085,7 @@
     {
         "id": 875,
         "expanded": true,
-        "name": "♥クソゲー３の後 ユリシーン",
+        "name": "After the shitty game 3, Yuriseen",
         "order": 18,
         "parentId": 245,
         "scrollX": 1199,
@@ -6094,7 +6094,7 @@
     {
         "id": 876,
         "expanded": true,
-        "name": "★べったりルナロア",
+        "name": "★Lunaroa",
         "order": 115,
         "parentId": 827,
         "scrollX": 1092,
@@ -6103,7 +6103,7 @@
     {
         "id": 877,
         "expanded": true,
-        "name": "★登山道　外観2",
+        "name": "★Mountain Trail Exterior 2",
         "order": 114,
         "parentId": 827,
         "scrollX": 832,
@@ -6112,7 +6112,7 @@
     {
         "id": 878,
         "expanded": false,
-        "name": "★炎の試練",
+        "name": "★Trial of Flames",
         "order": 116,
         "parentId": 827,
         "scrollX": 1121,
@@ -6121,7 +6121,7 @@
     {
         "id": 879,
         "expanded": false,
-        "name": "☆氷の試練",
+        "name": "☆Trial of Ice",
         "order": 117,
         "parentId": 827,
         "scrollX": 1025,
@@ -6130,7 +6130,7 @@
     {
         "id": 880,
         "expanded": true,
-        "name": "☆風の試練　最深部",
+        "name": "☆Trial of the Wind, Deepest Part",
         "order": 118,
         "parentId": 827,
         "scrollX": 832,
@@ -6139,7 +6139,7 @@
     {
         "id": 881,
         "expanded": true,
-        "name": "★地の試練跡地",
+        "name": "★Trial Grounds of the Earth",
         "order": 119,
         "parentId": 827,
         "scrollX": 1025,
@@ -6148,7 +6148,7 @@
     {
         "id": 882,
         "expanded": true,
-        "name": "★戦争開始",
+        "name": "★War Begins",
         "order": 120,
         "parentId": 827,
         "scrollX": 1227,
@@ -6157,7 +6157,7 @@
     {
         "id": 883,
         "expanded": true,
-        "name": "★教会",
+        "name": "★Church",
         "order": 121,
         "parentId": 827,
         "scrollX": 1025,
@@ -6166,7 +6166,7 @@
     {
         "id": 884,
         "expanded": true,
-        "name": "★コーダイン城 玉座",
+        "name": "★Cordain Castle Throne",
         "order": 122,
         "parentId": 827,
         "scrollX": 1092,
@@ -6175,7 +6175,7 @@
     {
         "id": 885,
         "expanded": true,
-        "name": "ユリシーン城門前",
+        "name": "Ulyssean Castle Gate",
         "order": 123,
         "parentId": 827,
         "scrollX": 816,
@@ -6184,7 +6184,7 @@
     {
         "id": 886,
         "expanded": true,
-        "name": "雪の砦",
+        "name": "Snow Fortress",
         "order": 124,
         "parentId": 827,
         "scrollX": 1041,
@@ -6193,7 +6193,7 @@
     {
         "id": 887,
         "expanded": false,
-        "name": "ユリシーン　酒場２Ｆ　カフェ",
+        "name": "Ulyssean Bar 2F Cafe",
         "order": 63,
         "parentId": 62,
         "scrollX": 819,
@@ -6202,7 +6202,7 @@
     {
         "id": 888,
         "expanded": false,
-        "name": "国境の大橋",
+        "name": "Great Bridge of the Border",
         "order": 125,
         "parentId": 827,
         "scrollX": 4521,
@@ -6211,7 +6211,7 @@
     {
         "id": 889,
         "expanded": false,
-        "name": "コーダイン",
+        "name": "Cordin",
         "order": 126,
         "parentId": 827,
         "scrollX": 1041,
@@ -6220,7 +6220,7 @@
     {
         "id": 890,
         "expanded": true,
-        "name": "★アリスと凪",
+        "name": "★Alice and Nagi",
         "order": 128,
         "parentId": 827,
         "scrollX": 1119,
@@ -6229,7 +6229,7 @@
     {
         "id": 891,
         "expanded": true,
-        "name": "★イベント病院",
+        "name": "★Event Hospital",
         "order": 127,
         "parentId": 827,
         "scrollX": 1105,
@@ -6238,7 +6238,7 @@
     {
         "id": 892,
         "expanded": true,
-        "name": "★vs理事長",
+        "name": "★vs Chairman",
         "order": 129,
         "parentId": 827,
         "scrollX": 1025,
@@ -6247,7 +6247,7 @@
     {
         "id": 893,
         "expanded": true,
-        "name": "★ルナロアの夢　悲嘆の心",
+        "name": "★Lunaroa's Dream: Heart of Sorrow",
         "order": 130,
         "parentId": 827,
         "scrollX": 1025,
@@ -6256,7 +6256,7 @@
     {
         "id": 894,
         "expanded": false,
-        "name": "ルナロアの夢　最深層",
+        "name": "Luna Roa's Dream - Deepest Layer",
         "order": 133,
         "parentId": 827,
         "scrollX": 1041,
@@ -6265,7 +6265,7 @@
     {
         "id": 895,
         "expanded": true,
-        "name": "★アリスの回想",
+        "name": "★Alice's Flashback",
         "order": 132,
         "parentId": 827,
         "scrollX": 1229,
@@ -6274,7 +6274,7 @@
     {
         "id": 896,
         "expanded": false,
-        "name": "★ルナロアの帰還",
+        "name": "★Return of Lunaroa",
         "order": 134,
         "parentId": 827,
         "scrollX": 1092,
@@ -6283,7 +6283,7 @@
     {
         "id": 897,
         "expanded": true,
-        "name": "★ホテル内部",
+        "name": "★Inside the hotel",
         "order": 106,
         "parentId": 827,
         "scrollX": 1131,
@@ -6292,7 +6292,7 @@
     {
         "id": 898,
         "expanded": true,
-        "name": "◆落下素材あり",
+        "name": "◆ Falling material available",
         "order": 131,
         "parentId": 827,
         "scrollX": 1025,
@@ -6301,7 +6301,7 @@
     {
         "id": 899,
         "expanded": false,
-        "name": "コーダイン牢獄　古びた水路",
+        "name": "Codain Prison, Old Waterway",
         "order": 640,
         "parentId": 45,
         "scrollX": 1145,
@@ -6310,7 +6310,7 @@
     {
         "id": 900,
         "expanded": false,
-        "name": "★フェードアウト用マップ（作業禁止）",
+        "name": "★Fadeout Map (No Entry)",
         "order": 34,
         "parentId": 0,
         "scrollX": 1025,
@@ -6319,7 +6319,7 @@
     {
         "id": 901,
         "expanded": true,
-        "name": "妖精の村",
+        "name": "Fairy Village",
         "order": 207,
         "parentId": 921,
         "scrollX": 1025,
@@ -6329,7 +6329,7 @@
     {
         "id": 903,
         "expanded": true,
-        "name": "雲1",
+        "name": "Cloud 1",
         "order": 74,
         "parentId": 906,
         "scrollX": 1025,
@@ -6338,7 +6338,7 @@
     {
         "id": 904,
         "expanded": false,
-        "name": "魔王城３Ｆ",
+        "name": "Demon King's Castle 3F",
         "order": 204,
         "parentId": 914,
         "scrollX": 1025,
@@ -6347,7 +6347,7 @@
     {
         "id": 905,
         "expanded": true,
-        "name": "風の洞窟入り口１",
+        "name": "Wind Cave Entrance 1",
         "order": 81,
         "parentId": 754,
         "scrollX": 1025,
@@ -6356,7 +6356,7 @@
     {
         "id": 906,
         "expanded": true,
-        "name": "天界の神殿",
+        "name": "Temple of the Celestial Realm",
         "order": 73,
         "parentId": 754,
         "scrollX": 1025,
@@ -6365,7 +6365,7 @@
     {
         "id": 907,
         "expanded": false,
-        "name": "氷の洞窟",
+        "name": "Ice Cave",
         "order": 212,
         "parentId": 919,
         "scrollX": 1104,
@@ -6374,7 +6374,7 @@
     {
         "id": 908,
         "expanded": false,
-        "name": "氷の洞窟　最深部",
+        "name": "Ice Cave - Deepest Part",
         "order": 214,
         "parentId": 919,
         "scrollX": 802.6666666666666,
@@ -6383,7 +6383,7 @@
     {
         "id": 909,
         "expanded": false,
-        "name": "洋館２Ｆ",
+        "name": "Mansion 2F",
         "order": 217,
         "parentId": 924,
         "scrollX": 816,
@@ -6392,7 +6392,7 @@
     {
         "id": 910,
         "expanded": false,
-        "name": "洋館１Ｆ",
+        "name": "Mansion 1F",
         "order": 216,
         "parentId": 924,
         "scrollX": 832,
@@ -6401,7 +6401,7 @@
     {
         "id": 911,
         "expanded": false,
-        "name": "輸送経路",
+        "name": "Transport route",
         "order": 82,
         "parentId": 754,
         "scrollX": 1359,
@@ -6410,7 +6410,7 @@
     {
         "id": 912,
         "expanded": true,
-        "name": "空中都市",
+        "name": "Sky City",
         "order": 80,
         "parentId": 754,
         "scrollX": 1201,
@@ -6419,7 +6419,7 @@
     {
         "id": 913,
         "expanded": false,
-        "name": "呪われた洞窟",
+        "name": "Cursed Cave",
         "order": 83,
         "parentId": 754,
         "scrollX": 1217,
@@ -6428,7 +6428,7 @@
     {
         "id": 914,
         "expanded": true,
-        "name": "魔王城１Ｆ",
+        "name": "Demon King's Castle 1F",
         "order": 202,
         "parentId": 208,
         "scrollX": 1255,
@@ -6437,7 +6437,7 @@
     {
         "id": 915,
         "expanded": false,
-        "name": "魔王城２Ｆ",
+        "name": "Demon King's Castle 2F",
         "order": 203,
         "parentId": 914,
         "scrollX": 1255,
@@ -6446,7 +6446,7 @@
     {
         "id": 916,
         "expanded": false,
-        "name": "迷いの森",
+        "name": "Forest of Confusion",
         "order": 206,
         "parentId": 921,
         "scrollX": 1319,
@@ -6455,7 +6455,7 @@
     {
         "id": 917,
         "expanded": false,
-        "name": "雲2",
+        "name": "Cloud 2",
         "order": 75,
         "parentId": 906,
         "scrollX": 816,
@@ -6464,7 +6464,7 @@
     {
         "id": 918,
         "expanded": false,
-        "name": "フィールド2",
+        "name": "Field 2",
         "order": 72,
         "parentId": 754,
         "scrollX": 2735,
@@ -6473,7 +6473,7 @@
     {
         "id": 919,
         "expanded": true,
-        "name": "氷の洞窟",
+        "name": "Ice Cave",
         "order": 211,
         "parentId": 208,
         "scrollX": 1025,
@@ -6482,7 +6482,7 @@
     {
         "id": 920,
         "expanded": true,
-        "name": "♥ベガのふたなりイベント",
+        "name": "♥Vega's Futanari Event",
         "order": 8,
         "parentId": 245,
         "scrollX": 1181,
@@ -6491,7 +6491,7 @@
     {
         "id": 921,
         "expanded": true,
-        "name": "迷いの森",
+        "name": "Forest of Confusion",
         "order": 205,
         "parentId": 208,
         "scrollX": 1025,
@@ -6500,7 +6500,7 @@
     {
         "id": 922,
         "expanded": false,
-        "name": "ダンジョン(水晶)1",
+        "name": "Dungeon (Crystal) 1",
         "order": 79,
         "parentId": 932,
         "scrollX": 1025,
@@ -6509,7 +6509,7 @@
     {
         "id": 923,
         "expanded": false,
-        "name": "コーダイン城　食堂",
+        "name": "Caudine Castle Dining Hall",
         "order": 405,
         "parentId": 373,
         "scrollX": 1025,
@@ -6518,7 +6518,7 @@
     {
         "id": 924,
         "expanded": true,
-        "name": "洋館　入口",
+        "name": "Mansion Entrance",
         "order": 215,
         "parentId": 208,
         "scrollX": 1110,
@@ -6527,7 +6527,7 @@
     {
         "id": 925,
         "expanded": true,
-        "name": "洋館１Ｆ　個室",
+        "name": "Mansion 1F Private Room",
         "order": 218,
         "parentId": 924,
         "scrollX": 1249,
@@ -6536,7 +6536,7 @@
     {
         "id": 926,
         "expanded": false,
-        "name": "妖精の村　風の妖精実家",
+        "name": "Fairy Village, Fairy of the Wind's Childhood Home",
         "order": 210,
         "parentId": 901,
         "scrollX": 1256,
@@ -6545,7 +6545,7 @@
     {
         "id": 927,
         "expanded": false,
-        "name": "妖精の村　倉庫",
+        "name": "Fairy Village Warehouse",
         "order": 208,
         "parentId": 901,
         "scrollX": 1025,
@@ -6554,7 +6554,7 @@
     {
         "id": 928,
         "expanded": false,
-        "name": "妖精の村　道具屋",
+        "name": "Fairy Village - Tool Shop",
         "order": 209,
         "parentId": 901,
         "scrollX": 1310,
@@ -6563,7 +6563,7 @@
     {
         "id": 929,
         "expanded": true,
-        "name": "氷の洞窟",
+        "name": "Ice Cave",
         "order": 213,
         "parentId": 919,
         "scrollX": 1104,
@@ -6572,7 +6572,7 @@
     {
         "id": 930,
         "expanded": true,
-        "name": "雲1",
+        "name": "Cloud 1",
         "order": 76,
         "parentId": 906,
         "scrollX": 816,
@@ -6581,7 +6581,7 @@
     {
         "id": 931,
         "expanded": true,
-        "name": "雲1",
+        "name": "Cloud 1",
         "order": 77,
         "parentId": 906,
         "scrollX": 1025,
@@ -6590,7 +6590,7 @@
     {
         "id": 932,
         "expanded": true,
-        "name": "魔王城1F",
+        "name": "Demon King's Castle 1F",
         "order": 78,
         "parentId": 754,
         "scrollX": 1119,
@@ -6599,7 +6599,7 @@
     {
         "id": 933,
         "expanded": true,
-        "name": "本拠地２F",
+        "name": "Headquarters 2F",
         "order": 9,
         "parentId": 920,
         "scrollX": 1097,
@@ -6608,7 +6608,7 @@
     {
         "id": 934,
         "expanded": false,
-        "name": "ヴィタのクソゲーⅢ",
+        "name": "Vita's Shitty Game III",
         "order": 10,
         "parentId": 920,
         "scrollX": 1094,
@@ -6617,7 +6617,7 @@
     {
         "id": 935,
         "expanded": false,
-        "name": "ヴィタのクソゲーⅢ",
+        "name": "Vita's Shitty Game III",
         "order": 11,
         "parentId": 920,
         "scrollX": 984,
@@ -6626,7 +6626,7 @@
     {
         "id": 936,
         "expanded": true,
-        "name": "★レベッカの部屋",
+        "name": "★Rebecca's room",
         "order": 24,
         "parentId": 971,
         "scrollX": 1025,
@@ -6635,7 +6635,7 @@
     {
         "id": 937,
         "expanded": false,
-        "name": "♥ヴィタのクソゲーⅣ試作",
+        "name": "♥Vita's Shitty Game IV Prototype",
         "order": 93,
         "parentId": 0,
         "scrollX": 1025,
@@ -6644,7 +6644,7 @@
     {
         "id": 938,
         "expanded": true,
-        "name": "ワールドマップ",
+        "name": "World Map",
         "order": 94,
         "parentId": 937,
         "scrollX": 1071,
@@ -6653,7 +6653,7 @@
     {
         "id": 939,
         "expanded": false,
-        "name": "遊牧民キャンプ",
+        "name": "Nomadic Camp",
         "order": 97,
         "parentId": 937,
         "scrollX": 1041,
@@ -6662,7 +6662,7 @@
     {
         "id": 940,
         "expanded": false,
-        "name": "山奥の村",
+        "name": "Village in the mountains",
         "order": 96,
         "parentId": 937,
         "scrollX": 816,
@@ -6671,7 +6671,7 @@
     {
         "id": 941,
         "expanded": false,
-        "name": "普通の町",
+        "name": "Normal Town",
         "order": 95,
         "parentId": 937,
         "scrollX": 1041,
@@ -6680,7 +6680,7 @@
     {
         "id": 942,
         "expanded": false,
-        "name": "不死の山4",
+        "name": "Immortal Mountain 4",
         "order": 99,
         "parentId": 944,
         "scrollX": 802.6666666666666,
@@ -6689,7 +6689,7 @@
     {
         "id": 943,
         "expanded": true,
-        "name": "本拠地２F　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 100,
         "parentId": 937,
         "scrollX": 1041,
@@ -6698,7 +6698,7 @@
     {
         "id": 944,
         "expanded": true,
-        "name": "不死の山3",
+        "name": "Immortal Mountain 3",
         "order": 98,
         "parentId": 937,
         "scrollX": 1025,
@@ -6707,7 +6707,7 @@
     {
         "id": 945,
         "expanded": false,
-        "name": "♥ニキータ襲来イベント",
+        "name": "♥Nikita Invasion Event",
         "order": 92,
         "parentId": 0,
         "scrollX": 1025,
@@ -6716,7 +6716,7 @@
     {
         "id": 946,
         "expanded": false,
-        "name": "♥『零月のラウラ』",
+        "name": "♥\"Laura of Zero Month",
         "order": 84,
         "parentId": 0,
         "scrollX": 1025,
@@ -6725,7 +6725,7 @@
     {
         "id": 947,
         "expanded": true,
-        "name": "ヴィタの家",
+        "name": "Vita's house",
         "order": 737,
         "parentId": 420,
         "scrollX": 1025,
@@ -6734,7 +6734,7 @@
     {
         "id": 948,
         "expanded": false,
-        "name": "マーケット",
+        "name": "Market",
         "order": 86,
         "parentId": 946,
         "scrollX": 0,
@@ -6743,7 +6743,7 @@
     {
         "id": 949,
         "expanded": false,
-        "name": "村A",
+        "name": "Village A",
         "order": 85,
         "parentId": 946,
         "scrollX": 811,
@@ -6752,7 +6752,7 @@
     {
         "id": 950,
         "expanded": true,
-        "name": "『零月のラウラ』",
+        "name": "Laura of Zero Moon",
         "order": 87,
         "parentId": 946,
         "scrollX": 1097,
@@ -6761,7 +6761,7 @@
     {
         "id": 951,
         "expanded": true,
-        "name": "★(決戦マップ)国境の大橋",
+        "name": "★(Decisive Battle Map) Great Bridge of the Border",
         "order": 447,
         "parentId": 858,
         "scrollX": 4363,
@@ -6770,7 +6770,7 @@
     {
         "id": 952,
         "expanded": true,
-        "name": "★後半戦　国境の大橋",
+        "name": "★Second Half: Great Bridge of the Border",
         "order": 446,
         "parentId": 858,
         "scrollX": 2247,
@@ -6779,7 +6779,7 @@
     {
         "id": 953,
         "expanded": true,
-        "name": "★(決戦マップ)国境の大橋",
+        "name": "★(Decisive Battle Map) Great Bridge of the Border",
         "order": 448,
         "parentId": 858,
         "scrollX": 3031,
@@ -6788,7 +6788,7 @@
     {
         "id": 954,
         "expanded": true,
-        "name": "★登山道　大橋",
+        "name": "★Mountain Trail, Ohashi",
         "order": 548,
         "parentId": 351,
         "scrollX": 1177,
@@ -6797,7 +6797,7 @@
     {
         "id": 955,
         "expanded": false,
-        "name": "旧リラ家 下水道",
+        "name": "Former Lira Family Sewer",
         "order": 311,
         "parentId": 607,
         "scrollX": 1025,
@@ -6806,7 +6806,7 @@
     {
         "id": 956,
         "expanded": false,
-        "name": "★下水道",
+        "name": "★Sewer",
         "order": 312,
         "parentId": 955,
         "scrollX": 1025,
@@ -6815,7 +6815,7 @@
     {
         "id": 957,
         "expanded": false,
-        "name": "旧リラ家　下水道",
+        "name": "Former Lira Residence Sewer",
         "order": 313,
         "parentId": 955,
         "scrollX": 1025,
@@ -6824,7 +6824,7 @@
     {
         "id": 958,
         "expanded": false,
-        "name": "★ベガ潜入イベント",
+        "name": "★Vega Infiltration Event",
         "order": 298,
         "parentId": 0,
         "scrollX": 1025,
@@ -6833,7 +6833,7 @@
     {
         "id": 959,
         "expanded": true,
-        "name": "★ベガ潜入イベント",
+        "name": "★Vega Infiltration Event",
         "order": 299,
         "parentId": 958,
         "scrollX": 1641,
@@ -6842,7 +6842,7 @@
     {
         "id": 960,
         "expanded": true,
-        "name": "負けたとき",
+        "name": "When I lose",
         "order": 586,
         "parentId": 513,
         "scrollX": 816,
@@ -6851,7 +6851,7 @@
     {
         "id": 961,
         "expanded": false,
-        "name": "旧リラ家　下水道",
+        "name": "Former Lira Residence Sewer",
         "order": 314,
         "parentId": 955,
         "scrollX": 1349,
@@ -6860,7 +6860,7 @@
     {
         "id": 962,
         "expanded": true,
-        "name": "ダンジョン(森)1",
+        "name": "Dungeon (Forest) 1",
         "order": 667,
         "parentId": 270,
         "scrollX": 1000,
@@ -6869,7 +6869,7 @@
     {
         "id": 963,
         "expanded": true,
-        "name": "◇ベガ実家。父親の書斎",
+        "name": "◇Vega's home. Father's study",
         "order": 590,
         "parentId": 513,
         "scrollX": 1025,
@@ -6878,7 +6878,7 @@
     {
         "id": 964,
         "expanded": true,
-        "name": "ダンジョン(森)1",
+        "name": "Dungeon (Forest) 1",
         "order": 668,
         "parentId": 962,
         "scrollX": 995,
@@ -6887,7 +6887,7 @@
     {
         "id": 965,
         "expanded": true,
-        "name": "●戦闘テストマップ",
+        "name": "●Battle Test Map",
         "order": 35,
         "parentId": 0,
         "scrollX": 1613,
@@ -6896,7 +6896,7 @@
     {
         "id": 966,
         "expanded": true,
-        "name": "★レベッカ逃亡",
+        "name": "★Rebecca Escapes",
         "order": 776,
         "parentId": 20,
         "scrollX": 832,
@@ -6906,7 +6906,7 @@
     {
         "id": 968,
         "expanded": true,
-        "name": "♥クソゲーⅢ後",
+        "name": "♥After Shitty Game III",
         "order": 19,
         "parentId": 875,
         "scrollX": 1025,
@@ -6915,7 +6915,7 @@
     {
         "id": 969,
         "expanded": true,
-        "name": "本拠地２F　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 20,
         "parentId": 968,
         "scrollX": 1025,
@@ -6924,7 +6924,7 @@
     {
         "id": 970,
         "expanded": true,
-        "name": "★ライアンの部屋",
+        "name": "★Ryan's room",
         "order": 25,
         "parentId": 971,
         "scrollX": 1097,
@@ -6933,7 +6933,7 @@
     {
         "id": 971,
         "expanded": true,
-        "name": "♡レベッカピクニック後",
+        "name": "♡After Rebecca's picnic",
         "order": 23,
         "parentId": 245,
         "scrollX": 1199,
@@ -6942,7 +6942,7 @@
     {
         "id": 972,
         "expanded": true,
-        "name": "★リラ家イベント　開始はここから",
+        "name": "★Lila Family Event starts from here",
         "order": 175,
         "parentId": 821,
         "scrollX": 1054,
@@ -6951,7 +6951,7 @@
     {
         "id": 973,
         "expanded": true,
-        "name": "ベガ実家。父親の書斎",
+        "name": "Vega's home. Father's study",
         "order": 176,
         "parentId": 821,
         "scrollX": 816,
@@ -6960,7 +6960,7 @@
     {
         "id": 974,
         "expanded": true,
-        "name": "上流家庭2F",
+        "name": "Upper-class Family 2F",
         "order": 177,
         "parentId": 821,
         "scrollX": 816,
@@ -6969,7 +6969,7 @@
     {
         "id": 975,
         "expanded": true,
-        "name": "上流家庭2F",
+        "name": "Upper-class Family 2F",
         "order": 178,
         "parentId": 821,
         "scrollX": 816,
@@ -6978,7 +6978,7 @@
     {
         "id": 976,
         "expanded": true,
-        "name": "ベガ実家。父親の書斎",
+        "name": "Vega's home. Father's study",
         "order": 179,
         "parentId": 821,
         "scrollX": 816,
@@ -6987,7 +6987,7 @@
     {
         "id": 977,
         "expanded": true,
-        "name": "★玉座",
+        "name": "★Throne",
         "order": 180,
         "parentId": 821,
         "scrollX": 1092,
@@ -6996,7 +6996,7 @@
     {
         "id": 978,
         "expanded": true,
-        "name": "ベガ実家。父親の書斎",
+        "name": "Vega's home. Father's study",
         "order": 181,
         "parentId": 821,
         "scrollX": 816,
@@ -7005,7 +7005,7 @@
     {
         "id": 979,
         "expanded": true,
-        "name": "上流家庭2F",
+        "name": "Upper-class Family 2F",
         "order": 182,
         "parentId": 821,
         "scrollX": 816,
@@ -7014,7 +7014,7 @@
     {
         "id": 980,
         "expanded": true,
-        "name": "ベガ実家。父親の書斎",
+        "name": "Vega's home. Father's study",
         "order": 183,
         "parentId": 821,
         "scrollX": 816,
@@ -7023,7 +7023,7 @@
     {
         "id": 981,
         "expanded": false,
-        "name": "教務院室",
+        "name": "Academic Affairs Office",
         "order": 184,
         "parentId": 821,
         "scrollX": 816,
@@ -7032,7 +7032,7 @@
     {
         "id": 982,
         "expanded": false,
-        "name": "近隣の街道",
+        "name": "Nearby road",
         "order": 185,
         "parentId": 821,
         "scrollX": 848,
@@ -7041,7 +7041,7 @@
     {
         "id": 983,
         "expanded": true,
-        "name": "ハタヤキ村　ラウラ宅方面",
+        "name": "Hatayaki Village, towards Laura's house",
         "order": 186,
         "parentId": 821,
         "scrollX": 832,
@@ -7050,7 +7050,7 @@
     {
         "id": 984,
         "expanded": true,
-        "name": "上流家庭2F",
+        "name": "Upper-class Family 2F",
         "order": 188,
         "parentId": 821,
         "scrollX": 816,
@@ -7059,7 +7059,7 @@
     {
         "id": 985,
         "expanded": true,
-        "name": "学校　教室1",
+        "name": "School Classroom 1",
         "order": 187,
         "parentId": 821,
         "scrollX": 832,
@@ -7068,7 +7068,7 @@
     {
         "id": 986,
         "expanded": true,
-        "name": "ベガ実家。父親の書斎",
+        "name": "Vega's home. Father's study",
         "order": 189,
         "parentId": 821,
         "scrollX": 816,
@@ -7077,7 +7077,7 @@
     {
         "id": 987,
         "expanded": false,
-        "name": "寝室",
+        "name": "Bedroom",
         "order": 190,
         "parentId": 821,
         "scrollX": 832,
@@ -7086,7 +7086,7 @@
     {
         "id": 988,
         "expanded": true,
-        "name": "上流家庭2F",
+        "name": "Upper-class Family 2F",
         "order": 191,
         "parentId": 821,
         "scrollX": 816,
@@ -7095,7 +7095,7 @@
     {
         "id": 989,
         "expanded": true,
-        "name": "コーダイン城門",
+        "name": "Caudine Gate",
         "order": 194,
         "parentId": 821,
         "scrollX": 1088,
@@ -7105,7 +7105,7 @@
     {
         "id": 991,
         "expanded": false,
-        "name": "大きな城　王と王妃の部屋",
+        "name": "Big Castle - King and Queen's Room",
         "order": 193,
         "parentId": 821,
         "scrollX": 1105,
@@ -7114,7 +7114,7 @@
     {
         "id": 992,
         "expanded": false,
-        "name": "高級マンション",
+        "name": "Luxury apartment",
         "order": 195,
         "parentId": 821,
         "scrollX": 816,
@@ -7123,7 +7123,7 @@
     {
         "id": 993,
         "expanded": false,
-        "name": "４人と",
+        "name": "Four people",
         "order": 196,
         "parentId": 821,
         "scrollX": 1323,
@@ -7132,7 +7132,7 @@
     {
         "id": 994,
         "expanded": true,
-        "name": "本拠地２F　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 197,
         "parentId": 821,
         "scrollX": 1283,
@@ -7141,7 +7141,7 @@
     {
         "id": 995,
         "expanded": true,
-        "name": "酒場",
+        "name": "Tavern",
         "order": 38,
         "parentId": 965,
         "scrollX": 1025,
@@ -7150,7 +7150,7 @@
     {
         "id": 996,
         "expanded": false,
-        "name": "◇怠惰　キャット",
+        "name": "◇Sloth Cat",
         "order": 172,
         "parentId": 0,
         "scrollX": 1041,
@@ -7159,7 +7159,7 @@
     {
         "id": 997,
         "expanded": false,
-        "name": "環境設定",
+        "name": "Environment Settings",
         "order": 835,
         "parentId": 853,
         "scrollX": 832,
@@ -7168,7 +7168,7 @@
     {
         "id": 998,
         "expanded": true,
-        "name": "ーーーランク１ーーー",
+        "name": "-----Rank 1-----",
         "order": 751,
         "parentId": 0,
         "scrollX": 1113,
@@ -7177,7 +7177,7 @@
     {
         "id": 999,
         "expanded": true,
-        "name": "ーーーランク２ーーー",
+        "name": "-----Rank 2-----",
         "order": 669,
         "parentId": 0,
         "scrollX": 1025,
@@ -7186,7 +7186,7 @@
     {
         "id": 1000,
         "expanded": true,
-        "name": "ーーーランク３ーーー",
+        "name": "-----Rank 3-----",
         "order": 610,
         "parentId": 0,
         "scrollX": 1165,
@@ -7195,7 +7195,7 @@
     {
         "id": 1001,
         "expanded": true,
-        "name": "ーーーランク４ーーー",
+        "name": "-----Rank 4-----",
         "order": 500,
         "parentId": 0,
         "scrollX": 1181,
@@ -7204,7 +7204,7 @@
     {
         "id": 1002,
         "expanded": true,
-        "name": "ーーーランク５ーーー",
+        "name": "-----Rank 5-----",
         "order": 449,
         "parentId": 0,
         "scrollX": 1025,
@@ -7213,7 +7213,7 @@
     {
         "id": 1003,
         "expanded": true,
-        "name": "ーーーランク６ーーー",
+        "name": "-----Rank 6-----",
         "order": 328,
         "parentId": 0,
         "scrollX": 1041,
@@ -7222,7 +7222,7 @@
     {
         "id": 1004,
         "expanded": true,
-        "name": "ーーーランク７ーーー",
+        "name": "-----Rank 7-----",
         "order": 235,
         "parentId": 0,
         "scrollX": 1041,
@@ -7231,7 +7231,7 @@
     {
         "id": 1005,
         "expanded": true,
-        "name": "風の試練",
+        "name": "Trial of the Wind",
         "order": 479,
         "parentId": 211,
         "scrollX": 987,
@@ -7240,7 +7240,7 @@
     {
         "id": 1006,
         "expanded": true,
-        "name": "本拠地２F　個室",
+        "name": "Headquarters 2F Private Room",
         "order": 89,
         "parentId": 946,
         "scrollX": 1097,
@@ -7249,7 +7249,7 @@
     {
         "id": 1007,
         "expanded": true,
-        "name": "★埋蔵金の発掘現場　最深部",
+        "name": "★Excavation site of buried treasure, deepest part",
         "order": 609,
         "parentId": 220,
         "scrollX": 984,
@@ -7258,7 +7258,7 @@
     {
         "id": 1008,
         "expanded": true,
-        "name": "ーーークリア後ーーー",
+        "name": "ーーーAfter Cleaーーー",
         "order": 101,
         "parentId": 0,
         "scrollX": 1214,
@@ -7267,7 +7267,7 @@
     {
         "id": 1009,
         "expanded": false,
-        "name": "◇強欲　ヴィタアイシャ",
+        "name": "◇Greed Vitaisha",
         "order": 199,
         "parentId": 0,
         "scrollX": 1000,
@@ -7276,7 +7276,7 @@
     {
         "id": 1010,
         "expanded": true,
-        "name": "コーダイン城外観",
+        "name": "Appearance of Caudine Castle",
         "order": 192,
         "parentId": 821,
         "scrollX": 1121,
@@ -7285,7 +7285,7 @@
     {
         "id": 1011,
         "expanded": false,
-        "name": "怠惰の試練",
+        "name": "Trial of Sloth",
         "order": 198,
         "parentId": 821,
         "scrollX": 816,
@@ -7295,7 +7295,7 @@
     {
         "id": 1013,
         "expanded": true,
-        "name": "体験版用スタート",
+        "name": "Start for the demo version",
         "order": 836,
         "parentId": 0,
         "scrollX": 1041,
@@ -7304,7 +7304,7 @@
     {
         "id": 1014,
         "expanded": false,
-        "name": "体験版　打ち上げ会場",
+        "name": "Trial version launch venue",
         "order": 837,
         "parentId": 1013,
         "scrollX": 1025,
@@ -7313,7 +7313,7 @@
     {
         "id": 1015,
         "expanded": true,
-        "name": "★体験版ティータ",
+        "name": "★Demo Version Tita",
         "order": 838,
         "parentId": 1013,
         "scrollX": 1150,
@@ -7322,7 +7322,7 @@
     {
         "id": 1016,
         "expanded": false,
-        "name": "★ベガの引き",
+        "name": "★Vega's Pull",
         "order": 685,
         "parentId": 534,
         "scrollX": 1185,
@@ -7332,7 +7332,7 @@
     {
         "id": 1018,
         "expanded": false,
-        "name": "雪の砦　中央砦４Ｆ小部屋",
+        "name": "Snow Fortress, Central Fortress 4F Small Room",
         "order": 371,
         "parentId": 566,
         "scrollX": 802.6666666666666,
@@ -7341,7 +7341,7 @@
     {
         "id": 1019,
         "expanded": true,
-        "name": "雪の砦　中央砦３Ｆ左通路",
+        "name": "Snow Fortress, Central Fortress 3F Left Passage",
         "order": 368,
         "parentId": 566,
         "scrollX": 1243,
@@ -7351,7 +7351,7 @@
     {
         "id": 1021,
         "expanded": true,
-        "name": "雪の砦　中央砦３Ｆ右通路",
+        "name": "Snow Fortress, Central Fortress 3F Right Passage",
         "order": 369,
         "parentId": 566,
         "scrollX": 1223,
@@ -7360,7 +7360,7 @@
     {
         "id": 1022,
         "expanded": false,
-        "name": "コーダイン城",
+        "name": "Codaen Castle",
         "order": 395,
         "parentId": 359,
         "scrollX": 1041,
@@ -7369,7 +7369,7 @@
     {
         "id": 1023,
         "expanded": true,
-        "name": "雪の砦　中央砦４Ｆ",
+        "name": "Snow Fortress Central Fortress 4F",
         "order": 370,
         "parentId": 566,
         "scrollX": 1041,
@@ -7378,7 +7378,7 @@
     {
         "id": 1024,
         "expanded": false,
-        "name": "病院　入口",
+        "name": "Hospital Entrance",
         "order": 464,
         "parentId": 158,
         "scrollX": 832,
@@ -7387,7 +7387,7 @@
     {
         "id": 1025,
         "expanded": false,
-        "name": "大穴",
+        "name": "Great Hole",
         "order": 457,
         "parentId": 158,
         "scrollX": 1041,
@@ -7396,7 +7396,7 @@
     {
         "id": 1026,
         "expanded": false,
-        "name": "大穴",
+        "name": "Great Hole",
         "order": 458,
         "parentId": 158,
         "scrollX": 1072,
@@ -7405,7 +7405,7 @@
     {
         "id": 1027,
         "expanded": false,
-        "name": "大穴",
+        "name": "Great Hole",
         "order": 459,
         "parentId": 158,
         "scrollX": 802.6666666666666,
@@ -7414,7 +7414,7 @@
     {
         "id": 1028,
         "expanded": false,
-        "name": "♥レベッカイベント",
+        "name": "♥Rebecca Event",
         "order": 90,
         "parentId": 0,
         "scrollX": 1041,
@@ -7423,7 +7423,7 @@
     {
         "id": 1029,
         "expanded": true,
-        "name": "★ライアンの部屋",
+        "name": "★Ryan's room",
         "order": 91,
         "parentId": 1028,
         "scrollX": 1230,
@@ -7432,7 +7432,7 @@
     {
         "id": 1030,
         "expanded": false,
-        "name": "エンディング導入",
+        "name": "Ending Introduction",
         "order": 102,
         "parentId": 0,
         "scrollX": 1041,
@@ -7441,7 +7441,7 @@
     {
         "id": 1031,
         "expanded": false,
-        "name": "コーダイン領　洞窟",
+        "name": "Cordin Territory Cave",
         "order": 334,
         "parentId": 649,
         "scrollX": 1025,
@@ -7450,7 +7450,7 @@
     {
         "id": 1032,
         "expanded": false,
-        "name": "コーダイン領　洞窟",
+        "name": "Cordin Territory Cave",
         "order": 335,
         "parentId": 649,
         "scrollX": 1167,
@@ -7459,7 +7459,7 @@
     {
         "id": 1033,
         "expanded": true,
-        "name": "ユリシーン ティータ",
+        "name": "Ulyssean Tita",
         "order": 56,
         "parentId": 236,
         "scrollX": 1223,
@@ -7468,7 +7468,7 @@
     {
         "id": 1034,
         "expanded": true,
-        "name": "★試練の説明",
+        "name": "★Description of the Trial",
         "order": 506,
         "parentId": 0,
         "scrollX": 1025,
@@ -7477,7 +7477,7 @@
     {
         "id": 1035,
         "expanded": true,
-        "name": "エルモ村の山道",
+        "name": "Mountain path in Elmo Village",
         "order": 530,
         "parentId": 408,
         "scrollX": 1025,
@@ -7486,7 +7486,7 @@
     {
         "id": 1036,
         "expanded": true,
-        "name": "モットレル鉱山",
+        "name": "Mottrel Mine",
         "order": 773,
         "parentId": 24,
         "scrollX": 1036,
@@ -7495,7 +7495,7 @@
     {
         "id": 1037,
         "expanded": true,
-        "name": "モットレル鉱山",
+        "name": "Mottrel Mine",
         "order": 774,
         "parentId": 1036,
         "scrollX": 816,
@@ -7504,7 +7504,7 @@
     {
         "id": 1038,
         "expanded": true,
-        "name": "♥ハタヤキ村　倉庫",
+        "name": "♥ Hatayaki Village Warehouse",
         "order": 816,
         "parentId": 9,
         "scrollX": 1040.5,
@@ -7513,7 +7513,7 @@
     {
         "id": 1039,
         "expanded": true,
-        "name": "♥ティータ３Pイベント",
+        "name": "♥Tita 3P Event",
         "order": 12,
         "parentId": 245,
         "scrollX": 1025,
@@ -7522,7 +7522,7 @@
     {
         "id": 1040,
         "expanded": true,
-        "name": "♥ベガトイレ",
+        "name": "♥Vega Toilet",
         "order": 15,
         "parentId": 1046,
         "scrollX": 1025,
@@ -7531,7 +7531,7 @@
     {
         "id": 1041,
         "expanded": false,
-        "name": "●シーン回想テストマップ",
+        "name": "● Scene Flashback Test Map",
         "order": 36,
         "parentId": 965,
         "scrollX": 1041,
@@ -7540,7 +7540,7 @@
     {
         "id": 1042,
         "expanded": true,
-        "name": "★ロノア告白イベント",
+        "name": "★Nora Confession Event",
         "order": 16,
         "parentId": 245,
         "scrollX": 1199,
@@ -7549,7 +7549,7 @@
     {
         "id": 1043,
         "expanded": true,
-        "name": "♥ベガマッサージ",
+        "name": "♥Vega Massage",
         "order": 17,
         "parentId": 245,
         "scrollX": 1025,
@@ -7558,7 +7558,7 @@
     {
         "id": 1044,
         "expanded": true,
-        "name": "♥ラウラのパンチラ練習",
+        "name": "♥ Laura's panty flash practice",
         "order": 22,
         "parentId": 1045,
         "scrollX": 1025,
@@ -7567,7 +7567,7 @@
     {
         "id": 1045,
         "expanded": true,
-        "name": "●冒頭追加イベント",
+        "name": "●Opening Additional Event",
         "order": 21,
         "parentId": 245,
         "scrollX": 1020,
@@ -7576,7 +7576,7 @@
     {
         "id": 1046,
         "expanded": true,
-        "name": "♥ベガトイレイベント冒頭",
+        "name": "♥Vega Toilet Event Opening",
         "order": 14,
         "parentId": 245,
         "scrollX": 1025,
@@ -7585,7 +7585,7 @@
     {
         "id": 1047,
         "expanded": true,
-        "name": "★ロノメリ洗礼イベント",
+        "name": "★Ronomeri Baptism Event",
         "order": 13,
         "parentId": 245,
         "scrollX": 1199,
@@ -7594,7 +7594,7 @@
     {
         "id": 1048,
         "expanded": false,
-        "name": "♡エルモ村",
+        "name": "♡Elmo Village",
         "order": 26,
         "parentId": 245,
         "scrollX": 1025,
@@ -7603,7 +7603,7 @@
     {
         "id": 1049,
         "expanded": true,
-        "name": "♥レベッカイベント続き",
+        "name": "Rebecca event continues",
         "order": 28,
         "parentId": 1050,
         "scrollX": 816,
@@ -7612,7 +7612,7 @@
     {
         "id": 1050,
         "expanded": true,
-        "name": "♥レベッカ奉仕イベント冒頭",
+        "name": "♥Rebecca Service Event Opening",
         "order": 27,
         "parentId": 245,
         "scrollX": 1181,
@@ -7621,7 +7621,7 @@
     {
         "id": 1051,
         "expanded": true,
-        "name": "♥金持ちの家イベント",
+        "name": "♥Rich House Event",
         "order": 30,
         "parentId": 245,
         "scrollX": 1297,
@@ -7630,7 +7630,7 @@
     {
         "id": 1052,
         "expanded": false,
-        "name": "♥ラウラ見抜きイベント",
+        "name": "♥Laura's Insight Event",
         "order": 29,
         "parentId": 245,
         "scrollX": 816,
@@ -7640,7 +7640,7 @@
     {
         "id": 1054,
         "expanded": true,
-        "name": "♡ラウラフェライベント",
+        "name": "♡ Laura Ferai Event",
         "order": 2,
         "parentId": 245,
         "scrollX": 1199,
@@ -7649,7 +7649,7 @@
     {
         "id": 1055,
         "expanded": false,
-        "name": "♥ルナロアの部屋",
+        "name": "♥Lunaroa's room",
         "order": 4,
         "parentId": 1054,
         "scrollX": 1025,
@@ -7658,7 +7658,7 @@
     {
         "id": 1056,
         "expanded": true,
-        "name": "ラウラフェラ",
+        "name": "Laurafera",
         "order": 3,
         "parentId": 1054,
         "scrollX": 1025,
@@ -7667,7 +7667,7 @@
     {
         "id": 1057,
         "expanded": true,
-        "name": "スクショマップ",
+        "name": "Screenshot Map",
         "order": 31,
         "parentId": 245,
         "scrollX": 1181,
@@ -7676,7 +7676,7 @@
     {
         "id": 1058,
         "expanded": true,
-        "name": "♡ルナロア見抜きイベント",
+        "name": "♡Lunaroa Insight Event",
         "order": 5,
         "parentId": 245,
         "scrollX": 1199,
@@ -7685,7 +7685,7 @@
     {
         "id": 1059,
         "expanded": true,
-        "name": "ルナロア見抜き",
+        "name": "Lunaroa Insight",
         "order": 6,
         "parentId": 1058,
         "scrollX": 1025,
@@ -7694,7 +7694,7 @@
     {
         "id": 1060,
         "expanded": false,
-        "name": "♥ルナロアの部屋",
+        "name": "♥Lunaroa's room",
         "order": 7,
         "parentId": 1058,
         "scrollX": 1181,
@@ -7703,7 +7703,7 @@
     {
         "id": 1061,
         "expanded": true,
-        "name": "★近くの森 - キンリーン（中腹）",
+        "name": "★ Nearby Forest - Kinreen (Mid-slope)",
         "order": 789,
         "parentId": 6,
         "scrollX": 1036,
@@ -7712,7 +7712,7 @@
     {
         "id": 1062,
         "expanded": true,
-        "name": "★コーダイン牢獄　頂上",
+        "name": "★Codain Prison Summit",
         "order": 651,
         "parentId": 262,
         "scrollX": 1041,
@@ -7722,7 +7722,7 @@
     {
         "id": 1064,
         "expanded": true,
-        "name": "雪の砦　左塔１Ｆ",
+        "name": "Snow Fortress, Left Tower 1F",
         "order": 348,
         "parentId": 561,
         "scrollX": 1041,
@@ -7731,7 +7731,7 @@
     {
         "id": 1065,
         "expanded": false,
-        "name": "雪の砦　左塔２Ｆ",
+        "name": "Snow Fortress, Left Tower 2F",
         "order": 349,
         "parentId": 1064,
         "scrollX": 816,
@@ -7740,7 +7740,7 @@
     {
         "id": 1066,
         "expanded": false,
-        "name": "雪の砦　左塔３Ｆ",
+        "name": "Snow Fortress, Left Tower 3F",
         "order": 350,
         "parentId": 1064,
         "scrollX": 816,
@@ -7749,7 +7749,7 @@
     {
         "id": 1067,
         "expanded": true,
-        "name": "雪の砦　右砦２Ｆ",
+        "name": "Snow Fortress, Right Fortress 2F",
         "order": 361,
         "parentId": 1069,
         "scrollX": 1041,
@@ -7758,7 +7758,7 @@
     {
         "id": 1068,
         "expanded": false,
-        "name": "雪の砦　右砦１Ｆ",
+        "name": "Snow Fortress, Right Fortress 1F",
         "order": 362,
         "parentId": 1069,
         "scrollX": 1041,
@@ -7767,7 +7767,7 @@
     {
         "id": 1069,
         "expanded": true,
-        "name": "雪の砦　右砦３Ｆ",
+        "name": "Snow Fortress, Right Fortress 3F",
         "order": 360,
         "parentId": 561,
         "scrollX": 1041,

@@ -10296,7 +10296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[21]Maybe it's because I relaxed in the bath?\n\\!\\SE[21]I was able to sleep really well."
+                                "\\SE[21]Maybe it's because I relaxed in the bath? \\!\\SE[21]I\nwas able to sleep really well."
                             ]
                         },
                         {
@@ -11148,7 +11148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[3]... Huh? \\SE[5] Weren't you with Rebecca? \\SE[3]\nAre you in the bathroom now?"
+                                "\\SE[3]... Huh? \\SE[5] Weren't you with Rebecca? \\SE[3] Are\nyou in the bathroom now?"
                             ]
                         },
                         {

@@ -1785,7 +1785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]Oh, welcome. \\!\\SE[15]What's wrong? \\.Are you\nfeeling lonely?"
+                                "\\SE[15]Oh, welcome. \\!\\SE[15]What's wrong? \\.Are you feeling\nlonely?"
                             ]
                         },
                         {
@@ -2320,7 +2320,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[15]Hehe... What's wrong, Laura? \\SE[15]If you're\nfeeling lonely, why don't you come over here?"
+                                "\\SE[15]Hehe... What's wrong, Laura? \\SE[15]If you're feeling\nlonely, why don't you come over here?"
                             ]
                         },
                         {
@@ -4336,7 +4336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]Oh my, are you interested by any chance?\n\\!\\SE[0]Would you like to read this book together?"
+                                "\\SE[0]Oh my, are you interested by any chance? \\!\\SE[0]Would\nyou like to read this book together?"
                             ]
                         },
                         {
@@ -6246,8 +6246,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Should do it...!",
-                                    "Should not do it...!",
+                                    "Should do it!",
+                                    "Should not do it!",
                                     "Change her appearance during battle!"
                                 ],
                                 -1,
@@ -6496,14 +6496,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "現在『前編』の姿になっています。"
+                                "Currently, I am in my prelude form. \\. Would you like to\nchange my standing picture? (Menu, only during battles)!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\.立ち絵を変更しますか？(メニュー、戦闘中のみ)\\!"
+                                ""
                             ]
                         },
                         {
@@ -6511,8 +6511,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "このままで！",
-                                    "変えてみる！"
+                                    "Leave it as it is!",
+                                    "Let's try changing it!"
                                 ],
                                 -1,
                                 0,
@@ -6543,7 +6543,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それもいいね…！"
+                                "That's also good...!"
                             ]
                         },
                         {
@@ -6818,14 +6818,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "現在『後編』の姿になっています。"
+                                "Currently, I am in my sequel form. Would you like to\nchange my standing picture? (Menu, only during battles)!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\.立ち絵を変更しますか？(メニュー、戦闘中のみ)\\!"
+                                ""
                             ]
                         },
                         {
@@ -6833,8 +6833,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "このままで！",
-                                    "変えてみる！"
+                                    "Leave it as it is!",
+                                    "Let's try changing it!"
                                 ],
                                 -1,
                                 0,
@@ -6865,7 +6865,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それもいいね…！"
+                                "That's also good...!"
                             ]
                         },
                         {
@@ -7865,7 +7865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]Take care. Laura. \\SE[0]...Don't worry about\nLunaroa- sama."
+                                "\\SE[0]Take care. Laura. \\SE[0]...Don't worry about Lunaroa-\nsama."
                             ]
                         },
                         {
@@ -8958,7 +8958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[15]Leave it to me. \\SE[15]Don't worry. Leave it to\nme, big sister."
+                                "\\SE[15]Leave it to me. \\SE[15]Don't worry. Leave it to me,\nbig sister."
                             ]
                         },
                         {

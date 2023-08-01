@@ -4742,7 +4742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]Yeah, I received something that made me really\nhappy! \\!\\SE[0]I wonder what it will be next..."
+                                "\\SE[0]Yeah, I received something that made me really happy!\n\\!\\SE[0]I wonder what it will be next..."
                             ]
                         },
                         {
@@ -4995,7 +4995,6 @@
                     "trigger": 3,
                     "walkAnime": true
                 }
-                
             ],
             "x": 13,
             "y": 22

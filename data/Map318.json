@@ -3433,7 +3433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一泊0\\Gになります。お泊まりになりますか？"
+                                "It will be 0\\G for one night. Will you be staying overnight?"
                             ]
                         },
                         {
@@ -3441,8 +3441,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 2
                             ]
@@ -3534,7 +3534,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りません。"
+                                "I don't have enough money."
                             ]
                         },
                         {
@@ -4204,7 +4204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[0]I read about it in a book before. It feels good on\nthe back too. \\SE[0]Shall I do it for you?"
+                                "\\SE[0]I read about it in a book before. It feels good on the\nback too. \\SE[0]Shall I do it for you?"
                             ]
                         },
                         {

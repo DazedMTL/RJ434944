@@ -21977,21 +21977,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最初からあった『化粧台』だ。"
+                                "There has always been a 'dressing table' here. Actually, I\ndon't use it much. I've been practicing 'panchira'... Do you\nwant to join me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\.…実はあんまり使っていない。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\!『ぱんチラ』の練習…\\.する？\\!"
+                                ""
                             ]
                         },
                         {
@@ -21999,9 +21999,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "しておくべき…！",
-                                    "戦闘中の姿を変える！",
-                                    "しないべき…！"
+                                    "I should do it!",
+                                    "Change your appearance during battle!",
+                                    "You shouldn't!"
                                 ],
                                 -1,
                                 0,
@@ -22176,14 +22176,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "現在『前編』の姿になっています。"
+                                "Currently, I am in my pre-transformation form. \\. Would\nyou like to change my standing picture? (Only during\nbattles)!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\.立ち絵を変更しますか？(戦闘中のみ)\\!"
+                                ""
                             ]
                         },
                         {
@@ -22191,8 +22191,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "このままで！",
-                                    "変えてみる！"
+                                    "Leave it as it is!",
+                                    "Let's change it!"
                                 ],
                                 -1,
                                 0,
@@ -22223,7 +22223,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それもいいね…！"
+                                "That's also good...!"
                             ]
                         },
                         {
@@ -22431,14 +22431,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "現在『後編』の姿になっています。"
+                                "Currently, I am in my post-transformation form. Would you\nlike to change my standing picture? (Only during battles)!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\.立ち絵を変更しますか？(戦闘中のみ)\\!"
+                                ""
                             ]
                         },
                         {
@@ -22446,8 +22446,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "このままで！",
-                                    "変えてみる！"
+                                    "Leave it as it is!",
+                                    "Let's change it!"
                                 ],
                                 -1,
                                 0,
@@ -22478,7 +22478,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それもいいね…！"
+                                "That's also good...!"
                             ]
                         },
                         {
@@ -31229,14 +31229,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "このイラストにしますか？"
+                                "Do you want to use this illustration? \\> (It will be changed\nif you end.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>（終了で変更されます。）"
+                                ""
                             ]
                         },
                         {
@@ -31264,14 +31264,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヴィタの『ちんちん』をサイズ変更できます。"
+                                "You can resize Vita's 'penis'. \\. What size do you like?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\.どの大きさが好きですか？"
+                                ""
                             ]
                         },
                         {
@@ -31297,12 +31297,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ふつう！",
-                                    "ながく！",
-                                    "ちいさく！",
-                                    "おっきく！",
-                                    "女の子！",
-                                    "大丈夫！"
+                                    "Normal!",
+                                    "Longer!",
+                                    "Make it smaller!",
+                                    "Bigger!",
+                                    "Girls!",
+                                    "It's okay!"
                                 ],
                                 -1,
                                 0,
@@ -32271,7 +32271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローディア戦の適正レベル？\\!"
+                                "Recommended level for Claudia's battle?!"
                             ]
                         },
                         {
@@ -32279,8 +32279,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
