@@ -462,7 +462,7 @@
         "maxLevel": 99,
         "name": "Part 2 Laura",
         "nickname": "",
-        "note": "<stand_picture:laura2_menu><特徴1:Characterized by high speed and high firepower due to \"dual wielding\".><特徴2:『The strategy of recovering SP with \"Sword Skills\" and repeatedly using \"Secret\nTechniques\" is powerful.\n>\n\n<BFC_座標:790,360>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
+        "note": "<stand_picture:laura2_menu><stand_picture2:laura_menu2><特徴1:Characterized by high speed and high firepower due to \"dual wielding\".><特徴2:『The strategy of recovering SP with \"Sword Skills\" and repeatedly using \"Secret\nTechniques\" is powerful.\n>\n\n<BFC_座標:790,360>   # 隊列座標をX座標を[590]に、Y座標を[260]に設定\n<BFC_Pos:10,20>      # 同上\n<BFC_相対座標:10,20> # 隊列座標を元位置からX方向に[10]、Y方向に[20]ずらす\n<BFC_DeltaPos:10,20> # 同上",
         "profile": "A dual-wielding swordswoman who wields the swords Tsukihana and Reika. A\nsensitive and pure-hearted maiden who yearns for Lunaroa."
     },
     {

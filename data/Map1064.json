@@ -10285,6 +10285,15 @@
                             ]
                         },
                         {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                125,
+                                125,
+                                0
+                            ]
+                        },
+                        {
                             "code": 205,
                             "indent": 1,
                             "parameters": [
@@ -10365,6 +10374,52 @@
                                 19,
                                 6,
                                 0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                125,
+                                125,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 1,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 29,
+                                            "parameters": [
+                                                4
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 1,
+                            "parameters": [
+                                {
+                                    "code": 29,
+                                    "parameters": [
+                                        4
+                                    ],
+                                    "indent": null
+                                }
                             ]
                         },
                         {

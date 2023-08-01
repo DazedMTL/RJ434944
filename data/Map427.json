@@ -14080,6 +14080,15 @@
                             ]
                         },
                         {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                125,
+                                125,
+                                1
+                            ]
+                        },
+                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": []
@@ -14097,6 +14106,15 @@
                             "indent": 1,
                             "parameters": [
                                 301
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                125,
+                                125,
+                                1
                             ]
                         },
                         {
@@ -14200,7 +14218,7 @@
                     "priorityType": 0,
                     "stepAnime": false,
                     "through": false,
-                    "trigger": 0,
+                    "trigger": 4,
                     "walkAnime": true
                 }
             ],

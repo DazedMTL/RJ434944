@@ -3483,10 +3483,17 @@
                     },
                     "list": [
                         {
-                            "code": 117,
+                            "code": 355,
                             "indent": 0,
                             "parameters": [
-                                377
+                                "skit start"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "skit pose laura t kouhan"
                             ]
                         },
                         {
@@ -3606,10 +3613,17 @@
                     },
                     "list": [
                         {
-                            "code": 117,
+                            "code": 355,
                             "indent": 0,
                             "parameters": [
-                                377
+                                "skit start"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "skit pose laura t kouhan"
                             ]
                         },
                         {
@@ -3945,7 +3959,75 @@
             "x": 10,
             "y": 4
         },
-        null,
+        {
+            "id": 15,
+            "name": "アリス",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": true,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!Door2_hc",
+                        "direction": 4,
+                        "pattern": 1,
+                        "characterIndex": 5
+                    },
+                    "list": [
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                -1,
+                                2,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 10,
+            "y": 8
+        },
         null,
         {
             "id": 17,

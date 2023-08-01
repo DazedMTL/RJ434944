@@ -860,11 +860,800 @@
                 },
                 "list": [
                     {
+                        "code": 333,
+                        "indent": 0,
+                        "parameters": [
+                            -1,
+                            0,
+                            3
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            5,
+                            1,
+                            1
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2,
+                            1,
+                            1
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            5,
+                            0,
+                            3
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2,
+                            0,
+                            3
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            90
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            364
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "知識のアリス"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[0]少しは強くなったつもりみたいだけど…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[3]それくらいじゃ、なにも変わらないよ…？"
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            301
+                        ]
+                    },
+                    {
                         "code": 339,
                         "indent": 0,
                         "parameters": [
                             0,
                             0,
+                            670,
+                            -2
+                        ]
+                    },
+                    {
+                        "code": 339,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            25,
+                            337,
+                            -2
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            60
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            364
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "知識のアリス"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[45]もう、『終わり』でいいよね？"
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            301
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            40
+                        ]
+                    },
+                    {
+                        "code": 339,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            0,
+                            335,
+                            -2
+                        ]
+                    },
+                    {
+                        "code": 311,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            1,
+                            false
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            20
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "skit start"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "skit slideIn lunaroa t left"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "skit exp lunaroa t 24"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "skit pose laura t kouhan"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "skit slideIn laura t right"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "skit exp laura t 46"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ラウラ"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[47]あ…\\.ぐっ…！"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ルナロア"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[38]…っ！"
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            301
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            40
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            364
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "知識のアリス"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[59]…ほらね？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\.なーんにも変わってない…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[57]ラウラ……\\.あなたの努力なんて『無駄』だったの。"
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            40
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            377
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ラウラ"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[66]……くっ！"
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            304
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            60
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ルナロア"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[32]…いいえ。無駄なことなんて"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[58]何一つ、\\.ないわ。"
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            301
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            60
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            364
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "知識のアリス"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[54]まだ何か…\\.するつもり？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[3]いくら『ママ』が強くても…\\.私には勝てないよ。"
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            40
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ルナロア"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[33]……\\.……\\.……\\.\\SE[32]私ね。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[48]『負けた』のって\\.『あなた』が初めてなの。"
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            40
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "知識のアリス"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[54]……………。"
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            40
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ルナロア"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[33]想像してたより…\\.『悔しかった』"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[31]でも、それと一緒にね\\.『嬉しかった』"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[45]『勝つ方法』なんて、\\.生まれて初めて考えたから。"
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            301
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            60
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            364
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "知識のアリス"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[0]それで…？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\.『方法』は分かったのかしら？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[3]たとえ『ママ』でも、出来っこないわ。"
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            40
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ルナロア"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[46]ええ。分かったわ。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[45]『答え』はあなたが教えてくれたもの。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[46]簡単なこと。\\.器を大きくして、『総量』を増やせばいい。"
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            40
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "知識のアリス"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[57]…………？"
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            40
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ルナロア"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[31]それに…ここは\\.『私の夢』…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[45]だから、少しくらいの無茶なら…\\.出来てしまうわ。"
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            301
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            60
+                        ]
+                    },
+                    {
+                        "code": 339,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            2,
+                            277,
+                            -2
+                        ]
+                    },
+                    {
+                        "code": 314,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2,
+                            0,
+                            34
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            373
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ルナロア"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[4]これで、『４回』…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[1]私は、好きな魔法を使う事ができるわ。"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "知識のアリス"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[0]……それは、知ってるけど。"
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            301
+                        ]
+                    },
+                    {
+                        "code": 108,
+                        "indent": 0,
+                        "parameters": [
+                            "３回魔法を自分に掛けたようなエフェクトを。"
+                        ]
+                    },
+                    {
+                        "code": 339,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            2,
                             676,
                             -2
                         ]
@@ -873,28 +1662,8 @@
                         "code": 339,
                         "indent": 0,
                         "parameters": [
-                            0,
-                            0,
-                            676,
-                            -2
-                        ]
-                    },
-                    {
-                        "code": 339,
-                        "indent": 0,
-                        "parameters": [
-                            0,
-                            0,
-                            678,
-                            -2
-                        ]
-                    },
-                    {
-                        "code": 339,
-                        "indent": 0,
-                        "parameters": [
-                            0,
-                            0,
+                            1,
+                            2,
                             680,
                             -2
                         ]
@@ -903,30 +1672,542 @@
                         "code": 339,
                         "indent": 0,
                         "parameters": [
-                            0,
-                            0,
+                            1,
+                            2,
                             682,
                             -2
                         ]
                     },
                     {
-                        "code": 339,
+                        "code": 117,
                         "indent": 0,
                         "parameters": [
+                            373
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
                             0,
                             0,
-                            677,
-                            -2
+                            2,
+                            "ルナロア"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[3]あと『１回』"
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            301
                         ]
                     },
                     {
                         "code": 339,
                         "indent": 0,
                         "parameters": [
-                            0,
-                            0,
-                            679,
+                            1,
+                            2,
+                            343,
                             -2
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            373
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ルナロア"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[2]あと『４回』"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "知識のアリス"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[3]……\\.……\\.……\\!\\SE[60]えっ？"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ルナロア"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[16]これから『大人げないこと』をしてしまうわ。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[12]…ごめんね。\\.『アリス』"
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            301
+                        ]
+                    },
+                    {
+                        "code": 108,
+                        "indent": 0,
+                        "parameters": [
+                            "ここはアニメ差し替え。バフ連打に"
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            1,
+                            0,
+                            74
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            5,
+                            0,
+                            74
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2,
+                            0,
+                            75
+                        ]
+                    },
+                    {
+                        "code": 339,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            2,
+                            472,
+                            -2
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            5,
+                            1,
+                            34
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2,
+                            1,
+                            34
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            40
+                        ]
+                    },
+                    {
+                        "code": 242,
+                        "indent": 0,
+                        "parameters": [
+                            4
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            364
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "知識のアリス"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[72]……！！！！！"
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            40
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            373
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ルナロア"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[2]ふふ。あなたのそんな驚いた顔、初めてみた。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[19]どっきり、大成功ね。"
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            301
+                        ]
+                    },
+                    {
+                        "code": 318,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2,
+                            1,
+                            277
+                        ]
+                    },
+                    {
+                        "code": 318,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2,
+                            0,
+                            280
+                        ]
+                    },
+                    {
+                        "code": 318,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2,
+                            0,
+                            281
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            90
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            373
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ルナロア"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[2]さぁ『ラウラ』一緒に…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[1]あなたがいてくれたら、\\.『私』は……。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[36]いいえ。\\!\\SE[2]『私たち』は、どこまでも強くなれるわ。"
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            301
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            40
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            377
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ラウラ"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[59]……！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[56]うん、一緒に…。"
+                        ]
+                    },
+                    {
+                        "code": 241,
+                        "indent": 0,
+                        "parameters": [
+                            {
+                                "name": "Battle_event/Instability",
+                                "volume": 40,
+                                "pitch": 100,
+                                "pan": 0
+                            }
+                        ]
+                    },
+                    {
+                        "code": 230,
+                        "indent": 0,
+                        "parameters": [
+                            60
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ラウラ"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[23]私は…\\.強くなりたい。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[18]『あなたに守られる私』じゃなくて…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\!\\SE[12]『あなたと並び立つ私』に…！"
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            301
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            373
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2,
+                            "ルナロア"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\SE[4]……！\\!\\SE[31]"
+                        ]
+                    },
+                    {
+                        "code": 339,
+                        "indent": 0,
+                        "parameters": [
+                            1,
+                            2,
+                            471,
+                            -2
+                        ]
+                    },
+                    {
+                        "code": 108,
+                        "indent": 0,
+                        "parameters": [
+                            "ラウラにバフをかける"
+                        ]
+                    },
+                    {
+                        "code": 250,
+                        "indent": 0,
+                        "parameters": [
+                            {
+                                "name": "Hanyou_SE_tuika/ken_wo_nuku",
+                                "volume": 90,
+                                "pitch": 100,
+                                "pan": 0
+                            }
+                        ]
+                    },
+                    {
+                        "code": 121,
+                        "indent": 0,
+                        "parameters": [
+                            145,
+                            145,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            5,
+                            0,
+                            3
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            2,
+                            0,
+                            3
                         ]
                     },
                     {
@@ -941,8 +2222,15 @@
     },
     {
         "id": 14,
-        "members": [],
-        "name": "",
+        "members": [
+            {
+                "enemyId": 14,
+                "x": 640,
+                "y": 532,
+                "hidden": false
+            }
+        ],
+        "name": "ステートテスト２",
         "pages": [
             {
                 "conditions": {
@@ -957,16 +2245,26 @@
                     "turnA": 0,
                     "turnB": 0,
                     "turnEnding": false,
-                    "turnValid": false
+                    "turnValid": true
                 },
                 "list": [
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            5,
+                            0,
+                            34
+                        ]
+                    },
                     {
                         "code": 0,
                         "indent": 0,
                         "parameters": []
                     }
                 ],
-                "span": 0
+                "span": 1
             }
         ]
     },
@@ -5093,21 +6391,21 @@
         "id": 44,
         "members": [
             {
-                "enemyId": 27,
-                "x": 443,
-                "y": 386,
+                "enemyId": 57,
+                "x": 241,
+                "y": 442,
                 "hidden": false
             },
             {
-                "enemyId": 30,
-                "x": 345,
+                "enemyId": 55,
+                "x": 354,
                 "y": 540,
                 "hidden": false
             },
             {
-                "enemyId": 57,
-                "x": 182,
-                "y": 433,
+                "enemyId": 56,
+                "x": 484,
+                "y": 421,
                 "hidden": false
             }
         ],
@@ -25287,6 +26585,18 @@
                         ]
                     },
                     {
+                        "code": 311,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            1,
+                            false
+                        ]
+                    },
+                    {
                         "code": 230,
                         "indent": 0,
                         "parameters": [
@@ -25399,6 +26709,18 @@
                             0,
                             335,
                             -2
+                        ]
+                    },
+                    {
+                        "code": 311,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            1,
+                            false
                         ]
                     },
                     {
@@ -26369,6 +27691,13 @@
                         "indent": 0,
                         "parameters": [
                             "\\SE[4]......！\\!\\SE[31]"
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            301
                         ]
                     },
                     {

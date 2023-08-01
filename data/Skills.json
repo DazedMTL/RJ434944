@@ -10204,7 +10204,7 @@
     },
     {
         "id": 290,
-        "animationId": 215,
+        "animationId": 212,
         "damage": {
             "critical": true,
             "elementId": 11,
@@ -10884,7 +10884,7 @@
         "iconIndex": 91,
         "message1": " %1 fired %2!",
         "message2": "",
-        "mpCost": 19,
+        "mpCost": 20,
         "name": "Vital Kick",
         "note": "<OrderId:2>",
         "occasion": 1,
@@ -16836,12 +16836,6 @@
         },
         "description": "",
         "effects": [
-            {
-                "code": 21,
-                "dataId": 34,
-                "value1": 1,
-                "value2": 0
-            },
             {
                 "code": 11,
                 "dataId": 0,
