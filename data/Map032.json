@@ -28158,6 +28158,43 @@
                             ]
                         },
                         {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "Sword2",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "『空の宝箱』を手に入れた！"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\!これでいつでも『ぱかぱか』出来るようになった…！"
+                            ]
+                        },
+                        {
                             "code": 117,
                             "indent": 0,
                             "parameters": [
@@ -28457,85 +28494,7 @@
             "x": 43,
             "y": 31
         },
-        {
-            "id": 81,
-            "name": "EV081",
-            "note": "",
-            "pages": [
-                {
-                    "conditions": {
-                        "actorId": 1,
-                        "actorValid": false,
-                        "itemId": 1,
-                        "itemValid": false,
-                        "selfSwitchCh": "A",
-                        "selfSwitchValid": false,
-                        "switch1Id": 1,
-                        "switch1Valid": false,
-                        "switch2Id": 1,
-                        "switch2Valid": false,
-                        "variableId": 1,
-                        "variableValid": false,
-                        "variableValue": 0
-                    },
-                    "directionFix": false,
-                    "image": {
-                        "characterIndex": 0,
-                        "characterName": "",
-                        "direction": 2,
-                        "pattern": 0,
-                        "tileId": 0
-                    },
-                    "list": [
-                        {
-                            "code": 357,
-                            "indent": 0,
-                            "parameters": [
-                                "MPP_MiniMap",
-                                "show",
-                                "ミニマップ表示",
-                                {
-                                    "index": "1"
-                                }
-                            ]
-                        },
-                        {
-                            "code": 657,
-                            "indent": 0,
-                            "parameters": [
-                                "番号 = 1"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": []
-                        }
-                    ],
-                    "moveFrequency": 3,
-                    "moveRoute": {
-                        "list": [
-                            {
-                                "code": 0,
-                                "parameters": []
-                            }
-                        ],
-                        "repeat": true,
-                        "skippable": false,
-                        "wait": false
-                    },
-                    "moveSpeed": 3,
-                    "moveType": 0,
-                    "priorityType": 0,
-                    "stepAnime": false,
-                    "through": false,
-                    "trigger": 4,
-                    "walkAnime": true
-                }
-            ],
-            "x": 11,
-            "y": 23
-        },
+        null,
         {
             "id": 82,
             "name": "先制タックル",

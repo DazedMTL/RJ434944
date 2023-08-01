@@ -649,6 +649,14 @@
  * @noteType file
  * @noteData actor
  *
+ * //add start
+ * @noteParam stand_picture2
+ * @noteRequire 1
+ * @noteDir img/pictures/
+ * @noteType file
+ * @noteData actor
+ * //add end
+ *
  * @param bgUserDefined
  * @text プラグイン定義シーン背景画
  * @desc プラグインで追加されたシーンの背景画。
@@ -1053,7 +1061,14 @@
   const _Window_MenuStatus_drawItem = Window_MenuStatus.prototype.drawItem;
   Window_MenuStatus.prototype.drawItem = function (index) {
     const actor = $gameParty.members()[index];
-    const bitmapName = $dataActors[actor.actorId()].meta.stand_picture;
+    //mod start
+    if ($gameSwitches.value(153) === true && actor.actorId() === 5) {
+      var bitmapName = $dataActors[actor.actorId()].meta.stand_picture2;
+    } else {
+      var bitmapName = $dataActors[actor.actorId()].meta.stand_picture;
+    }
+    //const bitmapName = $dataActors[actor.actorId()].meta.stand_picture;
+    //mod end
     const bitmap = bitmapName ? ImageManager.loadPicture(bitmapName) : null;
     if (bitmap && !bitmap.isReady()) {
       bitmap.addLoadListener(_Window_MenuStatus_drawItem.bind(this, index));
@@ -1071,7 +1086,14 @@
     const rect = this.itemRectWithPadding(index);
     // load stand_picture
     const actorNote = $dataActors[actor.actorId()].meta;
-    const bitmapName = actorNote.stand_picture;
+    //mod start
+    if ($gameSwitches.value(153) === true && actor.actorId() === 5) {
+      var bitmapName = actorNote.stand_picture2;
+    } else {
+      var bitmapName = actorNote.stand_picture;
+    }
+    //const bitmapName = actorNote.stand_picture;
+    //mod end
     const bitmap = bitmapName ? ImageManager.loadPicture(bitmapName) : null;
     const w = Math.min(rect.width, (bitmapName ? bitmap.width : 144));
     const h = Math.min(rect.height, (bitmapName ? bitmap.height : 144));

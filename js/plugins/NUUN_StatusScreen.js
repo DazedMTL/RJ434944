@@ -1,11 +1,11 @@
 /*:-----------------------------------------------------------------------------------
- * NUUN_StatusScreen.js
- * 
- * Copyright (C) 2020 NUUN
- * This software is released under the MIT License.
- * http://opensource.org/licenses/mit-license.php
- * -------------------------------------------------------------------------------------
- */
+* NUUN_StatusScreen.js
+* 
+* Copyright (C) 2020 NUUN
+* This software is released under the MIT License.
+* http://opensource.org/licenses/mit-license.php
+* -------------------------------------------------------------------------------------
+*/
 /*:
  * @target MZ
  * @plugindesc ステータス画面表示拡張
@@ -1318,6 +1318,197 @@ Imported.NUUN_StatusScreen = true;
       //    actor.actorGraphicUpdateBitmap();
       //  }
       //} else {
+      // add start
+      switch (actor.actorId()) {
+        case 1: //ラウラ
+          var ActorImginfo = ActorsImgList.find((elm) => elm.actorId === 1);
+          if ($gameActors.actor(1).isStateAffected(121)) { //脱衣ステート判定
+            //脱衣ステートの場合
+            ActorImginfo.ActorImg[0] = 'pictures/laura_blake';
+            ActorImginfo.Actor_X = 0;
+            ActorImginfo.Actor_Y = 350;
+            ActorImginfo.Actor_Scale = 100;
+          } else {
+            //脱衣ステートでない場合
+            ActorImginfo.ActorImg[0] = 'pictures/laura_';
+            ActorImginfo.Actor_X = 0;
+            ActorImginfo.Actor_Y = 350;
+            ActorImginfo.Actor_Scale = 100;
+          }
+          break;
+        case 2: //ルナロア
+          var ActorImginfo = ActorsImgList.find((elm) => elm.actorId === 2);
+          if ($gameActors.actor(2).isStateAffected(121)) { //脱衣ステート判定
+            //脱衣ステートの場合
+            ActorImginfo.ActorImg[0] = 'pictures/lunaroa_blake';
+            ActorImginfo.Actor_X = 0;
+            ActorImginfo.Actor_Y = 350;
+            ActorImginfo.Actor_Scale = 100;
+          } else {
+            //脱衣ステートでない場合
+            ActorImginfo.ActorImg[0] = 'pictures/lunaroa_';
+            ActorImginfo.Actor_X = 0;
+            ActorImginfo.Actor_Y = 350;
+            ActorImginfo.Actor_Scale = 100;
+          }
+          break;
+        case 3: //ヴィタ
+          var ActorImginfo = ActorsImgList.find((elm) => elm.actorId === 3);
+          if ($gameActors.actor(3).isStateAffected(121)) { //脱衣ステート判定
+            //脱衣ステートの場合
+            if ($gameSwitches.value(727)) { //スイッチ727のon/off判定
+              //スイッチ727がonの場合(lightのイラスト)
+              ActorImginfo.ActorImg[0] = 'pictures/vita_blake_light';
+              ActorImginfo.Actor_X = 80;
+              ActorImginfo.Actor_Y = 370;
+              ActorImginfo.Actor_Scale = 100;
+            } else {
+              //スイッチ727がoffの場合(通常脱衣のイラスト)
+              ActorImginfo.ActorImg[0] = 'pictures/vita_blake';
+              ActorImginfo.Actor_X = 80;
+              ActorImginfo.Actor_Y = 370;
+              ActorImginfo.Actor_Scale = 100;
+            }
+          } else {
+            //脱衣ステートでない場合
+            ActorImginfo.ActorImg[0] = 'pictures/vita_5';
+            ActorImginfo.Actor_X = 80;
+            ActorImginfo.Actor_Y = 370;
+            ActorImginfo.Actor_Scale = 100;
+          }
+          break;
+        case 4: //ベガ
+          var ActorImginfo = ActorsImgList.find((elm) => elm.actorId === 4);
+          if ($gameActors.actor(4).isStateAffected(121)) { //脱衣ステート判定
+            //脱衣ステートの場合
+            ActorImginfo.ActorImg[0] = 'pictures/vega_blake';
+            ActorImginfo.Actor_X = 5;
+            ActorImginfo.Actor_Y = 550;
+            ActorImginfo.Actor_Scale = 100;
+          } else {
+            //脱衣ステートでない場合
+            ActorImginfo.ActorImg[0] = 'pictures/vega_2';
+            ActorImginfo.Actor_X = 120;
+            ActorImginfo.Actor_Y = 550;
+            ActorImginfo.Actor_Scale = 100;
+          }
+          break;
+        case 5: //２部ラウラ
+          var ActorImginfo = ActorsImgList.find((elm) => elm.actorId === 5);
+          if ($gameSwitches.value(153)) { //スイッチ153のon/off判定
+            //スイッチ153がonの場合(ラウラのイラスト)
+            if ($gameActors.actor(5).isStateAffected(121)) { //脱衣ステート判定
+              //脱衣ステートの場合
+              ActorImginfo.ActorImg[0] = 'pictures/laura_blake';
+              ActorImginfo.Actor_X = 0;
+              ActorImginfo.Actor_Y = 350;
+              ActorImginfo.Actor_Scale = 100;
+            } else {
+              //脱衣ステートでない場合
+              ActorImginfo.ActorImg[0] = 'pictures/laura_';
+              ActorImginfo.Actor_X = 0;
+              ActorImginfo.Actor_Y = 350;
+              ActorImginfo.Actor_Scale = 100;
+            }
+          } else {
+            //スイッチ153がoffの場合(２部ラウラのイラスト)
+            if ($gameActors.actor(5).isStateAffected(121)) { //脱衣ステート判定
+              //脱衣ステートの場合
+              ActorImginfo.ActorImg[0] = 'pictures/laura2_blake';
+              ActorImginfo.Actor_X = 80;
+              ActorImginfo.Actor_Y = 450;
+              ActorImginfo.Actor_Scale = 100;
+            } else {
+              //脱衣ステートでない場合
+              ActorImginfo.ActorImg[0] = 'pictures/laura2_';
+              ActorImginfo.Actor_X = 80;
+              ActorImginfo.Actor_Y = 450;
+              ActorImginfo.Actor_Scale = 100;
+            }
+          }
+          break;
+        case 21: //２部ライアン
+          var ActorImginfo = ActorsImgList.find((elm) => elm.actorId === 21);
+          if ($gameActors.actor(21).isStateAffected(121)) { //脱衣ステート判定
+            //脱衣ステートの場合
+            ActorImginfo.ActorImg[0] = 'pictures/ryan_blake';
+            ActorImginfo.Actor_X = 0;
+            ActorImginfo.Actor_Y = 450;
+            ActorImginfo.Actor_Scale = 100;
+          } else {
+            //脱衣ステートでない場合
+            ActorImginfo.ActorImg[0] = 'pictures/ryan_';
+            ActorImginfo.Actor_X = 0;
+            ActorImginfo.Actor_Y = 450;
+            ActorImginfo.Actor_Scale = 100;
+          }
+          break;
+        case 22: //２部レベッカ
+          var ActorImginfo = ActorsImgList.find((elm) => elm.actorId === 22);
+          if ($gameActors.actor(22).isStateAffected(121)) { //脱衣ステート判定
+            //脱衣ステートの場合
+            ActorImginfo.ActorImg[0] = 'pictures/rebecca2_blake';
+            ActorImginfo.Actor_X = 130;
+            ActorImginfo.Actor_Y = 450;
+            ActorImginfo.Actor_Scale = 100;
+          } else {
+            //脱衣ステートでない場合
+            ActorImginfo.ActorImg[0] = 'pictures/rebecca2_';
+            ActorImginfo.Actor_X = 130;
+            ActorImginfo.Actor_Y = 450;
+            ActorImginfo.Actor_Scale = 100;
+          }
+          break;
+        case 23: //２部メリッサ
+          var ActorImginfo = ActorsImgList.find((elm) => elm.actorId === 23);
+          if ($gameActors.actor(23).isStateAffected(121)) { //脱衣ステート判定
+            //脱衣ステートの場合
+            ActorImginfo.ActorImg[0] = 'pictures/melissa_blake';
+            ActorImginfo.Actor_X = 60;
+            ActorImginfo.Actor_Y = 420;
+            ActorImginfo.Actor_Scale = 100;
+          } else {
+            //脱衣ステートでない場合
+            ActorImginfo.ActorImg[0] = 'pictures/melissa_';
+            ActorImginfo.Actor_X = 60;
+            ActorImginfo.Actor_Y = 420;
+            ActorImginfo.Actor_Scale = 100;
+          }
+          break;
+        case 24: //２部ロノア
+          var ActorImginfo = ActorsImgList.find((elm) => elm.actorId === 24);
+          if ($gameActors.actor(24).isStateAffected(121)) { //脱衣ステート判定
+            //脱衣ステートの場合
+            ActorImginfo.ActorImg[0] = 'pictures/ronoa_blake';
+            ActorImginfo.Actor_X = 50;
+            ActorImginfo.Actor_Y = 470;
+            ActorImginfo.Actor_Scale = 100;
+          } else {
+            //脱衣ステートでない場合
+            ActorImginfo.ActorImg[0] = 'pictures/ronoa_';
+            ActorImginfo.Actor_X = 50;
+            ActorImginfo.Actor_Y = 470;
+            ActorImginfo.Actor_Scale = 100;
+          }
+          break;
+        case 38: //２部アイシャ
+          var ActorImginfo = ActorsImgList.find((elm) => elm.actorId === 38);
+          if ($gameActors.actor(38).isStateAffected(121)) { //脱衣ステート判定
+            //脱衣ステートの場合
+            ActorImginfo.ActorImg[0] = 'pictures/aisha_blake';
+            ActorImginfo.Actor_X = 0;
+            ActorImginfo.Actor_Y = 370;
+            ActorImginfo.Actor_Scale = 100;
+          } else {
+            //脱衣ステートでない場合
+            ActorImginfo.ActorImg[0] = 'pictures/aisha';
+            ActorImginfo.Actor_X = 0;
+            ActorImginfo.Actor_Y = 370;
+            ActorImginfo.Actor_Scale = 100;
+          }
+          break;
+      }
+      // add end
       if (actor.statusActorImgIndex < 0) {
         actor.initStatusActorImg(actor.actorId());
       }
